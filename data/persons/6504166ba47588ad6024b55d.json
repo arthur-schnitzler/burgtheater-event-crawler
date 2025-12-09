@@ -1,0 +1,796 @@
+{
+  "meta": {
+    "_id": "6504166ba47588ad6024b55d",
+    "name": "Schütz Adolf",
+    "pages": [
+      554,
+      590
+    ],
+    "book": "64e49435e04f9d5938480a71",
+    "uid": "a6db6dc7-1f9b-4953-8824-3ead6a2f873b",
+    "additional": "",
+    "firstName": "Adolf",
+    "lastName": "Schütz"
+  },
+  "data": [
+    {
+      "id": 718179757270,
+      "oid": "65dba73658000e2542d96cd6",
+      "category": "Schauspiel",
+      "date": "1795-03-07T10:55:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hoftheater nächst der Burg",
+      "premiere": "",
+      "productionId": "1a14b02f-a490-4515-aa79-e4cb1063d65d",
+      "season": "1794/1795",
+      "subtitle": "",
+      "title": "Hamlet",
+      "_id": "65dba73658000e2542d96cd6",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Güldenstern"
+        }
+      ]
+    },
+    {
+      "id": 697339900043,
+      "oid": "6600a25cf6f73fca43b2708b",
+      "category": "Schauspiel",
+      "date": "1816-09-10T10:55:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hoftheater nächst der Burg",
+      "premiere": "",
+      "productionId": "deb62f27-de70-4a40-8bfa-60e72d9d68f6",
+      "season": "1816/1817",
+      "subtitle": "",
+      "title": "Die Katakomben (Wolfart)",
+      "_id": "6600a25cf6f73fca43b2708b",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Otho"
+        }
+      ]
+    },
+    {
+      "id": 120127096883,
+      "oid": "65c61bf8d3ced60fbe220833",
+      "category": "Schauspiel",
+      "date": "1933-05-27T12:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "Premiere",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "65c61bf8d3ced60fbe220833",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 595624441549,
+      "oid": "669b8aad6af2b0e29ffbb6cd",
+      "category": "Schauspiel",
+      "date": "1933-05-28T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b8aad6af2b0e29ffbb6cd",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 599902637072,
+      "oid": "669b8bac6af2b0e29ffbcc10",
+      "category": "Schauspiel",
+      "date": "1933-05-31T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b8bac6af2b0e29ffbcc10",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 603174198878,
+      "oid": "669b8c6f6af2b0e29ffbde5e",
+      "category": "Schauspiel",
+      "date": "1933-06-04T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b8c6f6af2b0e29ffbde5e",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 605858557213,
+      "oid": "669b8d0f6af2b0e29ffbed1d",
+      "category": "Schauspiel",
+      "date": "1933-06-06T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b8d0f6af2b0e29ffbed1d",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 610287748178,
+      "oid": "669b8e176af2b0e29ffc0452",
+      "category": "Schauspiel",
+      "date": "1933-06-07T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b8e176af2b0e29ffc0452",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 610891728791,
+      "oid": "669b8e3b6af2b0e29ffc0797",
+      "category": "Schauspiel",
+      "date": "1933-06-08T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b8e3b6af2b0e29ffc0797",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 611495709458,
+      "oid": "669b8e5f6af2b0e29ffc0b12",
+      "category": "Schauspiel",
+      "date": "1933-06-10T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b8e5f6af2b0e29ffc0b12",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 612435234808,
+      "oid": "669b8e976af2b0e29ffc0ff8",
+      "category": "Schauspiel",
+      "date": "1933-06-11T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b8e976af2b0e29ffc0ff8",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 619565561175,
+      "oid": "669b90406af2b0e29ffc3557",
+      "category": "Schauspiel",
+      "date": "1933-06-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b90406af2b0e29ffc3557",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 623726316480,
+      "oid": "669b91386af2b0e29ffc4bc0",
+      "category": "Schauspiel",
+      "date": "1933-06-17T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b91386af2b0e29ffc4bc0",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 663790357973,
+      "oid": "669b9a8c6af2b0e29ffd0dd5",
+      "category": "Schauspiel",
+      "date": "1933-06-25T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b9a8c6af2b0e29ffd0dd5",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 675198878884,
+      "oid": "669b9d346af2b0e29ffd44a4",
+      "category": "Schauspiel",
+      "date": "1933-06-27T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b9d346af2b0e29ffd44a4",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 679040866364,
+      "oid": "669b9e196af2b0e29ffd583c",
+      "category": "Schauspiel",
+      "date": "1933-06-30T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1932/1933",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b9e196af2b0e29ffd583c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 681272238927,
+      "oid": "669b9e9e6af2b0e29ffd634f",
+      "category": "Schauspiel",
+      "date": "1933-09-03T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b9e9e6af2b0e29ffd634f",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 681674892751,
+      "oid": "669b9eb66af2b0e29ffd65cf",
+      "category": "Schauspiel",
+      "date": "1933-09-04T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b9eb66af2b0e29ffd65cf",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 682094323866,
+      "oid": "669b9ecf6af2b0e29ffd689a",
+      "category": "Schauspiel",
+      "date": "1933-09-05T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "20888e0f-ba6f-42c0-aada-2e1bca69ee87",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Diktatur der Frauen",
+      "_id": "669b9ecf6af2b0e29ffd689a",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 121217681495,
+      "oid": "65c61c39d3ced60fbe230857",
+      "category": "Schauspiel",
+      "date": "1937-11-17T12:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "Premiere",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "65c61c39d3ced60fbe230857",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 959786357321,
+      "oid": "66a4df776af2b0e29fb99249",
+      "category": "Schauspiel",
+      "date": "1937-11-20T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "66a4df776af2b0e29fb99249",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 967369668393,
+      "oid": "66a4e13b6af2b0e29fb9b729",
+      "category": "Schauspiel",
+      "date": "1937-11-24T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "66a4e13b6af2b0e29fb9b729",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 970674784103,
+      "oid": "66a4e2006af2b0e29fb9c767",
+      "category": "Schauspiel",
+      "date": "1937-11-26T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "66a4e2006af2b0e29fb9c767",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 972503503221,
+      "oid": "66a4e26d6af2b0e29fb9d175",
+      "category": "Schauspiel",
+      "date": "1937-11-27T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "66a4e26d6af2b0e29fb9d175",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 975154306964,
+      "oid": "66a4e30b6af2b0e29fb9df94",
+      "category": "Schauspiel",
+      "date": "1937-11-28T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "66a4e30b6af2b0e29fb9df94",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 977100466351,
+      "oid": "66a4e37f6af2b0e29fb9e8af",
+      "category": "Schauspiel",
+      "date": "1937-11-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "66a4e37f6af2b0e29fb9e8af",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 981227666765,
+      "oid": "66a4e4756af2b0e29fb9fd4d",
+      "category": "Schauspiel",
+      "date": "1937-12-04T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "66a4e4756af2b0e29fb9fd4d",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 993894481124,
+      "oid": "66a4e7686af2b0e29fba3ce4",
+      "category": "Schauspiel",
+      "date": "1937-12-10T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "66a4e7686af2b0e29fba3ce4",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 996494952940,
+      "oid": "66a4e8036af2b0e29fba49ec",
+      "category": "Schauspiel",
+      "date": "1937-12-12T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "66a4e8036af2b0e29fba49ec",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1018003371381,
+      "oid": "66a4ed056af2b0e29fbab575",
+      "category": "Schauspiel",
+      "date": "1937-12-26T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "66a4ed056af2b0e29fbab575",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1026945638916,
+      "oid": "66a4ef1a6af2b0e29fbae204",
+      "category": "Schauspiel",
+      "date": "1937-12-31T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "66a4ef1a6af2b0e29fbae204",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 451600502454,
+      "oid": "667e6925cd334071f77cceb6",
+      "category": "Schauspiel",
+      "date": "1938-01-06T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "667e6925cd334071f77cceb6",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 460744098259,
+      "oid": "667e6b46cd334071f77d01d3",
+      "category": "Schauspiel",
+      "date": "1938-01-12T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "667e6b46cd334071f77d01d3",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 475239633590,
+      "oid": "667e6ea6cd334071f77d52b6",
+      "category": "Schauspiel",
+      "date": "1938-01-24T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "667e6ea6cd334071f77d52b6",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 470707258074,
+      "oid": "66826d984801253dbd56c2da",
+      "category": "Schauspiel",
+      "date": "1938-03-02T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "8ba74690-ef21-45e1-9252-e28816c699a4",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Vorhang fällt",
+      "_id": "66826d984801253dbd56c2da",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "seasons": [
+      "1794/1795",
+      "1816/1817",
+      "1932/1933",
+      "1933/1934",
+      "1937/1938"
+    ]
+  }
+}

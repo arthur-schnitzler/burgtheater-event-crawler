@@ -2,6 +2,23 @@
 
 Repo to store code and data to crawl [https://kulturerbe.burgtheater.at/](https://kulturerbe.burgtheater.at/)
 
+## howto
+
+### list of years
+```bash
+uv run years.py
+```
+
+### list of perfomances
+```bash
+uv run events.py
+```
+
+### list of persons
+```bash
+uv run persons.py
+```
+
 
 ## entrypoints
 
@@ -13,3 +30,5 @@ https://kulturerbe-import.burgtheater.at/api/api/v1/performance/6671cd3dcd334071
 
 ### person-detail-view
 https://kulturerbe-import.burgtheater.at/api/api/v1/person/6504166ba47588ad6024a95e
+
+

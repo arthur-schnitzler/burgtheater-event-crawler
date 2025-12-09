@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "_id": "6504166ba47588ad6024a7c4",
+    "name": "Falk Fräulein",
+    "pages": [],
+    "book": "64e49435e04f9d5938480a71",
+    "uid": "2a87ebc8-2d21-4118-9bf6-350d86cc6c0d",
+    "additional": "",
+    "firstName": "Fräulein",
+    "lastName": "Falk"
+  },
+  "data": [
+    {
+      "id": 952672807274,
+      "oid": "66a4ddcf6af2b0e29fb9696a",
+      "category": "Schauspiel",
+      "date": "1937-11-04T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40f864bc-473d-4013-a2b4-33d6db64f32a",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Talisman",
+      "_id": "66a4ddcf6af2b0e29fb9696a",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Chor der Mädchen"
+        }
+      ]
+    },
+    {
+      "id": 230430895114,
+      "oid": "66a535a66af2b0e29fc06c0a",
+      "category": "Schauspiel",
+      "date": "1937-11-21T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40f864bc-473d-4013-a2b4-33d6db64f32a",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Der Talisman",
+      "_id": "66a535a66af2b0e29fc06c0a",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Chor der Mädchen und Burschen"
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "seasons": [
+      "1937/1938"
+    ]
+  }
+}

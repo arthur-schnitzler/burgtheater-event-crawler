@@ -1,0 +1,5805 @@
+{
+  "meta": {
+    "_id": "6504166ba47588ad6024b46a",
+    "name": "Langer Frantiäek",
+    "pages": [
+      563,
+      632,
+      715,
+      740
+    ],
+    "book": "64e49435e04f9d5938480a71",
+    "uid": "364b764e-828c-4113-9da6-3f7b2ce11f1d",
+    "additional": "",
+    "firstName": "František",
+    "lastName": "Langer"
+  },
+  "data": [
+    {
+      "id": 524807517360,
+      "oid": "66067a30f6f73fca43f734b0",
+      "category": "Schauspiel",
+      "date": "1820-10-11T10:55:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hoftheater nächst der Burg",
+      "premiere": "",
+      "productionId": "ac269eb4-7989-47c3-b6f1-9df93ac28587",
+      "season": "1820/1821",
+      "subtitle": "oder Die Liebschaft Peters des Großen",
+      "title": "Das Mädchen von Marienburg",
+      "_id": "66067a30f6f73fca43f734b0",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Zar Peter"
+        }
+      ]
+    },
+    {
+      "id": 120311657497,
+      "oid": "65c61c03d3ced60fbe223419",
+      "category": "Schauspiel",
+      "date": "1934-04-04T12:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "Premiere",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "65c61c03d3ced60fbe223419",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 916909816726,
+      "oid": "669cd57c6af2b0e29f157b96",
+      "category": "Schauspiel",
+      "date": "1934-04-08T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669cd57c6af2b0e29f157b96",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 920298818605,
+      "oid": "669cd6466af2b0e29f158c2d",
+      "category": "Schauspiel",
+      "date": "1934-04-11T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669cd6466af2b0e29f158c2d",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 920902799242,
+      "oid": "669cd66a6af2b0e29f158f8a",
+      "category": "Schauspiel",
+      "date": "1934-04-12T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669cd66a6af2b0e29f158f8a",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 926187628769,
+      "oid": "669cd7a56af2b0e29f15a8e1",
+      "category": "Schauspiel",
+      "date": "1934-04-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669cd7a56af2b0e29f15a8e1",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 929140422281,
+      "oid": "669cd8556af2b0e29f15b689",
+      "category": "Schauspiel",
+      "date": "1934-04-16T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669cd8556af2b0e29f15b689",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 931589898989,
+      "oid": "669cd8e76af2b0e29f15c2ed",
+      "category": "Schauspiel",
+      "date": "1934-04-18T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669cd8e76af2b0e29f15c2ed",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 939408091453,
+      "oid": "669cdab96af2b0e29f15e93d",
+      "category": "Schauspiel",
+      "date": "1934-04-22T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669cdab96af2b0e29f15e93d",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 940666384269,
+      "oid": "669cdb046af2b0e29f15ef8d",
+      "category": "Schauspiel",
+      "date": "1934-04-24T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669cdb046af2b0e29f15ef8d",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 946454531289,
+      "oid": "669cdc5d6af2b0e29f160cd9",
+      "category": "Schauspiel",
+      "date": "1934-04-27T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669cdc5d6af2b0e29f160cd9",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 955564571542,
+      "oid": "669cde7c6af2b0e29f163b96",
+      "category": "Schauspiel",
+      "date": "1934-05-01T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669cde7c6af2b0e29f163b96",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1008246364687,
+      "oid": "669deac06af2b0e29f2a9a0f",
+      "category": "Schauspiel",
+      "date": "1934-05-17T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669deac06af2b0e29f2a9a0f",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1016970527883,
+      "oid": "669decc86af2b0e29f2ac48b",
+      "category": "Schauspiel",
+      "date": "1934-05-21T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669decc86af2b0e29f2ac48b",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1025594027507,
+      "oid": "669deeca6af2b0e29f2aedf3",
+      "category": "Schauspiel",
+      "date": "1934-05-27T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669deeca6af2b0e29f2aedf3",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1028295162599,
+      "oid": "669def6b6af2b0e29f2afae7",
+      "category": "Schauspiel",
+      "date": "1934-05-30T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669def6b6af2b0e29f2afae7",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1033026343218,
+      "oid": "669df0856af2b0e29f2b1132",
+      "category": "Schauspiel",
+      "date": "1934-06-02T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669df0856af2b0e29f2b1132",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1035610037758,
+      "oid": "669df11f6af2b0e29f2b1dfe",
+      "category": "Schauspiel",
+      "date": "1934-06-05T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669df11f6af2b0e29f2b1dfe",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1036348236250,
+      "oid": "669df14b6af2b0e29f2b21da",
+      "category": "Schauspiel",
+      "date": "1934-06-06T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1933/1934",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669df14b6af2b0e29f2b21da",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 251258798406,
+      "oid": "669e3a806af2b0e29f310146",
+      "category": "Schauspiel",
+      "date": "1934-09-07T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669e3a806af2b0e29f310146",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 305868714283,
+      "oid": "669e47376af2b0e29f32312b",
+      "category": "Schauspiel",
+      "date": "1934-09-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669e47376af2b0e29f32312b",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 265621441425,
+      "oid": "669f3dd86af2b0e29f458b91",
+      "category": "Schauspiel",
+      "date": "1934-09-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669f3dd86af2b0e29f458b91",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 814690118829,
+      "oid": "669fbdaf6af2b0e29f50acad",
+      "category": "Schauspiel",
+      "date": "1934-10-01T11:00:00.000Z",
+      "location": "Burgtheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669fbdaf6af2b0e29f50acad",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 815495426479,
+      "oid": "669fbddf6af2b0e29f50b1af",
+      "category": "Schauspiel",
+      "date": "1934-10-02T11:00:00.000Z",
+      "location": "Burgtheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669fbddf6af2b0e29f50b1af",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 736860508992,
+      "oid": "669fab906af2b0e29f4f1340",
+      "category": "Schauspiel",
+      "date": "1934-10-08T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669fab906af2b0e29f4f1340",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 744326379919,
+      "oid": "669fad4d6af2b0e29f4f398f",
+      "category": "Schauspiel",
+      "date": "1934-10-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669fad4d6af2b0e29f4f398f",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 352208761422,
+      "oid": "669f52016af2b0e29f47324e",
+      "category": "Schauspiel",
+      "date": "1934-11-04T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669f52016af2b0e29f47324e",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 360060509333,
+      "oid": "669f53d56af2b0e29f475c95",
+      "category": "Schauspiel",
+      "date": "1934-11-11T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669f53d56af2b0e29f475c95",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 364707804958,
+      "oid": "669f54ea6af2b0e29f47771e",
+      "category": "Schauspiel",
+      "date": "1934-11-14T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669f54ea6af2b0e29f47771e",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 4703277773,
+      "oid": "66a001186af2b0e29f5652cd",
+      "category": "Schauspiel",
+      "date": "1934-11-25T11:00:00.000Z",
+      "location": "Burgtheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a001186af2b0e29f5652cd",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 555045573833,
+      "oid": "669f813b6af2b0e29f4b54c9",
+      "category": "Schauspiel",
+      "date": "1934-12-23T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669f813b6af2b0e29f4b54c9",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 881146082458,
+      "oid": "66a0cd286af2b0e29f66349a",
+      "category": "Schauspiel",
+      "date": "1935-01-01T11:00:00.000Z",
+      "location": "Burgtheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0cd286af2b0e29f66349a",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 901982092249,
+      "oid": "669fd2026af2b0e29f527bd9",
+      "category": "Schauspiel",
+      "date": "1935-01-19T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669fd2026af2b0e29f527bd9",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 911863885248,
+      "oid": "669fd44f6af2b0e29f52adc0",
+      "category": "Schauspiel",
+      "date": "1935-01-22T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669fd44f6af2b0e29f52adc0",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 916494403467,
+      "oid": "669fd5636af2b0e29f52c78b",
+      "category": "Schauspiel",
+      "date": "1935-01-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669fd5636af2b0e29f52c78b",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 927802262045,
+      "oid": "669fd8056af2b0e29f53021d",
+      "category": "Schauspiel",
+      "date": "1935-02-12T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669fd8056af2b0e29f53021d",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 931761690569,
+      "oid": "669fd8f16af2b0e29f5317c9",
+      "category": "Schauspiel",
+      "date": "1935-02-17T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669fd8f16af2b0e29f5317c9",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 937583392501,
+      "oid": "669fda4c6af2b0e29f5336f5",
+      "category": "Schauspiel",
+      "date": "1935-02-26T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669fda4c6af2b0e29f5336f5",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1071047663258,
+      "oid": "66a0f95f6af2b0e29f6a5e9a",
+      "category": "Schauspiel",
+      "date": "1935-03-10T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0f95f6af2b0e29f6a5e9a",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 75704549431,
+      "oid": "66a011a06af2b0e29f57c037",
+      "category": "Schauspiel",
+      "date": "1935-03-31T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a011a06af2b0e29f57c037",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 87482169904,
+      "oid": "66a0145e6af2b0e29f57fa30",
+      "category": "Schauspiel",
+      "date": "1935-04-04T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0145e6af2b0e29f57fa30",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 113906317326,
+      "oid": "66a01a856af2b0e29f58780e",
+      "category": "Schauspiel",
+      "date": "1935-04-14T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a01a856af2b0e29f58780e",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 118067072329,
+      "oid": "66a01b7d6af2b0e29f588d49",
+      "category": "Schauspiel",
+      "date": "1935-04-17T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a01b7d6af2b0e29f588d49",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 121892282287,
+      "oid": "66a01c616af2b0e29f589faf",
+      "category": "Schauspiel",
+      "date": "1935-04-20T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a01c616af2b0e29f589faf",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 125499388290,
+      "oid": "66a01d386af2b0e29f58b182",
+      "category": "Schauspiel",
+      "date": "1935-04-22T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a01d386af2b0e29f58b182",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 128770949579,
+      "oid": "66a01dfb6af2b0e29f58c1cb",
+      "category": "Schauspiel",
+      "date": "1935-04-24T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a01dfb6af2b0e29f58c1cb",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 132428387256,
+      "oid": "66a01ed56af2b0e29f58d3b8",
+      "category": "Schauspiel",
+      "date": "1935-04-27T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a01ed56af2b0e29f58d3b8",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 133988670246,
+      "oid": "66a01f326af2b0e29f58db26",
+      "category": "Schauspiel",
+      "date": "1935-04-28T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a01f326af2b0e29f58db26",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 141102218714,
+      "oid": "66a020da6af2b0e29f58fdda",
+      "category": "Schauspiel",
+      "date": "1935-05-05T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a020da6af2b0e29f58fdda",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 679785682300,
+      "oid": "66a09e466af2b0e29f62557c",
+      "category": "Schauspiel",
+      "date": "1935-05-07T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a09e466af2b0e29f62557c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 682470040380,
+      "oid": "66a09ee66af2b0e29f62633c",
+      "category": "Schauspiel",
+      "date": "1935-05-10T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a09ee66af2b0e29f62633c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 693777897308,
+      "oid": "66a0a1886af2b0e29f62975c",
+      "category": "Schauspiel",
+      "date": "1935-05-12T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0a1886af2b0e29f62975c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 705589072006,
+      "oid": "66a0a4486af2b0e29f62d086",
+      "category": "Schauspiel",
+      "date": "1935-05-19T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0a4486af2b0e29f62d086",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 716980816235,
+      "oid": "66a0a6ef6af2b0e29f63096b",
+      "category": "Schauspiel",
+      "date": "1935-05-30T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0a6ef6af2b0e29f63096b",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 734496251335,
+      "oid": "66a0ab036af2b0e29f635dc7",
+      "category": "Schauspiel",
+      "date": "1935-06-09T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0ab036af2b0e29f635dc7",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 738036248254,
+      "oid": "66a0abd66af2b0e29f636ebe",
+      "category": "Schauspiel",
+      "date": "1935-06-11T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1934/1935",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0abd66af2b0e29f636ebe",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 850577956853,
+      "oid": "66a0c60a6af2b0e29f659ff5",
+      "category": "Schauspiel",
+      "date": "1935-09-01T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0c60a6af2b0e29f659ff5",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 919146527134,
+      "oid": "66a0d6016af2b0e29f66f99e",
+      "category": "Schauspiel",
+      "date": "1935-09-14T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0d6016af2b0e29f66f99e",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 944798924716,
+      "oid": "66a0dbfa6af2b0e29f677fac",
+      "category": "Schauspiel",
+      "date": "1935-09-28T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0dbfa6af2b0e29f677fac",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 977464213045,
+      "oid": "66a0e3956af2b0e29f683e35",
+      "category": "Schauspiel",
+      "date": "1935-11-10T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0e3956af2b0e29f683e35",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1005196990017,
+      "oid": "66a0ea0a6af2b0e29f68d641",
+      "category": "Schauspiel",
+      "date": "1935-12-07T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0ea0a6af2b0e29f68d641",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1071988513600,
+      "oid": "66a1f9976af2b0e29f7e9b40",
+      "category": "Schauspiel",
+      "date": "1935-12-08T11:00:00.000Z",
+      "location": "Burgtheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a1f9976af2b0e29f7e9b40",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1013686274651,
+      "oid": "66a0ec046af2b0e29f690a5b",
+      "category": "Schauspiel",
+      "date": "1935-12-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0ec046af2b0e29f690a5b",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1029339440538,
+      "oid": "66a0efa96af2b0e29f69659a",
+      "category": "Schauspiel",
+      "date": "1935-12-25T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a0efa96af2b0e29f69659a",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 320586467036,
+      "oid": "66a14aa46af2b0e29f7146dc",
+      "category": "Schauspiel",
+      "date": "1936-01-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a14aa46af2b0e29f7146dc",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 53242510310,
+      "oid": "66a20c656af2b0e29f803be6",
+      "category": "Schauspiel",
+      "date": "1936-02-16T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a20c656af2b0e29f803be6",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 87551966401,
+      "oid": "66a214626af2b0e29f80fcc1",
+      "category": "Schauspiel",
+      "date": "1936-02-16T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a214626af2b0e29f80fcc1",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 77368180965,
+      "oid": "66a212036af2b0e29f80c0e5",
+      "category": "Schauspiel",
+      "date": "1936-03-03T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a212036af2b0e29f80c0e5",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 91410732640,
+      "oid": "66a215486af2b0e29f811660",
+      "category": "Schauspiel",
+      "date": "1936-03-22T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a215486af2b0e29f811660",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 94631963198,
+      "oid": "66a216086af2b0e29f812a3e",
+      "category": "Schauspiel",
+      "date": "1936-03-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a216086af2b0e29f812a3e",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 137061606693,
+      "oid": "66a21fe96af2b0e29f822525",
+      "category": "Schauspiel",
+      "date": "1936-05-10T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a21fe96af2b0e29f822525",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 162613344585,
+      "oid": "66a225dc6af2b0e29f82b949",
+      "category": "Schauspiel",
+      "date": "1936-06-02T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1935/1936",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a225dc6af2b0e29f82b949",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 325302221293,
+      "oid": "66a24bbd6af2b0e29f85f9ed",
+      "category": "Schauspiel",
+      "date": "1936-10-11T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1936/1937",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a24bbd6af2b0e29f85f9ed",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 561727047456,
+      "oid": "66a282c96af2b0e29f8a8720",
+      "category": "Schauspiel",
+      "date": "1936-12-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1936/1937",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a282c96af2b0e29f8a8720",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 946161945442,
+      "oid": "66a3dc4b6af2b0e29fa58b62",
+      "category": "Schauspiel",
+      "date": "1937-03-11T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1936/1937",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a3dc4b6af2b0e29fa58b62",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 998540475793,
+      "oid": "66a3e87d6af2b0e29fa67d91",
+      "category": "Schauspiel",
+      "date": "1937-03-28T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1936/1937",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a3e87d6af2b0e29fa67d91",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1035433619483,
+      "oid": "66a3f1146af2b0e29fa7301b",
+      "category": "Schauspiel",
+      "date": "1937-04-02T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1936/1937",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a3f1146af2b0e29fa7301b",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1088651011184,
+      "oid": "66a3fd786af2b0e29fa82470",
+      "category": "Schauspiel",
+      "date": "1937-04-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1936/1937",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a3fd786af2b0e29fa82470",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 51550702836,
+      "oid": "66a40c006af2b0e29fa94cf4",
+      "category": "Schauspiel",
+      "date": "1937-05-09T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1936/1937",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a40c006af2b0e29fa94cf4",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 69082914933,
+      "oid": "66a410156af2b0e29fa9a075",
+      "category": "Schauspiel",
+      "date": "1937-05-16T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1936/1937",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a410156af2b0e29fa9a075",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 820887604268,
+      "oid": "66a4bf206af2b0e29fb6cc2c",
+      "category": "Schauspiel",
+      "date": "1937-06-05T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1936/1937",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a4bf206af2b0e29fb6cc2c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 836104558018,
+      "oid": "66a4c2ab6af2b0e29fb715c2",
+      "category": "Schauspiel",
+      "date": "1937-06-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1936/1937",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a4c2ab6af2b0e29fb715c2",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 853938760677,
+      "oid": "66a4c6d26af2b0e29fb76be5",
+      "category": "Schauspiel",
+      "date": "1937-06-30T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1936/1937",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a4c6d26af2b0e29fb76be5",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 867243110424,
+      "oid": "66a4c9eb6af2b0e29fb7b018",
+      "category": "Schauspiel",
+      "date": "1937-09-06T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a4c9eb6af2b0e29fb7b018",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 906334073718,
+      "oid": "66a4d3056af2b0e29fb87376",
+      "category": "Schauspiel",
+      "date": "1937-09-22T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a4d3056af2b0e29fb87376",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1007182053128,
+      "oid": "66a4ea806af2b0e29fba7f08",
+      "category": "Schauspiel",
+      "date": "1937-12-19T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "0bcc3aaf-80a2-444b-802d-9d7342d09f65",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a4ea806af2b0e29fba7f08",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 122291486488,
+      "oid": "65c61c79d3ced60fbe23ff18",
+      "category": "Schauspiel",
+      "date": "1945-07-14T12:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "Neueinstudierung",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "65c61c79d3ced60fbe23ff18",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 105067408044,
+      "oid": "66a218766af2b0e29f816aac",
+      "category": "Schauspiel",
+      "date": "1945-07-15T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a218766af2b0e29f816aac",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 106476696416,
+      "oid": "66a218ca6af2b0e29f817360",
+      "category": "Schauspiel",
+      "date": "1945-07-16T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a218ca6af2b0e29f817360",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 124579338419,
+      "oid": "66a21d016af2b0e29f81d8b3",
+      "category": "Schauspiel",
+      "date": "1945-07-20T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a21d016af2b0e29f81d8b3",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 130367487148,
+      "oid": "66a21e5a6af2b0e29f81fcac",
+      "category": "Schauspiel",
+      "date": "1945-07-26T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a21e5a6af2b0e29f81fcac",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 140500941452,
+      "oid": "66a220b66af2b0e29f823a8c",
+      "category": "Schauspiel",
+      "date": "1945-07-31T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a220b66af2b0e29f823a8c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 141692125666,
+      "oid": "66a220fd6af2b0e29f8241e2",
+      "category": "Schauspiel",
+      "date": "1945-08-01T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a220fd6af2b0e29f8241e2",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 142430324428,
+      "oid": "66a221296af2b0e29f8246cc",
+      "category": "Schauspiel",
+      "date": "1945-08-02T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a221296af2b0e29f8246cc",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 145517337255,
+      "oid": "66a221e16af2b0e29f825aa7",
+      "category": "Schauspiel",
+      "date": "1945-08-06T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a221e16af2b0e29f825aa7",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 146121317970,
+      "oid": "66a222056af2b0e29f825e52",
+      "category": "Schauspiel",
+      "date": "1945-08-07T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a222056af2b0e29f825e52",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 148101032136,
+      "oid": "66a2227b6af2b0e29f8268c8",
+      "category": "Schauspiel",
+      "date": "1945-08-08T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a2227b6af2b0e29f8268c8",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 148721790050,
+      "oid": "66a222a06af2b0e29f826c62",
+      "category": "Schauspiel",
+      "date": "1945-08-09T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a222a06af2b0e29f826c62",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 151808802407,
+      "oid": "66a223586af2b0e29f827e67",
+      "category": "Schauspiel",
+      "date": "1945-08-13T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a223586af2b0e29f827e67",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 152396005838,
+      "oid": "66a2237b6af2b0e29f8281ce",
+      "category": "Schauspiel",
+      "date": "1945-08-14T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a2237b6af2b0e29f8281ce",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 159509555208,
+      "oid": "66a225236af2b0e29f82a808",
+      "category": "Schauspiel",
+      "date": "1945-08-18T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a225236af2b0e29f82a808",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 160667184632,
+      "oid": "66a225686af2b0e29f82adf8",
+      "category": "Schauspiel",
+      "date": "1945-08-19T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a225686af2b0e29f82adf8",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 161791259771,
+      "oid": "66a225ab6af2b0e29f82b47b",
+      "category": "Schauspiel",
+      "date": "1945-08-19T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a225ab6af2b0e29f82b47b",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 162546235552,
+      "oid": "66a225d86af2b0e29f82b8a0",
+      "category": "Schauspiel",
+      "date": "1945-08-20T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a225d86af2b0e29f82b8a0",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 165163485263,
+      "oid": "66a226746af2b0e29f82c84f",
+      "category": "Schauspiel",
+      "date": "1945-08-23T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a226746af2b0e29f82c84f",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 165918461184,
+      "oid": "66a226a16af2b0e29f82cd00",
+      "category": "Schauspiel",
+      "date": "1945-08-24T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a226a16af2b0e29f82cd00",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 173904428626,
+      "oid": "66a2287d6af2b0e29f82fe52",
+      "category": "Schauspiel",
+      "date": "1945-08-31T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1944/1945",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a2287d6af2b0e29f82fe52",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 176907554692,
+      "oid": "66a229306af2b0e29f830f84",
+      "category": "Schauspiel",
+      "date": "1945-09-03T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a229306af2b0e29f830f84",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 186118257777,
+      "oid": "66a22b556af2b0e29f833c71",
+      "category": "Schauspiel",
+      "date": "1945-09-04T09:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a22b556af2b0e29f833c71",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 276161691088,
+      "oid": "66a2404c6af2b0e29f84fdd0",
+      "category": "Schauspiel",
+      "date": "1945-10-13T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a2404c6af2b0e29f84fdd0",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 293140256488,
+      "oid": "66a244406af2b0e29f8556e8",
+      "category": "Schauspiel",
+      "date": "1945-10-18T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a244406af2b0e29f8556e8",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 294096559101,
+      "oid": "66a244796af2b0e29f855bfd",
+      "category": "Schauspiel",
+      "date": "1945-10-19T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a244796af2b0e29f855bfd",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 313373604435,
+      "oid": "66a248f66af2b0e29f85ba53",
+      "category": "Schauspiel",
+      "date": "1945-10-23T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a248f66af2b0e29f85ba53",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 314262798088,
+      "oid": "66a2492b6af2b0e29f85bf08",
+      "category": "Schauspiel",
+      "date": "1945-10-24T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a2492b6af2b0e29f85bf08",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 345552348750,
+      "oid": "66a250746af2b0e29f86664e",
+      "category": "Schauspiel",
+      "date": "1945-11-10T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a250746af2b0e29f86664e",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 349109122928,
+      "oid": "66a251486af2b0e29f867770",
+      "category": "Schauspiel",
+      "date": "1945-11-11T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a251486af2b0e29f867770",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 350249975247,
+      "oid": "66a2518c6af2b0e29f867dcf",
+      "category": "Schauspiel",
+      "date": "1945-11-12T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a2518c6af2b0e29f867dcf",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 359963995993,
+      "oid": "66a253cf6af2b0e29f86af59",
+      "category": "Schauspiel",
+      "date": "1945-11-16T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a253cf6af2b0e29f86af59",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 368537164402,
+      "oid": "66a255ce6af2b0e29f86da72",
+      "category": "Schauspiel",
+      "date": "1945-11-21T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a255ce6af2b0e29f86da72",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 389928140306,
+      "oid": "66a25ac96af2b0e29f873e12",
+      "category": "Schauspiel",
+      "date": "1945-11-24T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a25ac96af2b0e29f873e12",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 390951551777,
+      "oid": "66a25b066af2b0e29f874321",
+      "category": "Schauspiel",
+      "date": "1945-11-25T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a25b066af2b0e29f874321",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 422140434196,
+      "oid": "66a262496af2b0e29f87d714",
+      "category": "Schauspiel",
+      "date": "1945-11-30T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a262496af2b0e29f87d714",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 121333900598,
+      "oid": "66a91c406af2b0e29f106536",
+      "category": "Schauspiel",
+      "date": "1946-01-21T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a91c406af2b0e29f106536",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 148731132038,
+      "oid": "66a922a16af2b0e29f10f886",
+      "category": "Schauspiel",
+      "date": "1946-02-05T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a922a16af2b0e29f10f886",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 155643355933,
+      "oid": "66a9243d6af2b0e29f11231d",
+      "category": "Schauspiel",
+      "date": "1946-02-11T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a9243d6af2b0e29f11231d",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 170323442020,
+      "oid": "66a927a86af2b0e29f117964",
+      "category": "Schauspiel",
+      "date": "1946-02-24T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a927a86af2b0e29f117964",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 171699175762,
+      "oid": "66a927fa6af2b0e29f118152",
+      "category": "Schauspiel",
+      "date": "1946-02-26T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a927fa6af2b0e29f118152",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 367137221148,
+      "oid": "66a9557b6af2b0e29f156a1c",
+      "category": "Schauspiel",
+      "date": "1946-04-07T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a9557b6af2b0e29f156a1c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 528383252379,
+      "oid": "66a97b066af2b0e29f18979b",
+      "category": "Schauspiel",
+      "date": "1946-04-25T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a97b066af2b0e29f18979b",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 886325564130,
+      "oid": "66a9ce5d6af2b0e29f1ed2e2",
+      "category": "Schauspiel",
+      "date": "1946-05-04T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a9ce5d6af2b0e29f1ed2e2",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 916189045133,
+      "oid": "66a9d5516af2b0e29f1f618d",
+      "category": "Schauspiel",
+      "date": "1946-05-15T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a9d5516af2b0e29f1f618d",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 928050552303,
+      "oid": "66a9d8146af2b0e29f1f9def",
+      "category": "Schauspiel",
+      "date": "1946-05-20T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a9d8146af2b0e29f1f9def",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1035139654684,
+      "oid": "66a9f1036af2b0e29f21a41c",
+      "category": "Schauspiel",
+      "date": "1946-05-28T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a9f1036af2b0e29f21a41c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1040827138508,
+      "oid": "66a9f2566af2b0e29f21c1cc",
+      "category": "Schauspiel",
+      "date": "1946-06-01T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a9f2566af2b0e29f21c1cc",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1055305895914,
+      "oid": "66a9f5b56af2b0e29f220fea",
+      "category": "Schauspiel",
+      "date": "1946-06-11T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1945/1946",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a9f5b56af2b0e29f220fea",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 269292405732,
+      "oid": "66903eb36af2b0e29f1403e4",
+      "category": "Schauspiel",
+      "date": "1948-01-17T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1947/1948",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66903eb36af2b0e29f1403e4",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 299826977237,
+      "oid": "669045cf6af2b0e29f1499d5",
+      "category": "Schauspiel",
+      "date": "1948-01-18T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1947/1948",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669045cf6af2b0e29f1499d5",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 392756089269,
+      "oid": "66905b726af2b0e29f1651b5",
+      "category": "Schauspiel",
+      "date": "1948-01-30T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1947/1948",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66905b726af2b0e29f1651b5",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 432417473271,
+      "oid": "669064ae6af2b0e29f1702f7",
+      "category": "Schauspiel",
+      "date": "1948-02-01T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1947/1948",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669064ae6af2b0e29f1702f7",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 601544642825,
+      "oid": "66a68c0e6af2b0e29fdad109",
+      "category": "Schauspiel",
+      "date": "1948-02-12T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1947/1948",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a68c0e6af2b0e29fdad109",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 325946306910,
+      "oid": "66a74be36af2b0e29fe9f15e",
+      "category": "Schauspiel",
+      "date": "1948-04-08T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1947/1948",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a74be36af2b0e29fe9f15e",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 790882552071,
+      "oid": "6692b8246af2b0e29f460907",
+      "category": "Schauspiel",
+      "date": "1948-04-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1947/1948",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "6692b8246af2b0e29f460907",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 363544096445,
+      "oid": "66a754a46af2b0e29feaaebd",
+      "category": "Schauspiel",
+      "date": "1948-04-22T10:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1947/1948",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66a754a46af2b0e29feaaebd",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 753772604295,
+      "oid": "6693af806af2b0e29f592b87",
+      "category": "Schauspiel",
+      "date": "1948-05-06T10:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1947/1948",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "6693af806af2b0e29f592b87",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 96678052633,
+      "oid": "669516826af2b0e29f760319",
+      "category": "Schauspiel",
+      "date": "1948-06-15T10:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1947/1948",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669516826af2b0e29f760319",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 497410485105,
+      "oid": "669b73cf6af2b0e29ff9ab71",
+      "category": "Schauspiel",
+      "date": "1948-12-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1948/1949",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669b73cf6af2b0e29ff9ab71",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 620219873543,
+      "oid": "669b90676af2b0e29ffc3907",
+      "category": "Schauspiel",
+      "date": "1948-12-28T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1948/1949",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "669b90676af2b0e29ffc3907",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 352867818988,
+      "oid": "66af52286af2b0e29f8f9dec",
+      "category": "Schauspiel",
+      "date": "1949-06-14T11:00:00.000Z",
+      "location": "Ronacher (Ecke Himmelpfortgasse - Seilerstätte)",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1948/1949",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af52286af2b0e29f8f9dec",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 732149508223,
+      "oid": "66aeaa776af2b0e29f82e87f",
+      "category": "Schauspiel",
+      "date": "1949-06-25T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1948/1949",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66aeaa776af2b0e29f82e87f",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1036556996320,
+      "oid": "66aff1576af2b0e29f9c8ee0",
+      "category": "Schauspiel",
+      "date": "1949-08-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1948/1949",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66aff1576af2b0e29f9c8ee0",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1065430620858,
+      "oid": "66aff8106af2b0e29f9d1aba",
+      "category": "Schauspiel",
+      "date": "1949-09-06T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1949/1950",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66aff8106af2b0e29f9d1aba",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 381892441932,
+      "oid": "66af58ea6af2b0e29f90374c",
+      "category": "Schauspiel",
+      "date": "1950-01-01T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1949/1950",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af58ea6af2b0e29f90374c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 836300010145,
+      "oid": "66acc2b76af2b0e29f5d72a1",
+      "category": "Schauspiel",
+      "date": "1950-04-01T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1949/1950",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66acc2b76af2b0e29f5d72a1",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 874887661676,
+      "oid": "66accbb36af2b0e29f5e486c",
+      "category": "Schauspiel",
+      "date": "1950-05-13T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1949/1950",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66accbb36af2b0e29f5e486c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 924732836263,
+      "oid": "66acd74e6af2b0e29f5f49a7",
+      "category": "Schauspiel",
+      "date": "1950-06-10T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1949/1950",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66acd74e6af2b0e29f5f49a7",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 941577185217,
+      "oid": "66acdb3a6af2b0e29f5fa7c1",
+      "category": "Schauspiel",
+      "date": "1950-08-28T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1949/1950",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66acdb3a6af2b0e29f5fa7c1",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 943003250516,
+      "oid": "66acdb8f6af2b0e29f5faf54",
+      "category": "Schauspiel",
+      "date": "1950-08-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1949/1950",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66acdb8f6af2b0e29f5faf54",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1004273725725,
+      "oid": "66ace9d36af2b0e29f60f11d",
+      "category": "Schauspiel",
+      "date": "1950-09-05T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66ace9d36af2b0e29f60f11d",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 950871776212,
+      "oid": "66acdd646af2b0e29f5fdbd4",
+      "category": "Schauspiel",
+      "date": "1950-09-06T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66acdd646af2b0e29f5fdbd4",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 951760970135,
+      "oid": "66acdd996af2b0e29f5fe197",
+      "category": "Schauspiel",
+      "date": "1950-09-07T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66acdd996af2b0e29f5fe197",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 958119544298,
+      "oid": "66acdf146af2b0e29f6005ea",
+      "category": "Schauspiel",
+      "date": "1950-09-10T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66acdf146af2b0e29f6005ea",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 959226842077,
+      "oid": "66acdf566af2b0e29f600bdd",
+      "category": "Schauspiel",
+      "date": "1950-09-11T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66acdf566af2b0e29f600bdd",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 960166367613,
+      "oid": "66acdf8e6af2b0e29f60117d",
+      "category": "Schauspiel",
+      "date": "1950-09-12T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66acdf8e6af2b0e29f60117d",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 962246745097,
+      "oid": "66ace00a6af2b0e29f601c09",
+      "category": "Schauspiel",
+      "date": "1950-09-14T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66ace00a6af2b0e29f601c09",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 1028634273351,
+      "oid": "66acef7f6af2b0e29f616647",
+      "category": "Schauspiel",
+      "date": "1950-10-01T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66acef7f6af2b0e29f616647",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 253781457916,
+      "oid": "66af3b166af2b0e29f8dbbfc",
+      "category": "Schauspiel",
+      "date": "1950-10-09T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af3b166af2b0e29f8dbbfc",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 989778191817,
+      "oid": "66ace6736af2b0e29f60a5c9",
+      "category": "Schauspiel",
+      "date": "1950-10-11T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66ace6736af2b0e29f60a5c9",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 255408850282,
+      "oid": "66af3b776af2b0e29f8dc56a",
+      "category": "Schauspiel",
+      "date": "1950-10-22T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af3b776af2b0e29f8dc56a",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 258646857449,
+      "oid": "66af3c386af2b0e29f8dd6e9",
+      "category": "Schauspiel",
+      "date": "1950-10-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af3c386af2b0e29f8dd6e9",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 261482210851,
+      "oid": "66af3ce16af2b0e29f8de623",
+      "category": "Schauspiel",
+      "date": "1950-11-04T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af3ce16af2b0e29f8de623",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 269099077209,
+      "oid": "66af3ea76af2b0e29f8e0e59",
+      "category": "Schauspiel",
+      "date": "1950-11-14T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af3ea76af2b0e29f8e0e59",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 269652726013,
+      "oid": "66af3ec86af2b0e29f8e10fd",
+      "category": "Schauspiel",
+      "date": "1950-11-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af3ec86af2b0e29f8e10fd",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 271582108519,
+      "oid": "66af3f3b6af2b0e29f8e1b67",
+      "category": "Schauspiel",
+      "date": "1950-11-18T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af3f3b6af2b0e29f8e1b67",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 272941064875,
+      "oid": "66af3f8c6af2b0e29f8e22ab",
+      "category": "Schauspiel",
+      "date": "1950-11-19T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af3f8c6af2b0e29f8e22ab",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 273477936446,
+      "oid": "66af3fac6af2b0e29f8e253e",
+      "category": "Schauspiel",
+      "date": "1950-11-20T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af3fac6af2b0e29f8e253e",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 274216134975,
+      "oid": "66af3fd86af2b0e29f8e293f",
+      "category": "Schauspiel",
+      "date": "1950-11-22T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af3fd86af2b0e29f8e293f",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 361273215198,
+      "oid": "66af541d6af2b0e29f8fc8de",
+      "category": "Schauspiel",
+      "date": "1950-12-03T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af541d6af2b0e29f8fc8de",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 362313404039,
+      "oid": "66af545b6af2b0e29f8fce87",
+      "category": "Schauspiel",
+      "date": "1950-12-03T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af545b6af2b0e29f8fce87",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 363588474180,
+      "oid": "66af54a76af2b0e29f8fd544",
+      "category": "Schauspiel",
+      "date": "1950-12-05T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af54a76af2b0e29f8fd544",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 366759372294,
+      "oid": "66af55646af2b0e29f8fe606",
+      "category": "Schauspiel",
+      "date": "1950-12-08T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af55646af2b0e29f8fe606",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 368789418439,
+      "oid": "66af55dd6af2b0e29f8ff1c7",
+      "category": "Schauspiel",
+      "date": "1950-12-10T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af55dd6af2b0e29f8ff1c7",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 369460508146,
+      "oid": "66af56056af2b0e29f8ff5f2",
+      "category": "Schauspiel",
+      "date": "1950-12-11T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af56056af2b0e29f8ff5f2",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 372966951423,
+      "oid": "66af56d66af2b0e29f9009ff",
+      "category": "Schauspiel",
+      "date": "1950-12-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af56d66af2b0e29f9009ff",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 531545399893,
+      "oid": "66af7bc26af2b0e29f932255",
+      "category": "Schauspiel",
+      "date": "1950-12-20T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af7bc26af2b0e29f932255",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 384107037861,
+      "oid": "66af596e6af2b0e29f9044a5",
+      "category": "Schauspiel",
+      "date": "1950-12-21T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af596e6af2b0e29f9044a5",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 513962851892,
+      "oid": "66af77aa6af2b0e29f92be34",
+      "category": "Schauspiel",
+      "date": "1950-12-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af77aa6af2b0e29f92be34",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 528072510711,
+      "oid": "66af7af36af2b0e29f930cf7",
+      "category": "Schauspiel",
+      "date": "1951-01-10T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66af7af36af2b0e29f930cf7",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 722671689676,
+      "oid": "66afa8426af2b0e29f96dfcc",
+      "category": "Schauspiel",
+      "date": "1951-08-28T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66afa8426af2b0e29f96dfcc",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 727520310681,
+      "oid": "66afa9636af2b0e29f96f599",
+      "category": "Schauspiel",
+      "date": "1951-08-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1950/1951",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66afa9636af2b0e29f96f599",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 732670923179,
+      "oid": "66afaa966af2b0e29f9711ab",
+      "category": "Schauspiel",
+      "date": "1951-09-19T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66afaa966af2b0e29f9711ab",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 734013102395,
+      "oid": "66afaae66af2b0e29f97193b",
+      "category": "Schauspiel",
+      "date": "1951-09-26T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66afaae66af2b0e29f97193b",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 734751300927,
+      "oid": "66afab126af2b0e29f971d3f",
+      "category": "Schauspiel",
+      "date": "1951-09-30T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66afab126af2b0e29f971d3f",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 735640494609,
+      "oid": "66afab476af2b0e29f972211",
+      "category": "Schauspiel",
+      "date": "1951-10-04T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66afab476af2b0e29f972211",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 737033005554,
+      "oid": "66afab9a6af2b0e29f9729f2",
+      "category": "Schauspiel",
+      "date": "1951-10-12T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66afab9a6af2b0e29f9729f2",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 570084028600,
+      "oid": "66b084bb6af2b0e29fa7f0b8",
+      "category": "Schauspiel",
+      "date": "1951-11-01T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b084bb6af2b0e29fa7f0b8",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 573842130871,
+      "oid": "66b0859b6af2b0e29fa807b7",
+      "category": "Schauspiel",
+      "date": "1951-11-10T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0859b6af2b0e29fa807b7",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 601608466362,
+      "oid": "66b08c126af2b0e29fa8afba",
+      "category": "Schauspiel",
+      "date": "1952-01-19T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b08c126af2b0e29fa8afba",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 594111877651,
+      "oid": "66b28a536af2b0e29fd3d213",
+      "category": "Schauspiel",
+      "date": "1952-02-17T12:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b28a536af2b0e29fd3d213",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 652930045413,
+      "oid": "66b098056af2b0e29fa9d5e5",
+      "category": "Schauspiel",
+      "date": "1952-03-25T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b098056af2b0e29fa9d5e5",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 766327409109,
+      "oid": "66b0b26c6af2b0e29fac49d5",
+      "category": "Schauspiel",
+      "date": "1952-05-09T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0b26c6af2b0e29fac49d5",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 775202570264,
+      "oid": "66b0b47d6af2b0e29fac8018",
+      "category": "Schauspiel",
+      "date": "1952-05-11T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0b47d6af2b0e29fac8018",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 789094128075,
+      "oid": "66b0b7b96af2b0e29facd9cb",
+      "category": "Schauspiel",
+      "date": "1952-06-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1951/1952",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0b7b96af2b0e29facd9cb",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 795486257383,
+      "oid": "66b0b9366af2b0e29fad00e7",
+      "category": "Schauspiel",
+      "date": "1952-09-09T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0b9366af2b0e29fad00e7",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 797180758912,
+      "oid": "66b0b99b6af2b0e29fad0b80",
+      "category": "Schauspiel",
+      "date": "1952-09-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0b99b6af2b0e29fad0b80",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 817699322882,
+      "oid": "66b0be626af2b0e29fad7c02",
+      "category": "Schauspiel",
+      "date": "1952-10-04T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0be626af2b0e29fad7c02",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 818320080670,
+      "oid": "66b0be876af2b0e29fad7f1e",
+      "category": "Schauspiel",
+      "date": "1952-10-05T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0be876af2b0e29fad7f1e",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 829627940907,
+      "oid": "66b0c1296af2b0e29fadc02b",
+      "category": "Schauspiel",
+      "date": "1952-10-11T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0c1296af2b0e29fadc02b",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 878214826090,
+      "oid": "66b0cc796af2b0e29faec86a",
+      "category": "Schauspiel",
+      "date": "1952-11-16T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0cc796af2b0e29faec86a",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 882392359125,
+      "oid": "66b0cd726af2b0e29faee0d5",
+      "category": "Schauspiel",
+      "date": "1952-11-24T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0cd726af2b0e29faee0d5",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 887425530839,
+      "oid": "66b0ce9e6af2b0e29faefbd7",
+      "category": "Schauspiel",
+      "date": "1952-11-30T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0ce9e6af2b0e29faefbd7",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 907172339161,
+      "oid": "66b0d3376af2b0e29faf5dd9",
+      "category": "Schauspiel",
+      "date": "1952-12-14T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0d3376af2b0e29faf5dd9",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 908816508810,
+      "oid": "66b0d3996af2b0e29faf678a",
+      "category": "Schauspiel",
+      "date": "1952-12-20T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0d3996af2b0e29faf678a",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 857898249611,
+      "oid": "66b9c7be14e7e7848ab86d8b",
+      "category": "Schauspiel",
+      "date": "1953-01-04T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b9c7be14e7e7848ab86d8b",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 37610917315,
+      "oid": "66b208c16af2b0e29fc90dc3",
+      "category": "Schauspiel",
+      "date": "1953-02-09T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b208c16af2b0e29fc90dc3",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 515975493394,
+      "oid": "66b7782214e7e7848a893712",
+      "category": "Schauspiel",
+      "date": "1953-05-06T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b7782214e7e7848a893712",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 528340318580,
+      "oid": "66b77b0314e7e7848a897974",
+      "category": "Schauspiel",
+      "date": "1953-05-13T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b77b0314e7e7848a897974",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 530638800206,
+      "oid": "66b77b8c14e7e7848a89854e",
+      "category": "Schauspiel",
+      "date": "1953-05-14T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b77b8c14e7e7848a89854e",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 541476896951,
+      "oid": "66b77e1214e7e7848a89c0b7",
+      "category": "Schauspiel",
+      "date": "1953-05-19T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b77e1214e7e7848a89c0b7",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 575350142314,
+      "oid": "66b785f514e7e7848a8a756a",
+      "category": "Schauspiel",
+      "date": "1953-06-08T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1952/1953",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b785f514e7e7848a8a756a",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 837965536326,
+      "oid": "66b8c31a14e7e7848aa35c46",
+      "category": "Schauspiel",
+      "date": "1953-09-09T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1953/1954",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b8c31a14e7e7848aa35c46",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 495056218428,
+      "oid": "66b073436af2b0e29fa6693c",
+      "category": "Schauspiel",
+      "date": "1954-01-24T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1953/1954",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b073436af2b0e29fa6693c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 887693966729,
+      "oid": "66b0ceae6af2b0e29faefd89",
+      "category": "Schauspiel",
+      "date": "1954-02-05T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1953/1954",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0ceae6af2b0e29faefd89",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 911165322788,
+      "oid": "66b0d4256af2b0e29faf7624",
+      "category": "Schauspiel",
+      "date": "1954-02-14T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1953/1954",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0d4256af2b0e29faf7624",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 912541056513,
+      "oid": "66b0d4776af2b0e29faf7e01",
+      "category": "Schauspiel",
+      "date": "1954-02-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1953/1954",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0d4776af2b0e29faf7e01",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 944484917757,
+      "oid": "66b0dbe76af2b0e29fb021fd",
+      "category": "Schauspiel",
+      "date": "1954-02-28T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1953/1954",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b0dbe76af2b0e29fb021fd",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 845936763436,
+      "oid": "66b1c4f56af2b0e29fc2a22c",
+      "category": "Schauspiel",
+      "date": "1954-05-13T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1953/1954",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b1c4f56af2b0e29fc2a22c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 937792140693,
+      "oid": "66b1da586af2b0e29fc47595",
+      "category": "Schauspiel",
+      "date": "1954-06-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1953/1954",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b1da586af2b0e29fc47595",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 958713358771,
+      "oid": "66b1df376af2b0e29fc4e9b3",
+      "category": "Schauspiel",
+      "date": "1954-08-30T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1953/1954",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b1df376af2b0e29fc4e9b3",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 976161688151,
+      "oid": "66b1e3476af2b0e29fc54a57",
+      "category": "Schauspiel",
+      "date": "1954-09-08T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "5a4109a5-5f60-4647-a280-4309d8e108bf",
+      "season": "1954/1955",
+      "subtitle": "",
+      "title": "Das Kamel geht durch das Nadelöhr",
+      "_id": "66b1e3476af2b0e29fc54a57",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 123868645594,
+      "oid": "65c61cd7d3ced60fbe2588da",
+      "category": "Schauspiel",
+      "date": "1959-04-27T12:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "Premiere",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "65c61cd7d3ced60fbe2588da",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 709389563825,
+      "oid": "669aa52a6af2b0e29fe9b7b1",
+      "category": "Schauspiel",
+      "date": "1959-04-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669aa52a6af2b0e29fe9b7b1",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 711218282844,
+      "oid": "669aa5976af2b0e29fe9c15c",
+      "category": "Schauspiel",
+      "date": "1959-05-04T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669aa5976af2b0e29fe9c15c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 712526907332,
+      "oid": "669aa5e56af2b0e29fe9c7c4",
+      "category": "Schauspiel",
+      "date": "1959-05-05T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669aa5e56af2b0e29fe9c7c4",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 713265105939,
+      "oid": "669aa6116af2b0e29fe9cc13",
+      "category": "Schauspiel",
+      "date": "1959-05-06T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669aa6116af2b0e29fe9cc13",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 714355626508,
+      "oid": "669aa6526af2b0e29fe9d20c",
+      "category": "Schauspiel",
+      "date": "1959-05-07T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669aa6526af2b0e29fe9d20c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 858606308051,
+      "oid": "669ac7e86af2b0e29fec8ad3",
+      "category": "Schauspiel",
+      "date": "1959-05-09T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ac7e86af2b0e29fec8ad3",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 862129528240,
+      "oid": "669ac8ba6af2b0e29fec9db0",
+      "category": "Schauspiel",
+      "date": "1959-05-11T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ac8ba6af2b0e29fec9db0",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 870904023878,
+      "oid": "669acac56af2b0e29feccb46",
+      "category": "Schauspiel",
+      "date": "1959-05-14T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669acac56af2b0e29feccb46",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 865837297809,
+      "oid": "669ac9976af2b0e29fecb091",
+      "category": "Schauspiel",
+      "date": "1959-05-15T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ac9976af2b0e29fecb091",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 883990267828,
+      "oid": "669acdd16af2b0e29fed07b4",
+      "category": "Schauspiel",
+      "date": "1959-05-18T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669acdd16af2b0e29fed07b4",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 869595399307,
+      "oid": "669aca776af2b0e29fecc48b",
+      "category": "Schauspiel",
+      "date": "1959-05-19T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669aca776af2b0e29fecc48b",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 886540407909,
+      "oid": "669ace696af2b0e29fed1465",
+      "category": "Schauspiel",
+      "date": "1959-05-20T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ace696af2b0e29fed1465",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 887479933185,
+      "oid": "669acea16af2b0e29fed1901",
+      "category": "Schauspiel",
+      "date": "1959-05-21T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669acea16af2b0e29fed1901",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 888151022673,
+      "oid": "669acec96af2b0e29fed1c51",
+      "category": "Schauspiel",
+      "date": "1959-05-22T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669acec96af2b0e29fed1c51",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 889677751231,
+      "oid": "669acf246af2b0e29fed23bf",
+      "category": "Schauspiel",
+      "date": "1959-05-23T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669acf246af2b0e29fed23bf",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 891825237765,
+      "oid": "669acfa46af2b0e29fed2f05",
+      "category": "Schauspiel",
+      "date": "1959-05-24T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669acfa46af2b0e29fed2f05",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 892747985761,
+      "oid": "669acfdb6af2b0e29fed3361",
+      "category": "Schauspiel",
+      "date": "1959-05-25T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669acfdb6af2b0e29fed3361",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 894073387523,
+      "oid": "669ad02a6af2b0e29fed3a03",
+      "category": "Schauspiel",
+      "date": "1959-05-26T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ad02a6af2b0e29fed3a03",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 895650447785,
+      "oid": "669ad0886af2b0e29fed41a9",
+      "category": "Schauspiel",
+      "date": "1959-05-27T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ad0886af2b0e29fed41a9",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 896858408786,
+      "oid": "669ad0d06af2b0e29fed4752",
+      "category": "Schauspiel",
+      "date": "1959-05-28T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ad0d06af2b0e29fed4752",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 897898597522,
+      "oid": "669ad10e6af2b0e29fed4c92",
+      "category": "Schauspiel",
+      "date": "1959-05-29T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ad10e6af2b0e29fed4c92",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 904492051460,
+      "oid": "669ad2976af2b0e29fed6c04",
+      "category": "Schauspiel",
+      "date": "1959-05-30T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ad2976af2b0e29fed6c04",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 905347690583,
+      "oid": "669ad2ca6af2b0e29fed7057",
+      "category": "Schauspiel",
+      "date": "1959-05-31T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ad2ca6af2b0e29fed7057",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 906287215900,
+      "oid": "669ad3026af2b0e29fed751c",
+      "category": "Schauspiel",
+      "date": "1959-06-01T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ad3026af2b0e29fed751c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 907562285874,
+      "oid": "669ad34e6af2b0e29fed7b32",
+      "category": "Schauspiel",
+      "date": "1959-06-04T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ad34e6af2b0e29fed7b32",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 919457346758,
+      "oid": "669ad6136af2b0e29fedb4c6",
+      "category": "Schauspiel",
+      "date": "1959-06-07T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ad6136af2b0e29fedb4c6",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 759046599324,
+      "oid": "66c5b0ba14e7e7848ab3f29c",
+      "category": "Schauspiel",
+      "date": "1959-06-07T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "66c5b0ba14e7e7848ab3f29c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 920900189192,
+      "oid": "669ad6696af2b0e29fedbc08",
+      "category": "Schauspiel",
+      "date": "1959-06-09T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ad6696af2b0e29fedbc08",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 925849474163,
+      "oid": "669ad7906af2b0e29fedd473",
+      "category": "Schauspiel",
+      "date": "1959-06-14T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ad7906af2b0e29fedd473",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 927409757176,
+      "oid": "669ad7ed6af2b0e29feddbf8",
+      "category": "Schauspiel",
+      "date": "1959-06-14T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669ad7ed6af2b0e29feddbf8",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 951938077206,
+      "oid": "669adda36af2b0e29fee5216",
+      "category": "Schauspiel",
+      "date": "1959-06-28T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "40a27321-7833-474b-8d9a-b8e552e022b8",
+      "season": "1958/1959",
+      "subtitle": "",
+      "title": "Gefangene 91",
+      "_id": "669adda36af2b0e29fee5216",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 569645844178,
+      "oid": "67c184a1ecd40b780d89c6d2",
+      "category": "Matinee",
+      "date": "1963-05-12T11:00:00.000Z",
+      "location": "Akademietheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "",
+      "season": "1962/1963",
+      "subtitle": "",
+      "title": "Matinee: Frantisek Langer",
+      "_id": "67c184a1ecd40b780d89c6d2",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "mit"
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "seasons": [
+      "1820/1821",
+      "1933/1934",
+      "1934/1935",
+      "1935/1936",
+      "1936/1937",
+      "1937/1938",
+      "1944/1945",
+      "1945/1946",
+      "1947/1948",
+      "1948/1949",
+      "1949/1950",
+      "1950/1951",
+      "1951/1952",
+      "1952/1953",
+      "1953/1954",
+      "1954/1955",
+      "1958/1959",
+      "1962/1963"
+    ]
+  }
+}

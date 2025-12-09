@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "_id": "6504166ba47588ad6024ae53",
+    "name": "Reyhan Mary",
+    "pages": [],
+    "book": "64e49435e04f9d5938480a71",
+    "uid": "d4309918-1f4d-49fa-ace6-f7dfb640c3b7",
+    "additional": "",
+    "firstName": "Mary",
+    "lastName": "Reyhan"
+  },
+  "data": [
+    {
+      "id": 792486383908,
+      "oid": "66a6b8836af2b0e29fde9124",
+      "category": "Schauspiel",
+      "date": "1937-12-19T11:00:00.000Z",
+      "location": "Burgtheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Peterchens Mondfahrt",
+      "_id": "66a6b8836af2b0e29fde9124",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Drittes Sternchen"
+        }
+      ]
+    },
+    {
+      "id": 237496701513,
+      "oid": "66a7374b6af2b0e29fe81249",
+      "category": "Schauspiel",
+      "date": "1937-12-27T11:00:00.000Z",
+      "location": "Burgtheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Peterchens Mondfahrt",
+      "_id": "66a7374b6af2b0e29fe81249",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Drittes Sternchen"
+        }
+      ]
+    },
+    {
+      "id": 690421961671,
+      "oid": "6682a0c04801253dbd5b13c7",
+      "category": "Schauspiel",
+      "date": "1938-01-01T11:00:00.000Z",
+      "location": "Burgtheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Peterchens Mondfahrt",
+      "_id": "6682a0c04801253dbd5b13c7",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Drittes Sternchen"
+        }
+      ]
+    },
+    {
+      "id": 814305075378,
+      "oid": "6682bd984801253dbd5d60b2",
+      "category": "Schauspiel",
+      "date": "1938-01-16T11:00:00.000Z",
+      "location": "Burgtheater",
+      "location2": "",
+      "premiere": "",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "season": "1937/1938",
+      "subtitle": "",
+      "title": "Peterchens Mondfahrt",
+      "_id": "6682bd984801253dbd5d60b2",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Drittes Sternchen"
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "seasons": [
+      "1937/1938"
+    ]
+  }
+}

@@ -1,0 +1,2902 @@
+{
+  "_id": "6658c73f4e11902147753d6a",
+  "uid": "fe85b133-19b7-4b4d-b838-9696c8e31ede",
+  "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+  "title": "Das Lied von der Glocke",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-03-23T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Der Meister",
+      "fullName": "Josef Lewinsky"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "656738aa00806585020a439b",
+      "firstName": "Peter Joseph",
+      "lastName": "Lindpaintner",
+      "additional": "",
+      "fullName": "Peter Joseph Lindpaintner",
+      "role": "Musik"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b544",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Schiller",
+      "fullName": "Friedrich Schiller"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-23.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c619f9d3ced60fbe1a8fbc",
+      "uid": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "63",
+      "date": "1854-04-24T12:00:00.000Z",
+      "season": "1853/1854",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0254.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1854/1854-04-24.jpeg"
+      ],
+      "comment": "Festvorstellung zur Vermählung des Kaiserpaares: Prolog von Halm, gesprochen von Julie Rettich."
+    },
+    {
+      "_id": "663a1b3df0392a8e79747c2d",
+      "uid": "f9c5df66-0ba2-45e5-8006-47bb86f37fc5",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1854-05-23T10:55:00.000Z",
+      "season": "1853/1854",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1854/1854-05-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663a2d0ff0392a8e79768a5b",
+      "uid": "605df532-c707-43cd-9d3f-22b4f9c2c105",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1854-05-28T10:55:00.000Z",
+      "season": "1853/1854",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1854/1854-05-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663a3356f0392a8e7977292c",
+      "uid": "fee5d340-a0fc-44e4-868b-bd52afe21a78",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1854-06-19T10:55:00.000Z",
+      "season": "1853/1854",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1854/1854-06-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663a3653f0392a8e7977723a",
+      "uid": "79c27c72-b981-4560-abf3-18fee45f3072",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1854-06-27T10:55:00.000Z",
+      "season": "1853/1854",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Die Meisterin",
+          "fullName": "Julie Rettich (geb. Gley)"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1854/1854-06-27.jpeg"
+      ],
+      "comment": "das Lied (von) der Glocke"
+    },
+    {
+      "_id": "663a4028f0392a8e797842d0",
+      "uid": "84a86fe2-6e07-4a23-bad7-e61b54c1a440",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1854-09-03T10:55:00.000Z",
+      "season": "1854/1855",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1854/1854-09-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663b1a9df0392a8e79895232",
+      "uid": "278f8fca-fe7f-40f8-89a7-74068f401ebe",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1854-10-24T10:55:00.000Z",
+      "season": "1854/1855",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Die Meisterin",
+          "fullName": "Julie Rettich (geb. Gley)"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1854/1854-10-24.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1854/1854-10-24_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663bbc55f0392a8e79966da1",
+      "uid": "b895481f-3e5a-45f6-91f0-3e63815d33d3",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1855-03-31T10:55:00.000Z",
+      "season": "1854/1855",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1855/1855-03-31.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1855/1855-03-31_00000002.jpg"
+      ],
+      "comment": "eigentlich: von der Glocke"
+    },
+    {
+      "_id": "663c8993f0392a8e79a668df",
+      "uid": "4c8d0591-9450-4a19-988f-5c745dfa11e8",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1855-05-30T10:55:00.000Z",
+      "season": "1854/1855",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1855/1855-05-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663c90fef0392a8e79a70df6",
+      "uid": "a54e3555-7053-46b7-85a5-8d96e483cf41",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1855-06-23T10:55:00.000Z",
+      "season": "1854/1855",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1855/1855-06-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663c9a5ef0392a8e79a7db90",
+      "uid": "3b6c40a1-0c97-477b-a6fc-e7127a154c39",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1855-09-10T10:55:00.000Z",
+      "season": "1855/1856",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1855/1855-09-10.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663cb039f0392a8e79a9a120",
+      "uid": "d9734886-cdf5-4b77-9fe7-20a802c90aae",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1855-10-09T10:55:00.000Z",
+      "season": "1855/1856",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1855/1855-10-09.jpeg"
+      ],
+      "comment": "ohne von"
+    },
+    {
+      "_id": "663ce036f0392a8e79ad5dbd",
+      "uid": "a08546a3-b377-4a31-abac-4f3e541f6696",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1855-10-21T10:55:00.000Z",
+      "season": "1855/1856",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1855/1855-10-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663d0dbff0392a8e79b10df8",
+      "uid": "bd431c85-b467-417e-8c07-336b2916dc4c",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1855-11-30T10:55:00.000Z",
+      "season": "1855/1856",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Die Meisterin",
+          "fullName": "Julie Rettich (geb. Gley)"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1855/1855-11-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663fb25ce027ead1c19ef488",
+      "uid": "d0b65627-d399-42c3-a8d6-3b42f0955559",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1856-08-21T10:55:00.000Z",
+      "season": "1855/1856",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1856/1856-08-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6640b682e027ead1c1b347f8",
+      "uid": "fc4fcc51-3287-4a83-a394-fad1c08bbc0c",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1856-11-09T11:07:00.000Z",
+      "season": "1856/1857",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1856/1856-11-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6641b3afe027ead1c1c73739",
+      "uid": "3addc061-a5b9-4a9a-b6d7-d516f6bc6de4",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1857-02-27T10:55:00.000Z",
+      "season": "1856/1857",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1857/1857-02-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6641ffa8e027ead1c1cd5c4f",
+      "uid": "1dac63a0-28e3-48e6-b0b6-47bf5735570b",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1857-06-25T10:55:00.000Z",
+      "season": "1856/1857",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Die Meisterin",
+          "fullName": "Julie Rettich (geb. Gley)"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1857/1857-06-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66426af8e027ead1c1d5f317",
+      "uid": "26915db1-6686-47ee-b5b5-b4125b2a3b24",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1857-11-26T10:55:00.000Z",
+      "season": "1857/1858",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1857/1857-11-26.jpeg"
+      ],
+      "comment": "eigentlich: von der Glocke"
+    },
+    {
+      "_id": "664316cee027ead1c1e35ccd",
+      "uid": "6d2f1cb8-c079-467e-922a-71420693c87a",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1858-01-28T10:55:00.000Z",
+      "season": "1857/1858",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1858/1858-01-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664359f8e027ead1c1e8e60f",
+      "uid": "8fc1a5ee-f6e7-4f88-96d8-d8e4570f5566",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1858-05-14T12:15:00.000Z",
+      "season": "1857/1858",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1858/1858-05-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6643c101e027ead1c1f127fc",
+      "uid": "799442bb-9794-40fa-96b4-d773deed22cf",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1858-08-20T11:07:00.000Z",
+      "season": "1857/1858",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1858/1858-08-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6644e64fe027ead1c1083a6b",
+      "uid": "3ded27b4-91f4-4468-b1be-41d8562512ae",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1859-02-12T10:55:00.000Z",
+      "season": "1858/1859",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1859/1859-02-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666c1dd5cd334071f703a93c",
+      "uid": "12f2ea06-9f07-47cf-bb10-7bd5be56e9ad",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1859-08-22T10:55:00.000Z",
+      "season": "1858/1859",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1859/1859-08-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66461dc0e027ead1c1210163",
+      "uid": "5fde5e81-b122-4f1f-ab78-428829d69820",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1859-10-09T10:55:00.000Z",
+      "season": "1859/1860",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1859/1859-10-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66463b4de027ead1c12389a8",
+      "uid": "4ab46b00-275e-427b-8f46-1afdc50aa22c",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1860-01-09T10:55:00.000Z",
+      "season": "1859/1860",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-01-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66478b01e027ead1c13eb6bd",
+      "uid": "88730faf-be11-4d76-9141-7bf8f5ca5b1d",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-01-19T12:15:00.000Z",
+      "season": "1860/1861",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-01-20.jpeg"
+      ],
+      "comment": "Am 17. d. M. gerieth ein goldenes Armband in Form einer Ketten in diesem Hoftheater oder beim Eingange in dasßelbe in Verlust. Der Ueberbringer erhält an der Theaterkasse eine angemessene Belohnung. "
+    },
+    {
+      "_id": "667559d4cd334071f7bfdf56",
+      "uid": "10e563c6-eda0-45c7-8204-864d60768fdc",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-02-24T10:55:00.000Z",
+      "season": "1860/1861",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-02-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66473958e027ead1c1384816",
+      "uid": "fcbf74e4-0205-41dd-91b2-b5f4e9c1f3a4",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-05-15T10:55:00.000Z",
+      "season": "1860/1861",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Die Meisterin",
+          "fullName": "Julie Rettich (geb. Gley)"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-05-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66488508e027ead1c152b851",
+      "uid": "e5177609-99cc-48db-a9a8-b3006b4ae8cc",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-09-13T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-09-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66487c46e027ead1c151fcfd",
+      "uid": "484cb81a-e112-4330-a042-4a322213a0ca",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-11-16T11:07:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-16.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-16_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66487c59e027ead1c151febe",
+      "uid": "819668f8-018e-4c57-8823-1c1a2a8eed45",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-11-16T11:07:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-16.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-16_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6649dd18e027ead1c16e9b50",
+      "uid": "026418e5-f874-40df-9e5c-76157b5c2c18",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1863-03-14T10:55:00.000Z",
+      "season": "1862/1863",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Der Meister",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1863/1863-03-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6649ea22e027ead1c16fade0",
+      "uid": "6298355a-a253-4e7f-af7c-03864e0d994b",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1863-08-17T10:55:00.000Z",
+      "season": "1862/1863",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "Der Meister",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1863/1863-08-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664a12e1e027ead1c172f784",
+      "uid": "4c3bb09c-d4ef-40c4-81b9-49d0edfc63a6",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1863-09-28T10:55:00.000Z",
+      "season": "1863/1864",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Der Meister",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1863/1863-09-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b6930e027ead1c18e90f4",
+      "uid": "8872741c-774e-4c5f-a661-30e12de11918",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1864-12-08T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Der Meister",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a979",
+          "additional": "",
+          "firstName": "Christine",
+          "lastName": "Hebbel (eigentlich Kaizl)",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel (eigentlich Kaizl)"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-12-08.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-12-08_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b5b81e027ead1c18d5d66",
+      "uid": "735bb7ba-b859-4702-b794-8319cd3f1f4c",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-05-20T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Der Meister",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-05-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b6b4ce027ead1c18ec1c9",
+      "uid": "85b560ec-75f4-4ab9-991f-d1d3466544ac",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-08-19T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Der Meister",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-08-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664c94d0e027ead1c1a6ae30",
+      "uid": "9b1d8b8e-24fc-494a-b256-17ced37616ba",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-10-30T10:55:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Der Meister",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-10-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664ca43ce027ead1c1a804ef",
+      "uid": "b6c57174-516d-4517-968d-9cda058270a1",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-12-09T11:07:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Der Meister",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-12-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664c6dcce027ead1c1a34b49",
+      "uid": "59b39ee0-c385-43b7-911f-11095a7dae46",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1866-05-14T10:55:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Der Meister",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1866/1866-05-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664cc51be027ead1c1aadce9",
+      "uid": "03ce2148-a8d0-4c19-a304-514d2707276a",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1866-09-06T11:07:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Der Meister",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1866/1866-09-06.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1866/1866-09-06_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664db9bae027ead1c1bea5bf",
+      "uid": "f3d62fa3-c1c6-4628-b820-804bc476e6f3",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-05-03T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Der Meister",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-05-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664e66c1e027ead1c1cdbb6d",
+      "uid": "c5e39ce4-e348-43d8-8ec5-3f019df96f71",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-09-19T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Der Meister",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-09-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6650a486e027ead1c1fc185b",
+      "uid": "7bd34a15-f08a-4bb7-ba53-383f7af99d31",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-02-24T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Der Meister",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Die Meisterin",
+          "fullName": "Christine Hebbel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-02-24.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-02-24_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66574b394e1190214756b0ea",
+      "uid": "42ecdb8a-f34d-445c-be0c-b98415c2b5f8",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-11-11T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Meister",
+          "fullName": "Josef Lewinsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-11-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66574bbf4e1190214756bcde",
+      "uid": "5fa2a6b9-6d56-47e0-8c4c-8045b9f7281f",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-11-18T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Meister",
+          "fullName": "Josef Lewinsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-11-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66574d994e1190214756e939",
+      "uid": "9a5bfc1b-eaa6-4265-bc80-f65dcd326139",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-11-23T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Meister",
+          "fullName": "Josef Lewinsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-11-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665730034e11902147546ccc",
+      "uid": "ce7ccffe-0e12-4a0a-93b0-0441fb5ae125",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-12-26T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Meister",
+          "fullName": "Josef Lewinsky"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-12-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665733194e1190214754acb7",
+      "uid": "8920852c-c673-401e-8ef9-46cffe3654c3",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-12-31T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Meister",
+          "fullName": "Josef Lewinsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-12-31.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665751454e11902147573b26",
+      "uid": "e98d6636-cc85-4226-82f7-ee0b991e82a8",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-02-03T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Meister",
+          "fullName": "Josef Lewinsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-02-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66576b574e119021475940e9",
+      "uid": "1d8df9bc-0530-46a4-9164-8212facd55fe",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-03-22T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Meister",
+          "fullName": "Konrad Hallenstein"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-03-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66577fab4e119021475ae658",
+      "uid": "70278b50-4b9f-439b-8374-ef8fc096762e",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-05-06T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Meister",
+          "fullName": "Josef Lewinsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-05-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66578e074e119021475c0c41",
+      "uid": "7be6312e-3e76-47b2-85f6-cc6163a37a62",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-05-22T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Meister",
+          "fullName": "Josef Lewinsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-05-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665867044e119021476cd65f",
+      "uid": "30456192-85d8-4ac8-b7f6-184512e8301a",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-11-09T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Meister",
+          "fullName": "Josef Lewinsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-11-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665881d84e119021476f1c78",
+      "uid": "833cefc6-d83c-4974-bc1c-215b7e2ea55c",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-04-22T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Meister",
+          "fullName": "Konrad Hallenstein"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-04-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c73f4e11902147753d6a",
+      "uid": "fe85b133-19b7-4b4d-b838-9696c8e31ede",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-03-23T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Meister",
+          "fullName": "Josef Lewinsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6659f91c4e119021478d2b3c",
+      "uid": "81e54ab6-e169-4354-b97a-c99572dc7a78",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-03-11T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Meister",
+          "fullName": "Josef Lewinsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-03-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c5b154e11902147bc8492",
+      "uid": "4ae145af-fac0-474f-aa16-af9d50826100",
+      "productionId": "49ea71d5-4a79-400b-8ec4-3d272bca6ad4",
+      "title": "Das Lied von der Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-03-12T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Meister",
+          "fullName": "Josef Lewinsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "656738aa00806585020a439b",
+          "firstName": "Peter Joseph",
+          "lastName": "Lindpaintner",
+          "additional": "",
+          "fullName": "Peter Joseph Lindpaintner",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-03-12.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

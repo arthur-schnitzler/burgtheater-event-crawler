@@ -1,0 +1,4290 @@
+{
+  "_id": "6658cc4d4e1190214775bba4",
+  "uid": "78f8d209-b54d-40d6-a1f1-ba58087dc4eb",
+  "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+  "title": "Moderne Jugend",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-05-27T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b6f7",
+      "additional": "geb. Würzburg, 1835-1892",
+      "firstName": "Zerline",
+      "lastName": "Gabillon",
+      "role": "Julie Braun",
+      "fullName": "Zerline Gabillon"
+    },
+    {
+      "_id": "6561f7920080658502cf3089",
+      "firstName": "Isabella von",
+      "lastName": "Bünau",
+      "additional": "",
+      "role": "Elsa",
+      "fullName": "Isabella von Bünau"
+    },
+    {
+      "_id": "6504166ba47588ad6024b8b0",
+      "additional": "1834-1909",
+      "firstName": "Adolf",
+      "lastName": "Sonnenthal",
+      "role": "Graf Rietberg",
+      "fullName": "Adolf Sonnenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab3d",
+      "additional": "1839-1908",
+      "firstName": "Friedrich",
+      "lastName": "Krastel",
+      "role": "Baron Rietberg",
+      "fullName": "Friedrich Krastel"
+    },
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Eckard",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "6504166ba47588ad6024a95e",
+      "additional": "1844-1911",
+      "firstName": "Ernst",
+      "lastName": "Hartmann",
+      "role": "Von Fernau",
+      "fullName": "Ernst Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab6a",
+      "additional": "1818-1886",
+      "firstName": "Cesarine",
+      "lastName": "Kupfer-Gomansky",
+      "role": "Gräfin Drachstedt",
+      "fullName": "Cesarine Kupfer-Gomansky"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9ee",
+      "additional": "1857-1920",
+      "firstName": "Stella",
+      "lastName": "Hohenfels",
+      "role": "Comtesse Marie",
+      "fullName": "Stella Hohenfels"
+    },
+    {
+      "_id": "6504166ba47588ad6024b153",
+      "additional": "Hofschauspielerin, verehel. Goschalla",
+      "firstName": "Rosa",
+      "lastName": "Wagner",
+      "role": "Rosa",
+      "fullName": "Rosa Wagner"
+    }
+  ],
+  "crew": [],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b610",
+      "additional": "",
+      "firstName": "Eduard von",
+      "lastName": "Bauernfeld",
+      "fullName": "Eduard von Bauernfeld"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-27.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a4ed3ced60fbe1bd9f2",
+      "uid": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "40",
+      "date": "1869-01-19T12:00:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Comtesse Marie",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0298.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-01-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f5fbbe027ead1c1e1d111",
+      "uid": "3cff2cb2-fc95-4810-a857-65ec44d5b033",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-01-20T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Comtesse Marie",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-01-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f603be027ead1c1e1dbdc",
+      "uid": "8db108dc-9f51-48b8-a5b9-a1ba931bd217",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-01-23T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Comtesse Marie",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-01-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f6062e027ead1c1e1e021",
+      "uid": "5479f428-a7af-424d-8f31-f8063f7f5269",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-01-26T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Comtesse Marie",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-01-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f4010e027ead1c1df2079",
+      "uid": "e75cd568-21f3-490c-8a6e-d88da614891a",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-02-03T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Comtesse Marie",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-02-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f48c6e027ead1c1dfe0a1",
+      "uid": "d8626e51-7c62-4e41-9d8f-2de1403e101a",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-02-08T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Comtesse Marie",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-02-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f616ee027ead1c1e1f923",
+      "uid": "0bd0d66b-a824-49dd-9f10-b82aa908d563",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-02-17T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Comtesse Marie",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-02-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f6464e027ead1c1e23d7f",
+      "uid": "189f50c4-84d7-4883-9f71-9f4073d32726",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-02-27T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Comtesse Marie",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-02-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f6ab9e027ead1c1e2c2df",
+      "uid": "2d89a763-e183-46ef-9dbd-5ad8605e7a38",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-03-06T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Comtesse Marie",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-03-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f1bf8e027ead1c1dc057b",
+      "uid": "03322219-cfa1-4a61-8aa6-d8f71b7d7183",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-05-01T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1c1",
+          "additional": "",
+          "firstName": "Hedwig",
+          "lastName": "Werner",
+          "role": "Comtesse Marie",
+          "fullName": "Hedwig Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-05-01.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f437ee027ead1c1df6f3a",
+      "uid": "490406b4-a4b3-4b74-8527-c262bc7ea217",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-08-12T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1c1",
+          "additional": "",
+          "firstName": "Hedwig",
+          "lastName": "Werner",
+          "role": "Comtesse Marie",
+          "fullName": "Hedwig Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-08-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f87c4e027ead1c1e526b2",
+      "uid": "0a6b9c67-8698-449f-9db6-ff26fdb90029",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-09-03T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Isidor von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1c1",
+          "additional": "",
+          "firstName": "Hedwig",
+          "lastName": "Werner",
+          "role": "Comtesse Marie",
+          "fullName": "Hedwig Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-09-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664fa54ce027ead1c1e79b42",
+      "uid": "cfcaab93-5539-4067-9b0d-53ed8199f541",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-10-13T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Isidor von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1c1",
+          "additional": "",
+          "firstName": "Hedwig",
+          "lastName": "Werner",
+          "role": "Comtesse Marie",
+          "fullName": "Hedwig Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-10-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664fbb41e027ead1c1e99170",
+      "uid": "76815867-4842-42f5-86d3-2c156001abb3",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-12-14T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1c1",
+          "additional": "",
+          "firstName": "Hedwig",
+          "lastName": "Werner",
+          "role": "Comtesse Marie",
+          "fullName": "Hedwig Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-12-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6650915fe027ead1c1fa8987",
+      "uid": "e452ee2a-74fc-4ac0-aaf7-26c2bddb5be7",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-04-29T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Isidor von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1c1",
+          "additional": "",
+          "firstName": "Hedwig",
+          "lastName": "Werner",
+          "role": "Comtesse Marie",
+          "fullName": "Hedwig Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-04-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6650e2f64e11902147d41e09",
+      "uid": "f404c3a4-b5e5-4f50-bd5c-7693dedfe619",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-06-28T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Isidor von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac60",
+          "additional": "geb. Röckel",
+          "firstName": "Louisabeth",
+          "lastName": "Mathes",
+          "role": "Comtesse Marie",
+          "fullName": "Louisabeth Mathes"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-06-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651bf9a4e11902147e4fa31",
+      "uid": "d2d7934f-7a82-4ec1-9bd5-bef92c2982ea",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-11-11T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Isidor von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac60",
+          "additional": "geb. Röckel",
+          "firstName": "Louisabeth",
+          "lastName": "Mathes",
+          "role": "Comtesse Marie",
+          "fullName": "Louisabeth Mathes"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-11-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651e4294e11902147e7ff6f",
+      "uid": "05da6c4d-37d7-4a71-9e9b-d8d2b73d8508",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-02-25T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Isidor von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac60",
+          "additional": "geb. Röckel",
+          "firstName": "Louisabeth",
+          "lastName": "Mathes",
+          "role": "Comtesse Marie",
+          "fullName": "Louisabeth Mathes"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-02-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665241aa4e11902147efcf68",
+      "uid": "1a6deaaa-7c39-464b-a54a-a3c5edee6851",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-11-16T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Comtesse Marie",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-11-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66536fdd4e1190214707200c",
+      "uid": "bd7fcd04-1ae7-4f92-b439-0f3c5454884a",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1872-05-03T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Comtesse Marie",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-05-03.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-05-03_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665375b64e1190214707a115",
+      "uid": "cfd6d9ec-d1d3-4ca7-bc50-3d50be496735",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1872-05-06T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Comtesse Marie",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-05-06.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-05-06_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665436d54e11902147168051",
+      "uid": "1f4086d0-1de4-4778-a9f1-4eed8db78732",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1872-09-25T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Comtesse Marie",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-09-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665452df4e119021471934ed",
+      "uid": "9891dde4-7507-4138-833b-62b5af947192",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-04-19T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Elsa",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Comtesse Marie",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-04-19.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-04-19_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66549b5e4e119021471f77c1",
+      "uid": "50b9eb49-a56c-4b43-a49c-6b73fb555c6a",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-12-12T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elsa",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Comtesse Marie",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-12-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654497e4e11902147184bdd",
+      "uid": "024769db-c11a-42a8-9e8d-a8e65e148c9a",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-03-03T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elsa",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Comtesse Marie",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-03-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654ed464e11902147264ab8",
+      "uid": "ec48c3dc-6d46-4949-bbbf-b1b894a730e4",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-10-03T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elsa",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Comtesse Marie",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-10-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654f7074e119021472725dc",
+      "uid": "d94a75c0-5b5f-4a45-9ca2-bc7286094f08",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-11-09T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elsa",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Comtesse Marie",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Rosa",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-11-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665613db4e119021473e3a2f",
+      "uid": "54798984-fcc8-4a93-99fc-d835c3b2da60",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-11-04T11:07:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elsa",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Comtesse Marie",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-11-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6656e1a84e119021474e3c56",
+      "uid": "9ea7b76a-8385-496f-a498-49749b45d92b",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-10-25T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elsa",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Comtesse Marie",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-10-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6657714c4e1190214759b9e7",
+      "uid": "4ba98b4e-c322-493f-97b3-4621c447e228",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-04-10T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6561f7920080658502cf3089",
+          "firstName": "Isabella von",
+          "lastName": "Bünau",
+          "additional": "",
+          "role": "Elsa",
+          "fullName": "Isabella von Bünau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Comtesse Marie",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-04-10.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665847304e119021476a2fd2",
+      "uid": "4e248b04-09ff-437f-a743-0bdddef96147",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-09-10T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6561f7920080658502cf3089",
+          "firstName": "Isabella von",
+          "lastName": "Bünau",
+          "additional": "",
+          "role": "Elsa",
+          "fullName": "Isabella von Bünau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Comtesse Marie",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-09-10.jpeg"
+      ],
+      "comment": "Fräulein von Bünau als Debut"
+    },
+    {
+      "_id": "6657a02a4e119021475d7eb6",
+      "uid": "c0d11869-8f8a-43a4-90dc-c87907be74f9",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-02-15T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6561f7920080658502cf3089",
+          "firstName": "Isabella von",
+          "lastName": "Bünau",
+          "additional": "",
+          "role": "Elsa",
+          "fullName": "Isabella von Bünau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Comtesse Marie",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-02-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658cc4d4e1190214775bba4",
+      "uid": "78f8d209-b54d-40d6-a1f1-ba58087dc4eb",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-05-27T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6561f7920080658502cf3089",
+          "firstName": "Isabella von",
+          "lastName": "Bünau",
+          "additional": "",
+          "role": "Elsa",
+          "fullName": "Isabella von Bünau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Comtesse Marie",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665984474e1190214783f463",
+      "uid": "4f6c10ea-7db3-404f-8e54-2988647b6464",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-10-22T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6561f7920080658502cf3089",
+          "firstName": "Isabella von",
+          "lastName": "Bünau",
+          "additional": "",
+          "role": "Elsa",
+          "fullName": "Isabella von Bünau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Comtesse Marie",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-10-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a033e4e119021478e0d9d",
+      "uid": "97177e6c-623e-496d-b505-000c368d07ca",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-05-18T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elsa",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Von Fernau",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Comtesse Marie",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-05-18.jpeg"
+      ],
+      "comment": "letzter Auftritt des Fräulein Buska"
+    },
+    {
+      "_id": "665d81674e11902147d38d52",
+      "uid": "bd31434a-7741-45af-b425-b1b6d35193f5",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1883-05-11T10:55:00.000Z",
+      "season": "1882/1883",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Elsa",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Von Fernau",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Comtesse Marie",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1883/1883-05-11.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665da08b4e11902147d64c0c",
+      "uid": "79985f2a-08b4-457b-b6d0-28a00b59a7c3",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1883-10-02T10:55:00.000Z",
+      "season": "1883/1884",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Elsa",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Von Fernau",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Comtesse Marie",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1883/1883-10-02.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665da53d4e11902147d6ba57",
+      "uid": "1f4665c2-f984-4a73-ab09-510a38db3859",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1883-10-19T10:55:00.000Z",
+      "season": "1883/1884",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Elsa",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Von Fernau",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Comtesse Marie",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1883/1883-10-19.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665de7204e11902147dc3bf1",
+      "uid": "5e6df4a4-3ea8-45e8-befe-5d48f460d126",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1884-02-06T10:55:00.000Z",
+      "season": "1883/1884",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Elsa",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Von Fernau",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Comtesse Marie",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-02-06.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665df3194e11902147dd41ce",
+      "uid": "ebffb02f-1b81-429d-8b37-5b16b10411bc",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1884-03-12T11:07:00.000Z",
+      "season": "1883/1884",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Elsa",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Von Fernau",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Comtesse Marie",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-03-12.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665ebf414e11902147eceb11",
+      "uid": "24414b7e-b386-4f6b-a411-fc451e786d93",
+      "productionId": "03ddebad-34b1-41a5-a297-0f893682a168",
+      "title": "Moderne Jugend",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1884-12-11T10:55:00.000Z",
+      "season": "1884/1885",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Julie Braun",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Elsa",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Rietberg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Baron Rietberg",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Eckard",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Von Fernau",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gräfin Drachstedt",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Comtesse Marie",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Rosa",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b610",
+          "additional": "",
+          "firstName": "Eduard von",
+          "lastName": "Bauernfeld",
+          "fullName": "Eduard von Bauernfeld"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-12-11.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "_id": "650c0541258213a8dc5f9b3d",
+    "name": "Rainer Elise",
+    "pages": [
+      236,
+      258,
+      312
+    ],
+    "book": "64e49435e04f9d5938480a71",
+    "uid": "7fb63827-2304-4b23-91e0-4c5e35a952a6",
+    "additional": "",
+    "firstName": "Elise",
+    "lastName": "Rainer"
+  },
+  "data": [
+    {
+      "id": 763723210174,
+      "oid": "6658b1d14e11902147735dbe",
+      "category": "Schauspiel",
+      "date": "1879-01-01T10:55:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "premiere": "",
+      "productionId": "80f0320a-9b4a-4cd2-9d8f-dbe606f8f96b",
+      "season": "1878/1879",
+      "subtitle": "",
+      "title": "Die Räuber",
+      "_id": "6658b1d14e11902147735dbe",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Amalie von Edelreich"
+        }
+      ]
+    },
+    {
+      "id": 766021692137,
+      "oid": "6658b25a4e11902147736ae9",
+      "category": "Schauspiel",
+      "date": "1879-01-04T10:55:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "premiere": "",
+      "productionId": "0be24da8-3ef7-4517-9613-a52423b2a39f",
+      "season": "1878/1879",
+      "subtitle": "",
+      "title": "Uriel Acosta",
+      "_id": "6658b25a4e11902147736ae9",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Judith"
+        }
+      ]
+    },
+    {
+      "id": 767179321948,
+      "oid": "6658b29f4e1190214773725c",
+      "category": "Schauspiel",
+      "date": "1879-01-07T10:55:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "premiere": "",
+      "productionId": "ee0ace3c-968b-4bb8-a43f-3094ae681d1c",
+      "season": "1878/1879",
+      "subtitle": "",
+      "title": "Othello",
+      "_id": "6658b29f4e1190214773725c",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Desdemona"
+        }
+      ]
+    },
+    {
+      "id": 783537130077,
+      "oid": "6658b66e4e1190214773ca5d",
+      "category": "Schauspiel",
+      "date": "1879-01-27T10:55:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "premiere": "",
+      "productionId": "14bbdecc-11b9-4955-a1f7-571f704ba5f2",
+      "season": "1878/1879",
+      "subtitle": "",
+      "title": "Ein Erfolg",
+      "_id": "6658b66e4e1190214773ca5d",
+      "types": [
+        "cast"
+      ],
+      "cast": [
+        {
+          "role": "Josephine, seine Frau zweiter Ehe"
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "seasons": [
+      "1878/1879"
+    ]
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "_id": "65c61a81d3ced60fbe1c8494",
+  "uid": "073e48d5-8161-401a-9d94-b105cfc853a6",
+  "productionId": "073e48d5-8161-401a-9d94-b105cfc853a6",
+  "title": "Der Ehestifter",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": "Premiere",
+  "count": "5",
+  "date": "1879-03-21T12:00:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a95e",
+      "additional": "1844-1911",
+      "firstName": "Ernst",
+      "lastName": "Hartmann",
+      "role": "Baron Stürmer",
+      "fullName": "Ernst Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Wetter",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "6504166ba47588ad6024b07e",
+      "additional": "1825-1892",
+      "firstName": "Marie",
+      "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+      "role": "Regine",
+      "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+    },
+    {
+      "_id": "6504166ba47588ad6024a969",
+      "additional": "geb. Schneeberger, 1843-1898",
+      "firstName": "Helene",
+      "lastName": "Hartmann",
+      "role": "Auguste",
+      "fullName": "Helene Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0e0",
+      "additional": "1854-1944",
+      "firstName": "Hugo",
+      "lastName": "Thimig",
+      "role": "Wilhelm",
+      "fullName": "Hugo Thimig"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9ee",
+      "additional": "1857-1920",
+      "firstName": "Stella",
+      "lastName": "Hohenfels",
+      "role": "Serafine",
+      "fullName": "Stella Hohenfels"
+    },
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Roland",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "6561eeb70080658502cf2eea",
+      "firstName": "Friedrich",
+      "lastName": "Rüden",
+      "additional": "1836-1900",
+      "role": "Flieder",
+      "fullName": "Friedrich Rüden"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "Diener",
+      "fullName": "Friedrich Wilhelm Bayer"
+    }
+  ],
+  "crew": [],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b5f6",
+      "additional": "",
+      "firstName": "Roderich",
+      "lastName": "Anschütz",
+      "fullName": "Roderich Anschütz"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0324.jpg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-21.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a81d3ced60fbe1c8494",
+      "uid": "073e48d5-8161-401a-9d94-b105cfc853a6",
+      "productionId": "073e48d5-8161-401a-9d94-b105cfc853a6",
+      "title": "Der Ehestifter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "5",
+      "date": "1879-03-21T12:00:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Baron Stürmer",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wetter",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Regine",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Auguste",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Wilhelm",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Serafine",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Roland",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Flieder",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5f6",
+          "additional": "",
+          "firstName": "Roderich",
+          "lastName": "Anschütz",
+          "fullName": "Roderich Anschütz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0324.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c43c4e1190214774f92e",
+      "uid": "5a7a15b3-398c-4559-83f6-2846d5ac10f7",
+      "productionId": "073e48d5-8161-401a-9d94-b105cfc853a6",
+      "title": "Der Ehestifter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-03-22T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Baron Stürmer",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wetter",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Regine",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Auguste",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Wilhelm",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Serafine",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Roland",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Flieder",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5f6",
+          "additional": "",
+          "firstName": "Roderich",
+          "lastName": "Anschütz",
+          "fullName": "Roderich Anschütz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c4cb4e11902147750664",
+      "uid": "88600ed4-581a-4a48-be81-7526615d9c64",
+      "productionId": "073e48d5-8161-401a-9d94-b105cfc853a6",
+      "title": "Der Ehestifter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-03-26T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Baron Stürmer",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wetter",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Regine",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Auguste",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Wilhelm",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Serafine",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Roland",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Flieder",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5f6",
+          "additional": "",
+          "firstName": "Roderich",
+          "lastName": "Anschütz",
+          "fullName": "Roderich Anschütz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c74b4e11902147753ea9",
+      "uid": "1f1751cd-88c0-4eaa-9a0d-18eede9d58cf",
+      "productionId": "073e48d5-8161-401a-9d94-b105cfc853a6",
+      "title": "Der Ehestifter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-03-31T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Baron Stürmer",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wetter",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Regine",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Auguste",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Wilhelm",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Serafine",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Roland",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Flieder",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5f6",
+          "additional": "",
+          "firstName": "Roderich",
+          "lastName": "Anschütz",
+          "fullName": "Roderich Anschütz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-31.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658cae64e11902147759813",
+      "uid": "b1ed372e-c7f9-42a0-88aa-e70ece1490e2",
+      "productionId": "073e48d5-8161-401a-9d94-b105cfc853a6",
+      "title": "Der Ehestifter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-05-06T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Baron Stürmer",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wetter",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Regine",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Auguste",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Wilhelm",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Serafine",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Roland",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Flieder",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5f6",
+          "additional": "",
+          "firstName": "Roderich",
+          "lastName": "Anschütz",
+          "fullName": "Roderich Anschütz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-06.jpeg"
+      ],
+      "comment": ""
+    }
+  ]
+}

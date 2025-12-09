@@ -1,0 +1,5754 @@
+{
+  "_id": "6658e53d4e1190214777ccba",
+  "uid": "3a24f4ac-68c4-4c49-8eb8-6a081f8a4019",
+  "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+  "title": "Der Kuss",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-06-29T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a941",
+      "additional": "1833-1892",
+      "firstName": "Konrad",
+      "lastName": "Hallenstein",
+      "role": "Fernando",
+      "fullName": "Konrad Hallenstein"
+    },
+    {
+      "_id": "6504166ba47588ad6024a95e",
+      "additional": "1844-1911",
+      "firstName": "Ernst",
+      "lastName": "Hartmann",
+      "role": "Sever",
+      "fullName": "Ernst Hartmann"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b15",
+      "additional": "1848-1920",
+      "firstName": "Antonie",
+      "lastName": "Janisch",
+      "role": "Königin Blanda",
+      "fullName": "Antonie Janisch"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd3",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Mitterwurzer",
+      "role": "Don Andreo",
+      "fullName": "Friedrich Mitterwurzer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a51b",
+      "additional": "1844-1910",
+      "firstName": "Josef",
+      "lastName": "Altmann",
+      "role": "Don Eusebio",
+      "fullName": "Josef Altmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9ee",
+      "additional": "1857-1920",
+      "firstName": "Stella",
+      "lastName": "Hohenfels",
+      "role": "Angela",
+      "fullName": "Stella Hohenfels"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac98",
+      "additional": "1815-1888, Hofschauspieler",
+      "firstName": "Carl Wilhelm",
+      "lastName": "Meixner",
+      "role": "Sobrinus",
+      "fullName": "Carl Wilhelm Meixner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a969",
+      "additional": "geb. Schneeberger, 1843-1898",
+      "firstName": "Helene",
+      "lastName": "Hartmann",
+      "role": "Maritta",
+      "fullName": "Helene Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0e0",
+      "additional": "1854-1944",
+      "firstName": "Hugo",
+      "lastName": "Thimig",
+      "role": "Carlo",
+      "fullName": "Hugo Thimig"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6d8",
+      "additional": "1843-1902, Pseud. Wallis, Alfred",
+      "firstName": "Emil",
+      "lastName": "Ferrari",
+      "role": "Edler",
+      "fullName": "Emil Ferrari"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc4",
+      "additional": "1822-1883",
+      "firstName": "Eduard",
+      "lastName": "Leuchert",
+      "role": "Hauptmann",
+      "fullName": "Eduard Leuchert"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "Diener",
+      "fullName": "Friedrich Wilhelm Bayer"
+    }
+  ],
+  "crew": [],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b33a",
+      "additional": "",
+      "firstName": "Ludwig",
+      "lastName": "Doczi",
+      "fullName": "Ludwig Doczi"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-29.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a77d3ced60fbe1c65f7",
+      "uid": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "40",
+      "date": "1877-02-27T12:00:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0319.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-02-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665750b54e11902147572f50",
+      "uid": "181bc0b4-77d4-46dc-b00a-c2120c968cab",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-02-28T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-02-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665754404e119021475777dc",
+      "uid": "7ca0f0d6-c431-4520-8721-8dd6349a0526",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-03-03T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-03-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665755354e11902147578bf3",
+      "uid": "481915df-a283-4044-81b1-53b98614ea88",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-03-06T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-03-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665758f74e1190214757d82e",
+      "uid": "1dacbf6a-6757-4d6b-a2dd-203b33db4e61",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-03-11T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-03-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66575b194e11902147580432",
+      "uid": "08ba2c86-65b0-4292-b8e0-4716cd44c417",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-03-16T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-03-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66576a7b4e11902147592e49",
+      "uid": "ab0c56da-1ae4-419b-a910-055ea3f81af7",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-03-19T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-03-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66576fd44e11902147599bc8",
+      "uid": "f5853c44-5d49-42ca-95fa-dd32321fd5c3",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-04-02T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-04-02.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665772c34e1190214759d880",
+      "uid": "73512907-4339-4044-b722-67c7ea58e7aa",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-04-09T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-04-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665774ee4e119021475a055b",
+      "uid": "ef919219-e1f5-4488-8c93-083254d8364f",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-04-15T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Hauptmann",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-04-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665778934e119021475a5214",
+      "uid": "e579703c-9ef4-4101-86ea-4de39155787c",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-04-28T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Hauptmann",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-04-28.jpeg"
+      ],
+      "comment": "Schauplatz: Zu Anfang ein Wald an der Grenze von Aragonien und Navarra. Später an König Severs Hofe.\nDie neue Decoration von Herrn Hermann Burghart, k.k. Hofburgtheatermaler.\nNeue Costume nach Zeichnungen des Herrn Franz Gaul."
+    },
+    {
+      "_id": "665781784e119021475b0c95",
+      "uid": "355fde82-2ce4-43b1-9b66-e71a8972f595",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-05-13T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-05-13.jpeg"
+      ],
+      "comment": "Schauplatz: Zu Anfang ein Wald an der Granze von Aragonien und Navarra. Später an König Severs Hofe.\nDie neue Decoration von Herrn Hermann Burghart, k.k. Hofburgtheatermaler. Neue Costüme nach Zeichnungen des Herrn Franz Gaul."
+    },
+    {
+      "_id": "66579a3f4e119021475d0a12",
+      "uid": "4587e221-c99c-48c7-94fc-c4613c1a024c",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-06-04T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando, Herzog von Aragonien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever, König von Navarra",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda, dessen Gemahlin",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio, des Königs Kanzler",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela, dessen Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus, Licentiat und Doktor der Rechte, Protonotar des Königs",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Ein aragonischer Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Ein navarresischer Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Ein Diener des Königs",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-06-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665847454e119021476a319b",
+      "uid": "b3298317-649a-49e2-b9d9-9290916bcc96",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-06-21T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando, Herzog von Aragonien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever, König von Navarra",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda, dessen Gemahlin",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio, des Königs Kanzler",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela, dessen Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus, Licentiat und Doktor der Rechte, Protonotar des Königs",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Ein aragonischer Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Ein navarresischer Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Ein Diener des Königs",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-06-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665843a94e1190214769e359",
+      "uid": "3ba85ee0-875e-4772-a4c4-79b4b48a6be2",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-09-02T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-09-02.jpeg"
+      ],
+      "comment": "Schauplatz: Zu Anfang ein Wald an der Grenze von Aragonien und Naverra. Später an König Severs Hofe.\nDie neue Decoration von Herrn Hermann Burghart, k.k. Hof-Burgtheatermaler.\nNeue Costume nach Zeichnungen des Herrn Franz Gaul."
+    },
+    {
+      "_id": "665855204e119021476b5ece",
+      "uid": "266bcffe-2456-4174-9c2b-7e20d89be58a",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-09-19T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-09-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658502e4e119021476af7f4",
+      "uid": "bbc6b9b3-d651-41ab-9cad-d67f56ba99c3",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-09-28T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-09-28.jpeg"
+      ],
+      "comment": "Schauplatz: Zu Anfang ein Wald an der Grenze von Aragonien und Navarra. Später an König Severs Hofe.\nDie neue Decoration von Herrn Hermann Burghart, k.k. Hof-Burgtheatermaler.\nNeue Costume nach Zeichnungen des Herrn Franz Gaul."
+    },
+    {
+      "_id": "665886724e119021476f86c9",
+      "uid": "85e7334b-a8fb-482c-87f2-ea5f9e634258",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-01-28T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Carlo",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-01-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6657898a4e119021475bb107",
+      "uid": "c033be90-abe0-4938-90a8-38b140c58e8b",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-02-05T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Carlo",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-02-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658419e4e1190214769b804",
+      "uid": "a14aedf5-2f8d-4f2e-86e8-6e32fde79e52",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-02-28T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Carlo",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-02-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658750d4e119021476dfeb0",
+      "uid": "d2104bac-0d6b-4cc6-8aa0-c5e8e65ad4b8",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-03-28T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Carlo",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-03-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658a8c64e119021477269d9",
+      "uid": "3ceb5c5b-07f0-45dc-a318-b1deaf659d7e",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-07T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658aafa4e1190214772a300",
+      "uid": "641838fa-ad84-46d9-ab32-aae35778591e",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-24T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658ab594e1190214772accd",
+      "uid": "e747d860-706f-47f2-9e73-fa6b2d1ed27a",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-24T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658af024e1190214773100d",
+      "uid": "6c88b22a-4336-486b-bd0c-ade83e0f3b17",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-11-30T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-11-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658bc164e119021477447be",
+      "uid": "53c1f8ff-992d-4ccf-a6e1-7cd7b28566c3",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-02-12T11:07:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando, Herzog von Aragonien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever, König von Navarra",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda, dessen Gemahlin",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio, des Königs Kanzler",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela, dessen Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus, Licentiat und Doktor der Rechte, Protonotar des Königs",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Ein aragonesischer Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Ein navarresischer Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Ein Diener des Königs",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-02-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c6a24e11902147752ee7",
+      "uid": "36549128-6267-4ee3-bfe1-0e27c9a9348e",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-03-19T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando, Herzog von Aragonien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever, König von Navarra",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda, dessen Gemahlin",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio, des Königs Kanzler",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela, dessen Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus, Licentiat und Doktor der Rechte, Protonotar des Königs",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Ein aragonesischer Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Ein navarresischer Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Ein Diener des Königs",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658e53d4e1190214777ccba",
+      "uid": "3a24f4ac-68c4-4c49-8eb8-6a081f8a4019",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-06-29T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66597d674e119021478368b7",
+      "uid": "bfeae566-7bfe-42ac-bd5f-b99946a615ac",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-09-18T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Hauptmann",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-09-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66599ba34e1190214785de91",
+      "uid": "34e74c3f-c00a-4a78-b7ed-8f583271b43f",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-12-03T11:07:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Diener",
+          "fullName": "Hans Kreith"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-12-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6659f5c04e119021478ce25c",
+      "uid": "3e4daffb-7d74-4dc4-ad1b-c988c4889632",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-01-28T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Andreo",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-01-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a23a54e1190214790af94",
+      "uid": "79803703-6af0-4707-9b33-151f329e995a",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-09-29T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Andreo",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-09-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a2a804e119021479141ee",
+      "uid": "8060a31a-2fd9-495c-9db0-cc420a32a078",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-10-22T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Andreo",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-10-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c491a4e11902147baf1c8",
+      "uid": "a370f267-4eec-4b52-8474-59ad897231d9",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-11-24T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Königin Blanda",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Andreo",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-11-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c54df4e11902147bbf892",
+      "uid": "3815972f-9307-4679-b28d-6d3b7524d412",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-02-15T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Königin Blanda",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Andreo",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Angela",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-02-15.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c76ae4e11902147bec352",
+      "uid": "5ce7c8e8-ff35-4052-ba0e-fcc231a090e3",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-05-22T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Andreo",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Angela",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa4b",
+          "additional": "a. G. aus Augsburg",
+          "firstName": "Ella",
+          "lastName": "Jenke",
+          "role": "Maritta",
+          "fullName": "Ella Jenke"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-05-22.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c8b454e11902147c07085",
+      "uid": "e0d8dfc9-59fc-4344-b35d-fd5b05c275ca",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-09-13T10:55:00.000Z",
+      "season": "1882/1883",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Andreo",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Angela",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-09-13.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665d61054e11902147d0b67c",
+      "uid": "f31b5560-e0ad-4156-83c7-25a707d89480",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1883-01-05T10:55:00.000Z",
+      "season": "1882/1883",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Königin Blanda",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Andreo",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Angela",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hauptmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1883/1883-01-05.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6661eff9cd334071f7376fb1",
+      "uid": "81489531-c46e-4f2a-8cb3-1a1524e77a0f",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-03-26T11:07:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1b6",
+          "additional": "",
+          "firstName": "Paula",
+          "lastName": "Wessely (verehel. Hörbiger)",
+          "role": "Königin Blanda",
+          "fullName": "Paula Wessely (verehel. Hörbiger)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Andreo",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Angela",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "Hauptmann",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-03-26.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6661f16ccd334071f7378cdf",
+      "uid": "e0e2b093-e290-4e99-b8f2-d4978cc08a87",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-03-29T11:07:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1b6",
+          "additional": "",
+          "firstName": "Paula",
+          "lastName": "Wessely (verehel. Hörbiger)",
+          "role": "Königin Blanda",
+          "fullName": "Paula Wessely (verehel. Hörbiger)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Andreo",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Angela",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "Hauptmann",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-03-29.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666035894e119021470ae18e",
+      "uid": "27c6de4d-e3e1-4070-a348-05e6bea7b2b7",
+      "productionId": "3da1b8e8-ba9e-45b0-9f7b-3743c13d73a6",
+      "title": "Der Kuss",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-04-18T10:55:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Fernando",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Sever",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Königin Blanda",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Andreo",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Don Eusebio",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Angela",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Sobrinus",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Maritta",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Carlo",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Edler",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "Hauptmann",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b33a",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Doczi",
+          "fullName": "Ludwig Doczi"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-04-18.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

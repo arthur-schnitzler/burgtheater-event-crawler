@@ -1,0 +1,4177 @@
+{
+  "_id": "6658d9304e1190214776c7f0",
+  "uid": "7a866bd8-61e4-46a2-a840-f13933f41f7a",
+  "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+  "title": "Graf Horn",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-04-28T11:07:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a86e",
+      "additional": "1825-1896",
+      "firstName": "Ludwig",
+      "lastName": "Gabillon",
+      "role": "Herzog Philipp von Orleans, Regent von Frankreich, während der Minderjährigkeit Ludwigs XV.",
+      "fullName": "Ludwig Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd3",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Mitterwurzer",
+      "role": "Herzog Saint-Simon",
+      "fullName": "Friedrich Mitterwurzer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b8b0",
+      "additional": "1834-1909",
+      "firstName": "Adolf",
+      "lastName": "Sonnenthal",
+      "role": "Graf Anton von Horn",
+      "fullName": "Adolf Sonnenthal"
+    },
+    {
+      "_id": "6561f3320080658502cf302a",
+      "firstName": "Rudolf",
+      "lastName": "Leyrer",
+      "additional": "",
+      "role": "Graf Rougé",
+      "fullName": "Rudolf Leyrer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a51b",
+      "additional": "1844-1910",
+      "firstName": "Josef",
+      "lastName": "Altmann",
+      "role": "Marquis Crequi",
+      "fullName": "Josef Altmann"
+    },
+    {
+      "_id": "655c21f60080658502c8967e",
+      "firstName": "Louisabeth",
+      "lastName": "Röckel",
+      "additional": "verehel. Mathes; 1841-1913",
+      "role": "Marquise Louise von Lusignan",
+      "fullName": "Louisabeth Röckel"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad02",
+      "additional": "1838-1916",
+      "firstName": "Ernestine",
+      "lastName": "Negro",
+      "role": "Gräfin Rougemont",
+      "fullName": "Ernestine Negro"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac98",
+      "additional": "1815-1888, Hofschauspieler",
+      "firstName": "Carl Wilhelm",
+      "lastName": "Meixner",
+      "role": "Dubois, Minister",
+      "fullName": "Carl Wilhelm Meixner"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab3d",
+      "additional": "1839-1908",
+      "firstName": "Friedrich",
+      "lastName": "Krastel",
+      "role": "John Law, Ober-Intendant der Finanzen",
+      "fullName": "Friedrich Krastel"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Michel Bourboin, sein Sekretär und Vertrauter",
+      "fullName": "Josef Lewinsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024b041",
+      "additional": "1843-1913",
+      "firstName": "Philipp",
+      "lastName": "Stätter",
+      "role": "Gustav Hauteville, Maler",
+      "fullName": "Philipp Stätter"
+    },
+    {
+      "_id": "6504166ba47588ad6024b163",
+      "additional": "1850-1919",
+      "firstName": "Fanny",
+      "lastName": "Walbeck",
+      "role": "Blanche, im Hause der Marquise Lusignan",
+      "fullName": "Fanny Walbeck"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Baptiste, Diener der Marquise Lusignan",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "6504166ba47588ad6024a849",
+      "additional": "1842-1908",
+      "firstName": "Leo",
+      "lastName": "Friedrich",
+      "role": "Reneau, Bürger von Paris",
+      "fullName": "Leo Friedrich"
+    },
+    {
+      "_id": "6504166ba47588ad6024abea",
+      "additional": "1834-1913",
+      "firstName": "Josef",
+      "lastName": "Lippert",
+      "role": "Ein Kammerherr",
+      "fullName": "Josef Lippert"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc4",
+      "additional": "1822-1883",
+      "firstName": "Eduard",
+      "lastName": "Leuchert",
+      "role": "Ein Offizier",
+      "fullName": "Eduard Leuchert"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab11",
+      "additional": "",
+      "firstName": "Charlotte",
+      "lastName": "Korner",
+      "role": "Eine Bürgersfrau",
+      "fullName": "Charlotte Korner"
+    },
+    {
+      "_id": "6504166ba47588ad6024b153",
+      "additional": "Hofschauspielerin, verehel. Goschalla",
+      "firstName": "Rosa",
+      "lastName": "Wagner",
+      "role": "Ein Bürgermädchen",
+      "fullName": "Rosa Wagner"
+    },
+    {
+      "_id": "6504166ba47588ad6024abf1",
+      "additional": "1866-1882",
+      "firstName": "Sofie",
+      "lastName": "Link",
+      "role": "Ein Ausruferjunge",
+      "fullName": "Sofie Link"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "Diener des Grafen Horn",
+      "fullName": "Friedrich Wilhelm Bayer"
+    }
+  ],
+  "crew": [],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b909",
+      "additional": "",
+      "firstName": "Josef von",
+      "lastName": "Weilen",
+      "fullName": "Josef von Weilen"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-04-28.jpeg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-04-28_00000002.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a55d3ced60fbe1bf8c8",
+      "uid": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "21",
+      "date": "1870-10-30T12:00:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024aefb",
+          "additional": "",
+          "firstName": "Jocza",
+          "lastName": "Savits",
+          "role": "Graf Rouge",
+          "fullName": "Jocza Savits"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Hauteville",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Kammerherr",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5cc",
+          "additional": "1832-1872",
+          "firstName": "Ludowika",
+          "lastName": "Benedix",
+          "role": "Bürgersfrau",
+          "fullName": "Ludowika Benedix"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgermädchen",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b17a",
+          "additional": "",
+          "firstName": "(WASOWICZ), Ida von",
+          "lastName": "WASOWITZ",
+          "role": "Ausruferjunge",
+          "fullName": "(WASOWICZ), Ida von WASOWITZ"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0301.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-10-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651bd9e4e11902147e4cdb4",
+      "uid": "814d25fd-0b9b-4ab2-8646-5ff88534b88e",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-10-31T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024aefb",
+          "additional": "",
+          "firstName": "Jocza",
+          "lastName": "Savits",
+          "role": "Graf Rouge",
+          "fullName": "Jocza Savits"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Hauteville",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Kammerherr",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5cc",
+          "additional": "1832-1872",
+          "firstName": "Ludowika",
+          "lastName": "Benedix",
+          "role": "Bürgersfrau",
+          "fullName": "Ludowika Benedix"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgermädchen",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b17a",
+          "additional": "",
+          "firstName": "(WASOWICZ), Ida von",
+          "lastName": "WASOWITZ",
+          "role": "Ausruferjunge",
+          "fullName": "(WASOWICZ), Ida von WASOWITZ"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-10-31.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651bf404e11902147e4f1ff",
+      "uid": "5dd68550-f511-4fa8-957d-bfcbef3dad23",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-11-04T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024aefb",
+          "additional": "",
+          "firstName": "Jocza",
+          "lastName": "Savits",
+          "role": "Graf Rouge",
+          "fullName": "Jocza Savits"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Hauteville",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Kammerherr",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5cc",
+          "additional": "1832-1872",
+          "firstName": "Ludowika",
+          "lastName": "Benedix",
+          "role": "Bürgersfrau",
+          "fullName": "Ludowika Benedix"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgermädchen",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b17a",
+          "additional": "",
+          "firstName": "(WASOWICZ), Ida von",
+          "lastName": "WASOWITZ",
+          "role": "Ausruferjunge",
+          "fullName": "(WASOWICZ), Ida von WASOWITZ"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-11-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651becd4e11902147e4e7cc",
+      "uid": "ffa2485d-36d2-495d-a26c-5e220af11d17",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-11-07T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024aefb",
+          "additional": "",
+          "firstName": "Jocza",
+          "lastName": "Savits",
+          "role": "Graf Rouge",
+          "fullName": "Jocza Savits"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Hauteville",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Kammerherr",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5cc",
+          "additional": "1832-1872",
+          "firstName": "Ludowika",
+          "lastName": "Benedix",
+          "role": "Bürgersfrau",
+          "fullName": "Ludowika Benedix"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgermädchen",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b17a",
+          "additional": "",
+          "firstName": "(WASOWICZ), Ida von",
+          "lastName": "WASOWITZ",
+          "role": "Ausruferjunge",
+          "fullName": "(WASOWICZ), Ida von WASOWITZ"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-11-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651c00d4e11902147e50434",
+      "uid": "09faa4ab-e0ef-448c-b7dc-6c49fbebbac5",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-11-14T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024aefb",
+          "additional": "",
+          "firstName": "Jocza",
+          "lastName": "Savits",
+          "role": "Graf Rouge",
+          "fullName": "Jocza Savits"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Hauteville",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Kammerherr",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5cc",
+          "additional": "1832-1872",
+          "firstName": "Ludowika",
+          "lastName": "Benedix",
+          "role": "Bürgersfrau",
+          "fullName": "Ludowika Benedix"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgermädchen",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b17a",
+          "additional": "",
+          "firstName": "(WASOWICZ), Ida von",
+          "lastName": "WASOWITZ",
+          "role": "Ausruferjunge",
+          "fullName": "(WASOWICZ), Ida von WASOWITZ"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-11-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651c0e34e11902147e51649",
+      "uid": "43a54717-91ce-4f93-9b2b-80affd61ca4c",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-11-17T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024aefb",
+          "additional": "",
+          "firstName": "Jocza",
+          "lastName": "Savits",
+          "role": "Graf Rouge",
+          "fullName": "Jocza Savits"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Hauteville",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Kammerherr",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5cc",
+          "additional": "1832-1872",
+          "firstName": "Ludowika",
+          "lastName": "Benedix",
+          "role": "Bürgersfrau",
+          "fullName": "Ludowika Benedix"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgermädchen",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b17a",
+          "additional": "",
+          "firstName": "(WASOWICZ), Ida von",
+          "lastName": "WASOWITZ",
+          "role": "Ausruferjunge",
+          "fullName": "(WASOWICZ), Ida von WASOWITZ"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Diener",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-11-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651c1684e11902147e522b9",
+      "uid": "5f9ce677-c70f-4b41-94f0-e48bbf641d9c",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-11-21T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024aefb",
+          "additional": "",
+          "firstName": "Jocza",
+          "lastName": "Savits",
+          "role": "Graf Rouge",
+          "fullName": "Jocza Savits"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Hauteville",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Kammerherr",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5cc",
+          "additional": "1832-1872",
+          "firstName": "Ludowika",
+          "lastName": "Benedix",
+          "role": "Bürgersfrau",
+          "fullName": "Ludowika Benedix"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgermädchen",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b17a",
+          "additional": "",
+          "firstName": "(WASOWICZ), Ida von",
+          "lastName": "WASOWITZ",
+          "role": "Ausruferjunge",
+          "fullName": "(WASOWICZ), Ida von WASOWITZ"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Diener",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-11-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651c1d34e11902147e52c58",
+      "uid": "c623067f-cd16-4b92-8919-efb7b452f7db",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-11-26T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024aefb",
+          "additional": "",
+          "firstName": "Jocza",
+          "lastName": "Savits",
+          "role": "Graf Rouge",
+          "fullName": "Jocza Savits"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Hauteville",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Kammerherr",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5cc",
+          "additional": "1832-1872",
+          "firstName": "Ludowika",
+          "lastName": "Benedix",
+          "role": "Bürgersfrau",
+          "fullName": "Ludowika Benedix"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgermädchen",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b17a",
+          "additional": "",
+          "firstName": "(WASOWICZ), Ida von",
+          "lastName": "WASOWITZ",
+          "role": "Ausruferjunge",
+          "fullName": "(WASOWICZ), Ida von WASOWITZ"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Diener",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-11-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651c4c74e11902147e56c21",
+      "uid": "3206da64-af61-407b-9f6c-a059678d35bd",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-12-05T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024aefb",
+          "additional": "",
+          "firstName": "Jocza",
+          "lastName": "Savits",
+          "role": "Graf Rouge",
+          "fullName": "Jocza Savits"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Hauteville",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Reneau",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Kammerherr",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5cc",
+          "additional": "1832-1872",
+          "firstName": "Ludowika",
+          "lastName": "Benedix",
+          "role": "Bürgersfrau",
+          "fullName": "Ludowika Benedix"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgermädchen",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b17a",
+          "additional": "",
+          "firstName": "(WASOWICZ), Ida von",
+          "lastName": "WASOWITZ",
+          "role": "Ausruferjunge",
+          "fullName": "(WASOWICZ), Ida von WASOWITZ"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-12-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651cc994e11902147e60aed",
+      "uid": "24ef3d4f-de36-4630-bb95-4dcb0b99dfe8",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-12-20T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024aefb",
+          "additional": "",
+          "firstName": "Jocza",
+          "lastName": "Savits",
+          "role": "Graf Rouge",
+          "fullName": "Jocza Savits"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Hauteville",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Kammerherr",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5cc",
+          "additional": "1832-1872",
+          "firstName": "Ludowika",
+          "lastName": "Benedix",
+          "role": "Bürgersfrau",
+          "fullName": "Ludowika Benedix"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgermädchen",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b17a",
+          "additional": "",
+          "firstName": "(WASOWICZ), Ida von",
+          "lastName": "WASOWITZ",
+          "role": "Ausruferjunge",
+          "fullName": "(WASOWICZ), Ida von WASOWITZ"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-12-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651f85e4e11902147e9ceac",
+      "uid": "7379bddc-d410-40b8-8f12-cd58b33c8f0a",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-04-26T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Graf Rougé",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Hauteville",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Kammerherr",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5cc",
+          "additional": "1832-1872",
+          "firstName": "Ludowika",
+          "lastName": "Benedix",
+          "role": "Bürgersfrau",
+          "fullName": "Ludowika Benedix"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgermädchen",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abe9",
+          "additional": "1868-1873, Kinderrollen",
+          "firstName": "Fanny",
+          "lastName": "Link",
+          "role": "Ausruferjunge",
+          "fullName": "Fanny Link"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "65bbf1df4cfe378558818ef7",
+          "firstName": "",
+          "lastName": "_____",
+          "additional": "",
+          "role": "Edelleute, Finanzmänner, Damen, Diener, Volk, Soldaten",
+          "fullName": " _____"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-04-26.jpeg"
+      ],
+      "comment": "Das Stück spielt in Paris im Jahre 1720."
+    },
+    {
+      "_id": "66537aa44e1190214708034c",
+      "uid": "3757f495-585e-4891-97e0-b65ef239ed04",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1872-06-10T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Graf Rouge",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a869",
+          "additional": "1844-1917",
+          "firstName": "Cäsar",
+          "lastName": "Galster",
+          "role": "Hauteville",
+          "fullName": "Cäsar Galster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Kammerherr",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgersfrau",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abeb",
+          "additional": "1867",
+          "firstName": "Karoline",
+          "lastName": "Link",
+          "role": "Bürgermädchen",
+          "fullName": "Karoline Link"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-06-10.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6653a7774e119021470b9a43",
+      "uid": "ee6edfbe-b1c1-4f74-bdb3-97f0f56109e6",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1872-09-10T11:07:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Graf Rouge",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Marquis Crequi",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a869",
+          "additional": "1844-1917",
+          "firstName": "Cäsar",
+          "lastName": "Galster",
+          "role": "Hauteville",
+          "fullName": "Cäsar Galster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Kammerherr",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgersfrau",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abe9",
+          "additional": "1868-1873, Kinderrollen",
+          "firstName": "Fanny",
+          "lastName": "Link",
+          "role": "Bürgermädchen",
+          "fullName": "Fanny Link"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-09-10.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66538e904e11902147099e73",
+      "uid": "f18e86a7-0876-47b8-b6f1-09512933a009",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-05-17T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Graf Rouge",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Marquis Crequi",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a869",
+          "additional": "1844-1917",
+          "firstName": "Cäsar",
+          "lastName": "Galster",
+          "role": "Hauteville",
+          "fullName": "Cäsar Galster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a902",
+          "additional": "",
+          "firstName": "Clara",
+          "lastName": "Guinand",
+          "role": "Blanche",
+          "fullName": "Clara Guinand"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Kammerherr",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgersfrau",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bürgermädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Ausruferjunge",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-05-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665435694e11902147166025",
+      "uid": "9f7e7274-b59c-4801-ac65-b5077639fc2b",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-01-09T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Weilen Philipp von Orleans",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Graf Rouge",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Marquis Crequi",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourbon",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a869",
+          "additional": "1844-1917",
+          "firstName": "Cäsar",
+          "lastName": "Galster",
+          "role": "Hauteville",
+          "fullName": "Cäsar Galster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8ae",
+          "additional": "",
+          "firstName": "Katharina",
+          "lastName": "Gilbert",
+          "role": "Blanche",
+          "fullName": "Katharina Gilbert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Kammerherr",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Bürgersfrau",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bürgermädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Ausruferjunge",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-01-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654d4d34e119021472435c7",
+      "uid": "77c2e77d-2f63-49d6-8001-d8e1a80be87b",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-06-18T11:07:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog Philipp von Orleans, Regent von Frankreich, während der Minderjährigkeit Ludwigs XV.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Anton von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Graf Rougé",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Marquis Crequi",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Marquise Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois, Minister",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law, Ober-Intendant der Finanzen",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourboin, sein Sekretär und Vertrauter",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a869",
+          "additional": "1844-1917",
+          "firstName": "Cäsar",
+          "lastName": "Galster",
+          "role": "Gustav Hauteville, Maler",
+          "fullName": "Cäsar Galster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8ae",
+          "additional": "",
+          "firstName": "Katharina",
+          "lastName": "Gilbert",
+          "role": "Blanche, im Hause der Marquise Lusignan",
+          "fullName": "Katharina Gilbert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste, Diener der Marquise Lusignan",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau, Bürger von Paris",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Ein Kammerherr",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Ein Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Eine Bürgersfrau",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Ein Bürgermädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Ein Ausruferjunge",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener des Grafen Horn",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-06-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654f32d4e1190214726cc2b",
+      "uid": "1680a28a-7573-4dbf-b1d0-9a93fb3ceb57",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-10-16T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog Philipp von Orleans, Regent von Frankreich, während der Minderjährigkeit Ludwigs XV.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Anton von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a68c",
+          "additional": "1846 - 1896",
+          "firstName": "Karl (eig Carl Ritter von Caro)",
+          "lastName": "Carode",
+          "role": "Graf Rougé",
+          "fullName": "Karl (eig Carl Ritter von Caro) Carode"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Marquis Crequi",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Marquise Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois, Minister",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law, Ober-Intendant der Finanzen",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourboin, sein Sekretär und Vertrauter",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Gustav Hauteville, Maler",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa44",
+          "additional": "",
+          "firstName": "Irma",
+          "lastName": "Jelenska",
+          "role": "Blanche, im Hause der Marquise Lusignan",
+          "fullName": "Irma Jelenska"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste, Diener der Marquise Lusignan",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Reneau, Bürger von Paris",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Ein Kammerherr",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Ein Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Eine Bürgersfrau",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Ein Bürgermädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Ein Ausruferjunge",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener des Grafen Horn",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-10-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66588cfd4e1190214770125c",
+      "uid": "5b09bee2-2e51-4b4c-9388-c81db987375b",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-05-16T11:07:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog Philipp von Orleans, Regent von Frankreich, während der Minderjährigkeit Ludwigs XV.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Anton von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Graf Rougé",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Marquis Crequi",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Marquise Louise von Lusignan",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois, Minister",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law, Ober-Intendant der Finanzen",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourboin, sein Sekretär und Vertrauter",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Gustav Hauteville, Maler",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Blanche, im Hause der Marquise Lusignan",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste, Diener der Marquise Lusignan",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Reneau, Bürger von Paris",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Ein Kammerherr",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Ein Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Eine Bürgersfrau",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Ein Bürgermädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Ein Ausruferjunge",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener des Grafen Horn",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-05-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658d9304e1190214776c7f0",
+      "uid": "7a866bd8-61e4-46a2-a840-f13933f41f7a",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-04-28T11:07:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog Philipp von Orleans, Regent von Frankreich, während der Minderjährigkeit Ludwigs XV.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Anton von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Graf Rougé",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Marquis Crequi",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Marquise Louise von Lusignan",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois, Minister",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law, Ober-Intendant der Finanzen",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourboin, sein Sekretär und Vertrauter",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Gustav Hauteville, Maler",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Blanche, im Hause der Marquise Lusignan",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste, Diener der Marquise Lusignan",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Reneau, Bürger von Paris",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Ein Kammerherr",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Ein Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Eine Bürgersfrau",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Ein Bürgermädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Ein Ausruferjunge",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener des Grafen Horn",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-04-28.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-04-28_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a09d84e119021478e97b6",
+      "uid": "1446b40a-3813-43ef-ba54-ecdf5c021582",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-06-08T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog Philipp von Orleans, Regent von Frankreich, während der Minderjährigkeit Ludwigs XV.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Anton von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Graf Rougé",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Marquis Crequi",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Marquise Louise von Lusignan",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois, Minister",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law, Ober-Intendant der Finanzen",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourboin, sein Sekretär und Vertrauter",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Gustav Hauteville, Maler",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Blanche, im Hause der Marquise Lusignan",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste, Diener der Marquise Lusignan",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Reneau, Bürger von Paris",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Ein Kammerherr",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Ein Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Eine Bürgersfrau",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Ein Bürgermädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Ein Ausruferjunge",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener des Grafen Horn",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-06-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665acfe04e119021479e02b0",
+      "uid": "24f75976-ff7b-4688-8543-1059a9fefcdf",
+      "productionId": "cca364ab-d4c0-40f9-bfe9-e3877e454d8e",
+      "title": "Graf Horn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-04-22T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog Philipp von Orleans, Regent von Frankreich, während der Minderjährigkeit Ludwigs XV.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herzog Saint-Simon",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Graf Anton von Horn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Graf Rougé",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Marquis Crequi",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Marquise Louise von Lusignan",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Gräfin Rougemont",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Dubois, Minister",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "John Law, Ober-Intendant der Finanzen",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Michel Bourboin, sein Sekretär und Vertrauter",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Gustav Hauteville, Maler",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Blanche, im Hause der Marquise Lusignan",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Baptiste, Diener der Marquise Lusignan",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Reneau, Bürger von Paris",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Ein Kammerherr",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Ein Offizier",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Eine Bürgersfrau",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Ein Bürgermädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Ein Ausruferjunge",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener des Grafen Horn",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b909",
+          "additional": "",
+          "firstName": "Josef von",
+          "lastName": "Weilen",
+          "fullName": "Josef von Weilen"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-04-22.jpeg"
+      ],
+      "comment": ""
+    }
+  ]
+}

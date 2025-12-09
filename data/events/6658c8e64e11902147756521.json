@@ -1,0 +1,4920 @@
+{
+  "_id": "6658c8e64e11902147756521",
+  "uid": "757402e8-f017-420b-885c-6efadd5f6a9b",
+  "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+  "title": "Hans Lange",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-04-04T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b07e",
+      "additional": "1825-1892",
+      "firstName": "Marie",
+      "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+      "role": "Herzogin",
+      "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+    },
+    {
+      "_id": "6504166ba47588ad6024af69",
+      "additional": "1854-1942, Hofschauspieler",
+      "firstName": "Jakob",
+      "lastName": "Schreiner",
+      "role": "Bugslaff",
+      "fullName": "Jakob Schreiner"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd3",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Mitterwurzer",
+      "role": "Ewald",
+      "fullName": "Friedrich Mitterwurzer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a86e",
+      "additional": "1825-1896",
+      "firstName": "Ludwig",
+      "lastName": "Gabillon",
+      "role": "Jürgen",
+      "fullName": "Ludwig Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc4",
+      "additional": "1822-1883",
+      "firstName": "Eduard",
+      "lastName": "Leuchert",
+      "role": "Hans",
+      "fullName": "Eduard Leuchert"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Jost",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "6504166ba47588ad6024abea",
+      "additional": "1834-1913",
+      "firstName": "Josef",
+      "lastName": "Lippert",
+      "role": "Klaus",
+      "fullName": "Josef Lippert"
+    },
+    {
+      "_id": "6504166ba47588ad6024a51b",
+      "additional": "1844-1910",
+      "firstName": "Josef",
+      "lastName": "Altmann",
+      "role": "Achim",
+      "fullName": "Josef Altmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a941",
+      "additional": "1833-1892",
+      "firstName": "Konrad",
+      "lastName": "Hallenstein",
+      "role": "Hans Lange",
+      "fullName": "Konrad Hallenstein"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab6a",
+      "additional": "1818-1886",
+      "firstName": "Cesarine",
+      "lastName": "Kupfer-Gomansky",
+      "role": "Gertrude",
+      "fullName": "Cesarine Kupfer-Gomansky"
+    },
+    {
+      "_id": "6504166ba47588ad6024a95e",
+      "additional": "1844-1911",
+      "firstName": "Ernst",
+      "lastName": "Hartmann",
+      "role": "Dörte",
+      "fullName": "Ernst Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Henning",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac98",
+      "additional": "1815-1888, Hofschauspieler",
+      "firstName": "Carl Wilhelm",
+      "lastName": "Meixner",
+      "role": "Viehhändler",
+      "fullName": "Carl Wilhelm Meixner"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6d8",
+      "additional": "1843-1902, Pseud. Wallis, Alfred",
+      "firstName": "Emil",
+      "lastName": "Ferrari",
+      "role": "Waffenschmied",
+      "fullName": "Emil Ferrari"
+    },
+    {
+      "_id": "6504166ba47588ad6024a849",
+      "additional": "1842-1908",
+      "firstName": "Leo",
+      "lastName": "Friedrich",
+      "role": "Veit",
+      "fullName": "Leo Friedrich"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7dd",
+      "additional": "1853-1907",
+      "firstName": "Franz",
+      "lastName": "Fiala",
+      "role": "1.Krieger",
+      "fullName": "Franz Fiala"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa43",
+      "additional": "1822-1892",
+      "firstName": "Matthias",
+      "lastName": "Jehly",
+      "role": "2.Krieger",
+      "fullName": "Matthias Jehly"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "Diener",
+      "fullName": "Friedrich Wilhelm Bayer"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa72",
+      "additional": "",
+      "firstName": "Josef",
+      "lastName": "Kaiser",
+      "role": "Knecht",
+      "fullName": "Josef Kaiser"
+    }
+  ],
+  "crew": [],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b3f3",
+      "additional": "",
+      "firstName": "Paul",
+      "lastName": "Heyse",
+      "fullName": "Paul Heyse"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-04-04.jpeg"
+  ],
+  "comment": "Ort der Handlung: Rügenwalde und Dorf Lanzke in Hinterpommern, Zeit: 1476.",
+  "productions": [
+    {
+      "_id": "65c61a39d3ced60fbe1b8a5d",
+      "uid": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "23",
+      "date": "1864-10-18T12:00:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Herzogin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ewald",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Jürgen",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Achim",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Hans Lange",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Gertrude",
+          "fullName": "Julie Rettich (geb. Gley)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Dörte",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Henning",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Viehhändler",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Waffenschmied",
+          "fullName": "August Fricke"
+        },
+        {
+          "_id": "6504166ba47588ad6024af2a",
+          "additional": "1797-1866",
+          "firstName": "Josef",
+          "lastName": "Schmidt",
+          "role": "Veit",
+          "fullName": "Josef Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Barko",
+          "role": "1.Krieger",
+          "fullName": "Herr Barko"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0286.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-10-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b4e4be027ead1c18c1cbd",
+      "uid": "2241405e-9e31-4976-829a-78bed508791e",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1864-10-19T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Herzogin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ewald",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Jürgen",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Achim",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Hans Lange",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Gertrude",
+          "fullName": "Julie Rettich (geb. Gley)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Dörte",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Henning",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Viehhändler",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Waffenschmied",
+          "fullName": "August Fricke"
+        },
+        {
+          "_id": "6504166ba47588ad6024af2a",
+          "additional": "1797-1866",
+          "firstName": "Josef",
+          "lastName": "Schmidt",
+          "role": "Veit",
+          "fullName": "Josef Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Barko",
+          "role": "1.Krieger",
+          "fullName": "Herr Barko"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-10-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b506ae027ead1c18c4f46",
+      "uid": "6e91538c-a43b-41cf-9d57-81fb4a3e023d",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1864-10-22T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Herzogin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ewald",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Jürgen",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Achim",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Hans Lange",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Gertrude",
+          "fullName": "Julie Rettich (geb. Gley)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Dörte",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Henning",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Viehhändler",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Waffenschmied",
+          "fullName": "August Fricke"
+        },
+        {
+          "_id": "6504166ba47588ad6024af2a",
+          "additional": "1797-1866",
+          "firstName": "Josef",
+          "lastName": "Schmidt",
+          "role": "Veit",
+          "fullName": "Josef Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Barko",
+          "role": "1.Krieger",
+          "fullName": "Herr Barko"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-10-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b5152e027ead1c18c66a7",
+      "uid": "ef8ac282-b7c0-4aad-8f55-9049c9c2e3d5",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1864-10-27T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Herzogin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ewald",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Jürgen",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Achim",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Hans Lange",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Gertrude",
+          "fullName": "Julie Rettich (geb. Gley)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Dörte",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Henning",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Viehhändler",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Waffenschmied",
+          "fullName": "August Fricke"
+        },
+        {
+          "_id": "6504166ba47588ad6024af2a",
+          "additional": "1797-1866",
+          "firstName": "Josef",
+          "lastName": "Schmidt",
+          "role": "Veit",
+          "fullName": "Josef Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Barko",
+          "role": "1.Krieger",
+          "fullName": "Herr Barko"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-10-27.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-10-27_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b50f2e027ead1c18c5cc6",
+      "uid": "9aa1a698-62b3-4ddb-9f52-ac7033abd274",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1864-10-27T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Herzogin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ewald",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Jürgen",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Achim",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Hans Lange",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Gertrude",
+          "fullName": "Julie Rettich (geb. Gley)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Dörte",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Henning",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Viehhändler",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Waffenschmied",
+          "fullName": "August Fricke"
+        },
+        {
+          "_id": "6504166ba47588ad6024af2a",
+          "additional": "1797-1866",
+          "firstName": "Josef",
+          "lastName": "Schmidt",
+          "role": "Veit",
+          "fullName": "Josef Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Barko",
+          "role": "1.Krieger",
+          "fullName": "Herr Barko"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-10-27.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-10-27_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b544de027ead1c18cb29c",
+      "uid": "f499b070-bcea-484c-a3bd-7048b24ad21e",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1864-11-07T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Herzogin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ewald",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Jürgen",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Achim",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Hans Lange",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Gertrude",
+          "fullName": "Julie Rettich (geb. Gley)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Dörte",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Henning",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Viehhändler",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Waffenschmied",
+          "fullName": "August Fricke"
+        },
+        {
+          "_id": "6504166ba47588ad6024af2a",
+          "additional": "1797-1866",
+          "firstName": "Josef",
+          "lastName": "Schmidt",
+          "role": "Veit",
+          "fullName": "Josef Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Barko",
+          "role": "1.Krieger",
+          "fullName": "Herr Barko"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-11-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b55ace027ead1c18cd580",
+      "uid": "a56d1be7-ea0c-4048-916c-169aff062360",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1864-11-12T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Herzogin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ewald",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Jürgen",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Achim",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Hans Lange",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Gertrude",
+          "fullName": "Julie Rettich (geb. Gley)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Dörte",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Henning",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Viehhändler",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Waffenschmied",
+          "fullName": "August Fricke"
+        },
+        {
+          "_id": "6504166ba47588ad6024af2a",
+          "additional": "1797-1866",
+          "firstName": "Josef",
+          "lastName": "Schmidt",
+          "role": "Veit",
+          "fullName": "Josef Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Barko",
+          "role": "1.Krieger",
+          "fullName": "Herr Barko"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-11-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b50cae027ead1c18c588e",
+      "uid": "9823db56-a354-4c53-9be3-79921a2b1bc6",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-04-19T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Herzogin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ewald",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Jürgen",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Achim",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Hans Lange",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae58",
+          "additional": "1809-1866",
+          "firstName": "Julie",
+          "lastName": "Rettich (geb. Gley)",
+          "role": "Gertrude",
+          "fullName": "Julie Rettich (geb. Gley)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Dörte",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Henning",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Viehhändler",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Waffenschmied",
+          "fullName": "August Fricke"
+        },
+        {
+          "_id": "6504166ba47588ad6024af2a",
+          "additional": "1797-1866",
+          "firstName": "Josef",
+          "lastName": "Schmidt",
+          "role": "Veit",
+          "fullName": "Josef Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c6",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Berger",
+          "role": "1.Krieger",
+          "fullName": "Alois Berger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-04-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665217384e11902147ec54de",
+      "uid": "fdcbf180-01ce-495b-8b53-97742fc7956f",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-06-14T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ewald",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Achim",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Hans Lange",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gertrude",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Viehhändler",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Waffenschmied",
+          "fullName": "August Fricke"
+        },
+        {
+          "_id": "6504166ba47588ad6024af2a",
+          "additional": "1797-1866",
+          "firstName": "Josef",
+          "lastName": "Schmidt",
+          "role": "Veit",
+          "fullName": "Josef Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c6",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Berger",
+          "role": "1.Krieger",
+          "fullName": "Alois Berger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-06-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66521a974e11902147ec9887",
+      "uid": "421c8982-be03-44a0-9573-62d3c96268f5",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-06-19T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ewald",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Achim",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Hans Lange",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gertrude",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Viehhändler",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Waffenschmied",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa7a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Karban",
+          "role": "1.Krieger",
+          "fullName": "Herr Karban"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-06-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665236014e11902147eecf07",
+      "uid": "03bdbbc0-65b9-48c5-813b-a750760f3e35",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-09-24T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ewald",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Achim",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Hans Lange",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gertrude",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Henoch",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Waffenschmied",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024afc9",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Seibold",
+          "role": "1.Krieger",
+          "fullName": "Karl Seibold"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-09-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665344484e1190214703a566",
+      "uid": "7aa9eb79-48b0-4eaa-99ac-73d8c46f2781",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1872-03-13T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ewald",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Achim",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Hans Lange",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gertrude",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Henoch",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Waffenschmied",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024afc9",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Seibold",
+          "role": "1.Krieger",
+          "fullName": "Karl Seibold"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-03-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665332ce4e11902147022ce7",
+      "uid": "7b6db888-cede-4442-ad63-35e2cd88fea8",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-02-18T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ewald",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Achim",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Hans Lange",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gertrude",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Henoch",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024af5e",
+          "additional": "",
+          "firstName": "Leopold",
+          "lastName": "Schönberger",
+          "role": "1.Krieger",
+          "fullName": "Leopold Schönberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-02-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665475244e119021471c3add",
+      "uid": "d7e79667-b553-4fa2-843a-bf6781b5baf8",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-08-24T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ewald",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Hans Lange",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gertrude",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Henoch",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024af5e",
+          "additional": "",
+          "firstName": "Leopold",
+          "lastName": "Schönberger",
+          "role": "1.Krieger",
+          "fullName": "Leopold Schönberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-08-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665432984e11902147161f83",
+      "uid": "f4bf035d-b23d-44c3-9575-4a3fd7fc0705",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-01-02T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ewald",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Hans Lange",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gertrude",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Dörte",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Henoch",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024af5e",
+          "additional": "",
+          "firstName": "Leopold",
+          "lastName": "Schönberger",
+          "role": "1.Krieger",
+          "fullName": "Leopold Schönberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-01-02.jpeg"
+      ],
+      "comment": "Wegen Unpässlichkeit der Frau Gabillon, statt \"Graf Horn\"."
+    },
+    {
+      "_id": "665475084e119021471c3881",
+      "uid": "a7dff3a3-9137-4fed-a042-d6aa6c363d4b",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-04-09T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ewald",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Hans Lange",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gertrude",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Dörte",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Henoch",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024af5e",
+          "additional": "",
+          "firstName": "Leopold",
+          "lastName": "Schönberger",
+          "role": "1.Krieger",
+          "fullName": "Leopold Schönberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-04-09.jpeg"
+      ],
+      "comment": "Bugslaff - - - - Hr. Skraup, vom Stadttheater in Rostock, als Gast."
+    },
+    {
+      "_id": "6654dcf94e1190214724e84e",
+      "uid": "2d394df5-f5eb-4754-a2f9-b4c98b860cff",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-08-20T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ewald",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Klaus",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Hans Lange",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gertrude",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Henoch",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024af5e",
+          "additional": "",
+          "firstName": "Leopold",
+          "lastName": "Schönberger",
+          "role": "1.Krieger",
+          "fullName": "Leopold Schönberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-08-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655b8144e11902147365be6",
+      "uid": "0a2780ff-38ca-4d53-bc73-5e4b8551d95e",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-06-17T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b020",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Stägemann (Stegemann)",
+          "role": "Bugslaff",
+          "fullName": "Eugen Stägemann (Stegemann)"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ewald",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Klaus",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Hans Lange",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gertrude",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Henoch",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024af5e",
+          "additional": "",
+          "firstName": "Leopold",
+          "lastName": "Schönberger",
+          "role": "1.Krieger",
+          "fullName": "Leopold Schönberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-06-17.jpeg"
+      ],
+      "comment": "Herr Stägemann als Gast aus Hamburg"
+    },
+    {
+      "_id": "665626a84e119021473fc9ad",
+      "uid": "34b5b107-9f61-4955-818d-ac0bd8ae7b04",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-12-13T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ewald",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Klaus",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Hans Lange",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Gertrude",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Henoch",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024af5e",
+          "additional": "",
+          "firstName": "Leopold",
+          "lastName": "Schönberger",
+          "role": "1.Krieger",
+          "fullName": "Leopold Schönberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-12-13.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-12-13_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665630e14e1190214740aee4",
+      "uid": "9eb7799f-3bf5-4f9d-aa73-d85304a80b92",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-05-25T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ewald",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Klaus",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Hans Lange",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gertrude",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Viehhändler",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024af5e",
+          "additional": "",
+          "firstName": "Leopold",
+          "lastName": "Schönberger",
+          "role": "1.Krieger",
+          "fullName": "Leopold Schönberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-05-25.jpeg"
+      ],
+      "comment": "Ort der Handlung: Rügenwalde und Dorf Lanzke in Hinterpommern. Zeit 1476."
+    },
+    {
+      "_id": "66589ddd4e1190214771776a",
+      "uid": "9d896990-e719-46d6-ba00-a70bd70d5e33",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-09-03T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Bugslaff",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ewald",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Klaus",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Hans Lange",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gertrude",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Viehhändler",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "1.Krieger",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-09-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658ad414e1190214772e02d",
+      "uid": "63362df3-635d-4442-9077-d96f22209634",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-28T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Bugslaff",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ewald",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Klaus",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Hans Lange",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gertrude",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Viehhändler",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "1.Krieger",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c8e64e11902147756521",
+      "uid": "757402e8-f017-420b-885c-6efadd5f6a9b",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-04-04T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Herzogin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Bugslaff",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ewald",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Hans",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Klaus",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Hans Lange",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Gertrude",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Viehhändler",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Veit",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "1.Krieger",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2.Krieger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-04-04.jpeg"
+      ],
+      "comment": "Ort der Handlung: Rügenwalde und Dorf Lanzke in Hinterpommern, Zeit: 1476."
+    },
+    {
+      "_id": "665cbab64e11902147c41bbd",
+      "uid": "025b4c69-488b-4591-afc0-88ba055a20d7",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-10-17T10:55:00.000Z",
+      "season": "1882/1883",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Herzogin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af68",
+          "additional": "",
+          "firstName": "Gertrude",
+          "lastName": "Schreiner",
+          "role": "Ewald",
+          "fullName": "Gertrude Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Hans",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Klaus",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Hans Lange",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Gertrude",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Viehhändler",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "Veit",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "1.Krieger",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "2.Krieger",
+          "fullName": "Eduard Dürer"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-10-17.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665d64534e11902147d0fee5",
+      "uid": "4aeaad8b-738c-4c4b-ad80-1c782ae85af8",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-11-08T10:55:00.000Z",
+      "season": "1882/1883",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Herzogin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af68",
+          "additional": "",
+          "firstName": "Gertrude",
+          "lastName": "Schreiner",
+          "role": "Ewald",
+          "fullName": "Gertrude Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Hans",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Klaus",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Hans Lange",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Gertrude",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Viehhändler",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "Veit",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "1.Krieger",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "2.Krieger",
+          "fullName": "Eduard Dürer"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-11-08.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665daf3c4e11902147d79505",
+      "uid": "506165bb-77a9-4c27-befe-1581d591f780",
+      "productionId": "a6e43c00-cb9e-499b-b61d-0af794e84361",
+      "title": "Hans Lange",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1883-11-24T10:55:00.000Z",
+      "season": "1883/1884",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Herzogin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Bugslaff",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af68",
+          "additional": "",
+          "firstName": "Gertrude",
+          "lastName": "Schreiner",
+          "role": "Ewald",
+          "fullName": "Gertrude Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Jürgen",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Hans",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jost",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Klaus",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Achim",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Hans Lange",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Gertrude",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Dörte",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Henning",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Viehhändler",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Waffenschmied",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "Veit",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "1.Krieger",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "2.Krieger",
+          "fullName": "Eduard Dürer"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Knecht",
+          "fullName": "Josef Kaiser"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3f3",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Heyse",
+          "fullName": "Paul Heyse"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1883/1883-11-24.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "_id": "6658ede14e1190214778897e",
+  "uid": "ae9547e3-7dbd-4dbb-8358-4b109385e6ce",
+  "productionId": "c561142c-3516-4b72-b845-3392ad118022",
+  "title": "Hernani",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-05-30T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ab3d",
+      "additional": "1839-1908",
+      "firstName": "Friedrich",
+      "lastName": "Krastel",
+      "role": "Hernani",
+      "fullName": "Friedrich Krastel"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae87",
+      "additional": "1847-1899",
+      "firstName": "Emmerich",
+      "lastName": "Robert",
+      "role": "Don Carlos, König von Spanien, später Kaiser Karl V.",
+      "fullName": "Emmerich Robert"
+    },
+    {
+      "_id": "6504166ba47588ad6024a941",
+      "additional": "1833-1892",
+      "firstName": "Konrad",
+      "lastName": "Hallenstein",
+      "role": "Don Ruy Gomez de Silva",
+      "fullName": "Konrad Hallenstein"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b15",
+      "additional": "1848-1920",
+      "firstName": "Antonie",
+      "lastName": "Janisch",
+      "role": "Donna Sol de Silva, seine Nichte",
+      "fullName": "Antonie Janisch"
+    },
+    {
+      "_id": "6561f3320080658502cf302a",
+      "firstName": "Rudolf",
+      "lastName": "Leyrer",
+      "additional": "",
+      "role": "Der Kurfürst von Baiern, Kurfürst des römischen Reiches",
+      "fullName": "Rudolf Leyrer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b132",
+      "additional": "",
+      "firstName": "Ignaz",
+      "lastName": "Vogler",
+      "role": "Der Kurfürst von Brandenburg, Kurfürst des römischen Reiches",
+      "fullName": "Ignaz Vogler"
+    },
+    {
+      "_id": "6504166ba47588ad6024b4e4",
+      "additional": "1837-1889",
+      "firstName": "Louis",
+      "lastName": "Nötel",
+      "role": "Markgraf von Meissen",
+      "fullName": "Louis Nötel"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9ac",
+      "additional": "",
+      "firstName": "Karl",
+      "lastName": "Hellmann",
+      "role": "Baron von Hohenburg",
+      "fullName": "Karl Hellmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7dd",
+      "additional": "1853-1907",
+      "firstName": "Franz",
+      "lastName": "Fiala",
+      "role": "Herzog von Lützelburg",
+      "fullName": "Franz Fiala"
+    },
+    {
+      "_id": "6504166ba47588ad6024b041",
+      "additional": "1843-1913",
+      "firstName": "Philipp",
+      "lastName": "Stätter",
+      "role": "Don Sanchez",
+      "fullName": "Philipp Stätter"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6d8",
+      "additional": "1843-1902, Pseud. Wallis, Alfred",
+      "firstName": "Emil",
+      "lastName": "Ferrari",
+      "role": "Don Matias",
+      "fullName": "Emil Ferrari"
+    },
+    {
+      "_id": "6504166ba47588ad6024af69",
+      "additional": "1854-1942, Hofschauspieler",
+      "firstName": "Jakob",
+      "lastName": "Schreiner",
+      "role": "Don Ricardo",
+      "fullName": "Jakob Schreiner"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0e0",
+      "additional": "1854-1944",
+      "firstName": "Hugo",
+      "lastName": "Thimig",
+      "role": "Don Garcia Suarez",
+      "fullName": "Hugo Thimig"
+    },
+    {
+      "_id": "6561eeb70080658502cf2eea",
+      "firstName": "Friedrich",
+      "lastName": "Rüden",
+      "additional": "1836-1900",
+      "role": "Don Franzesco",
+      "fullName": "Friedrich Rüden"
+    },
+    {
+      "_id": "6504166ba47588ad6024a849",
+      "additional": "1842-1908",
+      "firstName": "Leo",
+      "lastName": "Friedrich",
+      "role": "Don Juan de Haro",
+      "fullName": "Leo Friedrich"
+    },
+    {
+      "_id": "6504166ba47588ad6024abea",
+      "additional": "1834-1913",
+      "firstName": "Josef",
+      "lastName": "Lippert",
+      "role": "Don Gil Telez Giron",
+      "fullName": "Josef Lippert"
+    },
+    {
+      "_id": "6504166ba47588ad6024b163",
+      "additional": "1850-1919",
+      "firstName": "Fanny",
+      "lastName": "Walbeck",
+      "role": "Jaquez, Page von Don Ruy Gomez de Silva",
+      "fullName": "Fanny Walbeck"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc4",
+      "additional": "1822-1883",
+      "firstName": "Eduard",
+      "lastName": "Leuchert",
+      "role": "Ein Bandit",
+      "fullName": "Eduard Leuchert"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad02",
+      "additional": "1838-1916",
+      "firstName": "Ernestine",
+      "lastName": "Negro",
+      "role": "Donna Josefa Duarte, Duenna der Donna Sel",
+      "fullName": "Ernestine Negro"
+    },
+    {
+      "_id": "6504166ba47588ad6024a51b",
+      "additional": "1844-1910",
+      "firstName": "Josef",
+      "lastName": "Altmann",
+      "role": "1. Verschworener",
+      "fullName": "Josef Altmann"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "2. Verschworener",
+      "fullName": "Friedrich Wilhelm Bayer"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa43",
+      "additional": "1822-1892",
+      "firstName": "Matthias",
+      "lastName": "Jehly",
+      "role": "3. Verschworener",
+      "fullName": "Matthias Jehly"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b82c",
+      "additional": "Pseud. f. Elisabeth Branitz",
+      "firstName": "Betty",
+      "lastName": "Paoli",
+      "fullName": "Betty Paoli",
+      "role": "Deutsch"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024ba98",
+      "additional": "",
+      "firstName": "Victor",
+      "lastName": "Hugo",
+      "fullName": "Victor Hugo"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-30.jpeg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-30_00000002.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a82d3ced60fbe1c85c5",
+      "uid": "c561142c-3516-4b72-b845-3392ad118022",
+      "productionId": "c561142c-3516-4b72-b845-3392ad118022",
+      "title": "Hernani",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "3",
+      "date": "1879-05-29T12:00:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Hernani",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Carlos",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "De Silva",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Seine Nichte",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Kurfürst",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Kurfürst von Brandenburg",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Markgraf",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ac",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Hellmann",
+          "role": "Baron",
+          "fullName": "Karl Hellmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Herzog",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Don Sanchez",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Don Matias",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Don Ricardo",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Don Suarez",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Franzesco",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Don Haro",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Don Giron",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Page",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Bandit",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Donna Josefa",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Drei Verschworene",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Drei Verschworene",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Drei Verschworene",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024ba98",
+          "additional": "",
+          "firstName": "Victor",
+          "lastName": "Hugo",
+          "fullName": "Victor Hugo"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0324.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658ede14e1190214778897e",
+      "uid": "ae9547e3-7dbd-4dbb-8358-4b109385e6ce",
+      "productionId": "c561142c-3516-4b72-b845-3392ad118022",
+      "title": "Hernani",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-05-30T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Hernani",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Carlos, König von Spanien, später Kaiser Karl V.",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Don Ruy Gomez de Silva",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Donna Sol de Silva, seine Nichte",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Der Kurfürst von Baiern, Kurfürst des römischen Reiches",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Der Kurfürst von Brandenburg, Kurfürst des römischen Reiches",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Markgraf von Meissen",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ac",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Hellmann",
+          "role": "Baron von Hohenburg",
+          "fullName": "Karl Hellmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Herzog von Lützelburg",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Don Sanchez",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Don Matias",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Don Ricardo",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Don Garcia Suarez",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Franzesco",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Don Juan de Haro",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Don Gil Telez Giron",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Jaquez, Page von Don Ruy Gomez de Silva",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Ein Bandit",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Donna Josefa Duarte, Duenna der Donna Sel",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "1. Verschworener",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "2. Verschworener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "3. Verschworener",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024ba98",
+          "additional": "",
+          "firstName": "Victor",
+          "lastName": "Hugo",
+          "fullName": "Victor Hugo"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-30.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-30_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658cca94e1190214775c43d",
+      "uid": "b3e29cdc-2be3-4893-93c0-f214ad4ebee1",
+      "productionId": "c561142c-3516-4b72-b845-3392ad118022",
+      "title": "Hernani",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-06-04T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Hernani",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Carlos",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "De Silva",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Seine Nichte",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Kurfürst",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Kurfürst von Brandenburg",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Markgraf",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ac",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Hellmann",
+          "role": "Baron",
+          "fullName": "Karl Hellmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Herzog",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Don Sanchez",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Don Matias",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Don Ricardo",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Don Suarez",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Franzesco",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Don Haro",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Don Giron",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Page",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Bandit",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Donna Josefa",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Drei Verschworene",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Drei Verschworene",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Drei Verschworene",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024ba98",
+          "additional": "",
+          "firstName": "Victor",
+          "lastName": "Hugo",
+          "fullName": "Victor Hugo"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-04.jpeg"
+      ],
+      "comment": ""
+    }
+  ]
+}

@@ -651,7 +651,7 @@
     "firstName": "",
     "lastName": "_____",
     "additional": "",
-    "role": "Eine Person, die den Hymen vorstellt",
+    "role": "Eine Dienstmagd",
     "fullName": " _____"
   },
   "656cd92a00806585023581ab": {
@@ -1832,7 +1832,7 @@
     "additional": "1844-1911",
     "firstName": "Ernst",
     "lastName": "Hartmann",
-    "role": "Ein Kellner (Vorspiel)",
+    "role": "Graf Ernst, sein Sohn",
     "fullName": "Ernst Hartmann"
   },
   "6590925f51cd38b4100f6785": {
@@ -2167,5 +2167,1059 @@
     "lastName": "Gielen",
     "fullName": "Dr. Josef Gielen",
     "role": "Regie"
+  },
+  "6504166ba47588ad6024a51b": {
+    "_id": "6504166ba47588ad6024a51b",
+    "additional": "1844-1910",
+    "firstName": "Josef",
+    "lastName": "Altmann",
+    "role": "Agrippa, Cäsars Vertrauter",
+    "fullName": "Josef Altmann"
+  },
+  "6504166ba47588ad6024ab3d": {
+    "_id": "6504166ba47588ad6024ab3d",
+    "additional": "1839-1908",
+    "firstName": "Friedrich",
+    "lastName": "Krastel",
+    "role": "Sextus Pompejus, Gegner der Triumvirn",
+    "fullName": "Friedrich Krastel"
+  },
+  "6504166ba47588ad6024acd3": {
+    "_id": "6504166ba47588ad6024acd3",
+    "additional": "",
+    "firstName": "Friedrich",
+    "lastName": "Mitterwurzer",
+    "role": "Ein Engländer",
+    "fullName": "Friedrich Mitterwurzer"
+  },
+  "650c0541258213a8dc5f9b3d": {
+    "_id": "650c0541258213a8dc5f9b3d",
+    "additional": "",
+    "firstName": "Elise",
+    "lastName": "Rainer",
+    "role": "Josephine, seine Frau zweiter Ehe",
+    "fullName": "Elise Rainer"
+  },
+  "6504166ba47588ad6024ae87": {
+    "_id": "6504166ba47588ad6024ae87",
+    "additional": "1847-1899",
+    "firstName": "Emmerich",
+    "lastName": "Robert",
+    "role": "Octavius Cäsar, römischer Triumvir",
+    "fullName": "Emmerich Robert"
+  },
+  "6504166ba47588ad6024a86e": {
+    "_id": "6504166ba47588ad6024a86e",
+    "additional": "1825-1896",
+    "firstName": "Ludwig",
+    "lastName": "Gabillon",
+    "role": "Fürst Albert Liebenstein",
+    "fullName": "Ludwig Gabillon"
+  },
+  "6504166ba47588ad6024a941": {
+    "_id": "6504166ba47588ad6024a941",
+    "additional": "1833-1892",
+    "firstName": "Konrad",
+    "lastName": "Hallenstein",
+    "role": "Freiherr von Schallenberg",
+    "fullName": "Konrad Hallenstein"
+  },
+  "6504166ba47588ad6024b6d8": {
+    "_id": "6504166ba47588ad6024b6d8",
+    "additional": "1843-1902, Pseud. Wallis, Alfred",
+    "firstName": "Emil",
+    "lastName": "Ferrari",
+    "role": "Schreier, ein Studiosus",
+    "fullName": "Emil Ferrari"
+  },
+  "6504166ba47588ad6024abc4": {
+    "_id": "6504166ba47588ad6024abc4",
+    "additional": "1822-1883",
+    "firstName": "Eduard",
+    "lastName": "Leuchert",
+    "role": "2. Zeltwache Cäsars",
+    "fullName": "Eduard Leuchert"
+  },
+  "6504166ba47588ad6024af60": {
+    "_id": "6504166ba47588ad6024af60",
+    "additional": "1836-1902",
+    "firstName": "Hermann",
+    "lastName": "Schöne",
+    "role": "Anton Sanftleben",
+    "fullName": "Hermann Schöne"
+  },
+  "6504166ba47588ad6024af69": {
+    "_id": "6504166ba47588ad6024af69",
+    "additional": "1854-1942, Hofschauspieler",
+    "firstName": "Jakob",
+    "lastName": "Schreiner",
+    "role": "Thyreus, Abgesandter Cäsars",
+    "fullName": "Jakob Schreiner"
+  },
+  "6504166ba47588ad6024b041": {
+    "_id": "6504166ba47588ad6024b041",
+    "additional": "1843-1913",
+    "firstName": "Philipp",
+    "lastName": "Stätter",
+    "role": "Ernst, sein Sohn",
+    "fullName": "Philipp Stätter"
+  },
+  "6561f3320080658502cf302a": {
+    "_id": "6561f3320080658502cf302a",
+    "firstName": "Rudolf",
+    "lastName": "Leyrer",
+    "additional": "",
+    "role": "Demetrius, im Heer und im Dienst des Antonius",
+    "fullName": "Rudolf Leyrer"
+  },
+  "6504166ba47588ad6024ac98": {
+    "_id": "6504166ba47588ad6024ac98",
+    "additional": "1815-1888, Hofschauspieler",
+    "firstName": "Carl Wilhelm",
+    "lastName": "Meixner",
+    "role": "Oberst-Sanitätsrat Dr. Düring",
+    "fullName": "Carl Wilhelm Meixner"
+  },
+  "6504166ba47588ad6024a849": {
+    "_id": "6504166ba47588ad6024a849",
+    "additional": "1842-1908",
+    "firstName": "Leo",
+    "lastName": "Friedrich",
+    "role": "Bote aus Rom",
+    "fullName": "Leo Friedrich"
+  },
+  "6504166ba47588ad6024abea": {
+    "_id": "6504166ba47588ad6024abea",
+    "additional": "1834-1913",
+    "firstName": "Josef",
+    "lastName": "Lippert",
+    "role": "1. Leibwache des Antonius",
+    "fullName": "Josef Lippert"
+  },
+  "655672180080658502bfb4f4": {
+    "_id": "655672180080658502bfb4f4",
+    "firstName": "Friedrich Wilhelm",
+    "lastName": "Bayer",
+    "additional": "1833-1898",
+    "role": "Ein Diener bei Liebenstein",
+    "fullName": "Friedrich Wilhelm Bayer"
+  },
+  "6504166ba47588ad6024b2ba": {
+    "_id": "6504166ba47588ad6024b2ba",
+    "additional": "Pseud. f. Marie Gordon",
+    "firstName": "Alexander",
+    "lastName": "Bergen",
+    "fullName": "Alexander Bergen",
+    "role": "Deutsch"
+  },
+  "6504166ba47588ad6024abc9": {
+    "_id": "6504166ba47588ad6024abc9",
+    "additional": "1835-1907",
+    "firstName": "Josef",
+    "lastName": "Lewinsky",
+    "role": "Mäcenas, Cäsars Vertrauter",
+    "fullName": "Josef Lewinsky"
+  },
+  "6504166ba47588ad6024a9ee": {
+    "_id": "6504166ba47588ad6024a9ee",
+    "additional": "1857-1920",
+    "firstName": "Stella",
+    "lastName": "Hohenfels",
+    "role": "Thekla, seine Nichte",
+    "fullName": "Stella Hohenfels"
+  },
+  "6504166ba47588ad6024b6f7": {
+    "_id": "6504166ba47588ad6024b6f7",
+    "additional": "geb. Würzburg, 1835-1892",
+    "firstName": "Zerline",
+    "lastName": "Gabillon",
+    "role": "Beline, seine zweite Frau",
+    "fullName": "Zerline Gabillon"
+  },
+  "6504166ba47588ad6024b0e0": {
+    "_id": "6504166ba47588ad6024b0e0",
+    "additional": "1854-1944",
+    "firstName": "Hugo",
+    "lastName": "Thimig",
+    "role": "Julius Schmählich, Rittergutsbesitzer",
+    "fullName": "Hugo Thimig"
+  },
+  "6561eeb70080658502cf2eea": {
+    "_id": "6561eeb70080658502cf2eea",
+    "firstName": "Friedrich",
+    "lastName": "Rüden",
+    "additional": "1836-1900",
+    "role": "Charles, Oberkellner",
+    "fullName": "Friedrich Rüden"
+  },
+  "6504166ba47588ad6024b354": {
+    "_id": "6504166ba47588ad6024b354",
+    "additional": "",
+    "firstName": "Philippe François Pinel",
+    "lastName": "Dumanoir",
+    "fullName": "Philippe François Pinel Dumanoir"
+  },
+  "6504166ba47588ad6024b45e": {
+    "_id": "6504166ba47588ad6024b45e",
+    "additional": "",
+    "firstName": "Paul Constantin",
+    "lastName": "Lafargue",
+    "fullName": "Paul Constantin Lafargue"
+  },
+  "650c0541258213a8dc5f9b15": {
+    "_id": "650c0541258213a8dc5f9b15",
+    "additional": "1848-1920",
+    "firstName": "Antonie",
+    "lastName": "Janisch",
+    "role": "Octavia, Cäsars Schwester, Gemahlin Antonius",
+    "fullName": "Antonie Janisch"
+  },
+  "6504166ba47588ad6024b07e": {
+    "_id": "6504166ba47588ad6024b07e",
+    "additional": "1825-1892",
+    "firstName": "Marie",
+    "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+    "role": "Gräfin Kienborn",
+    "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+  },
+  "6504166ba47588ad6024a969": {
+    "_id": "6504166ba47588ad6024a969",
+    "additional": "geb. Schneeberger, 1843-1898",
+    "firstName": "Helene",
+    "lastName": "Hartmann",
+    "role": "Clarisse, ihre Tochter",
+    "fullName": "Helene Hartmann"
+  },
+  "6504166ba47588ad6024b8b0": {
+    "_id": "6504166ba47588ad6024b8b0",
+    "additional": "1834-1909",
+    "firstName": "Adolf",
+    "lastName": "Sonnenthal",
+    "role": "Baron Rosenkranz",
+    "fullName": "Adolf Sonnenthal"
+  },
+  "6504166ba47588ad6024b153": {
+    "_id": "6504166ba47588ad6024b153",
+    "additional": "Hofschauspielerin, verehel. Goschalla",
+    "firstName": "Rosa",
+    "lastName": "Wagner",
+    "role": "Gertrude, Stubenmädchen bei Liebenstein",
+    "fullName": "Rosa Wagner"
+  },
+  "6504166ba47588ad6024b488": {
+    "_id": "6504166ba47588ad6024b488",
+    "additional": "",
+    "firstName": "Paul",
+    "lastName": "Lindau",
+    "fullName": "Paul Lindau"
+  },
+  "662e916c46b3b9baaf2c53f8": {
+    "_id": "662e916c46b3b9baaf2c53f8",
+    "firstName": "Jakob",
+    "lastName": "Dont",
+    "additional": "Violinist, Komponist",
+    "fullName": "Jakob Dont",
+    "role": "Musik - Ouverture"
+  },
+  "6562176d0080658502cf3a86": {
+    "_id": "6562176d0080658502cf3a86",
+    "firstName": "Julius",
+    "lastName": "Sulzer",
+    "additional": "",
+    "fullName": "Julius Sulzer",
+    "role": "Musik"
+  },
+  "6504166ba47588ad6024aa43": {
+    "_id": "6504166ba47588ad6024aa43",
+    "additional": "1822-1892",
+    "firstName": "Matthias",
+    "lastName": "Jehly",
+    "role": "2. Leibwache des Antonius",
+    "fullName": "Matthias Jehly"
+  },
+  "6504166ba47588ad6024b71e": {
+    "_id": "6504166ba47588ad6024b71e",
+    "additional": "",
+    "firstName": "Karl",
+    "lastName": "Gutzkow",
+    "fullName": "Karl Gutzkow"
+  },
+  "6504166ba47588ad6024b7ab": {
+    "_id": "6504166ba47588ad6024b7ab",
+    "additional": "",
+    "firstName": "Heinrich",
+    "lastName": "Laube",
+    "fullName": "Heinrich Laube",
+    "role": "Deutsch"
+  },
+  "6504166ba47588ad6024a58d": {
+    "_id": "6504166ba47588ad6024a58d",
+    "additional": "1828-1917",
+    "firstName": "Bernhard",
+    "lastName": "Baumeister",
+    "role": "Kunz von der Rosen",
+    "fullName": "Bernhard Baumeister"
+  },
+  "6504166ba47588ad6024b230": {
+    "_id": "6504166ba47588ad6024b230",
+    "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+    "firstName": "Charlotte",
+    "lastName": "Wolter",
+    "role": "Cleopatra, Königin von Ägypten",
+    "fullName": "Charlotte Wolter"
+  },
+  "6504166ba47588ad6024b163": {
+    "_id": "6504166ba47588ad6024b163",
+    "additional": "1850-1919",
+    "firstName": "Fanny",
+    "lastName": "Walbeck",
+    "role": "Vilma, seine Enkelin",
+    "fullName": "Fanny Walbeck"
+  },
+  "6504166ba47588ad6024a52c": {
+    "_id": "6504166ba47588ad6024a52c",
+    "additional": "1816-1891",
+    "firstName": "Friedrich Louis",
+    "lastName": "Arnsburg",
+    "role": "Schleich, Sekretär bei Liebenstein",
+    "fullName": "Friedrich Louis Arnsburg"
+  },
+  "6504166ba47588ad6024ad02": {
+    "_id": "6504166ba47588ad6024ad02",
+    "additional": "1838-1916",
+    "firstName": "Ernestine",
+    "lastName": "Negro",
+    "role": "Gräfin Rougemont",
+    "fullName": "Ernestine Negro"
+  },
+  "6504166ba47588ad6024ab46": {
+    "_id": "6504166ba47588ad6024ab46",
+    "additional": "1837-1918",
+    "firstName": "Anna",
+    "lastName": "Kratz",
+    "role": "Madame Chèbe",
+    "fullName": "Anna Kratz"
+  },
+  "6504166ba47588ad6024b873": {
+    "_id": "6504166ba47588ad6024b873",
+    "additional": "",
+    "firstName": "Victorien",
+    "lastName": "Sardou",
+    "fullName": "Victorien Sardou"
+  },
+  "6504166ba47588ad6024b61e": {
+    "_id": "6504166ba47588ad6024b61e",
+    "additional": "",
+    "firstName": "Albert",
+    "lastName": "Beckmann",
+    "fullName": "Albert Beckmann",
+    "role": "Deutsch"
+  },
+  "6504166ba47588ad6024ab6a": {
+    "_id": "6504166ba47588ad6024ab6a",
+    "additional": "1818-1886",
+    "firstName": "Cesarine",
+    "lastName": "Kupfer-Gomansky",
+    "role": "Fräulein Toni, seine Tante",
+    "fullName": "Cesarine Kupfer-Gomansky"
+  },
+  "6504166ba47588ad6024a675": {
+    "_id": "6504166ba47588ad6024a675",
+    "additional": "auch Jeanne",
+    "firstName": "Johanna",
+    "lastName": "Buska",
+    "role": "Elise Jung, Gesellschafterin der Generalin",
+    "fullName": "Johanna Buska"
+  },
+  "6504166ba47588ad6024acd4": {
+    "_id": "6504166ba47588ad6024acd4",
+    "additional": "1848-1909",
+    "firstName": "Wilhelmine",
+    "lastName": "Mitterwurzer",
+    "role": "Elisabeth, seine Tochter",
+    "fullName": "Wilhelmine Mitterwurzer"
+  },
+  "6504166ba47588ad6024b6dc": {
+    "_id": "6504166ba47588ad6024b6dc",
+    "additional": "",
+    "firstName": "Octave",
+    "lastName": "Feuillet",
+    "fullName": "Octave Feuillet"
+  },
+  "651691d696c724dc0090cb65": {
+    "_id": "651691d696c724dc0090cb65",
+    "firstName": "Ulrich",
+    "lastName": "Voß",
+    "additional": "",
+    "fullName": "Ulrich Voß",
+    "role": "Deutsch"
+  },
+  "6504166ba47588ad6024b89b": {
+    "_id": "6504166ba47588ad6024b89b",
+    "additional": "Pseud. West, Carl August",
+    "firstName": "Joseph",
+    "lastName": "Schreyvogel",
+    "fullName": "Joseph Schreyvogel",
+    "role": "Bearbeitung"
+  },
+  "6504166ba47588ad6024a7dd": {
+    "_id": "6504166ba47588ad6024a7dd",
+    "additional": "1853-1907",
+    "firstName": "Franz",
+    "lastName": "Fiala",
+    "role": "1. Zeltwache Cäsars",
+    "fullName": "Franz Fiala"
+  },
+  "6504166ba47588ad6024b4e4": {
+    "_id": "6504166ba47588ad6024b4e4",
+    "additional": "1837-1889",
+    "firstName": "Louis",
+    "lastName": "Nötel",
+    "role": "3. Zeltwache Cäsars",
+    "fullName": "Louis Nötel"
+  },
+  "6504166ba47588ad6024b33a": {
+    "_id": "6504166ba47588ad6024b33a",
+    "additional": "",
+    "firstName": "Ludwig",
+    "lastName": "Doczi",
+    "fullName": "Ludwig Doczi",
+    "role": "Deutsch"
+  },
+  "6504166ba47588ad6024a96d": {
+    "_id": "6504166ba47588ad6024a96d",
+    "additional": "",
+    "firstName": "Louise von",
+    "lastName": "Hauenthal",
+    "role": "Theudelindes Kammermädchen",
+    "fullName": "Louise von Hauenthal"
+  },
+  "6504166ba47588ad6024b336": {
+    "_id": "6504166ba47588ad6024b336",
+    "additional": "",
+    "firstName": "Alphonse",
+    "lastName": "Daudet",
+    "fullName": "Alphonse Daudet"
+  },
+  "6504166ba47588ad6024b627": {
+    "_id": "6504166ba47588ad6024b627",
+    "additional": "",
+    "firstName": "Adolphe",
+    "lastName": "Bélot",
+    "fullName": "Adolphe Bélot"
+  },
+  "653c3451008065850286dda6": {
+    "_id": "653c3451008065850286dda6",
+    "firstName": "Adalbert",
+    "lastName": "Gyrowetz",
+    "additional": "",
+    "fullName": "Adalbert Gyrowetz",
+    "role": "Musik"
+  },
+  "6504166ba47588ad6024aa72": {
+    "_id": "6504166ba47588ad6024aa72",
+    "additional": "",
+    "firstName": "Josef",
+    "lastName": "Kaiser",
+    "role": "Verwandte des Karthan",
+    "fullName": "Josef Kaiser"
+  },
+  "6504166ba47588ad6024a67b": {
+    "_id": "6504166ba47588ad6024a67b",
+    "additional": "",
+    "firstName": "Hermann",
+    "lastName": "Burghart (Burghardt)",
+    "fullName": "Hermann Burghart (Burghardt)",
+    "role": "Bühnenbild"
+  },
+  "6504166ba47588ad6024a87a": {
+    "_id": "6504166ba47588ad6024a87a",
+    "additional": "",
+    "firstName": "Franz",
+    "lastName": "Gaul",
+    "fullName": "Franz Gaul",
+    "role": "Kostümbildner"
+  },
+  "6504166ba47588ad6024abf1": {
+    "_id": "6504166ba47588ad6024abf1",
+    "additional": "1866-1882",
+    "firstName": "Sofie",
+    "lastName": "Link",
+    "role": "Louison, ihre kleine Schwester",
+    "fullName": "Sofie Link"
+  },
+  "6504166ba47588ad6024b4c8": {
+    "_id": "6504166ba47588ad6024b4c8",
+    "additional": "",
+    "firstName": "",
+    "lastName": "Molière",
+    "fullName": " Molière"
+  },
+  "65620a480080658502cf32ed": {
+    "_id": "65620a480080658502cf32ed",
+    "firstName": "Alfred de",
+    "lastName": "Musset",
+    "additional": "",
+    "fullName": "Alfred de Musset"
+  },
+  "6504166ba47588ad6024b43c": {
+    "_id": "6504166ba47588ad6024b43c",
+    "additional": "",
+    "firstName": "Michael",
+    "lastName": "Klapp",
+    "fullName": "Michael Klapp"
+  },
+  "6504166ba47588ad6024ae68": {
+    "_id": "6504166ba47588ad6024ae68",
+    "additional": "1826-1881",
+    "firstName": "Theodor",
+    "lastName": "Reusche",
+    "role": "Herr von Zündorf, ein reicher Banquier",
+    "fullName": "Theodor Reusche"
+  },
+  "66572dfef11595c123a5dc5a": {
+    "_id": "66572dfef11595c123a5dc5a",
+    "firstName": "Herr",
+    "lastName": "Mannhart",
+    "additional": "",
+    "role": "Fang",
+    "fullName": "Herr Mannhart"
+  },
+  "650c0541258213a8dc5f9ab0": {
+    "_id": "650c0541258213a8dc5f9ab0",
+    "additional": "1866-1937",
+    "firstName": "Fritz",
+    "lastName": "Müller",
+    "role": "2. Freiwilliger",
+    "fullName": "Fritz Müller"
+  },
+  "6504166ba47588ad6024a565": {
+    "_id": "6504166ba47588ad6024a565",
+    "additional": "auch Barbolani",
+    "firstName": "Josef",
+    "lastName": "Barbolany",
+    "role": "Schlinge",
+    "fullName": "Josef Barbolany"
+  },
+  "6504166ba47588ad6024ac33": {
+    "_id": "6504166ba47588ad6024ac33",
+    "additional": "",
+    "firstName": "Anton",
+    "lastName": "Maglia",
+    "role": "Schatte",
+    "fullName": "Anton Maglia"
+  },
+  "6504166ba47588ad6024b80c": {
+    "_id": "6504166ba47588ad6024b80c",
+    "additional": "",
+    "firstName": "Gustav von",
+    "lastName": "Moser",
+    "fullName": "Gustav von Moser"
+  },
+  "6504166ba47588ad6024a647": {
+    "_id": "6504166ba47588ad6024a647",
+    "additional": "",
+    "firstName": "Ida",
+    "lastName": "Branko",
+    "role": "Lady Clawdon",
+    "fullName": "Ida Branko"
+  },
+  "6504166ba47588ad6024b7bb": {
+    "_id": "6504166ba47588ad6024b7bb",
+    "additional": "",
+    "firstName": "Erneste",
+    "lastName": "Legouvé",
+    "fullName": "Erneste Legouvé"
+  },
+  "6504166ba47588ad6024a5b7": {
+    "_id": "6504166ba47588ad6024a5b7",
+    "additional": "",
+    "firstName": "Regina",
+    "lastName": "Berg",
+    "role": "Carl",
+    "fullName": "Regina Berg"
+  },
+  "6504166ba47588ad6024b659": {
+    "_id": "6504166ba47588ad6024b659",
+    "additional": "",
+    "firstName": "Edward Lord Lytton",
+    "lastName": "Bulwer",
+    "fullName": "Edward Lord Lytton Bulwer"
+  },
+  "65425b5e0080658502aaf108": {
+    "_id": "65425b5e0080658502aaf108",
+    "firstName": "Heinrich",
+    "lastName": "Börnstein",
+    "additional": "",
+    "fullName": "Heinrich Börnstein",
+    "role": "Deutsch"
+  },
+  "6504166ba47588ad6024b6a1": {
+    "_id": "6504166ba47588ad6024b6a1",
+    "additional": "",
+    "firstName": "Alexandre Vater",
+    "lastName": "Dumas",
+    "fullName": "Alexandre Vater Dumas"
+  },
+  "655e6b350080658502ca8090": {
+    "_id": "655e6b350080658502ca8090",
+    "firstName": "Franz von",
+    "lastName": "Dingelstedt",
+    "additional": "1814-1881",
+    "fullName": "Franz von Dingelstedt",
+    "role": "Deutsch"
+  },
+  "6504166ba47588ad6024abf2": {
+    "_id": "6504166ba47588ad6024abf2",
+    "additional": "1868-1881",
+    "firstName": "Therese",
+    "lastName": "Link",
+    "role": "1. Frau der Octavia",
+    "fullName": "Therese Link"
+  },
+  "6504166ba47588ad6024b47d": {
+    "_id": "6504166ba47588ad6024b47d",
+    "additional": "",
+    "firstName": "Gotthold Ephraim",
+    "lastName": "Lessing",
+    "fullName": "Gotthold Ephraim Lessing"
+  },
+  "65f1ecc34578d7314815abd2": {
+    "_id": "65f1ecc34578d7314815abd2",
+    "firstName": "Georg",
+    "lastName": "Kohler",
+    "additional": "",
+    "role": "Chor Don Manuels",
+    "fullName": "Georg Kohler"
+  },
+  "6504166ba47588ad6024a9ac": {
+    "_id": "6504166ba47588ad6024a9ac",
+    "additional": "",
+    "firstName": "Karl",
+    "lastName": "Hellmann",
+    "role": "1. Bauer",
+    "fullName": "Karl Hellmann"
+  },
+  "6504166ba47588ad6024b132": {
+    "_id": "6504166ba47588ad6024b132",
+    "additional": "",
+    "firstName": "Ignaz",
+    "lastName": "Vogler",
+    "role": "2. Hofbedienter",
+    "fullName": "Ignaz Vogler"
+  },
+  "6504166ba47588ad6024a80c": {
+    "_id": "6504166ba47588ad6024a80c",
+    "additional": "",
+    "firstName": "Ernst",
+    "lastName": "Fournes",
+    "role": "Chor Don Manuels",
+    "fullName": "Ernst Fournes"
+  },
+  "650c0541258213a8dc5f9ac0": {
+    "_id": "650c0541258213a8dc5f9ac0",
+    "additional": "",
+    "firstName": "Wilhelm",
+    "lastName": "Müller",
+    "role": "3. Jagdfreund",
+    "fullName": "Wilhelm Müller"
+  },
+  "6504166ba47588ad6024b124": {
+    "_id": "6504166ba47588ad6024b124",
+    "additional": "",
+    "firstName": "Josef",
+    "lastName": "Valenti",
+    "role": "Chor Don Cesars",
+    "fullName": "Josef Valenti"
+  },
+  "6504166ba47588ad6024b1b9": {
+    "_id": "6504166ba47588ad6024b1b9",
+    "additional": "",
+    "firstName": "Adolf",
+    "lastName": "Werner",
+    "role": "Chor Don Cesars",
+    "fullName": "Adolf Werner"
+  },
+  "6504166ba47588ad6024ab42": {
+    "_id": "6504166ba47588ad6024ab42",
+    "additional": "",
+    "firstName": "Hans",
+    "lastName": "Kreith",
+    "role": "2. Bauer",
+    "fullName": "Hans Kreith"
+  },
+  "6504166ba47588ad6024b5d4": {
+    "_id": "6504166ba47588ad6024b5d4",
+    "additional": "",
+    "firstName": "Franz",
+    "lastName": "Wiesner",
+    "role": "Chor Don Cesars",
+    "fullName": "Franz Wiesner"
+  },
+  "6504166ba47588ad6024a57a": {
+    "_id": "6504166ba47588ad6024a57a",
+    "additional": "",
+    "firstName": "Josef",
+    "lastName": "Bauer",
+    "role": "Chor Don Cesars",
+    "fullName": "Josef Bauer"
+  },
+  "6504166ba47588ad6024ae0c": {
+    "_id": "6504166ba47588ad6024ae0c",
+    "additional": "",
+    "firstName": "Charlotte",
+    "lastName": "Primas",
+    "role": "Friederike, Elisabeths Aufwärter",
+    "fullName": "Charlotte Primas"
+  },
+  "6504166ba47588ad6024ab11": {
+    "_id": "6504166ba47588ad6024ab11",
+    "additional": "",
+    "firstName": "Charlotte",
+    "lastName": "Korner",
+    "role": "Eine Bürgersfrau",
+    "fullName": "Charlotte Korner"
+  },
+  "6504166ba47588ad6024b610": {
+    "_id": "6504166ba47588ad6024b610",
+    "additional": "",
+    "firstName": "Eduard von",
+    "lastName": "Bauernfeld",
+    "fullName": "Eduard von Bauernfeld"
+  },
+  "6504166ba47588ad6024b6e6": {
+    "_id": "6504166ba47588ad6024b6e6",
+    "additional": "",
+    "firstName": "Gustav",
+    "lastName": "Freytag",
+    "fullName": "Gustav Freytag"
+  },
+  "6504166ba47588ad6024b0a8": {
+    "_id": "6504166ba47588ad6024b0a8",
+    "additional": "",
+    "firstName": "Philipp von",
+    "lastName": "Stubenrauch",
+    "fullName": "Philipp von Stubenrauch",
+    "role": "Kostüme"
+  },
+  "6504166ba47588ad6024aa36": {
+    "_id": "6504166ba47588ad6024aa36",
+    "additional": "",
+    "firstName": "Johann",
+    "lastName": "Janitz",
+    "fullName": "Johann Janitz",
+    "role": "Dekoration"
+  },
+  "655e952d0080658502caf2af": {
+    "_id": "655e952d0080658502caf2af",
+    "firstName": "Marie",
+    "lastName": "Rinesch",
+    "additional": "",
+    "role": "Bürgerinnen",
+    "fullName": "Marie Rinesch"
+  },
+  "6504166ba47588ad6024b795": {
+    "_id": "6504166ba47588ad6024b795",
+    "additional": "",
+    "firstName": "August von",
+    "lastName": "Kotzebue",
+    "fullName": "August von Kotzebue"
+  },
+  "6504166ba47588ad6024b2ea": {
+    "_id": "6504166ba47588ad6024b2ea",
+    "additional": "Pseud. Paoli, Betty",
+    "firstName": "Elisabeth",
+    "lastName": "Branitz",
+    "fullName": "Elisabeth Branitz",
+    "role": "Deutsch"
+  },
+  "6504166ba47588ad6024b2ab": {
+    "_id": "6504166ba47588ad6024b2ab",
+    "additional": "",
+    "firstName": "Theodore",
+    "lastName": "Barrière",
+    "fullName": "Theodore Barrière"
+  },
+  "6504166ba47588ad6024b302": {
+    "_id": "6504166ba47588ad6024b302",
+    "additional": "",
+    "firstName": "Erneste",
+    "lastName": "Capendu",
+    "fullName": "Erneste Capendu"
+  },
+  "6504166ba47588ad6024b6fe": {
+    "_id": "6504166ba47588ad6024b6fe",
+    "additional": "",
+    "firstName": "Theodor",
+    "lastName": "Gassmann",
+    "fullName": "Theodor Gassmann",
+    "role": "Deutsch"
+  },
+  "6504166ba47588ad6024b80b": {
+    "_id": "6504166ba47588ad6024b80b",
+    "additional": "",
+    "firstName": "Salomon Hermann von",
+    "lastName": "Mosenthal",
+    "fullName": "Salomon Hermann von Mosenthal"
+  },
+  "6504166ba47588ad6024abe8": {
+    "_id": "6504166ba47588ad6024abe8",
+    "additional": "1870-1872",
+    "firstName": "Antonie",
+    "lastName": "Link",
+    "role": "Käthchen, seine Tochter",
+    "fullName": "Antonie Link"
+  },
+  "650c0541258213a8dc5f9b1a": {
+    "_id": "650c0541258213a8dc5f9b1a",
+    "additional": "",
+    "firstName": "Anton",
+    "lastName": "Köhler",
+    "role": "3. Reisender",
+    "fullName": "Anton Köhler"
+  },
+  "6504166ba47588ad6024b1d9": {
+    "_id": "6504166ba47588ad6024b1d9",
+    "additional": "",
+    "firstName": "Carl",
+    "lastName": "Wiene",
+    "role": "Busch",
+    "fullName": "Carl Wiene"
+  },
+  "6504166ba47588ad6024b82c": {
+    "_id": "6504166ba47588ad6024b82c",
+    "additional": "Pseud. f. Elisabeth Branitz",
+    "firstName": "Betty",
+    "lastName": "Paoli",
+    "fullName": "Betty Paoli",
+    "role": "Deutsch"
+  },
+  "6504166ba47588ad6024a68d": {
+    "_id": "6504166ba47588ad6024a68d",
+    "additional": "",
+    "firstName": "Herr",
+    "lastName": "Carpano",
+    "role": "Riballi",
+    "fullName": "Herr Carpano"
+  },
+  "6504166ba47588ad6024b828": {
+    "_id": "6504166ba47588ad6024b828",
+    "additional": "",
+    "firstName": "Edouard",
+    "lastName": "Pailleron",
+    "fullName": "Edouard Pailleron"
+  },
+  "6504166ba47588ad6024b86f": {
+    "_id": "6504166ba47588ad6024b86f",
+    "additional": "Pseud. f. Aurore Dudevant, geb. Dupin",
+    "firstName": "Georges",
+    "lastName": "Sand",
+    "fullName": "Georges Sand"
+  },
+  "6556711b0080658502bfb4cf": {
+    "_id": "6556711b0080658502bfb4cf",
+    "firstName": "Dr. August",
+    "lastName": "Förster",
+    "additional": "1828-1889",
+    "fullName": "Dr. August Förster",
+    "role": "Deutsch"
+  },
+  "6504166ba47588ad6024b479": {
+    "_id": "6504166ba47588ad6024b479",
+    "additional": "",
+    "firstName": "Louis",
+    "lastName": "Leroy",
+    "fullName": "Louis Leroy"
+  },
+  "6504166ba47588ad6024b513": {
+    "_id": "6504166ba47588ad6024b513",
+    "additional": "",
+    "firstName": "Hippolyte Francois de",
+    "lastName": "Regnier",
+    "fullName": "Hippolyte Francois de Regnier"
+  },
+  "6504166ba47588ad6024b5bc": {
+    "_id": "6504166ba47588ad6024b5bc",
+    "additional": "Pseudonym Zell, F.",
+    "firstName": "Camillo",
+    "lastName": "Walzel",
+    "fullName": "Camillo Walzel"
+  },
+  "6504166ba47588ad6024b62f": {
+    "_id": "6504166ba47588ad6024b62f",
+    "additional": "pseudonym: Waldherr, Willibald",
+    "firstName": "Charlotte",
+    "lastName": "Birch-Pfeiffer",
+    "fullName": "Charlotte Birch-Pfeiffer"
+  },
+  "6504166ba47588ad6024a59d": {
+    "_id": "6504166ba47588ad6024a59d",
+    "additional": "",
+    "firstName": "Friedrich",
+    "lastName": "Bayer",
+    "role": "Louis, Diener",
+    "fullName": "Friedrich Bayer"
+  },
+  "6504166ba47588ad6024af08": {
+    "_id": "6504166ba47588ad6024af08",
+    "additional": "",
+    "firstName": "Charlotte",
+    "lastName": "Scheffel (Schöffel)",
+    "role": "Caroline",
+    "fullName": "Charlotte Scheffel (Schöffel)"
+  },
+  "6504166ba47588ad6024b38f": {
+    "_id": "6504166ba47588ad6024b38f",
+    "additional": "",
+    "firstName": "Edouard",
+    "lastName": "Fournier",
+    "fullName": "Edouard Fournier"
+  },
+  "655542050080658502bf2d7b": {
+    "_id": "655542050080658502bf2d7b",
+    "firstName": "H.",
+    "lastName": "Meyer",
+    "additional": "",
+    "fullName": "H. Meyer"
+  },
+  "65620f240080658502cf36af": {
+    "_id": "65620f240080658502cf36af",
+    "firstName": "Anton",
+    "lastName": "Günther",
+    "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+    "fullName": "Anton Günther"
+  },
+  "654cfd1b0080658502b19d64": {
+    "_id": "654cfd1b0080658502b19d64",
+    "firstName": "Anton Emil",
+    "lastName": "Titl",
+    "additional": "",
+    "fullName": "Anton Emil Titl",
+    "role": "Musik"
+  },
+  "6504166ba47588ad6024b7e0": {
+    "_id": "6504166ba47588ad6024b7e0",
+    "additional": "",
+    "firstName": "Otto",
+    "lastName": "Ludwig",
+    "fullName": "Otto Ludwig"
+  },
+  "6504166ba47588ad6024b2b4": {
+    "_id": "6504166ba47588ad6024b2b4",
+    "additional": "",
+    "firstName": "Roderich",
+    "lastName": "Benedix",
+    "fullName": "Roderich Benedix"
+  },
+  "6504166ba47588ad6024b2a6": {
+    "_id": "6504166ba47588ad6024b2a6",
+    "additional": "",
+    "firstName": "Theodore Faullain de",
+    "lastName": "Banville",
+    "fullName": "Theodore Faullain de Banville"
+  },
+  "6504166ba47588ad6024b5f6": {
+    "_id": "6504166ba47588ad6024b5f6",
+    "additional": "",
+    "firstName": "Roderich",
+    "lastName": "Anschütz",
+    "fullName": "Roderich Anschütz"
+  },
+  "656738aa00806585020a439b": {
+    "_id": "656738aa00806585020a439b",
+    "firstName": "Peter Joseph",
+    "lastName": "Lindpaintner",
+    "additional": "",
+    "fullName": "Peter Joseph Lindpaintner",
+    "role": "Musik"
+  },
+  "6504166ba47588ad6024b5c0": {
+    "_id": "6504166ba47588ad6024b5c0",
+    "additional": "",
+    "firstName": "Wilhelm von",
+    "lastName": "Wartenegg",
+    "fullName": "Wilhelm von Wartenegg"
+  },
+  "6504166ba47588ad6024a6b4": {
+    "_id": "6504166ba47588ad6024a6b4",
+    "additional": "",
+    "firstName": "Sidonie",
+    "lastName": "Conti",
+    "role": "Page des Königs",
+    "fullName": "Sidonie Conti"
+  },
+  "6504166ba47588ad6024b60c": {
+    "_id": "6504166ba47588ad6024b60c",
+    "additional": "",
+    "firstName": "Emile",
+    "lastName": "Augier",
+    "fullName": "Emile Augier"
+  },
+  "6504166ba47588ad6024b1ee": {
+    "_id": "6504166ba47588ad6024b1ee",
+    "additional": "1878-1932",
+    "firstName": "Josef",
+    "lastName": "Wiesner",
+    "role": "Schimmelig",
+    "fullName": "Josef Wiesner"
+  },
+  "655c21f60080658502c8967e": {
+    "_id": "655c21f60080658502c8967e",
+    "firstName": "Louisabeth",
+    "lastName": "Röckel",
+    "additional": "verehel. Mathes; 1841-1913",
+    "role": "Marquise Louise von Lusignan",
+    "fullName": "Louisabeth Röckel"
+  },
+  "6504166ba47588ad6024b72d": {
+    "_id": "6504166ba47588ad6024b72d",
+    "additional": "Pseud. f. Eligius Freiherr von Münch-Bellinghausen",
+    "firstName": "Friedrich",
+    "lastName": "Halm",
+    "fullName": "Friedrich Halm"
+  },
+  "6504166ba47588ad6024b3f3": {
+    "_id": "6504166ba47588ad6024b3f3",
+    "additional": "",
+    "firstName": "Paul",
+    "lastName": "Heyse",
+    "fullName": "Paul Heyse"
+  },
+  "655695f80080658502c081a0": {
+    "_id": "655695f80080658502c081a0",
+    "firstName": "Friedrich von",
+    "lastName": "Flotow",
+    "additional": "",
+    "fullName": "Friedrich von Flotow",
+    "role": "Musik"
+  },
+  "6504166ba47588ad6024b54e": {
+    "_id": "6504166ba47588ad6024b54e",
+    "additional": "",
+    "firstName": "Sigmund",
+    "lastName": "Schlesinger",
+    "fullName": "Sigmund Schlesinger"
+  },
+  "6504166ba47588ad6024aa80": {
+    "_id": "6504166ba47588ad6024aa80",
+    "additional": "1876-1948",
+    "firstName": "Anna",
+    "lastName": "Kallina",
+    "role": "Ernst",
+    "fullName": "Anna Kallina"
+  },
+  "6504166ba47588ad6024b7e8": {
+    "_id": "6504166ba47588ad6024b7e8",
+    "additional": "",
+    "firstName": "Eduard",
+    "lastName": "Mautner",
+    "fullName": "Eduard Mautner"
+  },
+  "6504166ba47588ad6024b909": {
+    "_id": "6504166ba47588ad6024b909",
+    "additional": "",
+    "firstName": "Josef von",
+    "lastName": "Weilen",
+    "fullName": "Josef von Weilen"
   }
 }

@@ -1,0 +1,4480 @@
+{
+  "_id": "6658e9d14e119021477830e8",
+  "uid": "88a6bf75-46da-47fb-a182-54976b612260",
+  "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+  "title": "Flattersucht",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-05-20T11:07:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Herr von Champignac",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "6504166ba47588ad6024b163",
+      "additional": "1850-1919",
+      "firstName": "Fanny",
+      "lastName": "Walbeck",
+      "role": "Constance, seine Frau",
+      "fullName": "Fanny Walbeck"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6f7",
+      "additional": "geb. Würzburg, 1835-1892",
+      "firstName": "Zerline",
+      "lastName": "Gabillon",
+      "role": "Camille, deren Tante",
+      "fullName": "Zerline Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024a86e",
+      "additional": "1825-1896",
+      "firstName": "Ludwig",
+      "lastName": "Gabillon",
+      "role": "Herr von Riverol",
+      "fullName": "Ludwig Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Fridolin, Champignacs Cousin",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "6504166ba47588ad6024a51b",
+      "additional": "1844-1910",
+      "firstName": "Josef",
+      "lastName": "Altmann",
+      "role": "Josselin, Tapezierer",
+      "fullName": "Josef Altmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a96d",
+      "additional": "",
+      "firstName": "Louise von",
+      "lastName": "Hauenthal",
+      "role": "Eine Kammerfrau",
+      "fullName": "Louise von Hauenthal"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6556711b0080658502bfb4cf",
+      "firstName": "Dr. August",
+      "lastName": "Förster",
+      "additional": "1828-1889",
+      "fullName": "Dr. August Förster",
+      "role": "Deutsch"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b873",
+      "additional": "",
+      "firstName": "Victorien",
+      "lastName": "Sardou",
+      "fullName": "Victorien Sardou"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-20.jpeg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-20_00000002.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a3cd3ced60fbe1b93cd",
+      "uid": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "45",
+      "date": "1865-05-24T12:00:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Constance",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0288.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-05-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b5cbde027ead1c18d796a",
+      "uid": "7371aa3a-b4ec-4378-89ae-5e45b43b96b3",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-05-25T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Constance",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-05-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b5d77e027ead1c18d89f2",
+      "uid": "9ee620f9-6f3c-4497-8c7f-3c58a10e9bc6",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-05-28T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Constance",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-05-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b5ecce027ead1c18da7fb",
+      "uid": "1749a71d-790a-42c0-a35b-7d9adbf483d6",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-05-31T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Constance",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-05-31.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b5fd9e027ead1c18dc027",
+      "uid": "07c5fe9a-509f-492b-83f3-b3de1ad578ab",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-06-05T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Constance",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-06-05.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-06-05_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b6553e027ead1c18e3c46",
+      "uid": "9d37e7f0-b134-4d76-aeea-827735889200",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-06-20T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Constance",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-06-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b9fefe027ead1c1931772",
+      "uid": "8647b356-cf6f-44d3-80f6-4bc93fadaf23",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-08-27T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-08-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664c6413e027ead1c1a27487",
+      "uid": "462a2b9f-d507-464a-ab60-0e23db363589",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-09-15T10:55:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-09-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664ca348e027ead1c1a7f16d",
+      "uid": "5a0e57f7-cdc3-436d-a8ee-7e9305e7a70f",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-12-06T10:55:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-12-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664e20dae027ead1c1c7dae8",
+      "uid": "90fc242b-fc50-49b9-955c-4cd94b3d88c2",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-11-06T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-11-06.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-11-06_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664dd0c8e027ead1c1c1785e",
+      "uid": "d770f8d8-6edd-4bed-9623-88ff5d605492",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-01-23T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-01-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664db80fe027ead1c1be819e",
+      "uid": "326e2bd7-2524-41ee-80b6-8c0d62232f72",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-04-30T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Kammerfrau",
+          "fullName": "Charlotte Korner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-04-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f810be027ead1c1e493ba",
+      "uid": "e03f7913-37f0-446c-9bfe-76c0c55fc5b4",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-03-31T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-03-31.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f1dd8e027ead1c1dc2cb7",
+      "uid": "a603b354-70d1-4625-bae0-a4ea1607ca36",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-05-03T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-05-03.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-05-03_00000002.jpg"
+      ],
+      "comment": "Wegen plötzlicher Unpässlichkeit der Frau Koberwein kann das für heute angekündigte Lustspiel \"Die zärtlichen Verwandten\" nicht gegeben werden; dafür:"
+    },
+    {
+      "_id": "664f6f3ce027ead1c1e324af",
+      "uid": "30c34629-7502-4ffb-964e-7e5578ea32c2",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-08-23T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-08-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651d2e54e11902147e690e0",
+      "uid": "b3d5d8d4-2c57-4fee-8c84-b532c0b7f239",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-01-09T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-01-09.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-01-09_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665450a54e11902147190182",
+      "uid": "e398dd8c-68ee-4f4f-ac78-7e6e46abb142",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-03-19T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-03-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654558b4e1190214719761c",
+      "uid": "e133dd15-3da9-4b21-8fa4-f6c860f929d9",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-04-28T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-04-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66546c354e119021471b752e",
+      "uid": "c677fbf7-d06d-4775-bc04-71641fa32af2",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-08-22T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-08-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66549a044e119021471f567b",
+      "uid": "1c194242-8f16-460e-a2d0-4778650d24ea",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-09-30T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-09-30.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-09-30_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66549b904e119021471f7c5b",
+      "uid": "092a55f0-44cc-4ebf-b11e-1c23bdb4615f",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-12-16T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-12-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665443434e1190214717b1ee",
+      "uid": "46d91b63-ea74-47e3-a2c9-eae51090b91e",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-02-20T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-02-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654d6b44e11902147245fb8",
+      "uid": "be77a7b7-9b23-44c0-8f34-b932aec31c24",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-06-22T11:07:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herr von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Constance, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herr von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin, Champignacs Cousin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin, Tapezierer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Eine Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-06-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655b37d4e1190214735f820",
+      "uid": "e1dce291-b445-4540-97ea-fd302dea23a4",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-05-20T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herr von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herr von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin, Champignacs Cousin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Josselin, Tapezierer",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Eine Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-05-20.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-05-20_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665624204e119021473f9058",
+      "uid": "af33d487-89f6-418e-9b07-10f46bf0292d",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-12-02T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-12-02.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66562c984e11902147405020",
+      "uid": "f2cd096b-1954-4870-acdc-641ebdb96e73",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-05-10T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-05-10.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-05-10_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66572e884e11902147544cbe",
+      "uid": "690e8088-a53d-41e7-9d3f-c600c7990298",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-12-21T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-12-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6657761b4e119021475a1f09",
+      "uid": "80f755ac-23b7-47a1-a82d-3290c1825cba",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-04-25T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-04-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665849054e119021476a57b8",
+      "uid": "15701e6a-8318-44d8-8996-c0518ff1a193",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-09-20T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-09-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66584fe14e119021476af11e",
+      "uid": "07e17da4-e3ea-4d69-b9df-797aaa8409eb",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-10-02T11:07:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-10-02.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-10-02_00000002.jpg"
+      ],
+      "comment": "Wegen Unpäßlichkeit des Herrn Mitterwurzer statt: \"Macbeth\""
+    },
+    {
+      "_id": "665882cc4e119021476f3153",
+      "uid": "5bf9070a-7a8f-403e-b35a-ec4793d2581c",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-05-04T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-05-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665897b04e1190214770ec26",
+      "uid": "4cf15a55-625b-4cbc-a8c3-c9fd5e78040a",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-05-31T11:07:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-05-31.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-05-31_00000002.jpg"
+      ],
+      "comment": "Wegen Unpäßlichkeit der Frau Janisch, statt \"Der Sohn der Wildniß\""
+    },
+    {
+      "_id": "6658a45d4e119021477200c9",
+      "uid": "5cb9a41f-03b3-4ca4-9340-86d6d83e1ba0",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-09-11T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-09-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c6f54e119021477536b8",
+      "uid": "7fdbca0a-b744-4ce9-91fb-e50eeab0cbab",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-03-20T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658e9d14e119021477830e8",
+      "uid": "88a6bf75-46da-47fb-a182-54976b612260",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-05-20T11:07:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herr von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herr von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin, Champignacs Cousin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin, Tapezierer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Eine Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-20.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-20_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6659fb564e119021478d5b24",
+      "uid": "edf68359-9b3f-4a2e-8e59-ea6ee6f38358",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-03-20T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herr von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herr von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin, Champignacs Cousin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin, Tapezierer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Eine Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-03-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a21a04e11902147908509",
+      "uid": "70dfb847-a8c3-4226-a40c-a3c5ab8c1967",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-09-24T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herr von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herr von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin, Champignacs Cousin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin, Tapezierer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Eine Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-09-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a33f24e119021479203b0",
+      "uid": "370b0572-97a6-4983-b5d3-7519985bc876",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-11-04T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-11-04.jpeg"
+      ],
+      "comment": "Wegen Unpässlichkeit der Frau Hartmann statt: \"Die Frau ohne Geist\""
+    },
+    {
+      "_id": "665ac7334e119021479d465f",
+      "uid": "a74ba58b-bb8e-4487-a083-736c6a8508da",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-02-17T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-02-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665acef04e119021479dee37",
+      "uid": "bbb17ce5-83dd-4c07-9eda-f9212791910a",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-04-07T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-04-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665ad4ad4e119021479e6933",
+      "uid": "42be859e-2a5d-4d95-965b-8647c3f99f86",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-05-09T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-05-09.jpeg"
+      ],
+      "comment": "Einzug der Kronprinzessin Stephanie von Belgien"
+    },
+    {
+      "_id": "665b42804e11902147a6ed9c",
+      "uid": "fa466366-fa92-4f00-b7ab-66b888947130",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-06-22T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herr von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herr von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin, Champignacs Cousin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin, Tapezierer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Eine Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-06-22.jpeg"
+      ],
+      "comment": "Wegen Unpässlichkeit des Herrn Hartmann statt: \"Die Journalisten\""
+    },
+    {
+      "_id": "665d69384e11902147d16b9b",
+      "uid": "e9c50a8d-b80c-4b13-8b2e-977b8bcf1327",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1883-01-18T10:55:00.000Z",
+      "season": "1882/1883",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herr von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herr von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin, Champignacs Cousin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin, Tapezierer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Eine Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1883/1883-01-18.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665df4ec4e11902147dd6a04",
+      "uid": "646f2b98-e088-4e51-9b3f-42ec9ade8a3b",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1884-03-20T11:07:00.000Z",
+      "season": "1883/1884",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herr von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herr von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin, Champignacs Cousin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin, Tapezierer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Eine Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-03-20.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665e04474e11902147deaafd",
+      "uid": "5249fa67-0e87-40a3-84b3-12456728b1c0",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1884-09-29T11:07:00.000Z",
+      "season": "1884/1885",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herr von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herr von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin, Champignacs Cousin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin, Tapezierer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Eine Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-09-29.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-09-29_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665f57f24e11902147f98f62",
+      "uid": "8386c4e0-faaa-4aaf-8e81-dfe9e17b7de3",
+      "productionId": "466c64aa-56ad-4fee-ace7-366cf2b74b4f",
+      "title": "Flattersucht",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1885-03-16T10:55:00.000Z",
+      "season": "1884/1885",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Von Champignac",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Constance",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Camille, Deren Tante",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Von Riverol",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fridolin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Josselin",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Kammerfrau",
+          "fullName": "Louise von Hauenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "fullName": "Dr. August Förster",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b873",
+          "additional": "",
+          "firstName": "Victorien",
+          "lastName": "Sardou",
+          "fullName": "Victorien Sardou"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1885/1885-03-16.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

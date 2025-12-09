@@ -1,0 +1,5963 @@
+{
+  "_id": "6658c80f4e1190214775512b",
+  "uid": "9769fff0-eb62-455c-8f1d-8b45bd44c0ab",
+  "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+  "title": "Don Karlos, Infant von Spanien",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-02-21T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024acd3",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Mitterwurzer",
+      "role": "Philipp II.",
+      "fullName": "Friedrich Mitterwurzer"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b15",
+      "additional": "1848-1920",
+      "firstName": "Antonie",
+      "lastName": "Janisch",
+      "role": "Elisabeth",
+      "fullName": "Antonie Janisch"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab3d",
+      "additional": "1839-1908",
+      "firstName": "Friedrich",
+      "lastName": "Krastel",
+      "role": "Don Carlos",
+      "fullName": "Friedrich Krastel"
+    },
+    {
+      "_id": "6504166ba47588ad6024af69",
+      "additional": "1854-1942, Hofschauspieler",
+      "firstName": "Jakob",
+      "lastName": "Schreiner",
+      "role": "Farnese",
+      "fullName": "Jakob Schreiner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a5b7",
+      "additional": "",
+      "firstName": "Regina",
+      "lastName": "Berg",
+      "role": "Infantin",
+      "fullName": "Regina Berg"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad02",
+      "additional": "1838-1916",
+      "firstName": "Ernestine",
+      "lastName": "Negro",
+      "role": "Herzogin von Olivarez",
+      "fullName": "Ernestine Negro"
+    },
+    {
+      "_id": "6504166ba47588ad6024b163",
+      "additional": "1850-1919",
+      "firstName": "Fanny",
+      "lastName": "Walbeck",
+      "role": "Marquisin von Mondekar",
+      "fullName": "Fanny Walbeck"
+    },
+    {
+      "_id": "6504166ba47588ad6024b230",
+      "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+      "firstName": "Charlotte",
+      "lastName": "Wolter",
+      "role": "Eboli",
+      "fullName": "Charlotte Wolter"
+    },
+    {
+      "_id": "6504166ba47588ad6024b153",
+      "additional": "Hofschauspielerin, verehel. Goschalla",
+      "firstName": "Rosa",
+      "lastName": "Wagner",
+      "role": "Gräfin Fuentes",
+      "fullName": "Rosa Wagner"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae87",
+      "additional": "1847-1899",
+      "firstName": "Emmerich",
+      "lastName": "Robert",
+      "role": "Marquis von Posa",
+      "fullName": "Emmerich Robert"
+    },
+    {
+      "_id": "6504166ba47588ad6024a86e",
+      "additional": "1825-1896",
+      "firstName": "Ludwig",
+      "lastName": "Gabillon",
+      "role": "Herzog von Alba",
+      "fullName": "Ludwig Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024abea",
+      "additional": "1834-1913",
+      "firstName": "Josef",
+      "lastName": "Lippert",
+      "role": "Graf Lerma",
+      "fullName": "Josef Lippert"
+    },
+    {
+      "_id": "6504166ba47588ad6024a51b",
+      "additional": "1844-1910",
+      "firstName": "Josef",
+      "lastName": "Altmann",
+      "role": "Feria",
+      "fullName": "Josef Altmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Medina",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "6504166ba47588ad6024b041",
+      "additional": "1843-1913",
+      "firstName": "Philipp",
+      "lastName": "Stätter",
+      "role": "Taxis",
+      "fullName": "Philipp Stätter"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Domingo",
+      "fullName": "Josef Lewinsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024a941",
+      "additional": "1833-1892",
+      "firstName": "Konrad",
+      "lastName": "Hallenstein",
+      "role": "Grossinquisitor",
+      "fullName": "Konrad Hallenstein"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9ee",
+      "additional": "1857-1920",
+      "firstName": "Stella",
+      "lastName": "Hohenfels",
+      "role": "Page",
+      "fullName": "Stella Hohenfels"
+    },
+    {
+      "_id": "6504166ba47588ad6024a849",
+      "additional": "1842-1908",
+      "firstName": "Leo",
+      "lastName": "Friedrich",
+      "role": "Leibarzt",
+      "fullName": "Leo Friedrich"
+    },
+    {
+      "_id": "6561f3320080658502cf302a",
+      "firstName": "Rudolf",
+      "lastName": "Leyrer",
+      "additional": "",
+      "role": "Offizier",
+      "fullName": "Rudolf Leyrer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6d8",
+      "additional": "1843-1902, Pseud. Wallis, Alfred",
+      "firstName": "Emil",
+      "lastName": "Ferrari",
+      "role": "1.Grande",
+      "fullName": "Emil Ferrari"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab42",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Kreith",
+      "role": "2.Grande",
+      "fullName": "Hans Kreith"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7dd",
+      "additional": "1853-1907",
+      "firstName": "Franz",
+      "lastName": "Fiala",
+      "role": "3.Grande",
+      "fullName": "Franz Fiala"
+    }
+  ],
+  "crew": [],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b544",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Schiller",
+      "fullName": "Friedrich Schiller"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-02-21.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a80d3ced60fbe1c80bf",
+      "uid": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Neueinstudierung",
+      "count": "27",
+      "date": "1879-02-06T12:00:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Philipp II.",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Farnese",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Infantin",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Eboli",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Graf Lerma",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Medina",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Taxis",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Page",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Leibarzt",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Offizier",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1.Grande",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2.Grande",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "3.Grande",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0323.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-02-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658bc314e119021477449d1",
+      "uid": "9771716d-9337-4e64-8f30-2582aba2e06b",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-02-09T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Philipp II.",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Farnese",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Infantin",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Eboli",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Graf Lerma",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Medina",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Taxis",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Page",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Leibarzt",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Offizier",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1.Grande",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2.Grande",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "3.Grande",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-02-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658cb174e11902147759e1a",
+      "uid": "cf2bbc22-0430-4aea-af39-9f4659fb2f23",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-02-16T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Philipp II.",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Farnese",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Infantin",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Eboli",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Graf Lerma",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Medina",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Taxis",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Page",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Leibarzt",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Offizier",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1.Grande",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2.Grande",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "3.Grande",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-02-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c80f4e1190214775512b",
+      "uid": "9769fff0-eb62-455c-8f1d-8b45bd44c0ab",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-02-21T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Philipp II.",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Farnese",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Infantin",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Eboli",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Graf Lerma",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Medina",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Taxis",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Page",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Leibarzt",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Offizier",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1.Grande",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2.Grande",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "3.Grande",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-02-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c9e14e11902147757e71",
+      "uid": "acd8cc8b-10e9-4022-af8e-1c8ed0b2f893",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-03-15T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Philipp II.",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Farnese",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Infantin",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Eboli",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Graf Lerma",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Medina",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Taxis",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Page",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Leibarzt",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Offizier",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1.Grande",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2.Grande",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "3.Grande",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658d3594e119021477650cf",
+      "uid": "d1b77971-0b12-4317-a722-1b82c6897700",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-04-20T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Philipp II.,König von Spanien",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth von Valois seine Gemahlin",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos, Kronprinz",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Infantin Clara Eugenia",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Prinzessin von Eboli",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Graf von Lerma",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herzog von Medina Sidonia",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Don Raimond von Taxis",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Großinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Page",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Offizier der Leibwache",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Granden von Spanien",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Granden von Spanien",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-04-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658dd0a4e11902147771d24",
+      "uid": "932e176c-c410-44ac-bd4b-0a0f936b388a",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-05-04T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Philipp II., König von Spanien",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth von Valois, seine Gemahlin",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos, der Kronprinz",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Infantin Klara Eugenia",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez, Obersthofmeisterin",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar, Dame der Königin",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Prinzessin von Eboli, Dame der Königin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa, ein Maltheser-Ritter",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Graf von Lerma, Oberst der Leibwache",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria, Ritter des Vließes",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Herzog von Medina Sidonia, Admiral",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Don Raimond von Taris, Oberpostmeister",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo, Beichtvater des Königs",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Großinquisitor des Königreichs",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Ein Page der Königin",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Ein Offizier der Leibwache",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1. Grande von Spanien",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2. Grande von Spanien",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "3. Grande von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658e92a4e11902147782195",
+      "uid": "b3156b71-6b70-4843-8be3-76ecc3b477bd",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-10-10T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Philipp II.,König von Spanien",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth von Valois seine Gemahlin",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos, Kronprinz",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Infantin Clara Eugenia",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Prinzessin von Eboli",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf von Lerma",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herzog von Medina Sidonia",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Don Raimond von Taxis",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Großinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Page",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Offizier der Leibwache",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Granden von Spanien",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Granden von Spanien",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-10-10.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6659a11d4e11902147864ea3",
+      "uid": "0d578395-8397-4e41-8874-4d17dbc15605",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-12-21T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Philipp II., König von Spanien",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth von Valois, seine Gemahlin",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos, der Kronprinz",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Infantin Klara Eugenia",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez, Obersthofmeisterin",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar, Dame der Königin",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Prinzessin von Eboli, Dame der Königin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa, ein Maltheser-Ritter",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf von Lerma, Oberst der Leibwache",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria, Ritter des Vließes",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Herzog von Medina Sidonia, Admiral",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taris, Oberpostmeister",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo, Beichtvater des Königs",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Großinquisitor des Königreichs",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Ein Page der Königin",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Ein Offizier der Leibwache",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1. Grande von Spanien",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2. Grande von Spanien",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "3. Grande von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-12-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a13f94e119021478f68bd",
+      "uid": "8d082940-4d52-4309-8e85-9cf3778521f7",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-05-09T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Philipp II., König von Spanien",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth von Valois, seine Gemahlin",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos, der Kronprinz",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Infantin Klara Eugenia",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez, Obersthofmeisterin",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar, Dame der Königin",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Prinzessin von Eboli, Dame der Königin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa, ein Maltheser-Ritter",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf von Lerma, Oberst der Leibwache",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria, Ritter des Vließes",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herzog von Medina Sidonia, Admiral",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taris, Oberpostmeister",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo, Beichtvater des Königs",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Großinquisitor des Königreichs",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Ein Page der Königin",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Ein Offizier der Leibwache",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "1. Grande von Spanien",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2. Grande von Spanien",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "3. Grande von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-05-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a1be44e11902147900ea9",
+      "uid": "55863d5b-8511-4e3d-b398-d3c409a4447c",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-09-12T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "665a0da5f11595c123fc635c",
+          "firstName": "Herr",
+          "lastName": "Klein",
+          "additional": "Gast vom Hoftheater in Berlin",
+          "role": "Philipp II., König von Spanien",
+          "fullName": "Herr Klein"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth von Valois, seine Gemahlin",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos, der Kronprinz",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Infantin Klara Eugenia",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez, Obersthofmeisterin",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar, Dame der Königin",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Prinzessin von Eboli, Dame der Königin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa, ein Maltheser-Ritter",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf von Lerma, Oberst der Leibwache",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria, Ritter des Vließes",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herzog von Medina Sidonia, Admiral",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taris, Oberpostmeister",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo, Beichtvater des Königs",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Großinquisitor des Königreichs",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Ein Page der Königin",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Ein Offizier der Leibwache",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1. Grande von Spanien",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2. Grande von Spanien",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "3. Grande von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-09-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665b35604e11902147a5ddab",
+      "uid": "25e0f9b3-6ff0-4c1f-bf12-415ac632ff56",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-12-30T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aacd",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Klein",
+          "role": "Philipp II.",
+          "fullName": "Adolf Klein"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Farnese",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Infantin",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Eboli",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf Lerma",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Medina",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Taxis",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Page",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Leibarzt",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Offizier",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1.Grande",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2.Grande",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "3.Grande",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-12-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665b4fe04e11902147a8050d",
+      "uid": "e3289af0-354e-4e71-a16d-1b383d3a75d7",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-09-11T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aacd",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Klein",
+          "role": "Philipp II., König von Spanien",
+          "fullName": "Adolf Klein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Elisabeth von Valois, seine Gemahlin",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos, der Kronprinz",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Infantin Klara Eugenia",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez, Obersthofmeisterin",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar, Dame der Königin",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Prinzessin von Eboli, Dame der Königin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa, ein Maltheser-Ritter",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf von Lerma, Oberst der Leibwache",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria, Ritter des Vließes",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herzog von Medina Sidonia, Admiral",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taris, Oberpostmeister",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo, Beichtvater des Königs",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Großinquisitor des Königreichs",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Ein Page der Königin",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b040",
+          "additional": "1882-1917",
+          "firstName": "Paul",
+          "lastName": "Stätter",
+          "role": "Ein Offizier der Leibwache",
+          "fullName": "Paul Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1. Grande von Spanien",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2. Grande von Spanien",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "3. Grande von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-09-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c485e4e11902147bae00f",
+      "uid": "32c380c1-352c-4ff2-a4ef-f56a4725c438",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-11-15T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aacd",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Klein",
+          "role": "Philipp II., König von Spanien",
+          "fullName": "Adolf Klein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Elisabeth von Valois, seine Gemahlin",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos, der Kronprinz",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Infantin Klara Eugenia",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez, Obersthofmeisterin",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar, Dame der Königin",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Prinzessin von Eboli, Dame der Königin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin von Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa, ein Maltheser-Ritter",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf von Lerma, Oberst der Leibwache",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria, Ritter des Vließes",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Herzog von Medina Sidonia, Admiral",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taris, Oberpostmeister",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo, Beichtvater des Königs",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Großinquisitor des Königreichs",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Ein Page der Königin",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b040",
+          "additional": "1882-1917",
+          "firstName": "Paul",
+          "lastName": "Stätter",
+          "role": "Ein Offizier der Leibwache",
+          "fullName": "Paul Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "1. Grande von Spanien",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "2. Grande von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-11-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c4b154e11902147bb2376",
+      "uid": "0e7f9fac-03a7-402a-94d9-78225877c994",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-12-08T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aacd",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Klein",
+          "role": "Philipp II.",
+          "fullName": "Adolf Klein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Elisabeth",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Farnese",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Infantin",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Eboli",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf Lerma",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Medina",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Taxis",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Domingo",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Page",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Leibarzt",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Offizier",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "1.Grande",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "2.Grande",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-12-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c82b44e11902147bfc074",
+      "uid": "2f083de5-2751-40af-bc2d-94c933f376cc",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-06-12T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aacd",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Klein",
+          "role": "Philipp II., König von Spanien",
+          "fullName": "Adolf Klein"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth von Valois, seine Gemahlin",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos, der Kronprinz",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Infantin Klara Eugenia",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez, Obersthofmeisterin",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar, Dame der Königin",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a712",
+          "additional": "1853-1927",
+          "firstName": "Serafine",
+          "lastName": "Detschy",
+          "role": "Prinzessin von Eboli, Dame der Königin",
+          "fullName": "Serafine Detschy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin von Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa, ein Maltheser-Ritter",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf von Lerma, Oberst der Leibwache",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria, Ritter des Vließes",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herzog von Medina Sidonia, Admiral",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taris, Oberpostmeister",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo, Beichtvater des Königs",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Großinquisitor des Königreichs",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Ein Page der Königin",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b040",
+          "additional": "1882-1917",
+          "firstName": "Paul",
+          "lastName": "Stätter",
+          "role": "Ein Offizier der Leibwache",
+          "fullName": "Paul Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Granden von Spanien",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Granden von Spanien",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-06-12.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665d87374e11902147d410a0",
+      "uid": "70a88a35-dbdc-4ce8-bb45-9e44ff6e5032",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-12-26T10:55:00.000Z",
+      "season": "1882/1883",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aacd",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Klein",
+          "role": "Philipp II., König von Spanien",
+          "fullName": "Adolf Klein"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Elisabeth von Valois, seine Gemahlin",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos, der Kronprinz",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Infantin Klara Eugenia",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez, Obersthofmeisterin",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar, Dame der Königin",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Prinzessin von Eboli, Dame der Königin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin von Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa, ein Maltheser-Ritter",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf von Lerma, Oberst der Leibwache",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria, Ritter des Vließes",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herzog von Medina Sidonia, Admiral",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taris, Oberpostmeister",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Domingo, Beichtvater des Königs",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Großinquisitor des Königreichs",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Ein Page der Königin",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b040",
+          "additional": "1882-1917",
+          "firstName": "Paul",
+          "lastName": "Stätter",
+          "role": "Ein Offizier der Leibwache",
+          "fullName": "Paul Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Granden von Spanien",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Granden von Spanien",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-12-26.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665eb8be4e11902147ec65da",
+      "uid": "63fa334b-1298-4f4a-9c4f-11a6492832a5",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1884-11-03T10:55:00.000Z",
+      "season": "1884/1885",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Philipp II.",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Elisabeth",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Farnese",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Infantin",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Eboli",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf Lerma",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Medina",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Taxis",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Domingo",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f9",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Tondeur",
+          "role": "Page",
+          "fullName": "Margarethe Tondeur"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Leibarzt",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Offizier",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Granden von Spanien",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Granden von Spanien",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-11-03.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665ece984e11902147ee3887",
+      "uid": "05557806-cc19-4456-b5bb-547117217581",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1884-11-18T10:55:00.000Z",
+      "season": "1884/1885",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Philipp II., König von Spanien",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Elisabeth von Valois, seine Gemahlin",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos, der Kronprinz",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Infantin Klara Eugenia",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez, Obersthofmeisterin",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar, Dame der Königin",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Prinzessin von Eboli, Dame der Königin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin von Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa, ein Maltheser-Ritter",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf von Lerma, Oberst der Leibwache",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria, Ritter des Vließes",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herzog von Medina Sidonia, Admiral",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taris, Oberpostmeister",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Domingo, Beichtvater des Königs",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Großinquisitor des Königreichs",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f9",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Tondeur",
+          "role": "Ein Page der Königin",
+          "fullName": "Margarethe Tondeur"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b040",
+          "additional": "1882-1917",
+          "firstName": "Paul",
+          "lastName": "Stätter",
+          "role": "Ein Offizier der Leibwache",
+          "fullName": "Paul Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Granden von Spanien",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Granden von Spanien",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-11-18.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665f13e24e11902147f405cf",
+      "uid": "4c80863d-7326-4d0a-8f43-4e19432ccd9a",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1885-11-14T10:55:00.000Z",
+      "season": "1885/1886",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Philipp II.",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Elisabeth",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Farnese",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Infantin",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Eboli",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Graf Lerma",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "Feria",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Medina",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taxis",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Domingo",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f9",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Tondeur",
+          "role": "Page",
+          "fullName": "Margarethe Tondeur"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Don Ludwig Mercado, Leibarzt",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae23",
+          "additional": "1860-1936",
+          "firstName": "Georg",
+          "lastName": "Reimers",
+          "role": "Offizier",
+          "fullName": "Georg Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Granden von Spanien",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Granden von Spanien",
+          "fullName": "Josef Wiesner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1885/1885-11-14.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666014b04e119021470818d0",
+      "uid": "46cc1269-90c2-41f6-b478-86384ef88cee",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1886-05-26T10:55:00.000Z",
+      "season": "1885/1886",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Philipp II.",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Elisabeth",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Farnese",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Infantin",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Eboli",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf Lerma",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Medina",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taxis",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Domingo",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f9",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Tondeur",
+          "role": "Page",
+          "fullName": "Margarethe Tondeur"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Don Ludwig Mercado, Leibarzt",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Offizier",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Granden von Spanien",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Granden von Spanien",
+          "fullName": "Josef Wiesner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1886/1886-05-26.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66602f654e119021470a54d2",
+      "uid": "440bc424-3692-40b2-ad8d-d3b23d8c6722",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1886-09-19T10:55:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Philipp II.",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Elisabeth",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Farnese",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Infantin",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Eboli",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf Lerma",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Medina",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taxis",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Domingo",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f9",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Tondeur",
+          "role": "Page",
+          "fullName": "Margarethe Tondeur"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Don Ludwig Mercado, Leibarzt",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Offizier",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Granden von Spanien",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Granden von Spanien",
+          "fullName": "Josef Wiesner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1886/1886-09-19.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666192e34e119021472617bd",
+      "uid": "ad838b27-886d-4dc6-ba73-12dd5a24408b",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-02-27T10:55:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Philipp II., König von Spanien",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Elisabeth von Valois, seine Gemahlin",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos, der Kronprinz",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Infantin Klara Eugenia",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez, Obersthofmeisterin",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar, Dame der Königin",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Prinzessin von Eboli, Dame der Königin",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin von Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa, ein Maltheser-Ritter",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf von Lerma, Oberst der Leibwache",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria, Ritter des Vließes",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Herzog von Medina Sidonia, Admiral",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taris, Oberpostmeister",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Domingo, Beichtvater des Königs",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Großinquisitor des Königreichs",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f9",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Tondeur",
+          "role": "Ein Page der Königin",
+          "fullName": "Margarethe Tondeur"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b040",
+          "additional": "1882-1917",
+          "firstName": "Paul",
+          "lastName": "Stätter",
+          "role": "Ein Offizier der Leibwache",
+          "fullName": "Paul Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Granden von Spanien",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Granden von Spanien",
+          "fullName": "Josef Wiesner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-02-27.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66618e3f4e1190214725af9d",
+      "uid": "aa06b8dc-ce45-4687-a6a0-16e3a8af779d",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-09-11T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Philipp II.",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024abba",
+          "additional": "Gast aus Moskau",
+          "firstName": "Therese",
+          "lastName": "Leithner",
+          "role": "Elisabeth",
+          "fullName": "Therese Leithner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Carlos",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Farnese",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c1",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Bella",
+          "role": "Infantin",
+          "fullName": "Marie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Eboli",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf Lerma",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Medina",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taxis",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Domingo",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f9",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Tondeur",
+          "role": "Page",
+          "fullName": "Margarethe Tondeur"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Don Ludwig Mercado, Leibarzt",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00f",
+          "additional": "1852-1913, Hofschauspieler",
+          "firstName": "Rudolf",
+          "lastName": "Sommer",
+          "role": "Offizier",
+          "fullName": "Rudolf Sommer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Granden von Spanien",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Granden von Spanien",
+          "fullName": "Josef Wiesner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-09-11.jpg"
+      ],
+      "comment": "\"Elisabeth von Valois\" Frl. Therese Leithner vom deutschen Theater in Moskau als Gast."
+    },
+    {
+      "_id": "66637319cd334071f7558b81",
+      "uid": "24ec2513-fe80-4a23-8bd0-1802b0de8209",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-11-22T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Philipp II., König von Spanien",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a75a",
+          "additional": "",
+          "firstName": "Louise",
+          "lastName": "Dumont",
+          "role": "Elisabeth von Valois, seine Gemahlin",
+          "fullName": "Louise Dumont"
+        },
+        {
+          "_id": "662a8c1d46b3b9baaf35d0ca",
+          "firstName": "J.",
+          "lastName": "Wagner",
+          "additional": "a. G. aus Leipzig",
+          "role": "Don Carlos, der Kronprinz",
+          "fullName": "J. Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Alexander Farnese, Prinz von Parma, Neffe des Königs",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c1",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Bella",
+          "role": "Infantin Klara Eugenia",
+          "fullName": "Marie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez, Obersthofmeisterin",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar, Dame der Königin",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Prinzessin von Eboli, Dame der Königin",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin von Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa, ein Maltheser-Ritter",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf von Lerma, Oberst der Leibwache",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Herzog von Feria, Ritter des Vließes",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Herzog von Medina Sidonia, Admiral",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taris, Oberpostmeister",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Domingo, Beichtvater des Königs",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Der Großinquisitor des Königreichs",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f9",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Tondeur",
+          "role": "Ein Page der Königin",
+          "fullName": "Margarethe Tondeur"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Don Ludwig Mercado, Leibarzt der Königin",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00f",
+          "additional": "1852-1913, Hofschauspieler",
+          "firstName": "Rudolf",
+          "lastName": "Sommer",
+          "role": "Ein Offizier der Leibwache",
+          "fullName": "Rudolf Sommer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Bayer",
+          "role": "Granden von Spanien",
+          "fullName": "Friedrich Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Granden von Spanien",
+          "fullName": "Josef Wiesner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-11-22.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6661a3f14e11902147279f65",
+      "uid": "c98b2bbc-7644-43a5-a30f-7a8ffa4623b7",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1888-05-13T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Philipp II.",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aafd",
+          "additional": "",
+          "firstName": "Adrienne",
+          "lastName": "Kola (Kolá)",
+          "role": "Elisabeth",
+          "fullName": "Adrienne Kola (Kolá)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae23",
+          "additional": "1860-1936",
+          "firstName": "Georg",
+          "lastName": "Reimers",
+          "role": "Don Carlos",
+          "fullName": "Georg Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Farnese",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c1",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Bella",
+          "role": "Infantin",
+          "fullName": "Marie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Eboli",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf Lerma",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Medina",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taxis",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Domingo",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f9",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Tondeur",
+          "role": "Page",
+          "fullName": "Margarethe Tondeur"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Don Ludwig Mercado, Leibarzt",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00f",
+          "additional": "1852-1913, Hofschauspieler",
+          "firstName": "Rudolf",
+          "lastName": "Sommer",
+          "role": "Offizier",
+          "fullName": "Rudolf Sommer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Granden von Spanien",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Granden von Spanien",
+          "fullName": "Josef Wiesner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1888/1888-05-13.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6661cea44e119021472b223d",
+      "uid": "c5eead29-3a11-4343-946e-cf5b2b65b2db",
+      "productionId": "09198a6a-e284-43d2-8b07-c6758d6ef111",
+      "title": "Don Karlos, Infant von Spanien",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1888-09-16T10:55:00.000Z",
+      "season": "1888/1889",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Philipp II.",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024aafd",
+          "additional": "",
+          "firstName": "Adrienne",
+          "lastName": "Kola (Kolá)",
+          "role": "Elisabeth",
+          "fullName": "Adrienne Kola (Kolá)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b149",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Wagner",
+          "role": "Don Carlos",
+          "fullName": "Karl Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Farnese",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c1",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Bella",
+          "role": "Infantin",
+          "fullName": "Marie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Herzogin von Olivarez",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marquisin von Mondekar",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Eboli",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Gräfin Fuentes",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Marquis von Posa",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Herzog von Alba",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Graf Lerma",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Feria",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Medina",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Raimond von Taxis",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Domingo",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Grossinquisitor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a821",
+          "additional": "1869-1942",
+          "firstName": "Margarethe",
+          "lastName": "Formes-Königswarter",
+          "role": "Page",
+          "fullName": "Margarethe Formes-Königswarter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Don Ludwig Mercado, Leibarzt",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00f",
+          "additional": "1852-1913, Hofschauspieler",
+          "firstName": "Rudolf",
+          "lastName": "Sommer",
+          "role": "Offizier",
+          "fullName": "Rudolf Sommer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Granden von Spanien",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Granden von Spanien",
+          "fullName": "Josef Wiesner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Granden von Spanien",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1888/1888-09-16.jpg"
+      ],
+      "comment": "\"Don Carlos\" Herr Wagner als Antrittsrolle"
+    }
+  ]
+}

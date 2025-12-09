@@ -1,0 +1,2767 @@
+{
+  "_id": "6658cb2e4e1190214775a0aa",
+  "uid": "e54c274d-fcf0-4432-b9b8-611f88648582",
+  "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+  "title": "Johannistrieb",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-05-09T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Professor Eberhard",
+      "fullName": "Josef Lewinsky"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b15",
+      "additional": "1848-1920",
+      "firstName": "Antonie",
+      "lastName": "Janisch",
+      "role": "Luise",
+      "fullName": "Antonie Janisch"
+    },
+    {
+      "_id": "6504166ba47588ad6024b07e",
+      "additional": "1825-1892",
+      "firstName": "Marie",
+      "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+      "role": "Emma Massow",
+      "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6f7",
+      "additional": "geb. Würzburg, 1835-1892",
+      "firstName": "Zerline",
+      "lastName": "Gabillon",
+      "role": "Leopoldine",
+      "fullName": "Zerline Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024a969",
+      "additional": "geb. Schneeberger, 1843-1898",
+      "firstName": "Helene",
+      "lastName": "Hartmann",
+      "role": "Grethe",
+      "fullName": "Helene Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b8b0",
+      "additional": "1834-1909",
+      "firstName": "Adolf",
+      "lastName": "Sonnenthal",
+      "role": "Harold",
+      "fullName": "Adolf Sonnenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024a95e",
+      "additional": "1844-1911",
+      "firstName": "Ernst",
+      "lastName": "Hartmann",
+      "role": "Köbke",
+      "fullName": "Ernst Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd3",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Mitterwurzer",
+      "role": "Jordan",
+      "fullName": "Friedrich Mitterwurzer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a86e",
+      "additional": "1825-1896",
+      "firstName": "Ludwig",
+      "lastName": "Gabillon",
+      "role": "Edmund",
+      "fullName": "Ludwig Gabillon"
+    },
+    {
+      "_id": "6561eeb70080658502cf2eea",
+      "firstName": "Friedrich",
+      "lastName": "Rüden",
+      "additional": "1836-1900",
+      "role": "Alberts",
+      "fullName": "Friedrich Rüden"
+    },
+    {
+      "_id": "6504166ba47588ad6024b153",
+      "additional": "Hofschauspielerin, verehel. Goschalla",
+      "firstName": "Rosa",
+      "lastName": "Wagner",
+      "role": "Bertha",
+      "fullName": "Rosa Wagner"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "August",
+      "fullName": "Friedrich Wilhelm Bayer"
+    }
+  ],
+  "crew": [],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b488",
+      "additional": "",
+      "firstName": "Paul",
+      "lastName": "Lindau",
+      "fullName": "Paul Lindau"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-09.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a7dd3ced60fbe1c79f3",
+      "uid": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "21",
+      "date": "1878-09-17T12:00:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0322.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-09-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658a6a44e11902147723621",
+      "uid": "30c5fe9c-4fc8-41da-b5d4-52078aad02f3",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-09-18T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-09-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658a66c4e11902147723145",
+      "uid": "d1d29afb-4ce9-45e0-be14-f178f8afb936",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-09-21T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-09-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658a7d84e119021477253df",
+      "uid": "e78c3289-4cd1-46e6-afc6-06b089dcd8cb",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-09-27T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-09-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658a7d14e1190214772530e",
+      "uid": "e0e7cb43-03ca-4452-86ea-2ef8aa7b5c6e",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-01T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-01.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658a8464e11902147725e69",
+      "uid": "76ed4328-9809-4ba6-8674-ceb8fca3b05d",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-04T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Doktor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise, dessen Tochter",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine, verwitwete von Mosberg",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Philipp Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Julius Köbke, Maler",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Vincenz Jordan, Maler",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund, Modell",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts, Friseur",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha, Dienstmädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August, Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658a9024e11902147726f37",
+      "uid": "7434989a-2fec-414e-9f73-af6db44dfac3",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-09T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658a9774e11902147727afa",
+      "uid": "5d6bfed9-e3e6-483c-95fb-befa389ae473",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-12T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658aa2d4e11902147728da2",
+      "uid": "e558bf44-8c05-44db-9f48-ffa23bad504c",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-19T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658aad04e11902147729e48",
+      "uid": "862c778b-a3e9-4c90-851f-81093e0f3368",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-22T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658ab1e4e1190214772a630",
+      "uid": "44b17203-1b8d-4d84-b74c-11c0e01be457",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-25T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658ac7f4e1190214772cc28",
+      "uid": "64787b88-2545-4ef2-939c-77842adbe408",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-11-07T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-11-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658add44e1190214772efd8",
+      "uid": "a22d098f-248f-489b-9be0-1eff8373dfae",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-11-18T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-11-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658afa34e119021477322a0",
+      "uid": "fae9007e-2dcc-42cf-9767-4ea0ce94e0e2",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-12-08T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-12-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658b23f4e1190214773687f",
+      "uid": "26b6156e-8c1a-4d6d-bc24-1019572176fa",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-01-03T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658b2ff4e11902147737c6a",
+      "uid": "4fa33158-389f-4cc7-bbbd-4e12670d9d26",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-01-12T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c6a74e11902147752f61",
+      "uid": "f01270ca-b476-45d1-8471-723eb43cb738",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-02-20T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-02-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658cb2e4e1190214775a0aa",
+      "uid": "e54c274d-fcf0-4432-b9b8-611f88648582",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-05-09T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66597f834e11902147839427",
+      "uid": "b84d9f2c-f9d2-43dd-aadb-a64f78541be4",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-09-24T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-09-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6659979b4e119021478584b5",
+      "uid": "78078173-72b4-4e74-9318-2bf410e02ced",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-11-24T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jordan",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-11-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a26cc4e1190214790f23b",
+      "uid": "9ab349de-2fef-472a-a631-cbc297cd5545",
+      "productionId": "1a535af3-8f09-42ef-8ff4-e4f7c3e85bd6",
+      "title": "Johannistrieb",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-10-09T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Professor Eberhard",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Luise",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Emma Massow",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Leopoldine",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Grethe",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Harold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Köbke",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jordan",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Edmund",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Alberts",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Bertha",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "August",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b488",
+          "additional": "",
+          "firstName": "Paul",
+          "lastName": "Lindau",
+          "fullName": "Paul Lindau"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-10-09.jpeg"
+      ],
+      "comment": ""
+    }
+  ]
+}

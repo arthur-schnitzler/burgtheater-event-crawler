@@ -9,6 +9,5 @@ calendar_folder = os.path.join(data, "calendar")
 event_folder = os.path.join(data, "events")
 person_folder = os.path.join(data, "persons")
 calendar_folder = os.path.join(data, "calendar")
-year_range = range(1880, 1938)
 years = glob.glob(f"./{calendar_folder}/*.json")
 year_url = f"{base_url}calendar/"

@@ -1,0 +1,5033 @@
+{
+  "_id": "6658b5cf4e1190214773bd13",
+  "uid": "f627bb98-59b0-4c5b-93ae-60e299733c4a",
+  "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+  "title": "Die Braut von Messina",
+  "subtitle": "Die feindlichen Brüder ",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-01-26T11:07:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b230",
+      "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+      "firstName": "Charlotte",
+      "lastName": "Wolter",
+      "role": "Donna Isabella, Fürstin von Messina",
+      "fullName": "Charlotte Wolter"
+    },
+    {
+      "_id": "6504166ba47588ad6024a95e",
+      "additional": "1844-1911",
+      "firstName": "Ernst",
+      "lastName": "Hartmann",
+      "role": "Don Manuel, ihr Sohn",
+      "fullName": "Ernst Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab3d",
+      "additional": "1839-1908",
+      "firstName": "Friedrich",
+      "lastName": "Krastel",
+      "role": "Don Cesar, ihr Sohn",
+      "fullName": "Friedrich Krastel"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b15",
+      "additional": "1848-1920",
+      "firstName": "Antonie",
+      "lastName": "Janisch",
+      "role": "Beatrice",
+      "fullName": "Antonie Janisch"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Diego",
+      "fullName": "Josef Lewinsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Boten",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "6504166ba47588ad6024a51b",
+      "additional": "1844-1910",
+      "firstName": "Josef",
+      "lastName": "Altmann",
+      "role": "Boten",
+      "fullName": "Josef Altmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a941",
+      "additional": "1833-1892",
+      "firstName": "Konrad",
+      "lastName": "Hallenstein",
+      "role": "Chor Don Manuels",
+      "fullName": "Konrad Hallenstein"
+    },
+    {
+      "_id": "6504166ba47588ad6024a86e",
+      "additional": "1825-1896",
+      "firstName": "Ludwig",
+      "lastName": "Gabillon",
+      "role": "Chor Don Manuels",
+      "fullName": "Ludwig Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6d8",
+      "additional": "1843-1902, Pseud. Wallis, Alfred",
+      "firstName": "Emil",
+      "lastName": "Ferrari",
+      "role": "Chor Don Manuels",
+      "fullName": "Emil Ferrari"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc4",
+      "additional": "1822-1883",
+      "firstName": "Eduard",
+      "lastName": "Leuchert",
+      "role": "Chor Don Manuels",
+      "fullName": "Eduard Leuchert"
+    },
+    {
+      "_id": "6504166ba47588ad6024abea",
+      "additional": "1834-1913",
+      "firstName": "Josef",
+      "lastName": "Lippert",
+      "role": "Chor Don Manuels",
+      "fullName": "Josef Lippert"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa43",
+      "additional": "1822-1892",
+      "firstName": "Matthias",
+      "lastName": "Jehly",
+      "role": "Chor Don Manuels",
+      "fullName": "Matthias Jehly"
+    },
+    {
+      "_id": "65f1ecc34578d7314815abd2",
+      "firstName": "Georg",
+      "lastName": "Kohler",
+      "additional": "",
+      "role": "Chor Don Manuels",
+      "fullName": "Georg Kohler"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9ac",
+      "additional": "",
+      "firstName": "Karl",
+      "lastName": "Hellmann",
+      "role": "Chor Don Manuels",
+      "fullName": "Karl Hellmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b132",
+      "additional": "",
+      "firstName": "Ignaz",
+      "lastName": "Vogler",
+      "role": "Chor Don Manuels",
+      "fullName": "Ignaz Vogler"
+    },
+    {
+      "_id": "6504166ba47588ad6024a80c",
+      "additional": "",
+      "firstName": "Ernst",
+      "lastName": "Fournes",
+      "role": "Chor Don Manuels",
+      "fullName": "Ernst Fournes"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9ac0",
+      "additional": "",
+      "firstName": "Wilhelm",
+      "lastName": "Müller",
+      "role": "Chor Don Manuels",
+      "fullName": "Wilhelm Müller"
+    },
+    {
+      "_id": "66572dfef11595c123a5dc5a",
+      "firstName": "Herr",
+      "lastName": "Mannhart",
+      "additional": "",
+      "role": "Chor Don Manuels",
+      "fullName": "Herr Mannhart"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd3",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Mitterwurzer",
+      "role": "Chor Don Cesars",
+      "fullName": "Friedrich Mitterwurzer"
+    },
+    {
+      "_id": "6561f3320080658502cf302a",
+      "firstName": "Rudolf",
+      "lastName": "Leyrer",
+      "additional": "",
+      "role": "Chor Don Cesars",
+      "fullName": "Rudolf Leyrer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b041",
+      "additional": "1843-1913",
+      "firstName": "Philipp",
+      "lastName": "Stätter",
+      "role": "Chor Don Cesars",
+      "fullName": "Philipp Stätter"
+    },
+    {
+      "_id": "6561eeb70080658502cf2eea",
+      "firstName": "Friedrich",
+      "lastName": "Rüden",
+      "additional": "1836-1900",
+      "role": "Chor Don Cesars",
+      "fullName": "Friedrich Rüden"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "Chor Don Cesars",
+      "fullName": "Friedrich Wilhelm Bayer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7dd",
+      "additional": "1853-1907",
+      "firstName": "Franz",
+      "lastName": "Fiala",
+      "role": "Chor Don Cesars",
+      "fullName": "Franz Fiala"
+    },
+    {
+      "_id": "6504166ba47588ad6024b124",
+      "additional": "",
+      "firstName": "Josef",
+      "lastName": "Valenti",
+      "role": "Chor Don Cesars",
+      "fullName": "Josef Valenti"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1b9",
+      "additional": "",
+      "firstName": "Adolf",
+      "lastName": "Werner",
+      "role": "Chor Don Cesars",
+      "fullName": "Adolf Werner"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab42",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Kreith",
+      "role": "Chor Don Cesars",
+      "fullName": "Hans Kreith"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac33",
+      "additional": "",
+      "firstName": "Anton",
+      "lastName": "Maglia",
+      "role": "Chor Don Cesars",
+      "fullName": "Anton Maglia"
+    },
+    {
+      "_id": "6504166ba47588ad6024b5d4",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Wiesner",
+      "role": "Chor Don Cesars",
+      "fullName": "Franz Wiesner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a57a",
+      "additional": "",
+      "firstName": "Josef",
+      "lastName": "Bauer",
+      "role": "Chor Don Cesars",
+      "fullName": "Josef Bauer"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024a87a",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Gaul",
+      "fullName": "Franz Gaul",
+      "role": "Kostümbildner"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b544",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Schiller",
+      "fullName": "Friedrich Schiller"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-26.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a41d3ced60fbe1ba5d9",
+      "uid": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Neueinstudierung",
+      "count": "18",
+      "date": "1866-06-11T12:00:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab86",
+          "additional": "",
+          "firstName": "Johanna",
+          "lastName": "Lange",
+          "role": "Isabella",
+          "fullName": "Johanna Lange"
+        },
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Manuel",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Cesar",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Beatrice",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Diego",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Älterer Chorführer",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Älterer Chor",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Älterer Chor",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "Älterer Chor",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a93c",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Hanker",
+          "role": "Älterer Chor",
+          "fullName": "Franz Hanker"
+        },
+        {
+          "_id": "651691d696c724dc0090c4df",
+          "firstName": "Gregor",
+          "lastName": "Haller",
+          "additional": "",
+          "role": "Älterer Chor",
+          "fullName": "Gregor Haller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Älterer Chor",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Älterer Chor",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c6",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Berger",
+          "role": "Älterer Chor",
+          "fullName": "Alois Berger"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Jüngerer Chorführer",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Jüngerer Chor",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Jüngerer Chor",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Jüngerer Chor",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Jüngerer Chor",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Jüngerer Chor",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9d",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Lechner",
+          "role": "Jüngerer Chor",
+          "fullName": "Josef Lechner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc5",
+          "additional": "",
+          "firstName": "Jakob",
+          "lastName": "Leuthe",
+          "role": "Jüngerer Chor",
+          "fullName": "Jakob Leuthe"
+        },
+        {
+          "_id": "6504166ba47588ad6024a54b",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Bablam",
+          "role": "Jüngerer Chor",
+          "fullName": "Herr Bablam"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Jüngerer Chor",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Boten",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Boten",
+          "fullName": "Johann Baptist Verstl"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0290.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0291.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1866/1866-06-11.jpeg"
+      ],
+      "comment": "Donna Isabella = = = Frau Johanna Lange vom großherzoglichen Hoftheater in Karlsruhe, als Gast."
+    },
+    {
+      "_id": "664cbefee027ead1c1aa5f14",
+      "uid": "bb3f0654-d75a-4016-8d36-e777202a8cc7",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1866-09-04T11:07:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afc6",
+          "additional": "1836-1894",
+          "firstName": "Christine",
+          "lastName": "Schweigert",
+          "role": "Donna Isabella, Fürstin von Messina",
+          "fullName": "Christine Schweigert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Don Manuel, ihr Sohn",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Cesar, ihr Sohn",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Beatrice",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Diego",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Älterer Chorführer",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Älterer Chor",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Älterer Chor",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "Älterer Chor",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a93c",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Hanker",
+          "role": "Älterer Chor",
+          "fullName": "Franz Hanker"
+        },
+        {
+          "_id": "651691d696c724dc0090c4df",
+          "firstName": "Gregor",
+          "lastName": "Haller",
+          "additional": "",
+          "role": "Älterer Chor",
+          "fullName": "Gregor Haller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Älterer Chor",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Älterer Chor",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c6",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Berger",
+          "role": "Älterer Chor",
+          "fullName": "Alois Berger"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Jüngerer Chorführer",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Jüngerer Chor",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Jüngerer Chor",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Jüngerer Chor",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Jüngerer Chor",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Jüngerer Chor",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9d",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Lechner",
+          "role": "Jüngerer Chor",
+          "fullName": "Josef Lechner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc5",
+          "additional": "",
+          "firstName": "Jakob",
+          "lastName": "Leuthe",
+          "role": "Jüngerer Chor",
+          "fullName": "Jakob Leuthe"
+        },
+        {
+          "_id": "6504166ba47588ad6024a54b",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Bablam",
+          "role": "Jüngerer Chor",
+          "fullName": "Herr Bablam"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Boten",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Boten",
+          "fullName": "Johann Baptist Verstl"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1866/1866-09-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664dc386e027ead1c1c0556a",
+      "uid": "a8dba849-54ff-4801-b833-ba636f7a4d65",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-05-25T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "664625a32ab4d9095fddba81",
+          "firstName": "Anna",
+          "lastName": "Versing-Hauptmann",
+          "additional": "Stadttheater Frankfurt, Landestheater Prag",
+          "role": "Donna Isabella, Fürstin von Messina",
+          "fullName": "Anna Versing-Hauptmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Don Manuel, ihr Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Cesar, ihr Sohn",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Beatrice",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Diego",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Älterer Chorführer",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Älterer Chor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Älterer Chor",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "Älterer Chor",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Älterer Chor",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a93c",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Hanker",
+          "role": "Älterer Chor",
+          "fullName": "Franz Hanker"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Älterer Chor",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Älterer Chor",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c6",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Berger",
+          "role": "Älterer Chor",
+          "fullName": "Alois Berger"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Jüngerer Chorführer",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Jüngerer Chor",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Jüngerer Chor",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Jüngerer Chor",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Jüngerer Chor",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Jüngerer Chor",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9d",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Lechner",
+          "role": "Jüngerer Chor",
+          "fullName": "Josef Lechner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc5",
+          "additional": "",
+          "firstName": "Jakob",
+          "lastName": "Leuthe",
+          "role": "Jüngerer Chor",
+          "fullName": "Jakob Leuthe"
+        },
+        {
+          "_id": "6504166ba47588ad6024a54b",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Bablam",
+          "role": "Jüngerer Chor",
+          "fullName": "Herr Bablam"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Boten",
+          "fullName": "Johann Baptist Verstl"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-05-25.jpeg"
+      ],
+      "comment": "\"Donna Isabella\" .... Fr. Versing-Hauptmann vom königl. Landestheater in Prag, als Gast."
+    },
+    {
+      "_id": "664e6b3fe027ead1c1ce1ce2",
+      "uid": "297ab181-d7bb-4468-96d7-c59d40be8108",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-10-01T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b12d",
+          "additional": "1838-1907",
+          "firstName": "Mathilde",
+          "lastName": "Veneta",
+          "role": "Isabella",
+          "fullName": "Mathilde Veneta"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Manuel",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Cesar",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Beatrice",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Diego",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Älterer Chorführer",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Älterer Chor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Älterer Chor",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "Älterer Chor",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Älterer Chor",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a67a",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Burggraf",
+          "role": "Älterer Chor",
+          "fullName": "Carl Burggraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a93c",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Hanker",
+          "role": "Älterer Chor",
+          "fullName": "Franz Hanker"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Älterer Chor",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Älterer Chor",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Jüngerer Chorführer",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Jüngerer Chor",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Jüngerer Chor",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Jüngerer Chor",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Jüngerer Chor",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Jüngerer Chor",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9d",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Lechner",
+          "role": "Jüngerer Chor",
+          "fullName": "Josef Lechner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc5",
+          "additional": "",
+          "firstName": "Jakob",
+          "lastName": "Leuthe",
+          "role": "Jüngerer Chor",
+          "fullName": "Jakob Leuthe"
+        },
+        {
+          "_id": "6504166ba47588ad6024a54b",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Bablam",
+          "role": "Jüngerer Chor",
+          "fullName": "Herr Bablam"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Boten",
+          "fullName": "Johann Baptist Verstl"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-10-01.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f6c5be027ead1c1e2e536",
+      "uid": "bc1690a0-3064-4b01-9000-75209c9a47bd",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-03-09T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b265",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Ziegler",
+          "role": "Isabella",
+          "fullName": "Klara Ziegler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Manuel",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Cesar",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Beatrice",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Diego",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Älterer Chorführer",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Älterer Chor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Älterer Chor",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "Älterer Chor",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Älterer Chor",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a67a",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Burggraf",
+          "role": "Älterer Chor",
+          "fullName": "Carl Burggraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a93c",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Hanker",
+          "role": "Älterer Chor",
+          "fullName": "Franz Hanker"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Älterer Chor",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Älterer Chor",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Jüngerer Chorführer",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Jüngerer Chor",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Jüngerer Chor",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Jüngerer Chor",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Jüngerer Chor",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Jüngerer Chor",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9d",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Lechner",
+          "role": "Jüngerer Chor",
+          "fullName": "Josef Lechner"
+        },
+        {
+          "_id": "664f62d12ab4d9095ff3b375",
+          "firstName": "Herr",
+          "lastName": "Neville",
+          "additional": "",
+          "role": "Jüngerer Chor",
+          "fullName": "Herr Neville"
+        },
+        {
+          "_id": "6504166ba47588ad6024a54b",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Bablam",
+          "role": "Jüngerer Chor",
+          "fullName": "Herr Bablam"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Boten",
+          "fullName": "Johann Baptist Verstl"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-03-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f42ace027ead1c1df5bf6",
+      "uid": "440255fc-0798-48c7-b4be-6a5cc9f985df",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-08-10T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b15e",
+          "additional": "",
+          "firstName": "Eleonore",
+          "lastName": "Wahlmann-Wilführ",
+          "role": "Isabella",
+          "fullName": "Eleonore Wahlmann-Wilführ"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Manuel",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Cesar",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Beatrice",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Diego",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Älterer Chorführer",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Älterer Chor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Älterer Chor",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a67a",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Burggraf",
+          "role": "Älterer Chor",
+          "fullName": "Carl Burggraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Älterer Chor",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024afc9",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Seibold",
+          "role": "Älterer Chor",
+          "fullName": "Karl Seibold"
+        },
+        {
+          "_id": "6504166ba47588ad6024a93c",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Hanker",
+          "role": "Älterer Chor",
+          "fullName": "Franz Hanker"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Älterer Chor",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Älterer Chor",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Jüngerer Chorführer",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Jüngerer Chor",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Jüngerer Chor",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Jüngerer Chor",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Jüngerer Chor",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Jüngerer Chor",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aefb",
+          "additional": "",
+          "firstName": "Jocza",
+          "lastName": "Savits",
+          "role": "Jüngerer Chor",
+          "fullName": "Jocza Savits"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9d",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Lechner",
+          "role": "Jüngerer Chor",
+          "fullName": "Josef Lechner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a54b",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Bablam",
+          "role": "Jüngerer Chor",
+          "fullName": "Herr Bablam"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Boten",
+          "fullName": "Johann Baptist Verstl"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-08-10.jpeg"
+      ],
+      "comment": "Frau Wahlmann, vom königl. Hoftheater in Stuttgart, \"Donna Isabella\", als Gast."
+    },
+    {
+      "_id": "6650fbd54e11902147d62e8a",
+      "uid": "340af938-9b67-4ac0-bba8-3d617562a68b",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-10-09T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Isabella, Fürstin von Messina",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Manuel",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Cesar",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Beatrice",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "Diego",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Älterer Chorführer",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Älterer Chor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Älterer Chor",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac72",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Marx",
+          "role": "Älterer Chor",
+          "fullName": "Herr Marx"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Älterer Chor",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024afc9",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Seibold",
+          "role": "Älterer Chor",
+          "fullName": "Karl Seibold"
+        },
+        {
+          "_id": "6504166ba47588ad6024a93c",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Hanker",
+          "role": "Älterer Chor",
+          "fullName": "Franz Hanker"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Älterer Chor",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "Älterer Chor",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Jüngerer Chorführer",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Jüngerer Chor",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Jüngerer Chor",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Jüngerer Chor",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Jüngerer Chor",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Jüngerer Chor",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aefb",
+          "additional": "",
+          "firstName": "Jocza",
+          "lastName": "Savits",
+          "role": "Jüngerer Chor",
+          "fullName": "Jocza Savits"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9d",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Lechner",
+          "role": "Jüngerer Chor",
+          "fullName": "Josef Lechner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a54b",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Bablam",
+          "role": "Jüngerer Chor",
+          "fullName": "Herr Bablam"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Boten",
+          "fullName": "Johann Baptist Verstl"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-10-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665867554e119021476cdd83",
+      "uid": "e02f60cc-4f93-4c95-a476-b84e5b2b5450",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-11-10T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Isabella",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Manuel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Cesar",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Beatrice",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Diego",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Boten",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Chor Don Manuels",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Chor Don Manuels",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Chor Don Manuels",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Chor Don Manuels",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Chor Don Manuels",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Chor Don Manuels",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "65f1ecc34578d7314815abd2",
+          "firstName": "Georg",
+          "lastName": "Kohler",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Georg Kohler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ac",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Hellmann",
+          "role": "Chor Don Manuels",
+          "fullName": "Karl Hellmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Chor Don Manuels",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a80c",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Fournes",
+          "role": "Chor Don Manuels",
+          "fullName": "Ernst Fournes"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ac0",
+          "additional": "",
+          "firstName": "Wilhelm",
+          "lastName": "Müller",
+          "role": "Chor Don Manuels",
+          "fullName": "Wilhelm Müller"
+        },
+        {
+          "_id": "66572dfef11595c123a5dc5a",
+          "firstName": "Herr",
+          "lastName": "Mannhart",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Herr Mannhart"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Chor Don Cesars",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Chor Don Cesars",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Chor Don Cesars",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a582",
+          "additional": "1853-1895",
+          "firstName": "Carl",
+          "lastName": "Bassen",
+          "role": "Chor Don Cesars",
+          "fullName": "Carl Bassen"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c6",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Berger",
+          "role": "Chor Don Cesars",
+          "fullName": "Alois Berger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Chor Don Cesars",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b124",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Valenti",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Valenti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1b9",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Werner",
+          "role": "Chor Don Cesars",
+          "fullName": "Adolf Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Chor Don Cesars",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac33",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Maglia",
+          "role": "Chor Don Cesars",
+          "fullName": "Anton Maglia"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-11-10.jpeg"
+      ],
+      "comment": "Neue Kostüme nach Zeichnungen des Herrn Franz Gaul."
+    },
+    {
+      "_id": "6658691f4e119021476d034f",
+      "uid": "c8bc5101-5a52-4af4-a1a7-0b56949dcdef",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-11-15T11:07:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Isabella, Fürstin von Messina",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Manuel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Cesar",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Beatrice",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Diego",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Don Cesars Chor",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Don Cesars Chor",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Don Cesars Chor",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Don Cesars Chor",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Don Cesars Chor",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a582",
+          "additional": "1853-1895",
+          "firstName": "Carl",
+          "lastName": "Bassen",
+          "role": "Don Cesars Chor",
+          "fullName": "Carl Bassen"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Don Cesars Chor",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Don Cesars Chor",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b124",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Valenti",
+          "role": "Don Cesars Chor",
+          "fullName": "Josef Valenti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1b9",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Werner",
+          "role": "Don Cesars Chor",
+          "fullName": "Adolf Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Don Manuels Chor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Don Manuels Chor",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Don Manuels Chor",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Don Manuels Chor",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Don Manuels Chor",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1b",
+          "additional": "",
+          "firstName": "Johann",
+          "lastName": "Kohler",
+          "role": "Don Manuels Chor",
+          "fullName": "Johann Kohler"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Don Manuels Chor",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ac",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Hellmann",
+          "role": "Don Manuels Chor",
+          "fullName": "Karl Hellmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Don Manuels Chor",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a80c",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Fournes",
+          "role": "Don Manuels Chor",
+          "fullName": "Ernst Fournes"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ac0",
+          "additional": "",
+          "firstName": "Wilhelm",
+          "lastName": "Müller",
+          "role": "Don Manuels Chor",
+          "fullName": "Wilhelm Müller"
+        },
+        {
+          "_id": "66572dfef11595c123a5dc5a",
+          "firstName": "Herr",
+          "lastName": "Mannhart",
+          "additional": "",
+          "role": "Don Manuels Chor",
+          "fullName": "Herr Mannhart"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Boten",
+          "fullName": "Josef Altmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme- Idee"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-11-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665870774e119021476d9dcd",
+      "uid": "876bb3ec-93f4-43cd-a225-ce4ba62d0143",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-12-01T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Isabella",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Manuel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Cesar",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Beatrice",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Diego",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Boten",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Chor Don Manuels",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Chor Don Manuels",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Chor Don Manuels",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Chor Don Manuels",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Chor Don Manuels",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Chor Don Manuels",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "65f1ecc34578d7314815abd2",
+          "firstName": "Georg",
+          "lastName": "Kohler",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Georg Kohler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ac",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Hellmann",
+          "role": "Chor Don Manuels",
+          "fullName": "Karl Hellmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Chor Don Manuels",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a80c",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Fournes",
+          "role": "Chor Don Manuels",
+          "fullName": "Ernst Fournes"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ac0",
+          "additional": "",
+          "firstName": "Wilhelm",
+          "lastName": "Müller",
+          "role": "Chor Don Manuels",
+          "fullName": "Wilhelm Müller"
+        },
+        {
+          "_id": "66572dfef11595c123a5dc5a",
+          "firstName": "Herr",
+          "lastName": "Mannhart",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Herr Mannhart"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Chor Don Cesars",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Chor Don Cesars",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Chor Don Cesars",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a582",
+          "additional": "1853-1895",
+          "firstName": "Carl",
+          "lastName": "Bassen",
+          "role": "Chor Don Cesars",
+          "fullName": "Carl Bassen"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Chor Don Cesars",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b124",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Valenti",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Valenti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1b9",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Werner",
+          "role": "Chor Don Cesars",
+          "fullName": "Adolf Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Chor Don Cesars",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac33",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Maglia",
+          "role": "Chor Don Cesars",
+          "fullName": "Anton Maglia"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-12-01.jpeg"
+      ],
+      "comment": "\"zu drei Akten eingerichtet\""
+    },
+    {
+      "_id": "665873884e119021476ddf4c",
+      "uid": "d3281265-1793-4e1b-aeef-4e51af1acaff",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-12-08T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Isabella",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Manuel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Cesar",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Beatrice",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Diego",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Boten",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Chor Don Manuels",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Chor Don Manuels",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Chor Don Manuels",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Chor Don Manuels",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Chor Don Manuels",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Chor Don Manuels",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "65f1ecc34578d7314815abd2",
+          "firstName": "Georg",
+          "lastName": "Kohler",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Georg Kohler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ac",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Hellmann",
+          "role": "Chor Don Manuels",
+          "fullName": "Karl Hellmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Chor Don Manuels",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a80c",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Fournes",
+          "role": "Chor Don Manuels",
+          "fullName": "Ernst Fournes"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ac0",
+          "additional": "",
+          "firstName": "Wilhelm",
+          "lastName": "Müller",
+          "role": "Chor Don Manuels",
+          "fullName": "Wilhelm Müller"
+        },
+        {
+          "_id": "66572dfef11595c123a5dc5a",
+          "firstName": "Herr",
+          "lastName": "Mannhart",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Herr Mannhart"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Chor Don Cesars",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Chor Don Cesars",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Chor Don Cesars",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a582",
+          "additional": "1853-1895",
+          "firstName": "Carl",
+          "lastName": "Bassen",
+          "role": "Chor Don Cesars",
+          "fullName": "Carl Bassen"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Chor Don Cesars",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b124",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Valenti",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Valenti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1b9",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Werner",
+          "role": "Chor Don Cesars",
+          "fullName": "Adolf Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Chor Don Cesars",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac33",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Maglia",
+          "role": "Chor Don Cesars",
+          "fullName": "Anton Maglia"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-12-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665848f64e119021476a5680",
+      "uid": "03b05c22-95f4-4e23-8e9a-a4d073da6e1c",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-03-06T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Isabella, Fürstin von Messina",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Manuel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Cesar",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Beatrice",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Diego",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "Boten",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Boten",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Älterer Chor",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Älterer Chor",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Älterer Chor",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Älterer Chor",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Älterer Chor",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Älterer Chor",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "Älterer Chor",
+          "fullName": "Anton Köhler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ac",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Hellmann",
+          "role": "Älterer Chor",
+          "fullName": "Karl Hellmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Älterer Chor",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a80c",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Fournes",
+          "role": "Älterer Chor",
+          "fullName": "Ernst Fournes"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ac0",
+          "additional": "",
+          "firstName": "Wilhelm",
+          "lastName": "Müller",
+          "role": "Älterer Chor",
+          "fullName": "Wilhelm Müller"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac55",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Manhart (Manhardt)",
+          "role": "Älterer Chor",
+          "fullName": "Herr Manhart (Manhardt)"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Jüngerer Chor",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Jüngerer Chor",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Jüngerer Chor",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Jüngerer Chor",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Jüngerer Chor",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a582",
+          "additional": "1853-1895",
+          "firstName": "Carl",
+          "lastName": "Bassen",
+          "role": "Jüngerer Chor",
+          "fullName": "Carl Bassen"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Jüngerer Chor",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Jüngerer Chor",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b124",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Valenti",
+          "role": "Jüngerer Chor",
+          "fullName": "Josef Valenti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1b9",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Werner",
+          "role": "Jüngerer Chor",
+          "fullName": "Adolf Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Jüngerer Chor",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac33",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Maglia",
+          "role": "Jüngerer Chor",
+          "fullName": "Anton Maglia"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-03-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658a7ed4e119021477255cb",
+      "uid": "c4bc6e74-82b8-468e-b2b1-3fb836c0aa87",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-09-29T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Isabella",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Manuel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Cesar",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Beatrice",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Diego",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Boten",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Chor Don Manuels",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Chor Don Manuels",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Chor Don Manuels",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Chor Don Manuels",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Chor Don Manuels",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Chor Don Manuels",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "65f1ecc34578d7314815abd2",
+          "firstName": "Georg",
+          "lastName": "Kohler",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Georg Kohler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ac",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Hellmann",
+          "role": "Chor Don Manuels",
+          "fullName": "Karl Hellmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Chor Don Manuels",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a80c",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Fournes",
+          "role": "Chor Don Manuels",
+          "fullName": "Ernst Fournes"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ac0",
+          "additional": "",
+          "firstName": "Wilhelm",
+          "lastName": "Müller",
+          "role": "Chor Don Manuels",
+          "fullName": "Wilhelm Müller"
+        },
+        {
+          "_id": "66572dfef11595c123a5dc5a",
+          "firstName": "Herr",
+          "lastName": "Mannhart",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Herr Mannhart"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Chor Don Cesars",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Chor Don Cesars",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a68d",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Carpano",
+          "role": "Chor Don Cesars",
+          "fullName": "Herr Carpano"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Chor Don Cesars",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b124",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Valenti",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Valenti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1b9",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Werner",
+          "role": "Chor Don Cesars",
+          "fullName": "Adolf Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Chor Don Cesars",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac33",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Maglia",
+          "role": "Chor Don Cesars",
+          "fullName": "Anton Maglia"
+        },
+        {
+          "_id": "6504166ba47588ad6024b5d4",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Wiesner",
+          "role": "Chor Don Cesars",
+          "fullName": "Franz Wiesner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-09-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658b5cf4e1190214773bd13",
+      "uid": "f627bb98-59b0-4c5b-93ae-60e299733c4a",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-01-26T11:07:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Donna Isabella, Fürstin von Messina",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Don Manuel, ihr Sohn",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Cesar, ihr Sohn",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Beatrice",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Diego",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Boten",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Chor Don Manuels",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Chor Don Manuels",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Chor Don Manuels",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Chor Don Manuels",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Chor Don Manuels",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Chor Don Manuels",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "65f1ecc34578d7314815abd2",
+          "firstName": "Georg",
+          "lastName": "Kohler",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Georg Kohler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ac",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Hellmann",
+          "role": "Chor Don Manuels",
+          "fullName": "Karl Hellmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Chor Don Manuels",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a80c",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Fournes",
+          "role": "Chor Don Manuels",
+          "fullName": "Ernst Fournes"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ac0",
+          "additional": "",
+          "firstName": "Wilhelm",
+          "lastName": "Müller",
+          "role": "Chor Don Manuels",
+          "fullName": "Wilhelm Müller"
+        },
+        {
+          "_id": "66572dfef11595c123a5dc5a",
+          "firstName": "Herr",
+          "lastName": "Mannhart",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Herr Mannhart"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Chor Don Cesars",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Chor Don Cesars",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Chor Don Cesars",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b124",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Valenti",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Valenti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1b9",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Werner",
+          "role": "Chor Don Cesars",
+          "fullName": "Adolf Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Chor Don Cesars",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac33",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Maglia",
+          "role": "Chor Don Cesars",
+          "fullName": "Anton Maglia"
+        },
+        {
+          "_id": "6504166ba47588ad6024b5d4",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Wiesner",
+          "role": "Chor Don Cesars",
+          "fullName": "Franz Wiesner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a57a",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Bauer",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665993e04e11902147853913",
+      "uid": "f6ffc6f2-3346-4255-8bd2-774d5c66fe27",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-11-10T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Donna Isabella, Fürstin von Messina",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Don Manuel, ihr Sohn",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Cesar, ihr Sohn",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Beatrice",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Diego",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Boten",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Chor Don Manuels",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Chor Don Manuels",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Chor Don Manuels",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Chor Don Manuels",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Chor Don Manuels",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Chor Don Manuels",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "65f1ecc34578d7314815abd2",
+          "firstName": "Georg",
+          "lastName": "Kohler",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Georg Kohler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ac",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Hellmann",
+          "role": "Chor Don Manuels",
+          "fullName": "Karl Hellmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Chor Don Manuels",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024adf4",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Praschek",
+          "role": "Chor Don Manuels",
+          "fullName": "Franz Praschek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a0",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Heinzmann",
+          "role": "Chor Don Manuels",
+          "fullName": "Eduard Heinzmann"
+        },
+        {
+          "_id": "66572dfef11595c123a5dc5a",
+          "firstName": "Herr",
+          "lastName": "Mannhart",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Herr Mannhart"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Chor Don Cesars",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Chor Don Cesars",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Chor Don Cesars",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa54",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Jentsch",
+          "role": "Chor Don Cesars",
+          "fullName": "Rudolf Jentsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1b9",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Werner",
+          "role": "Chor Don Cesars",
+          "fullName": "Adolf Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Chor Don Cesars",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac33",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Maglia",
+          "role": "Chor Don Cesars",
+          "fullName": "Anton Maglia"
+        },
+        {
+          "_id": "6504166ba47588ad6024a57a",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Bauer",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-11-10.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665ac6354e119021479d3113",
+      "uid": "100807b4-6eba-4aa5-9d07-2d6b68a461bd",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-02-13T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Donna Isabella, Fürstin von Messina",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Don Manuel, ihr Sohn",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Cesar, ihr Sohn",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Beatrice",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Diego",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Boten",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Chor Don Manuels",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Chor Don Manuels",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Chor Don Manuels",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Chor Don Manuels",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Chor Don Manuels",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Chor Don Manuels",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "65f1ecc34578d7314815abd2",
+          "firstName": "Georg",
+          "lastName": "Kohler",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Georg Kohler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ac",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Hellmann",
+          "role": "Chor Don Manuels",
+          "fullName": "Karl Hellmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Chor Don Manuels",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024adf4",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Praschek",
+          "role": "Chor Don Manuels",
+          "fullName": "Franz Praschek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a0",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Heinzmann",
+          "role": "Chor Don Manuels",
+          "fullName": "Eduard Heinzmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Chor Don Manuels",
+          "fullName": "Eduard Dürer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aacd",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Klein",
+          "role": "Chor Don Cesars",
+          "fullName": "Adolf Klein"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Chor Don Cesars",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Chor Don Cesars",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Chor Don Cesars",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad5",
+          "additional": "1856-1927",
+          "firstName": "Josef",
+          "lastName": "Füller",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Füller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1b9",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Werner",
+          "role": "Chor Don Cesars",
+          "fullName": "Adolf Werner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Chor Don Cesars",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac33",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Maglia",
+          "role": "Chor Don Cesars",
+          "fullName": "Anton Maglia"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Wiesner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a57a",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Bauer",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-02-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6660290e4e1190214709c890",
+      "uid": "875bae84-dc14-43dc-80a0-51543584503b",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "oder Die feindlichen Brüder",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1886-02-21T10:55:00.000Z",
+      "season": "1885/1886",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Donna Isabella, Fürstin von Messina",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Manuel, ihr Sohn",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Cesar, ihr Sohn",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Beatrice",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Diego",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Boten",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Chor Don Manuels",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Chor Don Manuels",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Chor Don Manuels",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "Chor Don Manuels",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Chor Don Manuels",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Chor Don Manuels",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "65f1ecc34578d7314815abd2",
+          "firstName": "Georg",
+          "lastName": "Kohler",
+          "additional": "",
+          "role": "Chor Don Manuels",
+          "fullName": "Georg Kohler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a0",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Heinzmann",
+          "role": "Chor Don Manuels",
+          "fullName": "Eduard Heinzmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Chor Don Manuels",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024adf4",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Praschek",
+          "role": "Chor Don Manuels",
+          "fullName": "Franz Praschek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0aa",
+          "additional": "",
+          "firstName": "Theodor",
+          "lastName": "Stumpfe",
+          "role": "Chor Don Manuels",
+          "fullName": "Theodor Stumpfe"
+        },
+        {
+          "_id": "6504166ba47588ad6024adaf",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Perak",
+          "role": "Chor Don Manuels",
+          "fullName": "Rudolf Perak"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae23",
+          "additional": "1860-1936",
+          "firstName": "Georg",
+          "lastName": "Reimers",
+          "role": "Chor Don Cesars",
+          "fullName": "Georg Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024af6c",
+          "additional": "",
+          "firstName": "Alexis",
+          "lastName": "Schönlank",
+          "role": "Chor Don Cesars",
+          "fullName": "Alexis Schönlank"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Chor Don Cesars",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae90",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Ronneck",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Ronneck"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Chor Don Cesars",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Wiesner"
+        },
+        {
+          "_id": "653253ad832f678f05583370",
+          "firstName": "Johann",
+          "lastName": "Kühns",
+          "additional": "1856-1895",
+          "role": "Chor Don Cesars",
+          "fullName": "Johann Kühns"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4f0",
+          "additional": "",
+          "firstName": "Ferdinand",
+          "lastName": "Adam",
+          "role": "Chor Don Cesars",
+          "fullName": "Ferdinand Adam"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad5",
+          "additional": "1856-1927",
+          "firstName": "Josef",
+          "lastName": "Füller",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Füller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa54",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Jentsch",
+          "role": "Chor Don Cesars",
+          "fullName": "Rudolf Jentsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a942",
+          "additional": "1890-1904",
+          "firstName": "Herr",
+          "lastName": "Hansen",
+          "role": "Chor Don Cesars",
+          "fullName": "Herr Hansen"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1886/1886-02-21.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1886/1886-02-21_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6660055e4e1190214706dc61",
+      "uid": "4e0ffd95-43a7-4351-b527-f3572eaf49bc",
+      "productionId": "884b5fa5-0c24-41bf-9d42-537a439638a6",
+      "title": "Die Braut von Messina",
+      "subtitle": "Die feindlichen Brüder ",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1886-05-02T10:55:00.000Z",
+      "season": "1885/1886",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Donna Isabella, Fürstin von Messina",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Don Manuel, ihr Sohn",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Don Cesar, ihr Sohn",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Beatrice",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Diego",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Boten",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Boten",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Chor Don Manuels",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Chor Don Manuels",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Chor Don Manuels",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "Chor Don Manuels",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Chor Don Manuels",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Chor Don Manuels",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Chor Don Manuels",
+          "fullName": "Eduard Dürer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "Chor Don Manuels",
+          "fullName": "Anton Köhler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a0",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Heinzmann",
+          "role": "Chor Don Manuels",
+          "fullName": "Eduard Heinzmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b132",
+          "additional": "",
+          "firstName": "Ignaz",
+          "lastName": "Vogler",
+          "role": "Chor Don Manuels",
+          "fullName": "Ignaz Vogler"
+        },
+        {
+          "_id": "6504166ba47588ad6024adf4",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Praschek",
+          "role": "Chor Don Manuels",
+          "fullName": "Franz Praschek"
+        },
+        {
+          "_id": "6504166ba47588ad6024adaf",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Perak",
+          "role": "Chor Don Manuels",
+          "fullName": "Rudolf Perak"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae23",
+          "additional": "1860-1936",
+          "firstName": "Georg",
+          "lastName": "Reimers",
+          "role": "Chor Don Cesars",
+          "fullName": "Georg Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024af6c",
+          "additional": "",
+          "firstName": "Alexis",
+          "lastName": "Schönlank",
+          "role": "Chor Don Cesars",
+          "fullName": "Alexis Schönlank"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Chor Don Cesars",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae90",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Ronneck",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Ronneck"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Chor Don Cesars",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Chor Don Cesars",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Wiesner"
+        },
+        {
+          "_id": "653253ad832f678f05583370",
+          "firstName": "Johann",
+          "lastName": "Kühns",
+          "additional": "1856-1895",
+          "role": "Chor Don Cesars",
+          "fullName": "Johann Kühns"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4f0",
+          "additional": "",
+          "firstName": "Ferdinand",
+          "lastName": "Adam",
+          "role": "Chor Don Cesars",
+          "fullName": "Ferdinand Adam"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad5",
+          "additional": "1856-1927",
+          "firstName": "Josef",
+          "lastName": "Füller",
+          "role": "Chor Don Cesars",
+          "fullName": "Josef Füller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa54",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Jentsch",
+          "role": "Chor Don Cesars",
+          "fullName": "Rudolf Jentsch"
+        },
+        {
+          "_id": "66600742f11595c1235f5c70",
+          "firstName": "Herr",
+          "lastName": "Hanjen",
+          "additional": "",
+          "role": "Chor Don Cesars",
+          "fullName": "Herr Hanjen"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1886/1886-05-02.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

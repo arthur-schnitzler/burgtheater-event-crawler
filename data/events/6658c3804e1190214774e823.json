@@ -1,0 +1,1638 @@
+{
+  "_id": "6658c3804e1190214774e823",
+  "uid": "e626c0c7-9365-4170-a18c-a8a71dc8f2b1",
+  "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+  "title": "Ein passionierter Raucher",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-03-14T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a95e",
+      "additional": "1844-1911",
+      "firstName": "Ernst",
+      "lastName": "Hartmann",
+      "role": "Heinrich Weller, Rentier",
+      "fullName": "Ernst Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a969",
+      "additional": "geb. Schneeberger, 1843-1898",
+      "firstName": "Helene",
+      "lastName": "Hartmann",
+      "role": "Bertha, seine Frau",
+      "fullName": "Helene Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd3",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Mitterwurzer",
+      "role": "Ernst von Dorsen, Gutsbesitzer",
+      "fullName": "Friedrich Mitterwurzer"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd4",
+      "additional": "1848-1909",
+      "firstName": "Wilhelmine",
+      "lastName": "Mitterwurzer",
+      "role": "Anna, seine Frau",
+      "fullName": "Wilhelmine Mitterwurzer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Franz Salow, Kaufmann",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "6504166ba47588ad6024b163",
+      "additional": "1850-1919",
+      "firstName": "Fanny",
+      "lastName": "Walbeck",
+      "role": "Marie, seine Frau, Wellers Cousine",
+      "fullName": "Fanny Walbeck"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6d8",
+      "additional": "1843-1902, Pseud. Wallis, Alfred",
+      "firstName": "Emil",
+      "lastName": "Ferrari",
+      "role": "Josef, Diener bei Weller",
+      "fullName": "Emil Ferrari"
+    }
+  ],
+  "crew": [],
+  "authors": [
+    {
+      "_id": "65620f240080658502cf36af",
+      "firstName": "Anton",
+      "lastName": "Günther",
+      "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+      "fullName": "Anton Günther"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-14.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a6ed3ced60fbe1c4f73",
+      "uid": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "19",
+      "date": "1875-10-28T12:00:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha, seine Frau",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst von Dorfen",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna, seine Frau",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz Salow",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0315.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-10-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6656130c4e119021473e277e",
+      "uid": "15e5c535-7538-4369-9dfe-56886a2af188",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-10-29T11:07:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-10-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6656133d4e119021473e2bc4",
+      "uid": "097c2df2-5572-44c2-9b91-17a038368a9a",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-10-31T11:07:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-10-31.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665613ac4e119021473e3645",
+      "uid": "0b844729-3438-4e5a-ae8f-fa9910d7e130",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-11-03T11:07:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-11-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665614994e119021473e4b47",
+      "uid": "25e8ef13-c8c9-4611-8f09-d942d270712a",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-11-06T11:07:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-11-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665616a94e119021473e786f",
+      "uid": "2bea0e42-e25b-41f1-af3d-3de9d78b3470",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-11-13T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller, Rentier",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha, seine Frau",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst von Dorfen, Gutsbesitzer",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna, seine Frau",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz Salow, Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie, seine Frau, Wellers Cousine",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef, Diener bei Weller",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-11-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6656188c4e119021473e9fc5",
+      "uid": "30ad95b6-be50-4687-9d51-7e5a9da18fff",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-11-16T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha, seine Frau",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst von Dorfen",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna, seine Frau",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz Salow",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-11-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665620ce4e119021473f488d",
+      "uid": "231f46c7-8a36-4e20-964d-72ae979d09bd",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-11-23T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha, seine Frau",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst von Dorfen",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna, seine Frau",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz Salow",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-11-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665625a34e119021473fb2a3",
+      "uid": "8903107d-fd01-46fb-91fd-b7e32c078a5b",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-12-08T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha, seine Frau",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst von Dorfen",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna, seine Frau",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz Salow",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie, seine Frau",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-12-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655d2cc4e1190214738a3a1",
+      "uid": "1854e40e-8e94-4ea7-93ee-61604663b359",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-01-08T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-01-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655ede44e119021473ae830",
+      "uid": "5c6f31c1-4651-4c02-9d03-0fa845707cb7",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-02-28T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-02-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665646c14e119021474273d1",
+      "uid": "3fa3aaa4-c55b-49df-8619-47cd2a351ecc",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-06-28T11:07:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller, Rentier",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha, seine Frau",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst von Dorsen, Gutsbesitzer",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna, seine Frau",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz Salow, Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie, seine Frau, Wellers Cousine",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef, Diener bei Weller",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-06-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6656cfa34e119021474ccbfc",
+      "uid": "f4e14867-2a93-4c9f-b77f-f6b418e42418",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-09-27T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller, Rentier",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Bertha, seine Frau",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst von Dorsen, Gutsbesitzer",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna, seine Frau",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz Salow, Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie, seine Frau, Wellers Cousine",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef, Diener bei Weller",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-09-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6656e8de4e119021474ed7ac",
+      "uid": "61d246fe-ca3f-4cff-94de-b54def536fca",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-11-05T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller, Rentier",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Bertha, seine Frau",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst von Dorsen, Gutsbesitzer",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna, seine Frau",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz Salow, Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie, seine Frau, Wellers Cousine",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef, Diener bei Weller",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-11-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66576e664e11902147597e5d",
+      "uid": "114a4c87-6212-4b8a-b9b8-dbbe2fca8217",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-04-04T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller, Rentier",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha, seine Frau",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst von Dorsen, Gutsbesitzer",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna, seine Frau",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz Salow, Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie, seine Frau, Wellers Cousine",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef, Diener bei Weller",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-04-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66589bdb4e119021477147ad",
+      "uid": "48df0d86-80b2-4f20-b5de-d30c945a4f78",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-06-19T11:07:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller, Rentier",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha, seine Frau",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst von Dorsen, Gutsbesitzer",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna, seine Frau",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz Salow, Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie, seine Frau, Wellers Cousine",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef, Diener bei Weller",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-06-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658b2764e11902147736dd7",
+      "uid": "0357b396-61a4-49a1-a126-29523f9f979e",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-12-28T11:07:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller, Rentier",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha, seine Frau",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst von Dorsen, Gutsbesitzer",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna, seine Frau",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz Salow, Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie, seine Frau, Wellers Cousine",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef, Diener bei Weller",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-12-28.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-12-28_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c3804e1190214774e823",
+      "uid": "e626c0c7-9365-4170-a18c-a8a71dc8f2b1",
+      "productionId": "f7a8d176-57d8-4459-8623-5c7f4e7d8779",
+      "title": "Ein passionierter Raucher",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-03-14T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Heinrich Weller, Rentier",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bertha, seine Frau",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ernst von Dorsen, Gutsbesitzer",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Anna, seine Frau",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Franz Salow, Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Marie, seine Frau, Wellers Cousine",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Josef, Diener bei Weller",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "65620f240080658502cf36af",
+          "firstName": "Anton",
+          "lastName": "Günther",
+          "additional": "Pseud. f. Elimar Herzog von Oldenburg",
+          "fullName": "Anton Günther"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-14.jpeg"
+      ],
+      "comment": ""
+    }
+  ]
+}

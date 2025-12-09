@@ -36,7 +36,6 @@ for key, x in tqdm(ids.items(), total=len(ids)):
         continue
     else:
         url = f"{person_base_url}{item_id}"
-        print(url)
         r = requests.get(url)
         data = r.json()
         with open(save_path, "w", encoding="utf-8") as f:

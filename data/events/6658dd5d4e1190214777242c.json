@@ -1,0 +1,5076 @@
+{
+  "_id": "6658dd5d4e1190214777242c",
+  "uid": "7f77e695-1e4e-4846-88e5-b7489e98e852",
+  "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+  "title": "Die Mördergrube",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-06-17T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ac98",
+      "additional": "1815-1888, Hofschauspieler",
+      "firstName": "Carl Wilhelm",
+      "lastName": "Meixner",
+      "role": "Doctor Tritofolo",
+      "fullName": "Carl Wilhelm Meixner"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae68",
+      "additional": "1826-1881",
+      "firstName": "Theodor",
+      "lastName": "Reusche",
+      "role": "Pantalon",
+      "fullName": "Theodor Reusche"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0e0",
+      "additional": "1854-1944",
+      "firstName": "Hugo",
+      "lastName": "Thimig",
+      "role": "Lelio",
+      "fullName": "Hugo Thimig"
+    },
+    {
+      "_id": "6504166ba47588ad6024a849",
+      "additional": "1842-1908",
+      "firstName": "Leo",
+      "lastName": "Friedrich",
+      "role": "Lastträger",
+      "fullName": "Leo Friedrich"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa43",
+      "additional": "1822-1892",
+      "firstName": "Matthias",
+      "lastName": "Jehly",
+      "role": "Lastträger",
+      "fullName": "Matthias Jehly"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab46",
+      "additional": "1837-1918",
+      "firstName": "Anna",
+      "lastName": "Kratz",
+      "role": "Lucretia",
+      "fullName": "Anna Kratz"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9ee",
+      "additional": "1857-1920",
+      "firstName": "Stella",
+      "lastName": "Hohenfels",
+      "role": "Isabella",
+      "fullName": "Stella Hohenfels"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd4",
+      "additional": "1848-1909",
+      "firstName": "Wilhelmine",
+      "lastName": "Mitterwurzer",
+      "role": "Colombine",
+      "fullName": "Wilhelmine Mitterwurzer"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b7ab",
+      "additional": "",
+      "firstName": "Heinrich",
+      "lastName": "Laube",
+      "fullName": "Heinrich Laube",
+      "role": "Deutsch"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b7c9",
+      "additional": "",
+      "firstName": "Josephe Philippe Simon",
+      "lastName": "Lockroy",
+      "fullName": "Josephe Philippe Simon Lockroy"
+    },
+    {
+      "_id": "6504166ba47588ad6024b7ff",
+      "additional": "",
+      "firstName": "de",
+      "lastName": "Mervain",
+      "fullName": "de Mervain"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-17.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c619e8d3ced60fbe1a4cec",
+      "uid": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "45",
+      "date": "1852-02-03T12:00:00.000Z",
+      "season": "1851/1852",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1e8",
+          "additional": "1788-1852",
+          "firstName": "Friedrich",
+          "lastName": "Wilhelmi",
+          "role": "Pantalon",
+          "fullName": "Friedrich Wilhelmi"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Isabella",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0244.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1852/1852-02-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663264acebcc6a947c9d7704",
+      "uid": "b564a6dd-7ea0-4171-b098-058500942378",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1852-02-04T10:55:00.000Z",
+      "season": "1851/1852",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1e8",
+          "additional": "1788-1852",
+          "firstName": "Friedrich",
+          "lastName": "Wilhelmi",
+          "role": "Pantalon",
+          "fullName": "Friedrich Wilhelmi"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Isabella",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1852/1852-02-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6632660debcc6a947c9d98f4",
+      "uid": "ed15cb35-771f-4c54-933c-a8052ae76024",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1852-02-11T10:55:00.000Z",
+      "season": "1851/1852",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1e8",
+          "additional": "1788-1852",
+          "firstName": "Friedrich",
+          "lastName": "Wilhelmi",
+          "role": "Pantalon",
+          "fullName": "Friedrich Wilhelmi"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Isabella",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1852/1852-02-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663267c9ebcc6a947c9dbfff",
+      "uid": "ff352908-c62a-42d2-9a08-6502c5ffe0ad",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1852-02-20T10:55:00.000Z",
+      "season": "1851/1852",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1e8",
+          "additional": "1788-1852",
+          "firstName": "Friedrich",
+          "lastName": "Wilhelmi",
+          "role": "Pantalon",
+          "fullName": "Friedrich Wilhelmi"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Isabella",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1852/1852-02-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663269e6ebcc6a947c9df235",
+      "uid": "5c94f782-ce27-49c3-8be6-f45d8752196b",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1852-03-08T10:55:00.000Z",
+      "season": "1851/1852",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1e8",
+          "additional": "1788-1852",
+          "firstName": "Friedrich",
+          "lastName": "Wilhelmi",
+          "role": "Pantalon",
+          "fullName": "Friedrich Wilhelmi"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Isabella",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1852/1852-03-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66337c99f0392a8e79ef08c7",
+      "uid": "6f5a9fdf-9880-4b84-b6f8-0022c9692765",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1852-09-13T10:55:00.000Z",
+      "season": "1852/1853",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Isabella",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1852/1852-09-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6637544cf0392a8e793be6cf",
+      "uid": "af0dc136-a44c-4493-b6c9-6ba772542441",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1853-05-03T10:55:00.000Z",
+      "season": "1852/1853",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Isabella",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1853/1853-05-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6637b1cef0392a8e7943581d",
+      "uid": "f4c1bcda-9f6e-4755-b90d-41b0d23136c1",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1853-06-20T10:55:00.000Z",
+      "season": "1852/1853",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Isabella",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1853/1853-06-20.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1853/1853-06-20_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663885b7f0392a8e7953ff26",
+      "uid": "3a1d52c6-57ff-49d5-9f0b-eff29facdc10",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1853-09-27T10:55:00.000Z",
+      "season": "1853/1854",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Pantalon",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ae8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Hensel",
+          "role": "Zwei Lastträger",
+          "fullName": "Eduard Hensel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Isabella",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1853/1853-09-27.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1853/1853-09-27_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6638c243f0392a8e7958fde2",
+      "uid": "221692e6-18be-497a-bc13-be0d50dea9d0",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1853-11-19T10:55:00.000Z",
+      "season": "1853/1854",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Pantalon",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Isabella",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1853/1853-11-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663de66bf0392a8e79c1eecf",
+      "uid": "513b5314-da53-44a6-addb-8a6b4aa2e40b",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1856-01-25T10:55:00.000Z",
+      "season": "1855/1856",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Isabella",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1856/1856-01-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6640b303e027ead1c1b2fe85",
+      "uid": "6d9b1baf-8d8e-48ad-bd6f-30a4a56891c6",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1856-10-23T11:07:00.000Z",
+      "season": "1856/1857",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ae8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Hensel",
+          "role": "Zwei Lastträger",
+          "fullName": "Eduard Hensel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a917",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Gutperl",
+          "role": "Isabella",
+          "fullName": "Marie Gutperl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1856/1856-10-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6640b62de027ead1c1b34020",
+      "uid": "0ffc2251-79e8-4cdd-a5ec-9478cc6594bd",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1856-11-06T11:07:00.000Z",
+      "season": "1856/1857",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ae8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Hensel",
+          "role": "Zwei Lastträger",
+          "fullName": "Eduard Hensel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a917",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Gutperl",
+          "role": "Isabella",
+          "fullName": "Marie Gutperl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1856/1856-11-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6640cdcee027ead1c1b53190",
+      "uid": "a0b395ab-5e2e-4c07-9213-31d7354f9f29",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1857-01-07T10:55:00.000Z",
+      "season": "1856/1857",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a917",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Gutperl",
+          "role": "Isabella",
+          "fullName": "Marie Gutperl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1857/1857-01-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6641c0f1e027ead1c1c84ad4",
+      "uid": "ffc8e304-a4d2-4866-b1b3-03396da992b9",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1857-04-14T10:55:00.000Z",
+      "season": "1856/1857",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a917",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Gutperl",
+          "role": "Isabella",
+          "fullName": "Marie Gutperl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1857/1857-04-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66422449e027ead1c1d05e3a",
+      "uid": "cf010a10-ea51-41c8-8293-580eda5f6a53",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1857-11-03T10:55:00.000Z",
+      "season": "1857/1858",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a917",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Gutperl",
+          "role": "Isabella",
+          "fullName": "Marie Gutperl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1857/1857-11-03.jpeg"
+      ],
+      "comment": "Das Stück spielt zu Venedig, im Hause des Doctors."
+    },
+    {
+      "_id": "66445ecae027ead1c1fd6528",
+      "uid": "6927aa5a-6937-479f-a13d-8d2de104db6f",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1858-10-04T10:55:00.000Z",
+      "season": "1858/1859",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a917",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Gutperl",
+          "role": "Isabella",
+          "fullName": "Marie Gutperl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1858/1858-10-04.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1858/1858-10-04_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6644f365e027ead1c1094a74",
+      "uid": "d1742f4b-daa7-456a-8c52-e3a8d96a45f3",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1859-03-11T10:55:00.000Z",
+      "season": "1858/1859",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a917",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Gutperl",
+          "role": "Isabella",
+          "fullName": "Marie Gutperl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1859/1859-03-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666c202ccd334071f703dac2",
+      "uid": "f6e69643-3349-41a0-aee7-695d5cb1a0e6",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1859-08-30T10:55:00.000Z",
+      "season": "1858/1859",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a917",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Gutperl",
+          "role": "Isabella",
+          "fullName": "Marie Gutperl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1859/1859-08-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66463f8de027ead1c123e8c8",
+      "uid": "ef4fc6f0-ac8d-4fc7-85ff-36341959086a",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1860-01-22T10:55:00.000Z",
+      "season": "1859/1860",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a917",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Gutperl",
+          "role": "Isabella",
+          "fullName": "Marie Gutperl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-01-22.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-01-22_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66467134e027ead1c1282180",
+      "uid": "40a3ec70-2061-4dd5-a47c-ed62f077845c",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1860-09-03T10:55:00.000Z",
+      "season": "1860/1861",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a798",
+          "additional": "",
+          "firstName": "Louise",
+          "lastName": "Epstein",
+          "role": "Isabella",
+          "fullName": "Louise Epstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-09-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6650626be027ead1c1f6bd27",
+      "uid": "ddd09123-3877-483c-b9d2-e8381e8b48ae",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1860-11-16T10:55:00.000Z",
+      "season": "1860/1861",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a798",
+          "additional": "",
+          "firstName": "Louise",
+          "lastName": "Epstein",
+          "role": "Isabella",
+          "fullName": "Louise Epstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-11-16.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-11-16_00000002.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-11-16_00000003.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66478d4be027ead1c13eebe9",
+      "uid": "deb27f8e-b4df-4bd5-8509-c987d37cbddc",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-01-23T12:15:00.000Z",
+      "season": "1860/1861",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a798",
+          "additional": "",
+          "firstName": "Louise",
+          "lastName": "Epstein",
+          "role": "Isabella",
+          "fullName": "Louise Epstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d6",
+          "additional": "1820-1878",
+          "firstName": "Mathilde",
+          "lastName": "Wildauer",
+          "role": "Colombine",
+          "fullName": "Mathilde Wildauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-01-24.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-01-24_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6649cdabe027ead1c16d57d6",
+      "uid": "6f176578-09c9-4754-8819-4fa8cb9e84af",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1863-06-23T10:55:00.000Z",
+      "season": "1862/1863",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d3",
+          "additional": "auch Hilke",
+          "firstName": "Marie",
+          "lastName": "Hilcke",
+          "role": "Isabella",
+          "fullName": "Marie Hilcke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Colombine",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1863/1863-06-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6649f1bde027ead1c1704a79",
+      "uid": "8dca5fd5-6ade-4bd1-81d1-2d35acbdeac1",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1863-08-22T10:55:00.000Z",
+      "season": "1862/1863",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d3",
+          "additional": "auch Hilke",
+          "firstName": "Marie",
+          "lastName": "Hilcke",
+          "role": "Isabella",
+          "fullName": "Marie Hilcke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Colombine",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1863/1863-08-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664a3663e027ead1c175c1a3",
+      "uid": "e017e73c-fd17-475b-896d-681367b9e07b",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1863-10-13T10:55:00.000Z",
+      "season": "1863/1864",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d3",
+          "additional": "auch Hilke",
+          "firstName": "Marie",
+          "lastName": "Hilcke",
+          "role": "Isabella",
+          "fullName": "Marie Hilcke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Colombine",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1863/1863-10-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664a4f04e027ead1c177cfa4",
+      "uid": "68312a48-1e32-4709-babd-a71ec8492a6d",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1863-12-12T10:55:00.000Z",
+      "season": "1863/1864",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Lelio",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d3",
+          "additional": "auch Hilke",
+          "firstName": "Marie",
+          "lastName": "Hilcke",
+          "role": "Isabella",
+          "fullName": "Marie Hilcke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Colombine",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1863/1863-12-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b813ee027ead1c1908443",
+      "uid": "d1c6b8dd-c856-4370-b4cc-5bfc50a65428",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-01-07T10:55:00.000Z",
+      "season": "1864/1865",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Pantalon",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lelio",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Zwei Lastträger",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d3",
+          "additional": "auch Hilke",
+          "firstName": "Marie",
+          "lastName": "Hilcke",
+          "role": "Isabella",
+          "fullName": "Marie Hilcke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Colombine",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-01-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664cab6be027ead1c1a89fbb",
+      "uid": "fe6f42a0-205d-44c5-9fde-f5bf9a579229",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1866-01-07T11:07:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a5ab",
+          "additional": "1803-1866",
+          "firstName": "Friedrich",
+          "lastName": "Beckmann",
+          "role": "Doctor Tritofolo",
+          "fullName": "Friedrich Beckmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Pantalon, Kaufmann aus Bologna",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "1. Lastträger",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "2. Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d3",
+          "additional": "auch Hilke",
+          "firstName": "Marie",
+          "lastName": "Hilcke",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Marie Hilcke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Colombine, Kammermädchen im Hause des Doktors",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1866/1866-01-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655f05c4e119021473b1eb1",
+      "uid": "080b5c5e-b771-4bda-a63e-c3d8f1a8d937",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-03-07T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon, Kaufmann aus Bologna",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a83a",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Friedrich",
+          "role": "Lastträger",
+          "fullName": "Carl Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine, Kammermädchen im Hause des Doktors",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-03-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655f3234e119021473b58cc",
+      "uid": "0387bfa7-2cc7-4fa8-b320-9fddfcde2ab3",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-03-14T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon, Kaufmann aus Bologna",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a83a",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Friedrich",
+          "role": "Lastträger",
+          "fullName": "Carl Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine, Kammermädchen im Hause des Doktors",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-03-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66562cbc4e1190214740535b",
+      "uid": "4f444ecb-b6c7-4ee2-807b-5d5c46037027",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-05-10T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon, Kaufmann aus Bologna",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a83a",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Friedrich",
+          "role": "Lastträger",
+          "fullName": "Carl Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine, Kammermädchen im Hause des Doktors",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-05-10.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-05-10_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665733ba4e1190214754bafa",
+      "uid": "c053c3e0-ec00-4aab-b26d-c39c9ccc5a4e",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-01-03T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Zwei Lastträger",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine",
+          "fullName": "Friedrich Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-01-03.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-01-03_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6657910b4e119021475c4acf",
+      "uid": "b6418eb4-4775-40a4-8a1f-16ce727b86df",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-05-26T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon, Kaufmann aus Bologna",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Zwei Lastträger",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Colombine, Kammermädchen im Hause des Doktors",
+          "fullName": "Ernst Hartmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-05-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66584f0f4e119021476adee1",
+      "uid": "440ca89e-82f4-4e2c-b27e-bce1237ab8ab",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-09-21T11:07:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon, Kaufmann aus Bologna",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Zwei Lastträger",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine, Kammermädchen im Hause des Doktors",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-09-21.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-09-21_00000002.jpg"
+      ],
+      "comment": "Wegen Unpäßlichkeit des Herrn Hallenstein, statt: \"Ein Wintermärchen\""
+    },
+    {
+      "_id": "665836464e1190214768d2c0",
+      "uid": "dde428c8-294c-4906-a24a-37123495e26d",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-02-25T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon, Kaufmann aus Bologna",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Zwei Lastträger",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine, Kammermädchen im Hause des Doktors",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-02-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665883c84e119021476f493e",
+      "uid": "ca537ee8-2f2b-4905-bc41-9bd5d9826c30",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-04-26T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon, Kaufmann aus Bologna",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Zwei Lastträger",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine, Kammermädchen im Hause des Doktors",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-04-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665897ed4e1190214770f113",
+      "uid": "cc22bfa6-53d9-4b8b-a01c-30be51b83f92",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-05-31T11:07:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon, Kaufmann aus Bologna",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Zwei Lastträger",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine, Kammermädchen im Hause des Doktors",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-05-31.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-05-31_00000002.jpg"
+      ],
+      "comment": "Wegen Unpäßlichkeit der Frau Janisch, statt \"Der Sohn der Wildniß\""
+    },
+    {
+      "_id": "6658aec14e11902147730974",
+      "uid": "cfd9afdb-b1c9-4cc5-a03c-f29cb1ae92f3",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-11-27T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon, Kaufmann aus Bologna",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Zwei Lastträger",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine, Kammermädchen im Hause des Doktors",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-11-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658dd5d4e1190214777242c",
+      "uid": "7f77e695-1e4e-4846-88e5-b7489e98e852",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-06-17T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Lastträger",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66598b284e119021478486b7",
+      "uid": "a657de72-5093-4b74-9818-58c2c9cbe1c2",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-09-26T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Lastträger",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-09-26.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-09-26_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a343d4e119021479209b6",
+      "uid": "e2293bfc-440d-4d08-b687-f142f1d8dc87",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-11-04T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Zwei Lastträger",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine, Kammermädchen",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-11-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665ac74b4e119021479d4804",
+      "uid": "b6db0670-280f-48a6-a561-8e630613ea84",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-02-17T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Zwei Lastträger",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine, Kammermädchen",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-02-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665b42df4e11902147a6f597",
+      "uid": "1e64fd46-9395-4090-b3ca-0af56705a3a0",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-06-22T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Pantalon, Kaufmann aus Bologna",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Zwei Lastträger",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine, Kammermädchen im Hause des Doktors",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-06-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c674a4e11902147bd8a85",
+      "uid": "df28bd9d-ad50-454e-8fbe-8dcb70f08db2",
+      "productionId": "e341d9e9-688c-4e38-8a87-148ddb0e40ed",
+      "title": "Die Mördergrube",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-05-12T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Doctor Tritofolo",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Pantalon, Kaufmann aus Bologna",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Lelio, sein Sohn",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Zwei Lastträger",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Zwei Lastträger",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Lucretia, des Doktors Gemahlin",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Isabella, des Doktors Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Colombine, Kammermädchen im Hause des Doktors",
+          "fullName": "Wilhelmine Mitterwurzer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7c9",
+          "additional": "",
+          "firstName": "Josephe Philippe Simon",
+          "lastName": "Lockroy",
+          "fullName": "Josephe Philippe Simon Lockroy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b7ff",
+          "additional": "",
+          "firstName": "de",
+          "lastName": "Mervain",
+          "fullName": "de Mervain"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-05-12.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-05-12_00000002.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

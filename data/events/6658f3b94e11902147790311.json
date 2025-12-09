@@ -1,0 +1,1401 @@
+{
+  "_id": "6658f3b94e11902147790311",
+  "uid": "5d49c750-2d0c-4c7d-a1d7-f3a8dd1b947c",
+  "productionId": "8651db91-47a6-4f49-b879-af537829348e",
+  "title": "Man muß nichts verschwören",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-06-06T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Kaufmann",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "6504166ba47588ad6024b8b0",
+      "additional": "1834-1909",
+      "firstName": "Adolf",
+      "lastName": "Sonnenthal",
+      "role": "Valentin, sein Neffe",
+      "fullName": "Adolf Sonnenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd3",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Mitterwurzer",
+      "role": "Abbé",
+      "fullName": "Friedrich Mitterwurzer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a849",
+      "additional": "1842-1908",
+      "firstName": "Leo",
+      "lastName": "Friedrich",
+      "role": "Tanzlehrer",
+      "fullName": "Leo Friedrich"
+    },
+    {
+      "_id": "6504166ba47588ad6024abea",
+      "additional": "1834-1913",
+      "firstName": "Josef",
+      "lastName": "Lippert",
+      "role": "Wirt",
+      "fullName": "Josef Lippert"
+    },
+    {
+      "_id": "6561eeb70080658502cf2eea",
+      "firstName": "Friedrich",
+      "lastName": "Rüden",
+      "additional": "1836-1900",
+      "role": "Kellner",
+      "fullName": "Friedrich Rüden"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7dd",
+      "additional": "1853-1907",
+      "firstName": "Franz",
+      "lastName": "Fiala",
+      "role": "Diener Valentins",
+      "fullName": "Franz Fiala"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6f7",
+      "additional": "geb. Würzburg, 1835-1892",
+      "firstName": "Zerline",
+      "lastName": "Gabillon",
+      "role": "Baronin",
+      "fullName": "Zerline Gabillon"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b15",
+      "additional": "1848-1920",
+      "firstName": "Antonie",
+      "lastName": "Janisch",
+      "role": "Cecile",
+      "fullName": "Antonie Janisch"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "Diener der Baronin",
+      "fullName": "Friedrich Wilhelm Bayer"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "65620b270080658502cf33bc",
+      "firstName": "Lilli",
+      "lastName": "Lauser",
+      "additional": "",
+      "fullName": "Lilli Lauser",
+      "role": "Deutsch"
+    },
+    {
+      "_id": "6504166ba47588ad6024a87a",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Gaul",
+      "fullName": "Franz Gaul",
+      "role": "Kostüme"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "65620a480080658502cf32ed",
+      "firstName": "Alfred de",
+      "lastName": "Musset",
+      "additional": "",
+      "fullName": "Alfred de Musset"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-06.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a7bd3ced60fbe1c73f6",
+      "uid": "8651db91-47a6-4f49-b879-af537829348e",
+      "productionId": "8651db91-47a6-4f49-b879-af537829348e",
+      "title": "Man muß nichts verschwören",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "10",
+      "date": "1877-12-13T12:00:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Valentin, sein Neffe",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Abbé",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Tanzlehrer",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Wirt",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Kellner",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener Valentins",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Baronin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Cecile",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "Diener der Baronin",
+          "fullName": "Karl Baumgartner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65620b270080658502cf33bc",
+          "firstName": "Lilli",
+          "lastName": "Lauser",
+          "additional": "",
+          "fullName": "Lilli Lauser",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "65620a480080658502cf32ed",
+          "firstName": "Alfred de",
+          "lastName": "Musset",
+          "additional": "",
+          "fullName": "Alfred de Musset"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0321.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-12-13.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-12-13_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665874ce4e119021476df953",
+      "uid": "c9d487f1-2de3-4e1c-910e-d460b5c413fa",
+      "productionId": "8651db91-47a6-4f49-b879-af537829348e",
+      "title": "Man muß nichts verschwören",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-12-14T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Valentin, sein Neffe",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Abbé",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Tanzlehrer",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Wirt",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Kellner",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener Valentins",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Baronin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Cecile",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "Diener der Baronin",
+          "fullName": "Karl Baumgartner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65620b270080658502cf33bc",
+          "firstName": "Lilli",
+          "lastName": "Lauser",
+          "additional": "",
+          "fullName": "Lilli Lauser",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "65620a480080658502cf32ed",
+          "firstName": "Alfred de",
+          "lastName": "Musset",
+          "additional": "",
+          "fullName": "Alfred de Musset"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-12-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665876564e119021476e18e2",
+      "uid": "4d06fcc4-a3bd-4c46-b1e7-0ead282f77c4",
+      "productionId": "8651db91-47a6-4f49-b879-af537829348e",
+      "title": "Man muß nichts verschwören",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-12-17T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Valentin, sein Neffe",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Abbé",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Tanzlehrer",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Wirt",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Kellner",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener Valentins",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Baronin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Cecile",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "Diener der Baronin",
+          "fullName": "Karl Baumgartner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65620b270080658502cf33bc",
+          "firstName": "Lilli",
+          "lastName": "Lauser",
+          "additional": "",
+          "fullName": "Lilli Lauser",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "65620a480080658502cf32ed",
+          "firstName": "Alfred de",
+          "lastName": "Musset",
+          "additional": "",
+          "fullName": "Alfred de Musset"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-12-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665877804e119021476e3338",
+      "uid": "441a1db9-0172-43a6-b2da-e0ab598d972b",
+      "productionId": "8651db91-47a6-4f49-b879-af537829348e",
+      "title": "Man muß nichts verschwören",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-12-20T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Valentin, sein Neffe",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Abbé",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Tanzlehrer",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Wirt",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Kellner",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener Valentins",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Baronin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Cecile",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "Diener der Baronin",
+          "fullName": "Karl Baumgartner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65620b270080658502cf33bc",
+          "firstName": "Lilli",
+          "lastName": "Lauser",
+          "additional": "",
+          "fullName": "Lilli Lauser",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "65620a480080658502cf32ed",
+          "firstName": "Alfred de",
+          "lastName": "Musset",
+          "additional": "",
+          "fullName": "Alfred de Musset"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-12-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665878cf4e119021476e51c8",
+      "uid": "431dcf04-ce4a-4763-bad8-304c6dcb236f",
+      "productionId": "8651db91-47a6-4f49-b879-af537829348e",
+      "title": "Man muß nichts verschwören",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-12-27T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Valentin, sein Neffe",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Abbé",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Tanzlehrer",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Wirt",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Kellner",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener Valentins",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "Baronin",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Cecile",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Diener der Baronin",
+          "fullName": "Antonie Janisch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65620b270080658502cf33bc",
+          "firstName": "Lilli",
+          "lastName": "Lauser",
+          "additional": "",
+          "fullName": "Lilli Lauser",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "65620a480080658502cf32ed",
+          "firstName": "Alfred de",
+          "lastName": "Musset",
+          "additional": "",
+          "fullName": "Alfred de Musset"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-12-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66587e324e119021476ecc86",
+      "uid": "56536faa-1322-4d5f-b6d0-e974c51d379d",
+      "productionId": "8651db91-47a6-4f49-b879-af537829348e",
+      "title": "Man muß nichts verschwören",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-01-10T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Valentin, sein Neffe",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Abbé",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Tanzlehrer",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Wirt",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Kellner",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener Valentins",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "Baronin",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Cecile",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Diener der Baronin",
+          "fullName": "Antonie Janisch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65620b270080658502cf33bc",
+          "firstName": "Lilli",
+          "lastName": "Lauser",
+          "additional": "",
+          "fullName": "Lilli Lauser",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "65620a480080658502cf32ed",
+          "firstName": "Alfred de",
+          "lastName": "Musset",
+          "additional": "",
+          "fullName": "Alfred de Musset"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-01-10.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665777d74e119021475a42eb",
+      "uid": "1d2db381-dcc3-4e11-a7fe-f48146635b6e",
+      "productionId": "8651db91-47a6-4f49-b879-af537829348e",
+      "title": "Man muß nichts verschwören",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-02-01T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Valentin, sein Neffe",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Abbé",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Tanzlehrer",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Wirt",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Kellner",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener Valentins",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Baronin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Cecile",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "Diener der Baronin",
+          "fullName": "Karl Baumgartner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65620b270080658502cf33bc",
+          "firstName": "Lilli",
+          "lastName": "Lauser",
+          "additional": "",
+          "fullName": "Lilli Lauser",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "65620a480080658502cf32ed",
+          "firstName": "Alfred de",
+          "lastName": "Musset",
+          "additional": "",
+          "fullName": "Alfred de Musset"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-02-01.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658addc4e1190214772f0d1",
+      "uid": "ef6c9671-0a6c-4257-a7de-9c18866027fe",
+      "productionId": "8651db91-47a6-4f49-b879-af537829348e",
+      "title": "Man muß nichts verschwören",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-11-19T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Valentin, sein Neffe",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Abbé",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Tanzlehrer",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Wirt",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Kellner",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener Valentins",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Baronin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Cecile",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener der Baronin",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65620b270080658502cf33bc",
+          "firstName": "Lilli",
+          "lastName": "Lauser",
+          "additional": "",
+          "fullName": "Lilli Lauser",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "65620a480080658502cf32ed",
+          "firstName": "Alfred de",
+          "lastName": "Musset",
+          "additional": "",
+          "fullName": "Alfred de Musset"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-11-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658f3b94e11902147790311",
+      "uid": "5d49c750-2d0c-4c7d-a1d7-f3a8dd1b947c",
+      "productionId": "8651db91-47a6-4f49-b879-af537829348e",
+      "title": "Man muß nichts verschwören",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-06-06T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Valentin, sein Neffe",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Abbé",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Tanzlehrer",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Wirt",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Kellner",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener Valentins",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Baronin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Cecile",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener der Baronin",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65620b270080658502cf33bc",
+          "firstName": "Lilli",
+          "lastName": "Lauser",
+          "additional": "",
+          "fullName": "Lilli Lauser",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "65620a480080658502cf32ed",
+          "firstName": "Alfred de",
+          "lastName": "Musset",
+          "additional": "",
+          "fullName": "Alfred de Musset"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a06cb4e119021478e5872",
+      "uid": "4603d8c2-cb34-4f2f-8be9-e2e9f2344057",
+      "productionId": "8651db91-47a6-4f49-b879-af537829348e",
+      "title": "Man muß nichts verschwören",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-05-31T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Kaufmann",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Valentin, sein Neffe",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Abbé",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Tanzlehrer",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Wirt",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Kellner",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener Valentins",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Baronin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Cecile",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener der Baronin",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65620b270080658502cf33bc",
+          "firstName": "Lilli",
+          "lastName": "Lauser",
+          "additional": "",
+          "fullName": "Lilli Lauser",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "65620a480080658502cf32ed",
+          "firstName": "Alfred de",
+          "lastName": "Musset",
+          "additional": "",
+          "fullName": "Alfred de Musset"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-05-31.jpeg"
+      ],
+      "comment": ""
+    }
+  ]
+}

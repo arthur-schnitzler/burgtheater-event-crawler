@@ -1,0 +1,3858 @@
+{
+  "_id": "6658cba64e1190214775abbe",
+  "uid": "180ff921-9e63-4fba-8a4d-ec0879333521",
+  "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+  "title": "Die Vermählten",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-05-15T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Sir Josuah Westcote, Baronet",
+      "fullName": "Josef Lewinsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024b8b0",
+      "additional": "1834-1909",
+      "firstName": "Adolf",
+      "lastName": "Sonnenthal",
+      "role": "William, sein Sohn",
+      "fullName": "Adolf Sonnenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024a941",
+      "additional": "1833-1892",
+      "firstName": "Konrad",
+      "lastName": "Hallenstein",
+      "role": "Robert, sein Bruder",
+      "fullName": "Konrad Hallenstein"
+    },
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Sir Arthur Bothwell",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd4",
+      "additional": "1848-1909",
+      "firstName": "Wilhelmine",
+      "lastName": "Mitterwurzer",
+      "role": "Emmy, dessen Frau, Sir Josuahs Tochter",
+      "fullName": "Wilhelmine Mitterwurzer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a675",
+      "additional": "auch Jeanne",
+      "firstName": "Johanna",
+      "lastName": "Buska",
+      "role": "Arabella, Sir Josuahs Mündel",
+      "fullName": "Johanna Buska"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Barlow, Sir Josuahs Haushofmeister",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6d8",
+      "additional": "1843-1902, Pseud. Wallis, Alfred",
+      "firstName": "Emil",
+      "lastName": "Ferrari",
+      "role": "David, Diener",
+      "fullName": "Emil Ferrari"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "John, Diener",
+      "fullName": "Friedrich Wilhelm Bayer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b153",
+      "additional": "Hofschauspielerin, verehel. Goschalla",
+      "firstName": "Rosa",
+      "lastName": "Wagner",
+      "role": "Nelly, Hausmädchen",
+      "fullName": "Rosa Wagner"
+    }
+  ],
+  "crew": [],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b5d6",
+      "additional": "1837-1911",
+      "firstName": "Adolf",
+      "lastName": "Wilbrandt",
+      "fullName": "Adolf Wilbrandt"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-15.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a57d3ced60fbe1bff22",
+      "uid": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "33",
+      "date": "1871-06-06T12:00:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0303.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-06-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665209d94e11902147eb4351",
+      "uid": "370fd1fa-5d52-468a-97e1-2157fa51ac22",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-06-07T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-06-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66520fbd4e11902147ebbe26",
+      "uid": "f81cf22d-2efb-4bf6-a25e-29d83677f645",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-06-10T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-06-10.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665211d84e11902147ebea3e",
+      "uid": "b21197f2-f542-45cc-9642-f4f253f2b429",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-06-13T11:07:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-06-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665223eb4e11902147ed4dcc",
+      "uid": "d3e21a96-9fb4-4cee-b3ec-5a1f6f89a479",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-06-18T11:07:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-06-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6652243e4e11902147ed5490",
+      "uid": "a810cd4c-7ed4-4c58-954f-adadd9d73e84",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-06-23T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-06-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6652261a4e11902147ed79f8",
+      "uid": "24c5d1cb-2d22-4951-be2b-7bd5832365b8",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-06-26T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-06-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66522f014e11902147ee32c2",
+      "uid": "a0387084-ef59-48ba-a116-47f2b775e7be",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-09-07T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-09-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665233de4e11902147ee9d94",
+      "uid": "9f0c5f62-914b-4f00-b938-bcc6d2936b4f",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-09-22T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-09-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665237dc4e11902147eefbbe",
+      "uid": "5af1e382-6a72-4852-99b4-065cbd676e77",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-10-13T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-10-13.jpeg"
+      ],
+      "comment": "Die Handlung spielt in Nord - England."
+    },
+    {
+      "_id": "665245174e11902147f017ef",
+      "uid": "8347b143-8945-4b38-bdb2-812437b5d1f3",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-11-27T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-11-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665338ba4e1190214702b0d2",
+      "uid": "4909be5a-3712-4150-af19-70976b855ca8",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1872-02-08T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-02-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665351244e1190214704af48",
+      "uid": "ba98ed60-4293-477f-a1c3-f9a452d9f5bb",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1872-04-15T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-04-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6653777b4e1190214707c51f",
+      "uid": "d6d2bd15-3066-4b44-abfa-70dd9265abb1",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1872-06-08T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-06-08.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-06-08_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651f28f4e11902147e94b10",
+      "uid": "a75952d7-5235-49f2-bb7e-024beae168d0",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-01-27T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-01-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665392504e1190214709f253",
+      "uid": "3ba38f0c-551a-494e-8841-79e943a37391",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-06-04T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Arabella",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-06-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66545e294e119021471a39d6",
+      "uid": "d4e5d989-175d-44f1-884f-8d6bc4e14b1f",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-07-21T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "role": "Arabella",
+          "fullName": "Adolf Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-07-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66546a744e119021471b4a08",
+      "uid": "7802a18a-b8f7-4e17-8f00-3040b8fa17b3",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-08-17T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Arabella",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-08-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654801e4e119021471d2350",
+      "uid": "789d124a-2e79-4f14-8c01-1eb4ede78bf7",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-09-09T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Arabella",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-09-09.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-09-09_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66543b214e1190214716e4af",
+      "uid": "55620b24-1908-405f-b9a0-8af8ae29adea",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-01-26T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Arabella",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024af57",
+          "additional": "",
+          "firstName": "Karoline",
+          "lastName": "Schneeberger",
+          "role": "Nelly",
+          "fullName": "Karoline Schneeberger"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-01-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654e0d94e11902147254280",
+      "uid": "f1e8ee6e-b5b2-48d5-8d32-2a0cb74af8d8",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-09-05T11:07:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Josuah Westcote, Baronet",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert, sein Bruder",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Arthur Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Emmy, dessen Frau, Sir Josuahs Tochter",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Arabella, Sir Josuahs Mündel",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow, Sir Josuahs Haushofmeister",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David, Diener",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "John, Diener",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly, Hausmädchen",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-09-05.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-09-05_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654f5924e11902147270300",
+      "uid": "b62f928e-76ac-457a-84e0-83eb99565d4b",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-10-29T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Arabella",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-10-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665586b54e11902147323c4c",
+      "uid": "f9ebd05a-dc83-4d14-977c-ed1c72e52f9b",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-02-26T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Arabella",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "John",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-02-26.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-02-26_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655aa784e1190214735362b",
+      "uid": "0103797f-ae0f-412b-8c90-b1536bf6d4d7",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-04-30T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Arabella",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "John",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-04-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665614934e119021473e4a91",
+      "uid": "8f20ff15-2198-4db7-85b0-c4412a3929fe",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-11-08T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Arabella",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "John",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-11-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66562b1b4e11902147403077",
+      "uid": "aaf37f03-62bf-4533-90a0-4952f4657758",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-05-05T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Westcote",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, Sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Arabella",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "John",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-05-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6656306e4e1190214740a4c1",
+      "uid": "88006d07-f0c9-46b9-8341-2a26a6019305",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-05-23T11:07:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Josuah Westcote, Baronet",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Robert, sein Bruder",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Arthur Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Emmy, dessen Frau, Sir Josuahs Tochter",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Arabella, Sir Josuahs Mündel",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow, Sir Josuahs Haushofmeister",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David, Diener",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "John, Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly, Hausmädchen",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-05-23.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-05-23_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665725894e11902147538ec6",
+      "uid": "60fccf23-1fca-4c00-a3ec-702da055e2b3",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-11-21T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Josuah Westcote, Baronet",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Robert, sein Bruder",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Arthur Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy, dessen Frau, Sir Josuahs Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Arabella, Sir Josuahs Mündel",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow, Sir Josuahs Haushofmeister",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David, Diener",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "John, Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly, Hausmädchen",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-11-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665755564e11902147578eaf",
+      "uid": "88ae9910-d148-4217-8052-47678cf1caa6",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-03-07T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Josuah Westcote, Baronet",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Robert, sein Bruder",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Arthur Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy, dessen Frau, Sir Josuahs Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Arabella, Sir Josuahs Mündel",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow, Sir Josuahs Haushofmeister",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David, Diener",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "John, Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly, Hausmädchen",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-03-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66586c804e119021476d47e7",
+      "uid": "6fd122ec-6b88-4f42-97e0-757d5b27809e",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-11-17T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Josuah Westcote, Baronet",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Robert, sein Bruder",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Arthur Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy, dessen Frau, Sir Josuahs Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Arabella, Sir Josuahs Mündel",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow, Sir Josuahs Haushofmeister",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David, Diener",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "John, Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly, Hausmädchen",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-11-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658719b4e119021476db770",
+      "uid": "596f6981-3bfc-4259-9e5a-33a5357b3ffe",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-12-06T11:07:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Josuah Westcote, Baronet",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Robert, sein Bruder",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Arthur Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy, dessen Frau, Sir Josuahs Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Arabella, Sir Josuahs Mündel",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow, Sir Josuahs Haushofmeister",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David, Diener",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "John, Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly, Hausmädchen",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-12-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658a9c44e119021477283a4",
+      "uid": "d733ccd6-8e10-4e54-b21e-4d648504d508",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-15T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Josuah Westcote, Baronet",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Robert, sein Bruder",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Arthur Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy, dessen Frau, Sir Josuahs Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Arabella, Sir Josuahs Mündel",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow, Sir Josuahs Haushofmeister",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David, Diener",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "John, Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly, Hausmädchen",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658cba64e1190214775abbe",
+      "uid": "180ff921-9e63-4fba-8a4d-ec0879333521",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-05-15T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Josuah Westcote, Baronet",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Robert, sein Bruder",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Arthur Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy, dessen Frau, Sir Josuahs Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Arabella, Sir Josuahs Mündel",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow, Sir Josuahs Haushofmeister",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David, Diener",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "John, Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly, Hausmädchen",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658dcb34e11902147771530",
+      "uid": "f31df010-0cdc-4b58-899d-b8a1e79a8147",
+      "productionId": "5bcb92e6-a2c8-4488-b6a1-f0b447862d93",
+      "title": "Die Vermählten",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-10-06T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Sir Josuah Westcote, Baronet",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "William, sein Sohn",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Robert, sein Bruder",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Arthur Bothwell",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Emmy, dessen Frau, Sir Josuahs Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Arabella, Sir Josuahs Mündel",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Barlow, Sir Josuahs Haushofmeister",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "David, Diener",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "John, Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Nelly, Hausmädchen",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-10-06.jpeg"
+      ],
+      "comment": ""
+    }
+  ]
+}

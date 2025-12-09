@@ -1,0 +1,3439 @@
+{
+  "_id": "6659907a4e1190214784f212",
+  "uid": "8d5ebb3f-f499-45c5-b236-3815cc8b7d6c",
+  "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+  "title": "Die Hagestolzen",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-06-09T11:07:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b8b0",
+      "additional": "1834-1909",
+      "firstName": "Adolf",
+      "lastName": "Sonnenthal",
+      "role": "Hofrat Reinhold",
+      "fullName": "Adolf Sonnenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad02",
+      "additional": "1838-1916",
+      "firstName": "Ernestine",
+      "lastName": "Negro",
+      "role": "Mademoiselle Reinhold, seine Schwester",
+      "fullName": "Ernestine Negro"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Konsulent Wachtel",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac98",
+      "additional": "1815-1888, Hofschauspieler",
+      "firstName": "Carl Wilhelm",
+      "lastName": "Meixner",
+      "role": "Valentin, Reinholds Diener",
+      "fullName": "Carl Wilhelm Meixner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab46",
+      "additional": "1837-1918",
+      "firstName": "Anna",
+      "lastName": "Kratz",
+      "role": "Therese, seine Frau",
+      "fullName": "Anna Kratz"
+    },
+    {
+      "_id": "6504166ba47588ad6024a969",
+      "additional": "geb. Schneeberger, 1843-1898",
+      "firstName": "Helene",
+      "lastName": "Hartmann",
+      "role": "Margarethe, ihre Schwester",
+      "fullName": "Helene Hartmann"
+    },
+    {
+      "_id": "6658e08ef11595c123536a51",
+      "firstName": "Anna",
+      "lastName": "Kalina",
+      "additional": "",
+      "role": "Bärbchen, Lindes Kind",
+      "fullName": "Anna Kalina"
+    },
+    {
+      "_id": "6504166ba47588ad6024a5b7",
+      "additional": "",
+      "firstName": "Regina",
+      "lastName": "Berg",
+      "role": "Paul, Lindes Kind",
+      "fullName": "Regina Berg"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b698",
+      "additional": "",
+      "firstName": "Eduard",
+      "lastName": "Devrient",
+      "fullName": "Eduard Devrient",
+      "role": "Einrichtung"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b40f",
+      "additional": "1759-1814",
+      "firstName": "August Wilhelm",
+      "lastName": "Iffland",
+      "fullName": "August Wilhelm Iffland"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-09.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a69d3ced60fbe1c413b",
+      "uid": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Neuinszenierung",
+      "count": "30",
+      "date": "1874-09-15T12:00:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Bärbchen",
+          "fullName": "Henriette Spiller"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Paul",
+          "fullName": "Sofie Link"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0312.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-09-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654e80e4e1190214725d970",
+      "uid": "fbb4a278-5850-4752-8b49-8571fa577c59",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-09-16T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-09-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654e9274e1190214725f0f0",
+      "uid": "28776bc0-0db9-4525-8fea-5193d4f0ef1f",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-09-19T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-09-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654ea804e11902147260de2",
+      "uid": "86977a37-e56a-40b1-a995-d1d3e037f7fe",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-09-22T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-09-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654ec964e11902147263ac4",
+      "uid": "4bff6bdc-ac84-4947-bf73-a04bc9dbb59d",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-09-29T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-09-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654f18a4e1190214726a76b",
+      "uid": "4508b651-89c3-4108-a24d-855a3301bfc2",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-10-12T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-10-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654f47e4e1190214726ea72",
+      "uid": "d2540757-4a8c-4c59-9eb3-3ae4abae2c3a",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-10-25T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-10-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654f8cc4e11902147274c4c",
+      "uid": "38255fc2-9788-4a70-b5a7-922032b760d4",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-11-14T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-11-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665500c44e1190214727f42a",
+      "uid": "c387adb7-7cb4-4996-b402-60d4f064cdbf",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-12-03T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-12-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655796e4e11902147312695",
+      "uid": "fc54cd23-dcd4-4667-806d-0def01146c72",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-01-26T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-01-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66558da34e1190214732d11a",
+      "uid": "6a52b45c-49a4-4304-ad90-707222754256",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-02-20T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-02-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655c84f4e1190214737bdb8",
+      "uid": "d4d1a9c9-60a9-4544-a359-0ca3705abd06",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-06-26T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-06-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655cbfa4e1190214738107c",
+      "uid": "5925e7ca-3234-42b5-80f9-a4a4addc2ee2",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-08-23T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac02",
+          "additional": "1793-1816",
+          "firstName": "August",
+          "lastName": "Lippert",
+          "role": "Bärbchen",
+          "fullName": "August Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-08-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665607e14e119021473d2f3b",
+      "uid": "f3973aca-27a0-4ed4-af14-284c976d2912",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-09-21T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-09-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665609c04e119021473d5aa3",
+      "uid": "90b2e4fb-4baa-4122-bcc1-8696df50efc3",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-05-01T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Konsulent Wachtel",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-05-01.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6656ddef4e119021474deb34",
+      "uid": "aa7c15d2-5165-4fbe-b219-c7aba662e5c1",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-10-11T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-10-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6657339a4e1190214754b80a",
+      "uid": "4a401b7b-ea16-4eae-afe9-1d1707d6fb50",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-01-03T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, deren Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-01-03.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-01-03_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6657875e4e119021475b8568",
+      "uid": "8a23e7db-3b69-41a9-a38d-40bb08c2e9cb",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-04-21T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen, Lindes Kind",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-04-21.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-04-21_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66583e9e4e119021476978e2",
+      "uid": "de86d9d9-5a0d-4770-af00-b0ceb420fd8a",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-06-17T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen, Lindes Kind",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-06-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66584edd4e119021476ad980",
+      "uid": "3d11f65f-44e8-40f0-9a02-68452d4a7dbd",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-09-21T11:07:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen, Lindes Kind",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-09-21.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-09-21_00000002.jpg"
+      ],
+      "comment": "Wegen Unpäßlichkeit des Herrn Hallenstein, statt: \"Ein Wintermärchen\""
+    },
+    {
+      "_id": "6658718e4e119021476db62f",
+      "uid": "a1ae86d1-c879-49d5-8407-15dbba134656",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-12-04T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Bärbchen, Lindes Kind",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-12-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66588af44e119021476fe7e0",
+      "uid": "48489a33-43b4-446d-b1cb-87e8f805f224",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-05-10T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-05-10.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6659907a4e1190214784f212",
+      "uid": "8d5ebb3f-f499-45c5-b236-3815cc8b7d6c",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-06-09T11:07:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6658e08ef11595c123536a51",
+          "firstName": "Anna",
+          "lastName": "Kalina",
+          "additional": "",
+          "role": "Bärbchen, Lindes Kind",
+          "fullName": "Anna Kalina"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Regina Berg"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6659fcb84e119021478d79f1",
+      "uid": "7b966f84-3afd-4444-b264-2dec6dbfd17a",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-04-05T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6658e08ef11595c123536a51",
+          "firstName": "Anna",
+          "lastName": "Kalina",
+          "additional": "",
+          "role": "Bärbchen, Lindes Kind",
+          "fullName": "Anna Kalina"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Regina Berg"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-04-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c5a024e11902147bc6d91",
+      "uid": "f2cf01dc-7f59-4d8f-bdd4-b558db100350",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-03-14T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b1",
+          "additional": "",
+          "firstName": "Paula",
+          "lastName": "Conrad",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Paula Conrad"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Bärbchen, Lindes Kind",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Anna Kallina"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-03-14.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6660bd3f4e11902147156243",
+      "uid": "7ed045ec-05de-4f1d-b569-99faeb367fe6",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1886-11-18T10:55:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a985",
+          "additional": "",
+          "firstName": "Bertha",
+          "lastName": "Hausner",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Bertha Hausner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c1",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Bella",
+          "role": "Bärbchen, Lindes Kind",
+          "fullName": "Marie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1886/1886-11-18.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66699608cd334071f7d05c78",
+      "uid": "29043c8a-088c-4c50-9344-1c7d59267ebb",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1895-04-03T11:00:00.000Z",
+      "season": "1894/1895",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00f",
+          "additional": "1852-1913, Hofschauspieler",
+          "firstName": "Rudolf",
+          "lastName": "Sommer",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Rudolf Sommer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa10",
+          "additional": "1891-1898",
+          "firstName": "Elisabeth",
+          "lastName": "Hruby",
+          "role": "Therese, seine Frau",
+          "fullName": "Elisabeth Hruby"
+        },
+        {
+          "_id": "6504166ba47588ad6024b20c",
+          "additional": "1870-1938",
+          "firstName": "Lotte",
+          "lastName": "Witt",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Lotte Witt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b02f",
+          "additional": "1883-1896",
+          "firstName": "Melanie",
+          "lastName": "Spielmann",
+          "role": "Bärbchen, Lindes Kind",
+          "fullName": "Melanie Spielmann"
+        },
+        {
+          "_id": "6669956ade0d61d670226d67",
+          "firstName": "Kl.",
+          "lastName": "Gerzhofer",
+          "additional": "",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Kl. Gerzhofer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1895/1895-04-03.jpg"
+      ],
+      "comment": "\"Margarethe\" Frl. Lotte Witt vom Thalia Theater in Hamburg als Gast."
+    },
+    {
+      "_id": "666fe12fcd334071f74ec968",
+      "uid": "f9d96aa3-617c-47c8-85c4-adb56e7a2107",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1898-06-18T11:00:00.000Z",
+      "season": "1897/1898",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00f",
+          "additional": "1852-1913, Hofschauspieler",
+          "firstName": "Rudolf",
+          "lastName": "Sommer",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Rudolf Sommer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa10",
+          "additional": "1891-1898",
+          "firstName": "Elisabeth",
+          "lastName": "Hruby",
+          "role": "Therese, seine Frau",
+          "fullName": "Elisabeth Hruby"
+        },
+        {
+          "_id": "6504166ba47588ad6024b20c",
+          "additional": "1870-1938",
+          "firstName": "Lotte",
+          "lastName": "Witt",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Lotte Witt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b02f",
+          "additional": "1883-1896",
+          "firstName": "Melanie",
+          "lastName": "Spielmann",
+          "role": "Bärbchen, Lindes Kind",
+          "fullName": "Melanie Spielmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5fe",
+          "additional": "1897-1906",
+          "firstName": "Emma",
+          "lastName": "Blaha",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Emma Blaha"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1898/1898-06-18.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666fe5e0cd334071f74f2def",
+      "uid": "f9acb794-30eb-4a65-947d-abeb8b6ea86e",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1898-09-06T11:00:00.000Z",
+      "season": "1898/1899",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00f",
+          "additional": "1852-1913, Hofschauspieler",
+          "firstName": "Rudolf",
+          "lastName": "Sommer",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Rudolf Sommer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Therese, seine Frau",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024b20c",
+          "additional": "1870-1938",
+          "firstName": "Lotte",
+          "lastName": "Witt",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Lotte Witt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b02f",
+          "additional": "1883-1896",
+          "firstName": "Melanie",
+          "lastName": "Spielmann",
+          "role": "Bärbchen, Lindes Kind",
+          "fullName": "Melanie Spielmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5fe",
+          "additional": "1897-1906",
+          "firstName": "Emma",
+          "lastName": "Blaha",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Emma Blaha"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1898/1898-09-06.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666feffccd334071f75016d9",
+      "uid": "5fb46af6-6694-4c9c-bbe0-8e0d5883ef6b",
+      "productionId": "3cd6724f-7b09-45d9-8b49-319958199dab",
+      "title": "Die Hagestolzen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1898-10-29T11:00:00.000Z",
+      "season": "1898/1899",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Hofrat Reinhold",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Mademoiselle Reinhold, seine Schwester",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Konsulent Wachtel",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00f",
+          "additional": "1852-1913, Hofschauspieler",
+          "firstName": "Rudolf",
+          "lastName": "Sommer",
+          "role": "Valentin, Reinholds Diener",
+          "fullName": "Rudolf Sommer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Linde, Pächter auf Reinholds Gute",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Therese, seine Frau",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b20c",
+          "additional": "1870-1938",
+          "firstName": "Lotte",
+          "lastName": "Witt",
+          "role": "Margarethe, ihre Schwester",
+          "fullName": "Lotte Witt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b02f",
+          "additional": "1883-1896",
+          "firstName": "Melanie",
+          "lastName": "Spielmann",
+          "role": "Bärbchen, Lindes Kind",
+          "fullName": "Melanie Spielmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5fe",
+          "additional": "1897-1906",
+          "firstName": "Emma",
+          "lastName": "Blaha",
+          "role": "Paul, Lindes Kind",
+          "fullName": "Emma Blaha"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b698",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Devrient",
+          "fullName": "Eduard Devrient",
+          "role": "Einrichtung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40f",
+          "additional": "1759-1814",
+          "firstName": "August Wilhelm",
+          "lastName": "Iffland",
+          "fullName": "August Wilhelm Iffland"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1898/1898-10-29.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

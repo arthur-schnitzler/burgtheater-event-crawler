@@ -1,0 +1,1550 @@
+{
+  "_id": "6658e1b44e1190214777824c",
+  "uid": "a85cca30-f518-485f-b0e9-42acb75f950e",
+  "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+  "title": "Die Büste",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-06-23T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b07e",
+      "additional": "1825-1892",
+      "firstName": "Marie",
+      "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+      "role": "Madame Michaud",
+      "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b15",
+      "additional": "1848-1920",
+      "firstName": "Antonie",
+      "lastName": "Janisch",
+      "role": "Victorine",
+      "fullName": "Antonie Janisch"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd3",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Mitterwurzer",
+      "role": "Des Tournois",
+      "fullName": "Friedrich Mitterwurzer"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Paul",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad02",
+      "additional": "1838-1916",
+      "firstName": "Ernestine",
+      "lastName": "Negro",
+      "role": "Alfonsine",
+      "fullName": "Ernestine Negro"
+    },
+    {
+      "_id": "6504166ba47588ad6024a95e",
+      "additional": "1844-1911",
+      "firstName": "Ernst",
+      "lastName": "Hartmann",
+      "role": "Daniel",
+      "fullName": "Ernst Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a969",
+      "additional": "geb. Schneeberger, 1843-1898",
+      "firstName": "Helene",
+      "lastName": "Hartmann",
+      "role": "Risotto, Lehrling",
+      "fullName": "Helene Hartmann"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "Dominique",
+      "fullName": "Friedrich Wilhelm Bayer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b153",
+      "additional": "Hofschauspielerin, verehel. Goschalla",
+      "firstName": "Rosa",
+      "lastName": "Wagner",
+      "role": "Georgette",
+      "fullName": "Rosa Wagner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7dd",
+      "additional": "1853-1907",
+      "firstName": "Franz",
+      "lastName": "Fiala",
+      "role": "Diener",
+      "fullName": "Franz Fiala"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024a67b",
+      "additional": "",
+      "firstName": "Hermann",
+      "lastName": "Burghart (Burghardt)",
+      "fullName": "Hermann Burghart (Burghardt)",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b5bc",
+      "additional": "Pseudonym Zell, F.",
+      "firstName": "Camillo",
+      "lastName": "Walzel",
+      "fullName": "Camillo Walzel"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-23.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a7cd3ced60fbe1c76cd",
+      "uid": "e4952b37-63fa-4266-ba49-87398b958880",
+      "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+      "title": "Die Büste",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "12",
+      "date": "1878-04-04T12:00:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Madame Michaud",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Victorine",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Des Tournois",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Paul",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Alfonsine",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Daniel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Risotto, Lehrling",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Dominique",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Georgette",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5bc",
+          "additional": "Pseudonym Zell, F.",
+          "firstName": "Camillo",
+          "lastName": "Walzel",
+          "fullName": "Camillo Walzel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0321.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-04-04.jpeg"
+      ],
+      "comment": "nach Abouts gleichnamiger Novelle"
+    },
+    {
+      "_id": "665878d54e119021476e5255",
+      "uid": "cfa7905f-b132-4669-be0b-f1f998488d17",
+      "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+      "title": "Die Büste",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-04-05T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Madame Michaud",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Victorine",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Des Tournois",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Paul",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Alfonsine",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Daniel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Risotto, Lehrling",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Dominique",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Georgette",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5bc",
+          "additional": "Pseudonym Zell, F.",
+          "firstName": "Camillo",
+          "lastName": "Walzel",
+          "fullName": "Camillo Walzel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-04-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66587d214e119021476eb412",
+      "uid": "a1f2824a-e955-4bb1-a3d8-d6b5ab6f3ec3",
+      "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+      "title": "Die Büste",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-04-08T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Madame Michaud",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Victorine",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Des Tournois",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Paul",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Alfonsine",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Daniel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Risotto, Lehrling",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Dominique",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Georgette",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5bc",
+          "additional": "Pseudonym Zell, F.",
+          "firstName": "Camillo",
+          "lastName": "Walzel",
+          "fullName": "Camillo Walzel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-04-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665880964e119021476f00a7",
+      "uid": "780b5530-13ce-4bc1-bcf1-0e2f98b3d367",
+      "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+      "title": "Die Büste",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-04-11T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Madame Michaud",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Victorine",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Des Tournois",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Paul",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Alfonsine",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Daniel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Risotto, Lehrling",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Dominique",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Georgette",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5bc",
+          "additional": "Pseudonym Zell, F.",
+          "firstName": "Camillo",
+          "lastName": "Walzel",
+          "fullName": "Camillo Walzel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-04-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665883ba4e119021476f4811",
+      "uid": "02e6de4c-ac73-44c7-bb4b-6ff3b9dbc779",
+      "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+      "title": "Die Büste",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-04-26T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Madame Michaud",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Victorine",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Des Tournois",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Paul",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Alfonsine",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Daniel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Risotto, Lehrling",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Dominique",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Georgette",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5bc",
+          "additional": "Pseudonym Zell, F.",
+          "firstName": "Camillo",
+          "lastName": "Walzel",
+          "fullName": "Camillo Walzel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-04-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66589b594e11902147713bd5",
+      "uid": "585a7ecc-872a-46fb-92db-5524d1f0e7da",
+      "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+      "title": "Die Büste",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-06-17T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Madame Michaud",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Victorine",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Des Tournois",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Paul",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Alfonsine",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Daniel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Risotto, Lehrling",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Dominique",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Georgette",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5bc",
+          "additional": "Pseudonym Zell, F.",
+          "firstName": "Camillo",
+          "lastName": "Walzel",
+          "fullName": "Camillo Walzel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-06-17.jpeg"
+      ],
+      "comment": "wawal"
+    },
+    {
+      "_id": "66589ce54e1190214771602d",
+      "uid": "1c105a8b-fe6b-4c57-9f5f-c993d6719fdc",
+      "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+      "title": "Die Büste",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-06-28T11:07:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Madame Michaud",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Victorine",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Des Tournois",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Paul",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Alfonsine",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Daniel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Risotto, Lehrling",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Dominique",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Georgette",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5bc",
+          "additional": "Pseudonym Zell, F.",
+          "firstName": "Camillo",
+          "lastName": "Walzel",
+          "fullName": "Camillo Walzel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-06-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658a2a14e1190214771da0f",
+      "uid": "360d375f-68aa-4ac1-8e97-52cf8ad10bab",
+      "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+      "title": "Die Büste",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-09-09T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Madame Michaud",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Victorine",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Des Tournois",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Paul",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Alfonsine",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Daniel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Risotto, Lehrling",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Dominique",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Georgette",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5bc",
+          "additional": "Pseudonym Zell, F.",
+          "firstName": "Camillo",
+          "lastName": "Walzel",
+          "fullName": "Camillo Walzel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-09-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658ab5b4e1190214772ad00",
+      "uid": "6db489ee-143f-4ac0-97e4-f9568e1a5674",
+      "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+      "title": "Die Büste",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-10-26T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Madame Michaud",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Victorine",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Des Tournois",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Paul",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Alfonsine",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Daniel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Risotto, Lehrling",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Dominique",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Georgette",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5bc",
+          "additional": "Pseudonym Zell, F.",
+          "firstName": "Camillo",
+          "lastName": "Walzel",
+          "fullName": "Camillo Walzel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-10-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658aea74e11902147730702",
+      "uid": "abb6e505-3156-4c62-824f-4677a9202c41",
+      "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+      "title": "Die Büste",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-11-27T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Madame Michaud",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Victorine",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Des Tournois",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Paul",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Alfonsine",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Daniel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Risotto, Lehrling",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Dominique",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Georgette",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5bc",
+          "additional": "Pseudonym Zell, F.",
+          "firstName": "Camillo",
+          "lastName": "Walzel",
+          "fullName": "Camillo Walzel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-11-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c2224e1190214774c9ab",
+      "uid": "d0df5ee5-b8dc-4ab0-90ed-196c49de3dfa",
+      "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+      "title": "Die Büste",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-03-05T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Madame Michaud",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Victorine",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Des Tournois",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Paul",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Alfonsine",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Daniel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Risotto, Lehrling",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Dominique",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Georgette",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5bc",
+          "additional": "Pseudonym Zell, F.",
+          "firstName": "Camillo",
+          "lastName": "Walzel",
+          "fullName": "Camillo Walzel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658e1b44e1190214777824c",
+      "uid": "a85cca30-f518-485f-b0e9-42acb75f950e",
+      "productionId": "e4952b37-63fa-4266-ba49-87398b958880",
+      "title": "Die Büste",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-06-23T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Madame Michaud",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Victorine",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Des Tournois",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Paul",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Alfonsine",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Daniel",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Risotto, Lehrling",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Dominique",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Georgette",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Diener",
+          "fullName": "Franz Fiala"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5bc",
+          "additional": "Pseudonym Zell, F.",
+          "firstName": "Camillo",
+          "lastName": "Walzel",
+          "fullName": "Camillo Walzel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-23.jpeg"
+      ],
+      "comment": ""
+    }
+  ]
+}

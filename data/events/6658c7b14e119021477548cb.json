@@ -1,0 +1,5528 @@
+{
+  "_id": "6658c7b14e119021477548cb",
+  "uid": "2b2b6bb3-efc3-4632-9971-1fac780e80d7",
+  "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+  "title": "König Heinrich IV.  1. Teil",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-03-28T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a941",
+      "additional": "1833-1892",
+      "firstName": "Konrad",
+      "lastName": "Hallenstein",
+      "role": "König Heinrich IV.",
+      "fullName": "Konrad Hallenstein"
+    },
+    {
+      "_id": "6504166ba47588ad6024a95e",
+      "additional": "1844-1911",
+      "firstName": "Ernst",
+      "lastName": "Hartmann",
+      "role": "Prinz Heinrich",
+      "fullName": "Ernst Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b041",
+      "additional": "1843-1913",
+      "firstName": "Philipp",
+      "lastName": "Stätter",
+      "role": "Johann von Lancaster",
+      "fullName": "Philipp Stätter"
+    },
+    {
+      "_id": "6504166ba47588ad6024a51b",
+      "additional": "1844-1910",
+      "firstName": "Josef",
+      "lastName": "Altmann",
+      "role": "Westmoreland",
+      "fullName": "Josef Altmann"
+    },
+    {
+      "_id": "6561f3320080658502cf302a",
+      "firstName": "Rudolf",
+      "lastName": "Leyrer",
+      "additional": "",
+      "role": "Sir Walter Blunt",
+      "fullName": "Rudolf Leyrer"
+    },
+    {
+      "_id": "6504166ba47588ad6024abea",
+      "additional": "1834-1913",
+      "firstName": "Josef",
+      "lastName": "Lippert",
+      "role": "Northumberland",
+      "fullName": "Josef Lippert"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab3d",
+      "additional": "1839-1908",
+      "firstName": "Friedrich",
+      "lastName": "Krastel",
+      "role": "Heinrich Percy",
+      "fullName": "Friedrich Krastel"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Graf von Worcester",
+      "fullName": "Josef Lewinsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024a86e",
+      "additional": "1825-1896",
+      "firstName": "Ludwig",
+      "lastName": "Gabillon",
+      "role": "Archibald",
+      "fullName": "Ludwig Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd3",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Mitterwurzer",
+      "role": "Sir Vernon",
+      "fullName": "Friedrich Mitterwurzer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a95e",
+      "additional": "1844-1911",
+      "firstName": "Ernst",
+      "lastName": "Hartmann",
+      "role": "Lady Percy",
+      "fullName": "Ernst Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Sir Falstaff",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0e0",
+      "additional": "1854-1944",
+      "firstName": "Hugo",
+      "lastName": "Thimig",
+      "role": "Poins",
+      "fullName": "Hugo Thimig"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Gadshill",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "6504166ba47588ad6024a52c",
+      "additional": "1816-1891",
+      "firstName": "Friedrich Louis",
+      "lastName": "Arnsburg",
+      "role": "Bardolph",
+      "fullName": "Friedrich Louis Arnsburg"
+    },
+    {
+      "_id": "6504166ba47588ad6024a849",
+      "additional": "1842-1908",
+      "firstName": "Leo",
+      "lastName": "Friedrich",
+      "role": "Peto",
+      "fullName": "Leo Friedrich"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6d8",
+      "additional": "1843-1902, Pseud. Wallis, Alfred",
+      "firstName": "Emil",
+      "lastName": "Ferrari",
+      "role": "Sheriff",
+      "fullName": "Emil Ferrari"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab6a",
+      "additional": "1818-1886",
+      "firstName": "Cesarine",
+      "lastName": "Kupfer-Gomansky",
+      "role": "Frau Hurtig",
+      "fullName": "Cesarine Kupfer-Gomansky"
+    },
+    {
+      "_id": "6561eeb70080658502cf2eea",
+      "firstName": "Friedrich",
+      "lastName": "Rüden",
+      "additional": "1836-1900",
+      "role": "Franz",
+      "fullName": "Friedrich Rüden"
+    },
+    {
+      "_id": "6504166ba47588ad6024a6b4",
+      "additional": "",
+      "firstName": "Sidonie",
+      "lastName": "Conti",
+      "role": "Königlicher Page",
+      "fullName": "Sidonie Conti"
+    },
+    {
+      "_id": "6504166ba47588ad6024a96d",
+      "additional": "",
+      "firstName": "Louise von",
+      "lastName": "Hauenthal",
+      "role": "Page Percys",
+      "fullName": "Louise von Hauenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc4",
+      "additional": "1822-1883",
+      "firstName": "Eduard",
+      "lastName": "Leuchert",
+      "role": "1. Fuhrmann",
+      "fullName": "Eduard Leuchert"
+    },
+    {
+      "_id": "6504166ba47588ad6024b4e4",
+      "additional": "1837-1889",
+      "firstName": "Louis",
+      "lastName": "Nötel",
+      "role": "2. Fuhrmann",
+      "fullName": "Louis Nötel"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa43",
+      "additional": "1822-1892",
+      "firstName": "Matthias",
+      "lastName": "Jehly",
+      "role": "Hausknecht",
+      "fullName": "Matthias Jehly"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "1. Reisender",
+      "fullName": "Friedrich Wilhelm Bayer"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa72",
+      "additional": "",
+      "firstName": "Josef",
+      "lastName": "Kaiser",
+      "role": "2. Reisender",
+      "fullName": "Josef Kaiser"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b1a",
+      "additional": "",
+      "firstName": "Anton",
+      "lastName": "Köhler",
+      "role": "3. Reisender",
+      "fullName": "Anton Köhler"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b548",
+      "additional": "",
+      "firstName": "August Wilhelm",
+      "lastName": "Schlegel",
+      "fullName": "August Wilhelm Schlegel",
+      "role": "Deutsch"
+    },
+    {
+      "_id": "655e6b350080658502ca8090",
+      "firstName": "Franz von",
+      "lastName": "Dingelstedt",
+      "additional": "1814-1881",
+      "fullName": "Franz von Dingelstedt",
+      "role": "Bearbeitung"
+    },
+    {
+      "_id": "6562176d0080658502cf3a86",
+      "firstName": "Julius",
+      "lastName": "Sulzer",
+      "additional": "",
+      "fullName": "Julius Sulzer",
+      "role": "Musik"
+    },
+    {
+      "_id": "6504166ba47588ad6024a87a",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Gaul",
+      "fullName": "Franz Gaul",
+      "role": "Kostümbildner"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b572",
+      "additional": "",
+      "firstName": "William",
+      "lastName": "Shakespeare",
+      "fullName": "William Shakespeare"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-28.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a6ed3ced60fbe1c4d87",
+      "uid": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Neuinszenierung",
+      "count": "19",
+      "date": "1875-02-22T12:00:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a68c",
+          "additional": "1846 - 1896",
+          "firstName": "Karl (eig Carl Ritter von Caro)",
+          "lastName": "Carode",
+          "role": "Sir Walter Blunt",
+          "fullName": "Karl (eig Carl Ritter von Caro) Carode"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Northumberland",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Sir Vernon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Lady Percy",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Poins",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Sheriff",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Königlicher Page",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a952",
+          "additional": "",
+          "firstName": "Josefine",
+          "lastName": "Hart",
+          "role": "Page Percys",
+          "fullName": "Josefine Hart"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "1. Fuhrmann",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "2. Fuhrmann",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0314.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-02-22.jpeg"
+      ],
+      "comment": "Von den 19 Aufführungen fanden 3 in der Hofoper (1883/84) statt."
+    },
+    {
+      "_id": "66558e754e1190214732e2e1",
+      "uid": "f89e0293-369a-4658-aa6d-9ee8aaff6ec6",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-02-23T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a68c",
+          "additional": "1846 - 1896",
+          "firstName": "Karl (eig Carl Ritter von Caro)",
+          "lastName": "Carode",
+          "role": "Sir Walter Blunt",
+          "fullName": "Karl (eig Carl Ritter von Caro) Carode"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Northumberland",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Sir Vernon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Lady Percy",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Poins",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Sheriff",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Königlicher Page",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a952",
+          "additional": "",
+          "firstName": "Josefine",
+          "lastName": "Hart",
+          "role": "Page Percys",
+          "fullName": "Josefine Hart"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "1. Fuhrmann",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "2. Fuhrmann",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-02-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655941d4e11902147335adb",
+      "uid": "522e9615-3696-4920-8cc4-6694de4a9f02",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-03-17T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a68c",
+          "additional": "1846 - 1896",
+          "firstName": "Karl (eig Carl Ritter von Caro)",
+          "lastName": "Carode",
+          "role": "Sir Walter Blunt",
+          "fullName": "Karl (eig Carl Ritter von Caro) Carode"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Northumberland",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Sir Vernon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Lady Percy",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Poins",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Sheriff",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Königlicher Page",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a952",
+          "additional": "",
+          "firstName": "Josefine",
+          "lastName": "Hart",
+          "role": "Page Percys",
+          "fullName": "Josefine Hart"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "1. Fuhrmann",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "2. Fuhrmann",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-03-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66559f774e119021473451bb",
+      "uid": "e8d7ccd9-6d10-4e94-ad48-407c83ff77d9",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-04-18T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Sir Walter Blunt",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Northumberland",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Sir Vernon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Lady Percy",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Poins",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Sheriff",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Königlicher Page",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a952",
+          "additional": "",
+          "firstName": "Josefine",
+          "lastName": "Hart",
+          "role": "Page Percys",
+          "fullName": "Josefine Hart"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "1. Fuhrmann",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "2. Fuhrmann",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-04-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66562aa34e1190214740253f",
+      "uid": "6c6189aa-f510-44ae-a887-fa5c08d300ce",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-12-28T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Sir Walter Blunt",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Northumberland",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Sir Vernon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Lady Percy",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Poins",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Sheriff",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Königlicher Page",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab11",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Korner",
+          "role": "Page Percys",
+          "fullName": "Charlotte Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "1. Fuhrmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "2. Fuhrmann",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-12-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665606bd4e119021473d140b",
+      "uid": "a6c4bbc3-cebe-4625-b6b3-0b7c533976d8",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-04-24T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Sir Walter Blunt",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Northumberland",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Sir Vernon",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Lady Percy",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Poins",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Sheriff",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Königlicher Page",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a952",
+          "additional": "",
+          "firstName": "Josefine",
+          "lastName": "Hart",
+          "role": "Page Percys",
+          "fullName": "Josefine Hart"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "1. Fuhrmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "2. Fuhrmann",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-04-24.jpeg"
+      ],
+      "comment": "Zweite Gesamt-Darstellung von Shakespeares englischen Historien"
+    },
+    {
+      "_id": "665739f14e11902147553f92",
+      "uid": "0fbfdf45-0ba5-4b9c-8963-7347b7bb87b5",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-09-05T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Sir Walter Blunt",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Northumberland",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sir Vernon",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Lady Percy",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Poins",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Sheriff",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b4",
+          "additional": "",
+          "firstName": "Sidonie",
+          "lastName": "Conti",
+          "role": "Königlicher Page",
+          "fullName": "Sidonie Conti"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Page Percys",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "1. Fuhrmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "2. Fuhrmann",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-09-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666f34d5cd334071f7416e32",
+      "uid": "09a9ea54-7af3-4449-a485-317ed3240b13",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-05-07T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Sir Walter Blunt",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Northumberland",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sir Vernon",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Lady Percy",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Poins",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Sheriff",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b4",
+          "additional": "",
+          "firstName": "Sidonie",
+          "lastName": "Conti",
+          "role": "Königlicher Page",
+          "fullName": "Sidonie Conti"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Page Percys",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "1. Fuhrmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "2. Fuhrmann",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-05-07.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-05-07_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66587a274e119021476e7116",
+      "uid": "8dc479a8-63e3-4688-899c-8c3c9e323a75",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-01-02T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Sir Walter Blunt",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Northumberland",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sir Vernon",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Lady Percy",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a582",
+          "additional": "1853-1895",
+          "firstName": "Carl",
+          "lastName": "Bassen",
+          "role": "Poins",
+          "fullName": "Carl Bassen"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Sheriff",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b4",
+          "additional": "",
+          "firstName": "Sidonie",
+          "lastName": "Conti",
+          "role": "Königlicher Page",
+          "fullName": "Sidonie Conti"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Page Percys",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "1. Fuhrmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "2. Fuhrmann",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc5",
+          "additional": "",
+          "firstName": "Jakob",
+          "lastName": "Leuthe",
+          "role": "3. Reisender",
+          "fullName": "Jakob Leuthe"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-01-02.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665882b84e119021476f2f5c",
+      "uid": "340160c2-5b7f-4616-9a73-53ef4fb85c25",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-04-23T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Sir Walter Blunt",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Northumberland",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sir Vernon",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Lady Percy",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a582",
+          "additional": "1853-1895",
+          "firstName": "Carl",
+          "lastName": "Bassen",
+          "role": "Poins",
+          "fullName": "Carl Bassen"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Sheriff",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b4",
+          "additional": "",
+          "firstName": "Sidonie",
+          "lastName": "Conti",
+          "role": "Königlicher Page",
+          "fullName": "Sidonie Conti"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Page Percys",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "1. Fuhrmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "2. Fuhrmann",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc5",
+          "additional": "",
+          "firstName": "Jakob",
+          "lastName": "Leuthe",
+          "role": "3. Reisender",
+          "fullName": "Jakob Leuthe"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-04-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c7b14e119021477548cb",
+      "uid": "2b2b6bb3-efc3-4632-9971-1fac780e80d7",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-03-28T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "Sir Walter Blunt",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "Northumberland",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sir Vernon",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Lady Percy",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Poins",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Sheriff",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b4",
+          "additional": "",
+          "firstName": "Sidonie",
+          "lastName": "Conti",
+          "role": "Königlicher Page",
+          "fullName": "Sidonie Conti"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Page Percys",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "1. Fuhrmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "2. Fuhrmann",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6659a5474e1190214786a37a",
+      "uid": "7e97a9c0-5f1d-4ad9-a19b-7ba5303fa6e4",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-01-02T11:07:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Sir Walter Blunt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Northumberland",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sir Vernon",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Lady Percy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Poins",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Sheriff",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b4",
+          "additional": "",
+          "firstName": "Sidonie",
+          "lastName": "Conti",
+          "role": "Königlicher Page",
+          "fullName": "Sidonie Conti"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Page Percys",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "1. Fuhrmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "2. Fuhrmann",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-01-02.jpeg"
+      ],
+      "comment": "\"Vierte Gesammt-Darstellung von Shakespeare's englischen Historien\""
+    },
+    {
+      "_id": "665b38ef4e11902147a62605",
+      "uid": "2eafa4ed-475b-4390-bf7a-fad5ff524e4a",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-02-16T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Sir Walter Blunt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Northumberland",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024aacd",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Klein",
+          "role": "Sir Vernon",
+          "fullName": "Adolf Klein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Lady Percy",
+          "fullName": "Helene Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Poins",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Peto",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Sheriff",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a830",
+          "additional": "",
+          "firstName": "Gabriele",
+          "lastName": "Fricke",
+          "role": "Königlicher Page",
+          "fullName": "Gabriele Fricke"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad5",
+          "additional": "1856-1927",
+          "firstName": "Josef",
+          "lastName": "Füller",
+          "role": "Page Percys",
+          "fullName": "Josef Füller"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "1. Fuhrmann",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "665b2f31f11595c12389efcd",
+          "firstName": "Herr",
+          "lastName": "Rötel",
+          "additional": "",
+          "role": "2. Fuhrmann",
+          "fullName": "Herr Rötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Hausknecht",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-02-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665d8f814e11902147d4c9da",
+      "uid": "b98bf462-32ae-4d5b-806c-1f914066c4dd",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Hofoperntheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1883-06-17T10:55:00.000Z",
+      "season": "1882/1883",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Sir Walter Blunt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Northumberland",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Sir Vernon",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Lady Percy",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Poins",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Peto",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Sheriff",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a830",
+          "additional": "",
+          "firstName": "Gabriele",
+          "lastName": "Fricke",
+          "role": "Königlicher Page",
+          "fullName": "Gabriele Fricke"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad5",
+          "additional": "1856-1927",
+          "firstName": "Josef",
+          "lastName": "Füller",
+          "role": "Page Percys",
+          "fullName": "Josef Füller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "1. Fuhrmann",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "2. Fuhrmann",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Hausknecht",
+          "fullName": "Eduard Dürer"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1883/1883-06-17.jpg"
+      ],
+      "comment": "Das k.k. Hof Burgtheater bleibt von Freitag, 15. Juni bis incl. Freitag, 31. August d. J. geschlossen.\nVon Freitag, 15. bis Samstag, 30. finden Schauspiel Vorstellungen im k.k Hof Operntheater statt.\n\nGesamt-Darstellung von Shakespeares englischen Historien"
+    },
+    {
+      "_id": "665d95444e11902147d54751",
+      "uid": "379ac78d-8490-4de1-9741-20aa2fafd497",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Hofoperntheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1883-06-24T10:55:00.000Z",
+      "season": "1882/1883",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Sir Walter Blunt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Northumberland",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Sir Vernon",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Lady Percy",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Poins",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Peto",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Sheriff",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a830",
+          "additional": "",
+          "firstName": "Gabriele",
+          "lastName": "Fricke",
+          "role": "Königlicher Page",
+          "fullName": "Gabriele Fricke"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad5",
+          "additional": "1856-1927",
+          "firstName": "Josef",
+          "lastName": "Füller",
+          "role": "Page Percys",
+          "fullName": "Josef Füller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "1. Fuhrmann",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "2. Fuhrmann",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Hausknecht",
+          "fullName": "Eduard Dürer"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1883/1883-06-24.jpg"
+      ],
+      "comment": "Das k.k. Hof Burgtheater bleibt von Freitag, 15. Juni bis incl. Freitag, 31. August d. J. geschlossen.\nVon Freitag, 15. bis Samstag, 30. finden Schauspiel Vorstellungen im k.k Hof Operntheater statt.\n\nGesamt-Darstellung von Shakespeares englischen Historien"
+    },
+    {
+      "_id": "665da6dd4e11902147d6dfbd",
+      "uid": "a9d3668e-a021-4ae8-b4d7-832599154fe6",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1883-10-28T10:55:00.000Z",
+      "season": "1883/1884",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Sir Walter Blunt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Northumberland",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Sir Vernon",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Lady Percy",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Poins",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Peto",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Sheriff",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a830",
+          "additional": "",
+          "firstName": "Gabriele",
+          "lastName": "Fricke",
+          "role": "Königlicher Page",
+          "fullName": "Gabriele Fricke"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad5",
+          "additional": "1856-1927",
+          "firstName": "Josef",
+          "lastName": "Füller",
+          "role": "Page Percys",
+          "fullName": "Josef Füller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "1. Fuhrmann",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "2. Fuhrmann",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Hausknecht",
+          "fullName": "Eduard Dürer"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1883/1883-10-28.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665dd7244e11902147dae7ee",
+      "uid": "91ab08c3-94d5-4a1e-8b8b-bf5089ca7ffc",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Hofoperntheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1884-06-17T10:55:00.000Z",
+      "season": "1883/1884",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Sir Walter Blunt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Northumberland",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Archibald",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Sir Vernon",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Lady Percy",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Poins",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Peto",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Sheriff",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frau Hurtig",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7de",
+          "additional": "1835-1946",
+          "firstName": "Paula",
+          "lastName": "Fiala",
+          "role": "Königlicher Page",
+          "fullName": "Paula Fiala"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad5",
+          "additional": "1856-1927",
+          "firstName": "Josef",
+          "lastName": "Füller",
+          "role": "Page Percys",
+          "fullName": "Josef Füller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "1. Fuhrmann",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "2. Fuhrmann",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Hausknecht",
+          "fullName": "Eduard Dürer"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa72",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Kaiser",
+          "role": "2. Reisender",
+          "fullName": "Josef Kaiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b1a",
+          "additional": "",
+          "firstName": "Anton",
+          "lastName": "Köhler",
+          "role": "3. Reisender",
+          "fullName": "Anton Köhler"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-06-17.jpg"
+      ],
+      "comment": "Das k.k. Hof Burgtheater bleibt von Montag den 16. Juni bis incl. Sonntag den 31. August 1884 geschlossen. \nVon Montag den 16. Juni bis incl. Sonntag den 30 Juni d. J. finden die Schauspiel=Vorstellungen im k.k. Hof-Operntheater statt.\n\nGesamt-Darstellung von Shakespeare's englischen Historien.\nZweites Stück:"
+    },
+    {
+      "_id": "666308ddcd334071f74d6dd1",
+      "uid": "9b549062-280d-4504-8ee4-ef1eb389954b",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1888-02-19T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Sir Walter Blunt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Northumberland",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae23",
+          "additional": "1860-1936",
+          "firstName": "Georg",
+          "lastName": "Reimers",
+          "role": "Archibald",
+          "fullName": "Georg Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Sir Vernon",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Lady Percy",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Poins",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Bardolph",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Peto",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Sheriff",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Frau Hurtig",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7de",
+          "additional": "1835-1946",
+          "firstName": "Paula",
+          "lastName": "Fiala",
+          "role": "Königlicher Page",
+          "fullName": "Paula Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024a623",
+          "additional": "",
+          "firstName": "Anna",
+          "lastName": "Bock",
+          "role": "Page Percys",
+          "fullName": "Anna Bock"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00f",
+          "additional": "1852-1913, Hofschauspieler",
+          "firstName": "Rudolf",
+          "lastName": "Sommer",
+          "role": "1. Fuhrmann",
+          "fullName": "Rudolf Sommer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "2. Fuhrmann",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Hausknecht",
+          "fullName": "Eduard Dürer"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Reisender",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae3f",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Relly",
+          "role": "2. Reisender",
+          "fullName": "Alois Relly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a605",
+          "additional": "",
+          "firstName": "Georg",
+          "lastName": "Blaim",
+          "role": "3. Reisender",
+          "fullName": "Georg Blaim"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1888/1888-02-19.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6662da12cd334071f749ab93",
+      "uid": "b56caa07-5167-44ed-a500-77e7769275e4",
+      "productionId": "8e234380-54c4-4b81-830a-f5334e447bf6",
+      "title": "König Heinrich IV.  1. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1888-03-18T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König Heinrich IV.",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Prinz Heinrich",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Johann von Lancaster",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Westmoreland",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Sir Walter Blunt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Northumberland",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Heinrich Percy",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Graf von Worcester",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae23",
+          "additional": "1860-1936",
+          "firstName": "Georg",
+          "lastName": "Reimers",
+          "role": "Archibald",
+          "fullName": "Georg Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "Sir Vernon",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Lady Percy",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Sir Falstaff",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b11",
+          "additional": "1861-1892, Hofschauspieler",
+          "firstName": "Robert",
+          "lastName": "Hübner",
+          "role": "Poins",
+          "fullName": "Robert Hübner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Gadshill",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Bardolph",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Peto",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Sheriff",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Frau Hurtig",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Franz",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7de",
+          "additional": "1835-1946",
+          "firstName": "Paula",
+          "lastName": "Fiala",
+          "role": "Königlicher Page",
+          "fullName": "Paula Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024a623",
+          "additional": "",
+          "firstName": "Anna",
+          "lastName": "Bock",
+          "role": "Page Percys",
+          "fullName": "Anna Bock"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00f",
+          "additional": "1852-1913, Hofschauspieler",
+          "firstName": "Rudolf",
+          "lastName": "Sommer",
+          "role": "Zwei Fuhrleute",
+          "fullName": "Rudolf Sommer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a61b",
+          "additional": "1829-1894",
+          "firstName": "Sigmund",
+          "lastName": "Bleibtreu",
+          "role": "Zwei Fuhrleute",
+          "fullName": "Sigmund Bleibtreu"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Hausknecht",
+          "fullName": "Eduard Dürer"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Drei Reisende",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae3f",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Relly",
+          "role": "Drei Reisende",
+          "fullName": "Alois Relly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a605",
+          "additional": "",
+          "firstName": "Georg",
+          "lastName": "Blaim",
+          "role": "Drei Reisende",
+          "fullName": "Georg Blaim"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "655e6b350080658502ca8090",
+          "firstName": "Franz von",
+          "lastName": "Dingelstedt",
+          "additional": "1814-1881",
+          "fullName": "Franz von Dingelstedt",
+          "role": "Bearbeitung"
+        },
+        {
+          "_id": "6562176d0080658502cf3a86",
+          "firstName": "Julius",
+          "lastName": "Sulzer",
+          "additional": "",
+          "fullName": "Julius Sulzer",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1888/1888-03-18.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

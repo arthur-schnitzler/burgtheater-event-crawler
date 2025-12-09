@@ -1,0 +1,5983 @@
+{
+  "_id": "6658dd214e11902147771f23",
+  "uid": "8750a9b9-1e45-454c-a20e-273bacd29b43",
+  "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+  "title": "Wahn und Wahnsinn",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-06-17T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b8b0",
+      "additional": "1834-1909",
+      "firstName": "Adolf",
+      "lastName": "Sonnenthal",
+      "role": "Lord Harleigh",
+      "fullName": "Adolf Sonnenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024b230",
+      "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+      "firstName": "Charlotte",
+      "lastName": "Wolter",
+      "role": "Seine Gemahlin",
+      "fullName": "Charlotte Wolter"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b15",
+      "additional": "1848-1920",
+      "firstName": "Antonie",
+      "lastName": "Janisch",
+      "role": "Nelly",
+      "fullName": "Antonie Janisch"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Doktor",
+      "fullName": "Josef Lewinsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024b041",
+      "additional": "1843-1913",
+      "firstName": "Philipp",
+      "lastName": "Stätter",
+      "role": "Lord Maxwell",
+      "fullName": "Philipp Stätter"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Wilkins",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "6504166ba47588ad6024abea",
+      "additional": "1834-1913",
+      "firstName": "Josef",
+      "lastName": "Lippert",
+      "role": "David",
+      "fullName": "Josef Lippert"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0e0",
+      "additional": "1854-1944",
+      "firstName": "Hugo",
+      "lastName": "Thimig",
+      "role": "Jonathan",
+      "fullName": "Hugo Thimig"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b7c0",
+      "additional": "",
+      "firstName": "Johann Wilhelm",
+      "lastName": "Lembert",
+      "fullName": "Johann Wilhelm Lembert",
+      "role": "Deutsch"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b7f6",
+      "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+      "firstName": "",
+      "lastName": "Melesville",
+      "fullName": " Melesville"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-17.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61971d3ced60fbe1875d7",
+      "uid": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "57",
+      "date": "1835-04-21T12:00:00.000Z",
+      "season": "1834/1835",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51d",
+          "additional": "1797-1855",
+          "firstName": "Eduard",
+          "lastName": "Anschütz",
+          "role": "Jonathan",
+          "fullName": "Eduard Anschütz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0182.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1835/1835-04-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661a7c46f2bc424b42914e33",
+      "uid": "90696daa-eaf2-465c-9e8f-01e4af6236d5",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1835-04-22T10:55:00.000Z",
+      "season": "1834/1835",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51d",
+          "additional": "1797-1855",
+          "firstName": "Eduard",
+          "lastName": "Anschütz",
+          "role": "Jonathan",
+          "fullName": "Eduard Anschütz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1835/1835-04-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661a7d65f2bc424b4292fb5d",
+      "uid": "c9796169-b710-4ed8-889e-e4707a8808b0",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1835-04-26T10:55:00.000Z",
+      "season": "1834/1835",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a519",
+          "additional": "1819-1895, verehel. Koberwein",
+          "firstName": "Auguste",
+          "lastName": "Anschütz",
+          "role": "Jonathan",
+          "fullName": "Auguste Anschütz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1835/1835-04-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661aad35f2bc424b42dd74fb",
+      "uid": "fe950292-512a-4542-9da6-ebc4a241c81e",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1835-05-07T10:55:00.000Z",
+      "season": "1834/1835",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Lady Anna, seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor Yollack",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51f",
+          "additional": "1797-1866, geb. Butenop",
+          "firstName": "Emilie",
+          "lastName": "Anschütz",
+          "role": "Jonathan",
+          "fullName": "Emilie Anschütz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1835/1835-05-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661ac80bf2bc424b4205d5ca",
+      "uid": "0c2f1130-6042-4972-835f-e3c69b94129e",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1835-05-17T10:55:00.000Z",
+      "season": "1834/1835",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51d",
+          "additional": "1797-1855",
+          "firstName": "Eduard",
+          "lastName": "Anschütz",
+          "role": "Jonathan",
+          "fullName": "Eduard Anschütz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1835/1835-05-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661acd11f2bc424b420d860b",
+      "uid": "e221266e-ca5d-4b10-9d18-64a6d59c5a24",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1835-06-02T10:55:00.000Z",
+      "season": "1834/1835",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51d",
+          "additional": "1797-1855",
+          "firstName": "Eduard",
+          "lastName": "Anschütz",
+          "role": "Jonathan",
+          "fullName": "Eduard Anschütz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1835/1835-06-02.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661afe3cf2bc424b4256ce6e",
+      "uid": "d9d6ed11-1262-436f-9ada-85f34e270bed",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1835-08-18T10:55:00.000Z",
+      "season": "1834/1835",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51d",
+          "additional": "1797-1855",
+          "firstName": "Eduard",
+          "lastName": "Anschütz",
+          "role": "Jonathan",
+          "fullName": "Eduard Anschütz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1835/1835-08-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661b1365f2bc424b42752cbe",
+      "uid": "1d298f67-88ce-47b7-879e-1708647e121e",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1835-10-05T10:55:00.000Z",
+      "season": "1835/1836",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51d",
+          "additional": "1797-1855",
+          "firstName": "Eduard",
+          "lastName": "Anschütz",
+          "role": "Jonathan",
+          "fullName": "Eduard Anschütz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1835/1835-10-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661bb508f2bc424b4279b737",
+      "uid": "10e1d7d0-a17e-463c-ad27-b92c0ab52923",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1835-11-18T10:55:00.000Z",
+      "season": "1835/1836",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51d",
+          "additional": "1797-1855",
+          "firstName": "Eduard",
+          "lastName": "Anschütz",
+          "role": "Jonathan",
+          "fullName": "Eduard Anschütz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1835/1835-11-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661bfbf1f2bc424b42faab5d",
+      "uid": "029dad1c-cb48-4aca-b03e-6974f62c2670",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1836-01-06T10:55:00.000Z",
+      "season": "1835/1836",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51d",
+          "additional": "1797-1855",
+          "firstName": "Eduard",
+          "lastName": "Anschütz",
+          "role": "Jonathan",
+          "fullName": "Eduard Anschütz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1836/1836-01-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661c2aa5f31ebf1707a5b299",
+      "uid": "e1df628d-fcb6-45f2-8447-6a050a9cce24",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1836-05-07T10:55:00.000Z",
+      "season": "1835/1836",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a729",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Devrient",
+          "role": "Lord Harleigh",
+          "fullName": "Emil Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14e",
+          "additional": "",
+          "firstName": "d. J., Anton",
+          "lastName": "Wagner",
+          "role": "Jonathan",
+          "fullName": "d. J., Anton Wagner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1836/1836-05-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661d76b7f31ebf170751567e",
+      "uid": "b224d57c-e514-43c2-9d12-d21a125bbd0b",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1837-01-09T10:55:00.000Z",
+      "season": "1836/1837",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Nissel",
+          "role": "Jonathan",
+          "fullName": "Franz Nissel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1837/1837-01-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661e93b8f31ebf1707719353",
+      "uid": "12bbd09d-ac6f-4ed1-a8ca-111eb6b97a9b",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1837-06-16T10:55:00.000Z",
+      "season": "1836/1837",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad35",
+          "additional": "",
+          "firstName": "Moritz",
+          "lastName": "Nissel",
+          "role": "Jonathan",
+          "fullName": "Moritz Nissel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1837/1837-06-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661f8695f31ebf17072b9e0c",
+      "uid": "e3788c6f-1e1a-4e7e-aa9f-164553043ee0",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1838-02-05T10:55:00.000Z",
+      "season": "1837/1838",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024adba",
+          "additional": "1802-1877 d.ä",
+          "firstName": "Betty",
+          "lastName": "Pistor",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Jonathan",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1838/1838-02-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "661fe470f31ebf170710cd59",
+      "uid": "d380025f-fa0e-4366-9298-95d6a5acc543",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1838-09-20T10:55:00.000Z",
+      "season": "1838/1839",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b200",
+          "additional": "geb. Pistor",
+          "firstName": "Betty",
+          "lastName": "Wintersteiner",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Wintersteiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Jonathan",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1838/1838-09-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66200d78f31ebf170765b78f",
+      "uid": "cd31a1d0-5a8f-484e-9a25-b324f0061266",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1839-01-08T10:55:00.000Z",
+      "season": "1838/1839",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab0f",
+          "additional": "1782-1854",
+          "firstName": "Maximilian",
+          "lastName": "Korn",
+          "role": "Lord Harleigh",
+          "fullName": "Maximilian Korn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b200",
+          "additional": "geb. Pistor",
+          "firstName": "Betty",
+          "lastName": "Wintersteiner",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Wintersteiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7f0",
+          "additional": "1809-1889",
+          "firstName": "Elisabeth",
+          "lastName": "Fichtner (geb. Koberwein)",
+          "role": "Nelly",
+          "fullName": "Elisabeth Fichtner (geb. Koberwein)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Jonathan",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel/wtz_1839/1839-01-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "662558ae8325f4754740c52d",
+      "uid": "55f5a90c-2147-4b00-a579-5829f4c5c0b8",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1842-08-26T10:55:00.000Z",
+      "season": "1841/1842",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a725",
+          "additional": "1799-1872",
+          "firstName": "Carl",
+          "lastName": "Devrient",
+          "role": "Lord Harleigh",
+          "fullName": "Carl Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024b200",
+          "additional": "geb. Pistor",
+          "firstName": "Betty",
+          "lastName": "Wintersteiner",
+          "role": "Seine Gemahlin",
+          "fullName": "Betty Wintersteiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0b",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Neumann",
+          "role": "Nelly",
+          "fullName": "Elisabeth Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024afaa",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Schwarz",
+          "role": "Jonathan",
+          "fullName": "Adolf Schwarz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1842/1842-08-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6626c7f88325f47547f0577f",
+      "uid": "d73cdf11-1362-48b8-b0c9-f1a7b936d985",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1844-06-05T10:55:00.000Z",
+      "season": "1843/1844",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a729",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Devrient",
+          "role": "Lord Harleigh",
+          "fullName": "Emil Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada4",
+          "additional": "1806-1882",
+          "firstName": "Therese",
+          "lastName": "Peche",
+          "role": "Seine Gemahlin",
+          "fullName": "Therese Peche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Nelly",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af2a",
+          "additional": "1797-1866",
+          "firstName": "Josef",
+          "lastName": "Schmidt",
+          "role": "Jonathan",
+          "fullName": "Josef Schmidt"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1844/1844-06-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6626c8888325f47547f151ab",
+      "uid": "6e44c1ef-8099-4629-a849-3bb82273c4f9",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1844-06-07T10:55:00.000Z",
+      "season": "1843/1844",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a729",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Devrient",
+          "role": "Lord Harleigh",
+          "fullName": "Emil Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada4",
+          "additional": "1806-1882",
+          "firstName": "Therese",
+          "lastName": "Peche",
+          "role": "Seine Gemahlin",
+          "fullName": "Therese Peche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Nelly",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af2a",
+          "additional": "1797-1866",
+          "firstName": "Josef",
+          "lastName": "Schmidt",
+          "role": "Jonathan",
+          "fullName": "Josef Schmidt"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1844/1844-06-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6626cdb38325f47547fa462d",
+      "uid": "9df8cedb-35ac-4efb-b861-5c547ab8aee2",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1844-06-16T10:55:00.000Z",
+      "season": "1843/1844",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a729",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Devrient",
+          "role": "Lord Harleigh",
+          "fullName": "Emil Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada4",
+          "additional": "1806-1882",
+          "firstName": "Therese",
+          "lastName": "Peche",
+          "role": "Seine Gemahlin",
+          "fullName": "Therese Peche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Nelly",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Lord Maxwell",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af2a",
+          "additional": "1797-1866",
+          "firstName": "Josef",
+          "lastName": "Schmidt",
+          "role": "Jonathan",
+          "fullName": "Josef Schmidt"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1844/1844-06-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "662cf6bf8325f47547757320",
+      "uid": "7781a2e8-48da-4e02-9ff1-cb30172186ce",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1849-01-08T10:55:00.000Z",
+      "season": "1848/1849",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a729",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Devrient",
+          "role": "Lord Harleigh",
+          "fullName": "Emil Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada4",
+          "additional": "1806-1882",
+          "firstName": "Therese",
+          "lastName": "Peche",
+          "role": "Seine Gemahlin",
+          "fullName": "Therese Peche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Nelly",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024acc9",
+          "additional": "1800-1873",
+          "firstName": "Carl Ferdinand",
+          "lastName": "Mittell",
+          "role": "Jonathan",
+          "fullName": "Carl Ferdinand Mittell"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1849/1849-01-08.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1849/1849-01-08_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "662f56c28325f475472e9182",
+      "uid": "2d7d51a5-e15d-4450-8680-715e81c827fc",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1849-10-17T10:55:00.000Z",
+      "season": "1849/1850",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a6f0",
+          "additional": "Hamburg",
+          "firstName": "Bogumil",
+          "lastName": "Dawison",
+          "role": "Lord Harleigh",
+          "fullName": "Bogumil Dawison"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada4",
+          "additional": "1806-1882",
+          "firstName": "Therese",
+          "lastName": "Peche",
+          "role": "Seine Gemahlin",
+          "fullName": "Therese Peche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Nelly",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024acc9",
+          "additional": "1800-1873",
+          "firstName": "Carl Ferdinand",
+          "lastName": "Mittell",
+          "role": "Jonathan",
+          "fullName": "Carl Ferdinand Mittell"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1849/1849-10-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "662f63828325f4754746f309",
+      "uid": "1e7f5434-b38f-4846-ba36-f94adfd8a1ab",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1849-11-06T11:07:00.000Z",
+      "season": "1849/1850",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a6f0",
+          "additional": "Hamburg",
+          "firstName": "Bogumil",
+          "lastName": "Dawison",
+          "role": "Lord Harleigh",
+          "fullName": "Bogumil Dawison"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada4",
+          "additional": "1806-1882",
+          "firstName": "Therese",
+          "lastName": "Peche",
+          "role": "Seine Gemahlin",
+          "fullName": "Therese Peche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Nelly",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Doktor",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14d",
+          "additional": "1781-1860",
+          "firstName": "d. Ä., Anton",
+          "lastName": "Wagner",
+          "role": "David",
+          "fullName": "d. Ä., Anton Wagner"
+        },
+        {
+          "_id": "65415cee0080658502aa0888",
+          "firstName": "Antonie",
+          "lastName": "Mittell",
+          "additional": "1845-1849",
+          "role": "Jonathan",
+          "fullName": "Antonie Mittell"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1849/1849-11-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6630e7b4fa3118b0943e02b4",
+      "uid": "12a051f9-dd0c-46cb-822d-c6491960172c",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1851-02-05T10:55:00.000Z",
+      "season": "1850/1851",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a6f0",
+          "additional": "Hamburg",
+          "firstName": "Bogumil",
+          "lastName": "Dawison",
+          "role": "Lord Harleigh",
+          "fullName": "Bogumil Dawison"
+        },
+        {
+          "_id": "661052a521b0fcd2e69818a3",
+          "firstName": "Dlle",
+          "lastName": "Peche",
+          "additional": "König. Württembergische Hofschauspielerin",
+          "role": "Seine Gemahlin",
+          "fullName": "Dlle Peche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Nelly",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac22",
+          "additional": "",
+          "firstName": "Jakob",
+          "lastName": "Lussberger",
+          "role": "Doktor",
+          "fullName": "Jakob Lussberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a777",
+          "additional": "1849-1859",
+          "firstName": "Hermine",
+          "lastName": "Eidlitz",
+          "role": "Jonathan",
+          "fullName": "Hermine Eidlitz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1851/1851-02-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6630ebedfa3118b0943e60e1",
+      "uid": "00380230-f21e-4cfb-8f3c-28132cb42063",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1851-02-22T10:55:00.000Z",
+      "season": "1850/1851",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a725",
+          "additional": "1799-1872",
+          "firstName": "Carl",
+          "lastName": "Devrient",
+          "role": "Lord Harleigh",
+          "fullName": "Carl Devrient"
+        },
+        {
+          "_id": "661052a521b0fcd2e69818a3",
+          "firstName": "Dlle",
+          "lastName": "Peche",
+          "additional": "König. Württembergische Hofschauspielerin",
+          "role": "Seine Gemahlin",
+          "fullName": "Dlle Peche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Nelly",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6629878b46b3b9baafc172ee",
+          "firstName": "Herr",
+          "lastName": "Lutzberger",
+          "additional": "a. G.",
+          "role": "Doktor",
+          "fullName": "Herr Lutzberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a777",
+          "additional": "1849-1859",
+          "firstName": "Hermine",
+          "lastName": "Eidlitz",
+          "role": "Jonathan",
+          "fullName": "Hermine Eidlitz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1851/1851-02-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6631417cebcc6a947c870d2b",
+      "uid": "95e10a17-164e-4c8c-bf8e-f291140694e0",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1851-08-13T10:55:00.000Z",
+      "season": "1850/1851",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a725",
+          "additional": "1799-1872",
+          "firstName": "Carl",
+          "lastName": "Devrient",
+          "role": "Lord Harleigh",
+          "fullName": "Carl Devrient"
+        },
+        {
+          "_id": "661052a521b0fcd2e69818a3",
+          "firstName": "Dlle",
+          "lastName": "Peche",
+          "additional": "König. Württembergische Hofschauspielerin",
+          "role": "Seine Gemahlin",
+          "fullName": "Dlle Peche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Nelly",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6629878b46b3b9baafc172ee",
+          "firstName": "Herr",
+          "lastName": "Lutzberger",
+          "additional": "a. G.",
+          "role": "Doktor",
+          "fullName": "Herr Lutzberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a777",
+          "additional": "1849-1859",
+          "firstName": "Hermine",
+          "lastName": "Eidlitz",
+          "role": "Jonathan",
+          "fullName": "Hermine Eidlitz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1851/1851-08-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66338f7ff0392a8e79f09e05",
+      "uid": "73d40153-2faa-4e08-ae7d-ecc38709420c",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1852-09-30T10:55:00.000Z",
+      "season": "1852/1853",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a6f0",
+          "additional": "Hamburg",
+          "firstName": "Bogumil",
+          "lastName": "Dawison",
+          "role": "Lord Harleigh",
+          "fullName": "Bogumil Dawison"
+        },
+        {
+          "_id": "661052a521b0fcd2e69818a3",
+          "firstName": "Dlle",
+          "lastName": "Peche",
+          "additional": "König. Württembergische Hofschauspielerin",
+          "role": "Seine Gemahlin",
+          "fullName": "Dlle Peche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Nelly",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac22",
+          "additional": "",
+          "firstName": "Jakob",
+          "lastName": "Lussberger",
+          "role": "Doktor",
+          "fullName": "Jakob Lussberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a777",
+          "additional": "1849-1859",
+          "firstName": "Hermine",
+          "lastName": "Eidlitz",
+          "role": "Jonathan",
+          "fullName": "Hermine Eidlitz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1852/1852-09-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663249c2ebcc6a947c9b5843",
+      "uid": "198c0bf7-b74d-4e01-81a8-cdb30410f7bb",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1853-02-21T10:55:00.000Z",
+      "season": "1852/1853",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a6f0",
+          "additional": "Hamburg",
+          "firstName": "Bogumil",
+          "lastName": "Dawison",
+          "role": "Lord Harleigh",
+          "fullName": "Bogumil Dawison"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada4",
+          "additional": "1806-1882",
+          "firstName": "Therese",
+          "lastName": "Peche",
+          "role": "Seine Gemahlin",
+          "fullName": "Therese Peche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Nelly",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6629878b46b3b9baafc172ee",
+          "firstName": "Herr",
+          "lastName": "Lutzberger",
+          "additional": "a. G.",
+          "role": "Doktor",
+          "fullName": "Herr Lutzberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a777",
+          "additional": "1849-1859",
+          "firstName": "Hermine",
+          "lastName": "Eidlitz",
+          "role": "Jonathan",
+          "fullName": "Hermine Eidlitz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1853/1853-02-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663a0725f0392a8e7972c256",
+      "uid": "767a0dd4-6e8d-41f9-ad18-780428b8caf7",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1853-08-13T10:55:00.000Z",
+      "season": "1852/1853",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a6f0",
+          "additional": "Hamburg",
+          "firstName": "Bogumil",
+          "lastName": "Dawison",
+          "role": "Lord Harleigh",
+          "fullName": "Bogumil Dawison"
+        },
+        {
+          "_id": "6504166ba47588ad6024abdd",
+          "additional": "geb. Schuller, Hofschauspielerin",
+          "firstName": "Regina",
+          "lastName": "Lieder",
+          "role": "Seine Gemahlin",
+          "fullName": "Regina Lieder"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8d1",
+          "additional": "",
+          "firstName": "Therese",
+          "lastName": "Grafenberg",
+          "role": "Nelly",
+          "fullName": "Therese Grafenberg"
+        },
+        {
+          "_id": "6629878b46b3b9baafc172ee",
+          "firstName": "Herr",
+          "lastName": "Lutzberger",
+          "additional": "a. G.",
+          "role": "Doktor",
+          "fullName": "Herr Lutzberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Wilkins",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a777",
+          "additional": "1849-1859",
+          "firstName": "Hermine",
+          "lastName": "Eidlitz",
+          "role": "Jonathan",
+          "fullName": "Hermine Eidlitz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1853/1853-08-13.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1853/1853-08-13_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66412515e027ead1c1bc2367",
+      "uid": "b63fa322-373b-43f7-a0f7-edb0bfa4553e",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1857-01-17T11:07:00.000Z",
+      "season": "1856/1857",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Lord Harleigh",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aee3",
+          "additional": "",
+          "firstName": "Lina",
+          "lastName": "Schäfer",
+          "role": "Lady Anna, seine Gemahlin",
+          "fullName": "Lina Schäfer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0ba",
+          "additional": "",
+          "firstName": "Auguste",
+          "lastName": "Taglioni",
+          "role": "Nelli, seine Nichte und Mündel",
+          "fullName": "Auguste Taglioni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac22",
+          "additional": "",
+          "firstName": "Jakob",
+          "lastName": "Lussberger",
+          "role": "Doktor Nollack",
+          "fullName": "Jakob Lussberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6ab",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Collin",
+          "role": "Sir Thomas Wilkins",
+          "fullName": "Ludwig Collin"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David, Harleighs alter Diener",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a777",
+          "additional": "1849-1859",
+          "firstName": "Hermine",
+          "lastName": "Eidlitz",
+          "role": "Jonathan, ein Hirt",
+          "fullName": "Hermine Eidlitz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1857/1857-01-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664128c2e027ead1c1bc7074",
+      "uid": "464d887d-0c36-4e41-b5e7-d50bf7e0cfb2",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1857-01-20T11:07:00.000Z",
+      "season": "1856/1857",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Lord Harleigh",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aee3",
+          "additional": "",
+          "firstName": "Lina",
+          "lastName": "Schäfer",
+          "role": "Lady Anna, seine Gemahlin",
+          "fullName": "Lina Schäfer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0ba",
+          "additional": "",
+          "firstName": "Auguste",
+          "lastName": "Taglioni",
+          "role": "Nelli, seine Nichte und Mündel",
+          "fullName": "Auguste Taglioni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac22",
+          "additional": "",
+          "firstName": "Jakob",
+          "lastName": "Lussberger",
+          "role": "Doktor Pollack",
+          "fullName": "Jakob Lussberger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6ab",
+          "additional": "",
+          "firstName": "Ludwig",
+          "lastName": "Collin",
+          "role": "Sir Thomas Wilkins",
+          "fullName": "Ludwig Collin"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David, Harleighs alter Diener",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a777",
+          "additional": "1849-1859",
+          "firstName": "Hermine",
+          "lastName": "Eidlitz",
+          "role": "Jonathan, ein Hirt",
+          "fullName": "Hermine Eidlitz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1857/1857-01-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66467f53e027ead1c1294e1d",
+      "uid": "d46da9cd-f266-4c3c-86fb-fed7829c4513",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1860-09-25T10:55:00.000Z",
+      "season": "1860/1861",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Lord Harleigh",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Seine Gemahlin",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a798",
+          "additional": "",
+          "firstName": "Louise",
+          "lastName": "Epstein",
+          "role": "Nelly",
+          "fullName": "Louise Epstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Doktor",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Wilkins",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a83a",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Friedrich",
+          "role": "Jonathan",
+          "fullName": "Carl Friedrich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-09-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664718d4e027ead1c135581f",
+      "uid": "95a46e9d-91e1-496c-8ead-b28ed75bd0f0",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1860-10-02T10:36:00.000Z",
+      "season": "1860/1861",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Lord Harleigh",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Seine Gemahlin",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a798",
+          "additional": "",
+          "firstName": "Louise",
+          "lastName": "Epstein",
+          "role": "Nelly",
+          "fullName": "Louise Epstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Doktor",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Wilkins",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a83a",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Friedrich",
+          "role": "Jonathan",
+          "fullName": "Carl Friedrich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-10-02.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-10-02_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6648695be027ead1c1505f2e",
+      "uid": "f382070e-c526-4957-9c15-781626d686b3",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-09-18T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Lord Harleigh",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Seine Gemahlin",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a798",
+          "additional": "",
+          "firstName": "Louise",
+          "lastName": "Epstein",
+          "role": "Nelly",
+          "fullName": "Louise Epstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Doktor",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Wilkins",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Jonathan",
+          "fullName": "August Fricke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-09-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664a5420e027ead1c17837c2",
+      "uid": "a5873560-8db2-4349-b89e-f0ac5bff2de1",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1863-12-18T10:55:00.000Z",
+      "season": "1863/1864",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Lord Harleigh",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Lady Anna, seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac61",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Mathes",
+          "role": "Nelly",
+          "fullName": "Marie Mathes"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Doktor",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Wilkins",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Jonathan",
+          "fullName": "August Fricke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1863/1863-12-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664ae945e027ead1c183c011",
+      "uid": "deda391e-fa43-40d5-b5fe-60b1cbd575d9",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1864-01-07T10:55:00.000Z",
+      "season": "1863/1864",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Lord Harleigh",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac61",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Mathes",
+          "role": "Nelly",
+          "fullName": "Marie Mathes"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Doktor",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Wilkin",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Jonathan",
+          "fullName": "August Fricke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-01-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664b32dbe027ead1c189cca9",
+      "uid": "454ee614-4d9a-43a4-95f6-7c7bdbe0d542",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1864-06-29T10:55:00.000Z",
+      "season": "1863/1864",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Lord Harleigh",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac61",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Mathes",
+          "role": "Nelly",
+          "fullName": "Marie Mathes"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Doktor",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Lord Maxwell",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Wilkin",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a82f",
+          "additional": "",
+          "firstName": "August",
+          "lastName": "Fricke",
+          "role": "Jonathan",
+          "fullName": "August Fricke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1864/1864-06-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664c8085e027ead1c1a4df2a",
+      "uid": "00871798-2fca-4f7e-8f96-9cca24719761",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1866-06-15T10:55:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Lord Harleigh",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af80",
+          "additional": "",
+          "firstName": "Laura",
+          "lastName": "Schuberth",
+          "role": "Nelly",
+          "fullName": "Laura Schuberth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Doktor",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Lord Maxwell",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Wilkin",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad90",
+          "additional": "1813-1874",
+          "firstName": "Julius",
+          "lastName": "Paulmann",
+          "role": "David",
+          "fullName": "Julius Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Jonathan",
+          "fullName": "Emil Ferrari"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1866/1866-06-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655f0304e119021473b1b1a",
+      "uid": "32ed6824-5cae-4739-b435-9929b252fc7f",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-03-07T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Nelly",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Doktor",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lord Maxwell",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "David",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-03-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655f3184e119021473b5795",
+      "uid": "5c259745-0866-4ae1-8f94-ab80cc4c26b7",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-03-14T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Nelly",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Doktor",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lord Maxwell",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkin",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "David",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-03-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66563a284e119021474172a4",
+      "uid": "681be30b-838d-436f-b3ca-7f6d894afda9",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-06-14T11:07:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Lady Anna, seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Nelly, seine Nichte und Mündel",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor Yollak",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lord Maxwell",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Sir Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "David, Harleighs alter Diener",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan, Hirt",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-06-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6656cec24e119021474cb886",
+      "uid": "42be122a-3f58-49af-8d0e-e87d23e682c5",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-09-21T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Lady Anna, seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Nelly, seine Nichte und Mündel",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor Yollak",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lord Maxwell",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Sir Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "David, Harleighs alter Diener",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan, Hirt",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-09-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66574f494e11902147570ef2",
+      "uid": "6a22091c-b0b6-46dc-9394-97cfa4a2df18",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-02-16T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Lady Anna, seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Nelly, seine Nichte und Mündel",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor Yollak",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lord Maxwell",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Sir Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "David, Harleighs alter Diener",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan, Hirt",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-02-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666f343bcd334071f7416009",
+      "uid": "180a962d-f832-4a46-afdb-876e8318626c",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-05-24T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Lady Anna, seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Nelly, seine Nichte und Mündel",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor Yollak",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lord Maxwell",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Sir Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "David, Harleighs alter Diener",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan, Hirt",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-05-24.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-05-24_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66589bbb4e11902147714537",
+      "uid": "61e1e314-02e0-4e84-a142-002a8ec3f90c",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-06-19T11:07:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Lady Anna, seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Nelly, seine Nichte und Mündel",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor Yollak",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lord Maxwell",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Sir Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "David, Harleighs alter Diener",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a582",
+          "additional": "1853-1895",
+          "firstName": "Carl",
+          "lastName": "Bassen",
+          "role": "Jonathan, Hirt",
+          "fullName": "Carl Bassen"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-06-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658dd214e11902147771f23",
+      "uid": "8750a9b9-1e45-454c-a20e-273bacd29b43",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-06-17T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Nelly",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lord Maxwell",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "David",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658ff974e1190214779ea2f",
+      "uid": "039595b0-72e5-45dd-82af-cb8c4b178377",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-09-13T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Nelly",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lord Maxwell",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "David",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-09-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66599bc84e1190214785e1a4",
+      "uid": "34ad88f3-d164-4964-a839-4645758d9750",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-12-04T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Nelly",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lord Maxwell",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "David",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-12-04.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-12-04_00000002.jpg"
+      ],
+      "comment": "Wegen Unpäßlichkeit des Herr La Roche statt: \"Der Fabrikant\""
+    },
+    {
+      "_id": "665a50d74e11902147945087",
+      "uid": "1714cc51-11fe-4877-95ec-dbde8de777d4",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-01-08T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Nelly",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lord Maxwell",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "David",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-01-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c65cc4e11902147bd69f8",
+      "uid": "de8068d8-0f85-4671-802f-c4738d7014e2",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-05-04T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Nelly",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Lord Maxwell",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "David",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-05-04.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665f17f94e11902147f45abb",
+      "uid": "3d0d1ab6-943e-4929-8bb6-71de6aecd089",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1885-11-18T10:55:00.000Z",
+      "season": "1885/1886",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Nelly",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a710",
+          "additional": "1858-1929",
+          "firstName": "Max",
+          "lastName": "Devrient",
+          "role": "Lord Maxwell",
+          "fullName": "Max Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "David",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1885/1885-11-18.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665f20a04e11902147f50eba",
+      "uid": "d0dad086-3de4-47fa-a981-ec6eb59d641b",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1885-12-02T10:55:00.000Z",
+      "season": "1885/1886",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Nelly",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a710",
+          "additional": "1858-1929",
+          "firstName": "Max",
+          "lastName": "Devrient",
+          "role": "Lord Maxwell",
+          "fullName": "Max Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "David",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1885/1885-12-02.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6660444b4e119021470c0e5a",
+      "uid": "201c4bfe-900f-4f71-9b08-1fa7bb39179c",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1886-10-04T10:55:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Nelly",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a710",
+          "additional": "1858-1929",
+          "firstName": "Max",
+          "lastName": "Devrient",
+          "role": "Lord Maxwell",
+          "fullName": "Max Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "David",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1886/1886-10-04.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66618cc04e11902147258e59",
+      "uid": "94fb2405-a5b9-47bd-95bb-81b00dead524",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-02-13T11:07:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Nelly",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a710",
+          "additional": "1858-1929",
+          "firstName": "Max",
+          "lastName": "Devrient",
+          "role": "Lord Maxwell",
+          "fullName": "Max Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "David",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-02-13.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-02-13_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6661928a4e11902147261011",
+      "uid": "1a51d920-a1a4-4fbb-89f8-6f92d913d745",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-02-26T10:55:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Nelly",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a710",
+          "additional": "1858-1929",
+          "firstName": "Max",
+          "lastName": "Devrient",
+          "role": "Lord Maxwell",
+          "fullName": "Max Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "David",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-02-26.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666169a44e11902147228ab8",
+      "uid": "db85bf3a-be5b-4f04-9ffc-79cce5e216e4",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1888-01-03T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Nelly",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a710",
+          "additional": "1858-1929",
+          "firstName": "Max",
+          "lastName": "Devrient",
+          "role": "Lord Maxwell",
+          "fullName": "Max Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "David",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1888/1888-01-03.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6664c4d5cd334071f76f8bbc",
+      "uid": "0d1d3146-078a-4069-a8cd-1df9a0552de6",
+      "productionId": "d2e6f8b3-7093-4ffb-bd8a-4c7e18f1f016",
+      "title": "Wahn und Wahnsinn",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1889-09-21T10:55:00.000Z",
+      "season": "1889/1890",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Lord Harleigh",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b230",
+          "additional": "1834-1897, verehel. Gräfin O'Sullivan de Gras",
+          "firstName": "Charlotte",
+          "lastName": "Wolter",
+          "role": "Seine Gemahlin",
+          "fullName": "Charlotte Wolter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Nelly",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Doktor",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a710",
+          "additional": "1858-1929",
+          "firstName": "Max",
+          "lastName": "Devrient",
+          "role": "Lord Maxwell",
+          "fullName": "Max Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Sir Wilkins",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "David",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Jonathan",
+          "fullName": "Hugo Thimig"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7c0",
+          "additional": "",
+          "firstName": "Johann Wilhelm",
+          "lastName": "Lembert",
+          "fullName": "Johann Wilhelm Lembert",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7f6",
+          "additional": "Pseud. f. Josephe Anne Honoré Duveyrier",
+          "firstName": "",
+          "lastName": "Melesville",
+          "fullName": " Melesville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1889/1889-09-21.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

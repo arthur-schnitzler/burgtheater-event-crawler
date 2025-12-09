@@ -1,0 +1,5286 @@
+{
+  "_id": "6658b3bb4e11902147738f38",
+  "uid": "bad7e79b-9317-4555-8f40-6842b8cd4aa2",
+  "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+  "title": "Die Fräulein von St. Cyr",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-01-18T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a95e",
+      "additional": "1844-1911",
+      "firstName": "Ernst",
+      "lastName": "Hartmann",
+      "role": "Herzog von Anjou",
+      "fullName": "Ernst Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae87",
+      "additional": "1847-1899",
+      "firstName": "Emmerich",
+      "lastName": "Robert",
+      "role": "Roger, Graf von St. Herem",
+      "fullName": "Emmerich Robert"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0e0",
+      "additional": "1854-1944",
+      "firstName": "Hugo",
+      "lastName": "Thimig",
+      "role": "Herkules Dubouloy",
+      "fullName": "Hugo Thimig"
+    },
+    {
+      "_id": "6504166ba47588ad6024af69",
+      "additional": "1854-1942, Hofschauspieler",
+      "firstName": "Jakob",
+      "lastName": "Schreiner",
+      "role": "Graf von Harcourt",
+      "fullName": "Jakob Schreiner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9ee",
+      "additional": "1857-1920",
+      "firstName": "Stella",
+      "lastName": "Hohenfels",
+      "role": "Charlotte von Merian",
+      "fullName": "Stella Hohenfels"
+    },
+    {
+      "_id": "6504166ba47588ad6024a675",
+      "additional": "auch Jeanne",
+      "firstName": "Johanna",
+      "lastName": "Buska",
+      "role": "Louise Mauclair",
+      "fullName": "Johanna Buska"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa43",
+      "additional": "1822-1892",
+      "firstName": "Matthias",
+      "lastName": "Jehly",
+      "role": "Gerichtsbeamter",
+      "fullName": "Matthias Jehly"
+    },
+    {
+      "_id": "6504166ba47588ad6024a51b",
+      "additional": "1844-1910",
+      "firstName": "Josef",
+      "lastName": "Altmann",
+      "role": "Spanischer Offizier",
+      "fullName": "Josef Altmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a849",
+      "additional": "1842-1908",
+      "firstName": "Leo",
+      "lastName": "Friedrich",
+      "role": "Comtois, Diener",
+      "fullName": "Leo Friedrich"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc4",
+      "additional": "1822-1883",
+      "firstName": "Eduard",
+      "lastName": "Leuchert",
+      "role": "Türsteher",
+      "fullName": "Eduard Leuchert"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "Diener",
+      "fullName": "Friedrich Wilhelm Bayer"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "65425b5e0080658502aaf108",
+      "firstName": "Heinrich",
+      "lastName": "Börnstein",
+      "additional": "",
+      "fullName": "Heinrich Börnstein",
+      "role": "Deutsch"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b6a1",
+      "additional": "",
+      "firstName": "Alexandre Vater",
+      "lastName": "Dumas",
+      "fullName": "Alexandre Vater Dumas"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-18.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c619add3ced60fbe195d2f",
+      "uid": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die unsichtbare Beschützerin",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "37",
+      "date": "1843-11-23T12:00:00.000Z",
+      "season": "1843/1844",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Herzog von Anjou",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a519",
+          "additional": "1819-1895, verehel. Koberwein",
+          "firstName": "Auguste",
+          "lastName": "Anschütz",
+          "role": "Charlotte von Merian",
+          "fullName": "Auguste Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Louise Mauclair",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Roger",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b18f",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Weber",
+          "role": "Graf von Harcourt",
+          "fullName": "Karl Weber"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Comtois",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13d",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Vollkomm",
+          "role": "Gerichtsbeamter",
+          "fullName": "Adolf Vollkomm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Türsteher",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024acc9",
+          "additional": "1800-1873",
+          "firstName": "Carl Ferdinand",
+          "lastName": "Mittell",
+          "role": "Diener",
+          "fullName": "Carl Ferdinand Mittell"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0210.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1843/1843-11-23.jpeg"
+      ],
+      "comment": "Ab 27.4.1853 unter dem Titel \"Die Fräulein von St. Cyr\"."
+    },
+    {
+      "_id": "66269b7b8325f475479e9528",
+      "uid": "13f337b1-42a8-4614-8a7e-8a2f3b63ce06",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die unsichtbare Beschützerin",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1843-11-24T10:55:00.000Z",
+      "season": "1843/1844",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Herzog von Anjou",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a519",
+          "additional": "1819-1895, verehel. Koberwein",
+          "firstName": "Auguste",
+          "lastName": "Anschütz",
+          "role": "Charlotte von Merian",
+          "fullName": "Auguste Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Louise Mauclair",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Roger",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b18f",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Weber",
+          "role": "Graf von Harcourt",
+          "fullName": "Karl Weber"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Comtois",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13d",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Vollkomm",
+          "role": "Gerichtsbeamter",
+          "fullName": "Adolf Vollkomm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Türsteher",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024acc9",
+          "additional": "1800-1873",
+          "firstName": "Carl Ferdinand",
+          "lastName": "Mittell",
+          "role": "Diener",
+          "fullName": "Carl Ferdinand Mittell"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1843/1843-11-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66269bd88325f475479f4011",
+      "uid": "1e0c5257-240e-49eb-9d6e-1e3d6432ce28",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die unsichtbare Beschützerin",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1843-11-26T11:07:00.000Z",
+      "season": "1843/1844",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Herzog von Anjou",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a519",
+          "additional": "1819-1895, verehel. Koberwein",
+          "firstName": "Auguste",
+          "lastName": "Anschütz",
+          "role": "Charlotte von Merian",
+          "fullName": "Auguste Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Louise Mauclair",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Roger",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b18f",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Weber",
+          "role": "Graf von Harcourt",
+          "fullName": "Karl Weber"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Comtois",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13d",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Vollkomm",
+          "role": "Gerichtsbeamter",
+          "fullName": "Adolf Vollkomm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Türsteher",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024acc9",
+          "additional": "1800-1873",
+          "firstName": "Carl Ferdinand",
+          "lastName": "Mittell",
+          "role": "Diener",
+          "fullName": "Carl Ferdinand Mittell"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1843/1843-11-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66269c908325f47547a097ef",
+      "uid": "887ade70-cdba-4013-86a8-f9892a571ad5",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die unsichtbare Beschützerin",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1843-12-01T10:55:00.000Z",
+      "season": "1843/1844",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Herzog von Anjou",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a519",
+          "additional": "1819-1895, verehel. Koberwein",
+          "firstName": "Auguste",
+          "lastName": "Anschütz",
+          "role": "Charlotte von Merian",
+          "fullName": "Auguste Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Louise Mauclair",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Roger",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b18f",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Weber",
+          "role": "Graf von Harcourt",
+          "fullName": "Karl Weber"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Comtois",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13d",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Vollkomm",
+          "role": "Gerichtsbeamter",
+          "fullName": "Adolf Vollkomm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Türsteher",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024acc9",
+          "additional": "1800-1873",
+          "firstName": "Carl Ferdinand",
+          "lastName": "Mittell",
+          "role": "Diener",
+          "fullName": "Carl Ferdinand Mittell"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1843/1843-12-01.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66269e788325f47547a418df",
+      "uid": "baefa2d3-a903-45c3-ade9-237c54fb43f5",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die unsichtbare Beschützerin",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1843-12-12T10:55:00.000Z",
+      "season": "1843/1844",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Herzog von Anjou",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a519",
+          "additional": "1819-1895, verehel. Koberwein",
+          "firstName": "Auguste",
+          "lastName": "Anschütz",
+          "role": "Charlotte von Merian",
+          "fullName": "Auguste Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Louise Mauclair",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Roger",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b18f",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Weber",
+          "role": "Graf von Harcourt",
+          "fullName": "Karl Weber"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Comtois",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13d",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Vollkomm",
+          "role": "Gerichtsbeamter",
+          "fullName": "Adolf Vollkomm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Türsteher",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024acc9",
+          "additional": "1800-1873",
+          "firstName": "Carl Ferdinand",
+          "lastName": "Mittell",
+          "role": "Diener",
+          "fullName": "Carl Ferdinand Mittell"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1843/1843-12-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6626b7748325f47547d26e4d",
+      "uid": "b0f159e7-4b38-47c5-8538-957ae17fdf20",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die unsichtbare Beschützerin",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1844-02-09T10:55:00.000Z",
+      "season": "1843/1844",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Herzog von Anjou",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a519",
+          "additional": "1819-1895, verehel. Koberwein",
+          "firstName": "Auguste",
+          "lastName": "Anschütz",
+          "role": "Charlotte von Merian",
+          "fullName": "Auguste Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Louise Mauclair",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Roger",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b18f",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Weber",
+          "role": "Graf von Harcourt",
+          "fullName": "Karl Weber"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Comtois",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13d",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Vollkomm",
+          "role": "Gerichtsbeamter",
+          "fullName": "Adolf Vollkomm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Türsteher",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024acc9",
+          "additional": "1800-1873",
+          "firstName": "Carl Ferdinand",
+          "lastName": "Mittell",
+          "role": "Diener",
+          "fullName": "Carl Ferdinand Mittell"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1844/1844-02-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66276b188325f47547382a57",
+      "uid": "b8563294-e1c4-4b07-a3a9-6c98f9eba1da",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die unsichtbare Beschützerin",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1844-09-28T10:55:00.000Z",
+      "season": "1844/1845",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Herzog von Anjou",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024aaeb",
+          "additional": "verehel. Fichtner, 1809-1889",
+          "firstName": "Elisabeth (Betty)",
+          "lastName": "Koberwein",
+          "role": "Charlotte von Merian",
+          "fullName": "Elisabeth (Betty) Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad0f",
+          "additional": "1818-1905",
+          "firstName": "Louise",
+          "lastName": "Neumann",
+          "role": "Louise Mauclair",
+          "fullName": "Louise Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Roger",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Comtois",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13d",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Vollkomm",
+          "role": "Gerichtsbeamter",
+          "fullName": "Adolf Vollkomm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51d",
+          "additional": "1797-1855",
+          "firstName": "Eduard",
+          "lastName": "Anschütz",
+          "role": "Türsteher",
+          "fullName": "Eduard Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024acc9",
+          "additional": "1800-1873",
+          "firstName": "Carl Ferdinand",
+          "lastName": "Mittell",
+          "role": "Diener",
+          "fullName": "Carl Ferdinand Mittell"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1844/1844-09-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664390c1e027ead1c1ed4ed8",
+      "uid": "ad459ab5-f848-48e9-8d81-e2869e89930d",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1858-04-27T10:55:00.000Z",
+      "season": "1857/1858",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af53",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Scholz",
+          "role": "Charlotte von Merian",
+          "fullName": "Emilie Scholz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a62f",
+          "additional": "1833-1919",
+          "firstName": "Marie",
+          "lastName": "Bossler (Boßler)",
+          "role": "Louise Mauclair",
+          "fullName": "Marie Bossler (Boßler)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b2cb",
+          "additional": "",
+          "firstName": "Julius",
+          "lastName": "Berstl",
+          "role": "Comtois",
+          "fullName": "Julius Berstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13d",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Vollkomm",
+          "role": "Gerichtsbeamter",
+          "fullName": "Adolf Vollkomm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51d",
+          "additional": "1797-1855",
+          "firstName": "Eduard",
+          "lastName": "Anschütz",
+          "role": "Türsteher",
+          "fullName": "Eduard Anschütz"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1858/1858-04-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664395a3e027ead1c1edb329",
+      "uid": "6f75ff52-4c47-43a8-9e19-93fa71f87a54",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1858-05-02T10:55:00.000Z",
+      "season": "1857/1858",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af53",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Scholz",
+          "role": "Charlotte von Merian",
+          "fullName": "Emilie Scholz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a62f",
+          "additional": "1833-1919",
+          "firstName": "Marie",
+          "lastName": "Bossler (Boßler)",
+          "role": "Louise Mauclair",
+          "fullName": "Marie Bossler (Boßler)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b2cb",
+          "additional": "",
+          "firstName": "Julius",
+          "lastName": "Berstl",
+          "role": "Comtois",
+          "fullName": "Julius Berstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Türsteher",
+          "fullName": "Eduard Werner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1f5",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Willi",
+          "role": "Ein spanischer Offizier",
+          "fullName": "Herr Willi"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1858/1858-05-02.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664357b5e027ead1c1e8b32b",
+      "uid": "50029952-a51e-49a8-989e-d4ece7ce4642",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1858-05-04T12:15:00.000Z",
+      "season": "1857/1858",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af53",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Scholz",
+          "role": "Charlotte von Merian",
+          "fullName": "Emilie Scholz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a62f",
+          "additional": "1833-1919",
+          "firstName": "Marie",
+          "lastName": "Bossler (Boßler)",
+          "role": "Louise Mauclair",
+          "fullName": "Marie Bossler (Boßler)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1f5",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Willi",
+          "role": "Ein spanischer Offizier",
+          "fullName": "Herr Willi"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Türsteher",
+          "fullName": "Eduard Werner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1858/1858-05-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6643590ae027ead1c1e8d065",
+      "uid": "5304f8ed-d46c-489e-bb8c-6e8125f4135b",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1858-05-07T12:15:00.000Z",
+      "season": "1857/1858",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af53",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Scholz",
+          "role": "Charlotte von Merian",
+          "fullName": "Emilie Scholz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a62f",
+          "additional": "1833-1919",
+          "firstName": "Marie",
+          "lastName": "Bossler (Boßler)",
+          "role": "Louise Mauclair",
+          "fullName": "Marie Bossler (Boßler)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1f5",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Willi",
+          "role": "Ein spanischer Offizier",
+          "fullName": "Herr Willi"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Türsteher",
+          "fullName": "Eduard Werner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1858/1858-05-08.jpeg"
+      ],
+      "comment": "Vom 4. – 5. d. M. wurden in diesem k. k. Hoftheater ein Doppel-Perspectiv, drei Lorgnetten, ein Sacktuch und eine Zigarrenpfeife gefunden; die Eigenthümer wollen sich deßhalb an die Theaterkasse wenden. "
+    },
+    {
+      "_id": "6643595de027ead1c1e8d7e4",
+      "uid": "f88e1c73-3b07-4e3e-8203-45a4343f4d8a",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1858-05-11T12:15:00.000Z",
+      "season": "1857/1858",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af53",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Scholz",
+          "role": "Charlotte von Merian",
+          "fullName": "Emilie Scholz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a62f",
+          "additional": "1833-1919",
+          "firstName": "Marie",
+          "lastName": "Bossler (Boßler)",
+          "role": "Louise Mauclair",
+          "fullName": "Marie Bossler (Boßler)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1f5",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Willi",
+          "role": "Ein spanischer Offizier",
+          "fullName": "Herr Willi"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Türsteher",
+          "fullName": "Eduard Werner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1858/1858-05-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66435abce027ead1c1e8f726",
+      "uid": "d2edcff8-78b6-4bda-b222-94325c5078b4",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1858-05-26T12:15:00.000Z",
+      "season": "1857/1858",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af53",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Scholz",
+          "role": "Charlotte von Merian",
+          "fullName": "Emilie Scholz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a62f",
+          "additional": "1833-1919",
+          "firstName": "Marie",
+          "lastName": "Bossler (Boßler)",
+          "role": "Louise Mauclair",
+          "fullName": "Marie Bossler (Boßler)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1f5",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Willi",
+          "role": "Ein spanischer Offizier",
+          "fullName": "Herr Willi"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Türsteher",
+          "fullName": "Eduard Werner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1858/1858-05-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664396c9e027ead1c1edcabe",
+      "uid": "15633bae-30f4-4c52-8baa-356a75f8e3e8",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1858-06-08T10:55:00.000Z",
+      "season": "1857/1858",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af53",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Scholz",
+          "role": "Charlotte von Merian",
+          "fullName": "Emilie Scholz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a62f",
+          "additional": "1833-1919",
+          "firstName": "Marie",
+          "lastName": "Bossler (Boßler)",
+          "role": "Louise Mauclair",
+          "fullName": "Marie Bossler (Boßler)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1f5",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Willi",
+          "role": "Ein spanischer Offizier",
+          "fullName": "Herr Willi"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Türsteher",
+          "fullName": "Eduard Werner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1858/1858-06-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66463dede027ead1c123c594",
+      "uid": "ac5ba6b8-93fc-4f63-a0c2-3c5fc7d46ad3",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1860-01-19T10:55:00.000Z",
+      "season": "1859/1860",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Charlotte von Merian",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a62f",
+          "additional": "1833-1919",
+          "firstName": "Marie",
+          "lastName": "Bossler (Boßler)",
+          "role": "Louise Mauclair",
+          "fullName": "Marie Bossler (Boßler)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1f5",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Willi",
+          "role": "Ein spanischer Offizier",
+          "fullName": "Herr Willi"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Türsteher",
+          "fullName": "Eduard Werner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-01-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664641a5e027ead1c124171e",
+      "uid": "2c87844b-c5d8-408f-a85a-989d227ef361",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1860-01-26T10:55:00.000Z",
+      "season": "1859/1860",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Charlotte von Merian",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a62f",
+          "additional": "1833-1919",
+          "firstName": "Marie",
+          "lastName": "Bossler (Boßler)",
+          "role": "Louise Mauclair",
+          "fullName": "Marie Bossler (Boßler)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1f5",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Willi",
+          "role": "Spanischer Offizier",
+          "fullName": "Herr Willi"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois Rogers Diener",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Türsteher",
+          "fullName": "Eduard Werner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener bei Charlotte von Merian",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-01-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664647f1e027ead1c124a6ee",
+      "uid": "1f2ae5c8-75a0-430d-8799-ed8c06c6ffe6",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1860-02-09T10:55:00.000Z",
+      "season": "1859/1860",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Charlotte von Merian",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a62f",
+          "additional": "1833-1919",
+          "firstName": "Marie",
+          "lastName": "Bossler (Boßler)",
+          "role": "Louise Mauclair",
+          "fullName": "Marie Bossler (Boßler)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1f5",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Willi",
+          "role": "Spanischer Offizier",
+          "fullName": "Herr Willi"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Türsteher",
+          "fullName": "Eduard Werner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-02-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664723b0e027ead1c1365d5f",
+      "uid": "52de7907-8248-4c06-a68a-3981a3360623",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1860-11-06T10:36:00.000Z",
+      "season": "1860/1861",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Charlotte von Merian",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a62f",
+          "additional": "1833-1919",
+          "firstName": "Marie",
+          "lastName": "Bossler (Boßler)",
+          "role": "Louise Mauclair",
+          "fullName": "Marie Bossler (Boßler)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Spanischer Offizier",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Türsteher",
+          "fullName": "Eduard Werner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1860/1860-11-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6649c96de027ead1c16cf9c9",
+      "uid": "1e16ef44-7c33-4a6f-9b8d-3462bc56d099",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1863-02-11T10:55:00.000Z",
+      "season": "1862/1863",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024adbf",
+          "additional": "1780-1863",
+          "firstName": "Carl",
+          "lastName": "Pistor",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Pistor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Fräulein Charlotte",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab62",
+          "additional": "auch Edelsheim-Gyulai",
+          "firstName": "Friederike",
+          "lastName": "Kronau",
+          "role": "Fräulein Louise",
+          "fullName": "Friederike Kronau"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Französische Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Spanischer Offizier",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Barko",
+          "role": "Türsteher",
+          "fullName": "Herr Barko"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1863/1863-02-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6649c536e027ead1c16c9792",
+      "uid": "11620170-e8eb-4a01-b2b9-811394e71911",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1863-05-30T10:55:00.000Z",
+      "season": "1862/1863",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Herzog von Anjou",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Herkules Dubouloy",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Graf von Harcourt",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Charlotte von Merian",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab62",
+          "additional": "auch Edelsheim-Gyulai",
+          "firstName": "Friederike",
+          "lastName": "Kronau",
+          "role": "Louise Mauclair",
+          "fullName": "Friederike Kronau"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Spanischer Offizier",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Barko",
+          "role": "Türsteher",
+          "fullName": "Herr Barko"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1863/1863-05-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664e2cfee027ead1c1c8e1f3",
+      "uid": "c84a01fd-6c77-44a5-9ef2-af52b2da37f9",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-02-19T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Graf von Harcourt",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Charlotte von Merian",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Louise Mauclair",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "Türsteher",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-02-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664e360de027ead1c1c9a3b4",
+      "uid": "7e09945f-522b-4b7c-b2b7-69e56953e940",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-03-04T11:07:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Graf von Harcourt",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Charlotte von Merian",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Louise Mauclair",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Französischer Offizier",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "Türsteher",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-03-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664e4f51e027ead1c1cbb930",
+      "uid": "e9abc258-6a32-4031-83bb-09ce8751f658",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-03-31T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Graf von Harcourt",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Charlotte von Merian",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Louise Mauclair",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois, Diener",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "Türsteher",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-03-31.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664dc865e027ead1c1c0c13b",
+      "uid": "c47639e1-1528-4184-a62c-5ff5f67f4b6d",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-06-08T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Graf von Harcourt",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Charlotte von Merian",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Louise Mauclair",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Ein spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "Türsteher",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-06-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666dc712cd334071f724d58a",
+      "uid": "3ea5d481-f80f-417d-a90d-5fce0ffc6dba",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Stadt-Theater in Baden",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-09-05T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "664f3dd12ab4d9095fc6fa40",
+          "firstName": "Herr",
+          "lastName": "Klobuschitzky",
+          "additional": "",
+          "role": "Graf von Harcourt",
+          "fullName": "Herr Klobuschitzky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Charlotte von Merian",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Louise Mauclair",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Gerichtsbeamter",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Spanischer Offizier",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "673fb76bada7feeef6e48a67",
+          "firstName": "Herr",
+          "lastName": "Calliano",
+          "additional": "",
+          "role": "Comtois, Diener",
+          "fullName": "Herr Calliano"
+        },
+        {
+          "_id": "673fb6e8ada7feeef6e48a22",
+          "firstName": "Herr",
+          "lastName": "Colas",
+          "additional": "",
+          "role": "Türsteher",
+          "fullName": "Herr Colas"
+        },
+        {
+          "_id": "6746fa9794d290b9cf4dc103",
+          "firstName": "Herr",
+          "lastName": "Hanno",
+          "additional": "",
+          "role": "Diener",
+          "fullName": "Herr Hanno"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-09-05.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-09-05_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664e6dade027ead1c1ce5028",
+      "uid": "e364d57b-f904-45e2-a31f-c988b3c616d9",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-10-07T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Graf von Harcourt",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Charlotte von Merian",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Louise Mauclair",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois, Diener",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "Türsteher",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-10-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f5833e027ead1c1e12461",
+      "uid": "e221b070-8717-4946-8bb8-864770883a00",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-12-15T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Graf von Harcourt",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Charlotte von Merian",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Louise Mauclair",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois, Diener",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "Türsteher",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-12-15.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-12-15_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f208be027ead1c1dc696c",
+      "uid": "a9ac3879-6773-4a1e-97f8-8927773c2c12",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-05-08T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Graf von Harcourt",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Charlotte von Merian",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Louise Mauclair",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Ein spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a93c",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Hanker",
+          "role": "Türsteher",
+          "fullName": "Franz Hanker"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-05-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f9ebbe027ead1c1e706de",
+      "uid": "e60b91fc-5fa4-4c0e-82f0-d6badd8cd8d2",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-09-29T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Graf von Harcourt",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Charlotte von Merian",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Louise Mauclair",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Comtois, Diener",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a666",
+          "additional": "1809-1873",
+          "firstName": "Josef",
+          "lastName": "Buel",
+          "role": "Türsteher",
+          "fullName": "Josef Buel"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-09-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6656e2f14e119021474e5934",
+      "uid": "38a1464c-7815-4304-969d-f84db39af4e4",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-10-31T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Charlotte von Merian",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Louise Mauclair",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac02",
+          "additional": "1793-1816",
+          "firstName": "August",
+          "lastName": "Lippert",
+          "role": "Comtois, Diener",
+          "fullName": "August Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a93c",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Hanker",
+          "role": "Türsteher",
+          "fullName": "Franz Hanker"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-10-31.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66574a9c4e1190214756a2b3",
+      "uid": "a4f60689-cee4-4704-b27e-d320f15f8b7d",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-11-14T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Charlotte von Merian",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Louise Mauclair",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac02",
+          "additional": "1793-1816",
+          "firstName": "August",
+          "lastName": "Lippert",
+          "role": "Comtois, Diener",
+          "fullName": "August Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a93c",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Hanker",
+          "role": "Türsteher",
+          "fullName": "Franz Hanker"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-11-14.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-11-14_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665726204e11902147539b87",
+      "uid": "39ed95ad-975b-4b62-834f-8b440428c045",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-11-24T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Charlotte von Merian",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Louise Mauclair",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac02",
+          "additional": "1793-1816",
+          "firstName": "August",
+          "lastName": "Lippert",
+          "role": "Comtois, Diener",
+          "fullName": "August Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a93c",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Hanker",
+          "role": "Türsteher",
+          "fullName": "Franz Hanker"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-11-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66574cc24e1190214756d4af",
+      "uid": "17097eb4-bd84-429f-83c3-3282450b35c5",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-12-30T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Herkules Dubouloy",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "Graf von Harcourt",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d4",
+          "additional": "geb. Baudius, 1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Wilbrandt",
+          "role": "Charlotte von Merian",
+          "fullName": "Auguste Wilbrandt"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Louise Mauclair",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac02",
+          "additional": "1793-1816",
+          "firstName": "August",
+          "lastName": "Lippert",
+          "role": "Comtois, Diener",
+          "fullName": "August Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Türsteher",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-12-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658b3bb4e11902147738f38",
+      "uid": "bad7e79b-9317-4555-8f40-6842b8cd4aa2",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-01-18T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Herkules Dubouloy",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Graf von Harcourt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Charlotte von Merian",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Louise Mauclair",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Comtois, Diener",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Türsteher",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658b8604e1190214773f647",
+      "uid": "fd8ed28e-53dc-4c5a-944f-c5af5c3ceb91",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-01-29T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Herkules Dubouloy",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Graf von Harcourt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Charlotte von Merian",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Louise Mauclair",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Comtois, Diener",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Türsteher",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c1624e1190214774b8d1",
+      "uid": "dddcad3d-f310-4b03-bc15-b5181b87d200",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-03-03T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Roger",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Herkules Dubouloy",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Graf von Harcourt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Charlotte von Merian",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Louise Mauclair",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Ein spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Comtois",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Türsteher",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658cac74e1190214775957f",
+      "uid": "77883df4-92b0-4296-be52-24dd37b27ed7",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-04-16T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Herkules Dubouloy",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Graf von Harcourt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Charlotte von Merian",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Louise Mauclair",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Comtois, Diener",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Türsteher",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-04-16.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-04-16_00000002.jpg"
+      ],
+      "comment": "\"Wegen Unpäßlichkeit der Frau Wolter statt \"Macbeth\""
+    },
+    {
+      "_id": "6658cc084e1190214775b537",
+      "uid": "43021031-4653-4785-bec8-253f96121e10",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-05-19T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Herkules Dubouloy",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Graf von Harcourt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Charlotte von Merian",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Louise Mauclair",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Comtois, Diener",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Türsteher",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66597c6b4e11902147835479",
+      "uid": "2ee5e93d-c90e-4a79-b747-8ebf456a6120",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-09-15T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Roger",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Herkules Dubouloy",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Graf von Harcourt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Charlotte von Merian",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Louise Mauclair",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Ein spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Comtois",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Türsteher",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-09-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6659ff384e119021478db412",
+      "uid": "68b6d781-2669-46e4-a1c3-33894c11e91d",
+      "productionId": "35fc5ed5-2a51-4616-b1e6-11a332d34283",
+      "title": "Die Fräulein von St. Cyr",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-04-24T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Herzog von Anjou",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Roger, Graf von St. Herem",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Herkules Dubouloy",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Graf von Harcourt",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Charlotte von Merian",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Louise Mauclair",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Gerichtsbeamter",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Spanischer Offizier",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Comtois, Diener",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Türsteher",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "65425b5e0080658502aaf108",
+          "firstName": "Heinrich",
+          "lastName": "Börnstein",
+          "additional": "",
+          "fullName": "Heinrich Börnstein",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6a1",
+          "additional": "",
+          "firstName": "Alexandre Vater",
+          "lastName": "Dumas",
+          "fullName": "Alexandre Vater Dumas"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-04-24.jpeg"
+      ],
+      "comment": "Wegen Unpässlichkeit des Fräuleins Heese statt: Der Bibliothekar"
+    }
+  ]
+}

@@ -1,0 +1,2412 @@
+{
+  "_id": "6658c8ea4e11902147756577",
+  "uid": "7c0b3ab8-07b9-4924-9ef2-a4fae273920b",
+  "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+  "title": "Der Hofball",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-04-23T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ab3d",
+      "additional": "1839-1908",
+      "firstName": "Friedrich",
+      "lastName": "Krastel",
+      "role": "Friedrich Schiller",
+      "fullName": "Friedrich Krastel"
+    },
+    {
+      "_id": "655c21f60080658502c8967e",
+      "firstName": "Louisabeth",
+      "lastName": "Röckel",
+      "additional": "verehel. Mathes; 1841-1913",
+      "role": "Seine Frau",
+      "fullName": "Louisabeth Röckel"
+    },
+    {
+      "_id": "6504166ba47588ad6024a5b7",
+      "additional": "",
+      "firstName": "Regina",
+      "lastName": "Berg",
+      "role": "Carl",
+      "fullName": "Regina Berg"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa80",
+      "additional": "1876-1948",
+      "firstName": "Anna",
+      "lastName": "Kallina",
+      "role": "Ernst",
+      "fullName": "Anna Kallina"
+    },
+    {
+      "_id": "6504166ba47588ad6024af08",
+      "additional": "",
+      "firstName": "Charlotte",
+      "lastName": "Scheffel (Schöffel)",
+      "role": "Caroline",
+      "fullName": "Charlotte Scheffel (Schöffel)"
+    },
+    {
+      "_id": "6504166ba47588ad6024a941",
+      "additional": "1833-1892",
+      "firstName": "Konrad",
+      "lastName": "Hallenstein",
+      "role": "Andreas",
+      "fullName": "Konrad Hallenstein"
+    },
+    {
+      "_id": "6504166ba47588ad6024a969",
+      "additional": "geb. Schneeberger, 1843-1898",
+      "firstName": "Helene",
+      "lastName": "Hartmann",
+      "role": "Bärbel",
+      "fullName": "Helene Hartmann"
+    }
+  ],
+  "crew": [],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b7e8",
+      "additional": "",
+      "firstName": "Eduard",
+      "lastName": "Mautner",
+      "fullName": "Eduard Mautner"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-04-23.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a54d3ced60fbe1bf3e6",
+      "uid": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "27",
+      "date": "1870-05-19T12:00:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Seine Frau",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Carl",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abeb",
+          "additional": "1867",
+          "firstName": "Karoline",
+          "lastName": "Link",
+          "role": "Ernst",
+          "fullName": "Karoline Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Caroline",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Andreas",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0301.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-05-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6650b3274e11902147d0566b",
+      "uid": "df7661fe-68cb-423d-a954-aaf952d0d1d2",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-05-20T11:07:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Seine Frau",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Carl",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abeb",
+          "additional": "1867",
+          "firstName": "Karoline",
+          "lastName": "Link",
+          "role": "Ernst",
+          "fullName": "Karoline Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Caroline",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Andreas",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-05-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6650c9554e11902147d212ca",
+      "uid": "18899115-3797-44bc-8354-dd741647a100",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-05-23T11:07:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Seine Frau",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Carl",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abeb",
+          "additional": "1867",
+          "firstName": "Karoline",
+          "lastName": "Link",
+          "role": "Ernst",
+          "fullName": "Karoline Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Caroline",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Andreas",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-05-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6650c9c04e11902147d21c01",
+      "uid": "e410d90a-ecdb-452d-b5a0-4728ea336325",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-06-02T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Seine Frau",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abe9",
+          "additional": "1868-1873, Kinderrollen",
+          "firstName": "Fanny",
+          "lastName": "Link",
+          "role": "Carl",
+          "fullName": "Fanny Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Ernst",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Caroline",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Andreas",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-06-02.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-06-02_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6650e1bd4e11902147d403bf",
+      "uid": "6964c26b-92ad-4ee5-ba73-371e88969ff1",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-06-24T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Seine Frau",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abe9",
+          "additional": "1868-1873, Kinderrollen",
+          "firstName": "Fanny",
+          "lastName": "Link",
+          "role": "Carl",
+          "fullName": "Fanny Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Ernst",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Caroline",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Andreas",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-06-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6650ee774e11902147d50f0e",
+      "uid": "5f96244d-c30f-464d-bb91-029418709894",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-09-09T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Seine Frau",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abe9",
+          "additional": "1868-1873, Kinderrollen",
+          "firstName": "Fanny",
+          "lastName": "Link",
+          "role": "Carl",
+          "fullName": "Fanny Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Ernst",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Caroline",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Andreas",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-09-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651f8f94e11902147e9db58",
+      "uid": "3191de8a-1dce-408f-908b-5d8f12c452b2",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-04-28T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Seine Frau",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abe9",
+          "additional": "1868-1873, Kinderrollen",
+          "firstName": "Fanny",
+          "lastName": "Link",
+          "role": "Carl",
+          "fullName": "Fanny Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Ernst",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Caroline",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Andreas",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-04-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66533f214e119021470336b5",
+      "uid": "457b01b6-6b89-41e7-845f-687a326f40fd",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1872-02-21T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Seine Frau",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abe9",
+          "additional": "1868-1873, Kinderrollen",
+          "firstName": "Fanny",
+          "lastName": "Link",
+          "role": "Carl",
+          "fullName": "Fanny Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Ernst",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Caroline",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Andreas",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-02-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665391284e1190214709d86a",
+      "uid": "d7d3fef8-e9f7-4762-931f-f34da920919c",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-05-27T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Seine Frau",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "665391322ab4d9095f3345de",
+          "firstName": "Emilie",
+          "lastName": "Barbolani",
+          "additional": "",
+          "role": "Carl",
+          "fullName": "Emilie Barbolani"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Ernst",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Caroline",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Andreas",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-05-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66558b7d4e1190214732a435",
+      "uid": "27eab30d-9417-41e2-8251-0e824533981e",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-03-16T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Seine Frau",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "665391322ab4d9095f3345de",
+          "firstName": "Emilie",
+          "lastName": "Barbolani",
+          "additional": "",
+          "role": "Carl",
+          "fullName": "Emilie Barbolani"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Ernst",
+          "fullName": "Henriette Spiller"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Caroline",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Andreas",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-03-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c8ea4e11902147756577",
+      "uid": "7c0b3ab8-07b9-4924-9ef2-a4fae273920b",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-04-23T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Carl",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Ernst",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Caroline",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-04-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658e7ed4e119021477805f4",
+      "uid": "4e765118-a688-4e3e-8d38-4cbf33596545",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-05-13T11:07:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Carl, deren Kind",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6658e08ef11595c123536a51",
+          "firstName": "Anna",
+          "lastName": "Kalina",
+          "additional": "",
+          "role": "Ernst, deren Kind",
+          "fullName": "Anna Kalina"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Caroline",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665986774e11902147842364",
+      "uid": "1a662a5c-d412-4818-8451-8fed6c49ddb6",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-10-31T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Carl, deren Kind",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6658e08ef11595c123536a51",
+          "firstName": "Anna",
+          "lastName": "Kalina",
+          "additional": "",
+          "role": "Ernst, deren Kind",
+          "fullName": "Anna Kalina"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Caroline",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-10-31.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a0c684e119021478ece3b",
+      "uid": "dc317449-cf6d-4de0-bfbe-8b4a308942e6",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-06-19T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Carl, deren Kind",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6658e08ef11595c123536a51",
+          "firstName": "Anna",
+          "lastName": "Kalina",
+          "additional": "",
+          "role": "Ernst, deren Kind",
+          "fullName": "Anna Kalina"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Caroline",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-06-19.jpeg"
+      ],
+      "comment": "Wegen Unpässlichkeit des Herrn Mitterwurzer statt: Die Frau ohne Geist"
+    },
+    {
+      "_id": "665b54124e11902147a85ea9",
+      "uid": "e6575080-cc34-430d-afc7-178b059059b2",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-09-21T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Carl, deren Kind",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6658e08ef11595c123536a51",
+          "firstName": "Anna",
+          "lastName": "Kalina",
+          "additional": "",
+          "role": "Ernst, deren Kind",
+          "fullName": "Anna Kalina"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Caroline",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-09-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c4c004e11902147bb3b8e",
+      "uid": "a7a84e22-e662-4634-aa49-9ef38a291e85",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-12-21T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Carl, deren Kind",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Ernst, deren Kind",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Caroline",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-12-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665d71ad4e11902147d23081",
+      "uid": "0a25e588-386e-4ef4-8ba0-62c0677d8a52",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-12-28T10:55:00.000Z",
+      "season": "1882/1883",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5b7",
+          "additional": "",
+          "firstName": "Regina",
+          "lastName": "Berg",
+          "role": "Carl, deren Kind",
+          "fullName": "Regina Berg"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Ernst, deren Kind",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Caroline",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-12-28.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665ded254e11902147dcc0e6",
+      "uid": "7057cdd2-61eb-4b51-befe-089a8aeee2f7",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1884-02-11T11:07:00.000Z",
+      "season": "1883/1884",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Carl, deren Kind",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024af4a",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Schöffel",
+          "role": "Ernst, deren Kind",
+          "fullName": "Charlotte Schöffel"
+        },
+        {
+          "_id": "665df53df11595c123632b18",
+          "firstName": "Pawlikowsky",
+          "lastName": "Julie",
+          "additional": "",
+          "role": "Karoline, deren Kind",
+          "fullName": "Pawlikowsky Julie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-02-11.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665df6c94e11902147dd94a9",
+      "uid": "9c264eb0-0132-4bc4-a4ee-5416a6fd34e4",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1884-03-27T11:07:00.000Z",
+      "season": "1883/1884",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Carl, deren Kind",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024af4a",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Schöffel",
+          "role": "Ernst, deren Kind",
+          "fullName": "Charlotte Schöffel"
+        },
+        {
+          "_id": "665df53df11595c123632b18",
+          "firstName": "Pawlikowsky",
+          "lastName": "Julie",
+          "additional": "",
+          "role": "Karoline, deren Kind",
+          "fullName": "Pawlikowsky Julie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-03-27.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665eef714e11902147f0fe4d",
+      "uid": "2ecd41b6-50ea-4b46-a711-ed3d1e83d637",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1885-01-21T10:55:00.000Z",
+      "season": "1884/1885",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Carl, deren Kind",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024af4a",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Schöffel",
+          "role": "Ernst, deren Kind",
+          "fullName": "Charlotte Schöffel"
+        },
+        {
+          "_id": "665df53df11595c123632b18",
+          "firstName": "Pawlikowsky",
+          "lastName": "Julie",
+          "additional": "",
+          "role": "Karoline, deren Kind",
+          "fullName": "Pawlikowsky Julie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1885/1885-01-21.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665eff234e11902147f25199",
+      "uid": "52f13364-fa5f-4021-92ae-01721a4a7c86",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1885-10-14T10:55:00.000Z",
+      "season": "1885/1886",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Carl, deren Kind",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Ernst, deren Kind",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024af07",
+          "additional": "",
+          "firstName": "Anna",
+          "lastName": "Scheffel",
+          "role": "Karoline, deren Kind",
+          "fullName": "Anna Scheffel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1885/1885-10-14.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666034364e119021470ac472",
+      "uid": "fd7bc7f2-9cdc-4660-a85c-682ac7d790a6",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-04-15T10:55:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af08",
+          "additional": "",
+          "firstName": "Charlotte",
+          "lastName": "Scheffel (Schöffel)",
+          "role": "Carl, deren Kind",
+          "fullName": "Charlotte Scheffel (Schöffel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Ernst, deren Kind",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5bf",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Bella",
+          "role": "Karoline, deren Kind",
+          "fullName": "Emilie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-04-15.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6663f63acd334071f75f7adc",
+      "uid": "0be87209-8209-4654-a202-cc4be56cf95d",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-12-20T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c1",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Bella",
+          "role": "Carl, deren Kind",
+          "fullName": "Marie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Ernst, deren Kind",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5bf",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Bella",
+          "role": "Karoline, deren Kind",
+          "fullName": "Emilie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Fanny Walbeck"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-12-20.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6661b05a4e1190214728a8e2",
+      "uid": "a3fc510f-2866-4ad6-926a-31c3f0a81cd1",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1888-06-09T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c1",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Bella",
+          "role": "Carl, deren Kind",
+          "fullName": "Marie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Ernst, deren Kind",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5bf",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Bella",
+          "role": "Karoline, deren Kind",
+          "fullName": "Emilie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1888/1888-06-09.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6662a1e0cd334071f744e0d3",
+      "uid": "079cdcda-fd9a-4e3e-ab50-bacfc41e127b",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1888-09-29T10:55:00.000Z",
+      "season": "1888/1889",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c1",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Bella",
+          "role": "Carl, deren Kind",
+          "fullName": "Marie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Ernst, deren Kind",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5bf",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Bella",
+          "role": "Karoline, deren Kind",
+          "fullName": "Emilie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1888/1888-09-29.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6662cdc7cd334071f7489889",
+      "uid": "b53562c3-2f6a-4558-b18e-f2116605ed96",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1889-01-09T10:55:00.000Z",
+      "season": "1888/1889",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c1",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Bella",
+          "role": "Carl, deren Kind",
+          "fullName": "Marie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5bf",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Bella",
+          "role": "Ernst, deren Kind",
+          "fullName": "Emilie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b9",
+          "additional": "Kinderrollen",
+          "firstName": "Alexandrine",
+          "lastName": "Herzog",
+          "role": "Karoline, deren Kind",
+          "fullName": "Alexandrine Herzog"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1889/1889-01-09.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666d3139cd334071f7190058",
+      "uid": "9ad43443-d69a-440e-988d-6ba5cce393d4",
+      "productionId": "29517c13-ccac-465d-90aa-a68e60c36ab9",
+      "title": "Der Hofball",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1889-02-28T10:55:00.000Z",
+      "season": "1888/1889",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Friedrich Schiller",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Charlotte, geborne von Lengefeld, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c1",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Bella",
+          "role": "Carl, deren Kind",
+          "fullName": "Marie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5bf",
+          "additional": "",
+          "firstName": "Emilie",
+          "lastName": "Bella",
+          "role": "Ernst, deren Kind",
+          "fullName": "Emilie Bella"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b9",
+          "additional": "Kinderrollen",
+          "firstName": "Alexandrine",
+          "lastName": "Herzog",
+          "role": "Karoline, deren Kind",
+          "fullName": "Alexandrine Herzog"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Andreas Streicher, Klaviermacher aus Wien",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a969",
+          "additional": "geb. Schneeberger, 1843-1898",
+          "firstName": "Helene",
+          "lastName": "Hartmann",
+          "role": "Bärbel, Magd in Schillers Hause",
+          "fullName": "Helene Hartmann"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b7e8",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Mautner",
+          "fullName": "Eduard Mautner"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1889/1889-02-28.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

@@ -1,0 +1,2397 @@
+{
+  "_id": "6658bfe44e11902147749717",
+  "uid": "e2ebc26f-9106-4c0e-a070-87d9dbc2370c",
+  "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+  "title": "Die Sirene",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-02-17T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ae68",
+      "additional": "1826-1881",
+      "firstName": "Theodor",
+      "lastName": "Reusche",
+      "role": "Präsident von Waltersdorf",
+      "fullName": "Theodor Reusche"
+    },
+    {
+      "_id": "6504166ba47588ad6024b07e",
+      "additional": "1825-1892",
+      "firstName": "Marie",
+      "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+      "role": "Präsidentin",
+      "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+    },
+    {
+      "_id": "6504166ba47588ad6024acd4",
+      "additional": "1848-1909",
+      "firstName": "Wilhelmine",
+      "lastName": "Mitterwurzer",
+      "role": "Hedwig, beider Tochter",
+      "fullName": "Wilhelmine Mitterwurzer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6f7",
+      "additional": "geb. Würzburg, 1835-1892",
+      "firstName": "Zerline",
+      "lastName": "Gabillon",
+      "role": "Generalin von Wallsee",
+      "fullName": "Zerline Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024b8b0",
+      "additional": "1834-1909",
+      "firstName": "Adolf",
+      "lastName": "Sonnenthal",
+      "role": "Friedrich von Eggenburg",
+      "fullName": "Adolf Sonnenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab6a",
+      "additional": "1818-1886",
+      "firstName": "Cesarine",
+      "lastName": "Kupfer-Gomansky",
+      "role": "Frln. Toni, seine Tante",
+      "fullName": "Cesarine Kupfer-Gomansky"
+    },
+    {
+      "_id": "6504166ba47588ad6024a95e",
+      "additional": "1844-1911",
+      "firstName": "Ernst",
+      "lastName": "Hartmann",
+      "role": "Karl von Rechtern",
+      "fullName": "Ernst Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a675",
+      "additional": "auch Jeanne",
+      "firstName": "Johanna",
+      "lastName": "Buska",
+      "role": "Elise Jung",
+      "fullName": "Johanna Buska"
+    },
+    {
+      "_id": "6504166ba47588ad6024a86e",
+      "additional": "1825-1896",
+      "firstName": "Ludwig",
+      "lastName": "Gabillon",
+      "role": "Saftgrün",
+      "fullName": "Ludwig Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Lothar",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "Franz",
+      "fullName": "Friedrich Wilhelm Bayer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b153",
+      "additional": "Hofschauspielerin, verehel. Goschalla",
+      "firstName": "Rosa",
+      "lastName": "Wagner",
+      "role": "Josephine",
+      "fullName": "Rosa Wagner"
+    }
+  ],
+  "crew": [],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b80b",
+      "additional": "",
+      "firstName": "Salomon Hermann von",
+      "lastName": "Mosenthal",
+      "fullName": "Salomon Hermann von Mosenthal"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-02-17.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a65d3ced60fbe1c3571",
+      "uid": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "18",
+      "date": "1874-02-11T12:00:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0310.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-02-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665440054e11902147175e09",
+      "uid": "7b6985d4-a6a0-4418-94ff-36d15756ba7f",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-02-12T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-02-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654416d4e119021471781b2",
+      "uid": "8ab26ac9-0fdc-475c-a670-d6fcd9eee2fd",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-02-16T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-02-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665442d94e1190214717a6d8",
+      "uid": "492675ea-c09b-4a87-a181-8cb712cfa89a",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-02-19T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-02-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665447e14e1190214718226d",
+      "uid": "82c7bc6c-cd8d-4d2b-b3c2-af483617dba6",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-02-24T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-02-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665448e04e11902147183b18",
+      "uid": "ba1c47f5-1e8b-4378-8158-799ad1d759fb",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-02-27T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-02-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66544a944e119021471865fc",
+      "uid": "f272916f-dc90-4bad-bfbd-b73c8abb6201",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-03-06T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-03-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66544ce14e1190214718a056",
+      "uid": "10a92bd9-ca88-48c1-bb64-25d0d20723bb",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-03-11T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-03-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66544ede4e1190214718d4ea",
+      "uid": "d67c0034-522d-4f11-937a-9e5b540c47ad",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-03-16T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-03-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66545e544e119021471a3e30",
+      "uid": "c9a6c679-bc3d-42e7-a8a5-15dcde94f35f",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-04-13T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-04-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66546c374e119021471b7557",
+      "uid": "de03a666-4716-4f62-875c-838de8a14daa",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-04-28T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-04-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654ef5c4e119021472676d3",
+      "uid": "c0c5686d-e631-4abd-8588-a90d1dc79cb0",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-10-06T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-10-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654f4024e1190214726def7",
+      "uid": "ecd50536-8c64-45b9-9c01-cc61d2b7f846",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-10-22T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-10-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655111e4e11902147293f92",
+      "uid": "8f631645-1ffa-4d87-8eaf-8f7ca9290c20",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-01-04T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Präsidentin",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Seine Tante",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-01-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665619b44e119021473eb7b3",
+      "uid": "b0398213-f16a-42e7-9f3c-76e57ff2e4c4",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-11-18T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Präsidentin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin von Wallsee",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frln. Toni, seine Tante",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-11-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665867194e119021476cd87a",
+      "uid": "9151a9a5-41d5-42fd-b3c7-5c4e5a4d6893",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-03-23T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Präsidentin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin von Wallsee",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frln. Toni, seine Tante",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-03-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658bfe44e11902147749717",
+      "uid": "e2ebc26f-9106-4c0e-a070-87d9dbc2370c",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-02-17T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Präsidentin",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Generalin von Wallsee",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Frln. Toni, seine Tante",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-02-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658d8224e1190214776b21a",
+      "uid": "d67fde0b-a2fc-49fa-baa8-c7ed79ca813c",
+      "productionId": "3c57f1cc-4798-4a03-af96-369f04fd4e32",
+      "title": "Die Sirene",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-04-25T11:07:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Präsident von Waltersdorf",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Die Präsidentin, seine Frau",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd4",
+          "additional": "1848-1909",
+          "firstName": "Wilhelmine",
+          "lastName": "Mitterwurzer",
+          "role": "Hedwig, beider Tochter",
+          "fullName": "Wilhelmine Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Die Generalin von Wallsee, Witwe",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Friedrich von Eggenburg",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Fräulein Toni, seine Tante",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Karl von Rechtern, sein Freund",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a675",
+          "additional": "auch Jeanne",
+          "firstName": "Johanna",
+          "lastName": "Buska",
+          "role": "Elise Jung, Gesellschafterin der Generalin",
+          "fullName": "Johanna Buska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Saftgrün, Redakteur der \"Wespe\"",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Lothar, ein Schauspieler",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Franz, Diener bei Waltersdorf",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Josephine, Stubenmädchen der Generalin",
+          "fullName": "Rosa Wagner"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b80b",
+          "additional": "",
+          "firstName": "Salomon Hermann von",
+          "lastName": "Mosenthal",
+          "fullName": "Salomon Hermann von Mosenthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-04-25.jpeg"
+      ],
+      "comment": ""
+    }
+  ]
+}

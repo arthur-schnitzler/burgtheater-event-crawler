@@ -1,0 +1,4291 @@
+{
+  "_id": "6658b2324e1190214773675e",
+  "uid": "ba04b349-0801-4412-a904-ad72f3072b89",
+  "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+  "title": "Der arme Marquis",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-01-02T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Marquis von La Fresnaie",
+      "fullName": "Josef Lewinsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9ee",
+      "additional": "1857-1920",
+      "firstName": "Stella",
+      "lastName": "Hohenfels",
+      "role": "Madelaine, seine Tochter",
+      "fullName": "Stella Hohenfels"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac98",
+      "additional": "1815-1888, Hofschauspieler",
+      "firstName": "Carl Wilhelm",
+      "lastName": "Meixner",
+      "role": "Rigaud, Banquier",
+      "fullName": "Carl Wilhelm Meixner"
+    },
+    {
+      "_id": "6504166ba47588ad6024b041",
+      "additional": "1843-1913",
+      "firstName": "Philipp",
+      "lastName": "Stätter",
+      "role": "George, sein Sohn",
+      "fullName": "Philipp Stätter"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6f7",
+      "additional": "geb. Würzburg, 1835-1892",
+      "firstName": "Zerline",
+      "lastName": "Gabillon",
+      "role": "Frau Godard",
+      "fullName": "Zerline Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024a849",
+      "additional": "1842-1908",
+      "firstName": "Leo",
+      "lastName": "Friedrich",
+      "role": "Duperron, Juwelier",
+      "fullName": "Leo Friedrich"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0e0",
+      "additional": "1854-1944",
+      "firstName": "Hugo",
+      "lastName": "Thimig",
+      "role": "Nikolas, Bauernknecht",
+      "fullName": "Hugo Thimig"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Fargeau, alter Diener",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "6561eeb70080658502cf2eea",
+      "firstName": "Friedrich",
+      "lastName": "Rüden",
+      "additional": "1836-1900",
+      "role": "Célestin, Diener der Frau Godard",
+      "fullName": "Friedrich Rüden"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "Diener",
+      "fullName": "Friedrich Wilhelm Bayer"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b2ba",
+      "additional": "Pseud. f. Marie Gordon",
+      "firstName": "Alexander",
+      "lastName": "Bergen",
+      "fullName": "Alexander Bergen",
+      "role": "Deutsch"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b354",
+      "additional": "",
+      "firstName": "Philippe François Pinel",
+      "lastName": "Dumanoir",
+      "fullName": "Philippe François Pinel Dumanoir"
+    },
+    {
+      "_id": "6504166ba47588ad6024b45e",
+      "additional": "",
+      "firstName": "Paul Constantin",
+      "lastName": "Lafargue",
+      "fullName": "Paul Constantin Lafargue"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-02.jpeg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-02_00000002.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a27d3ced60fbe1b4503",
+      "uid": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "30",
+      "date": "1861-11-04T12:00:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0277.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-04.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-04_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66487a2ee027ead1c151cc8a",
+      "uid": "21a781b6-8c07-4605-a397-322abf3847f7",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-11-05T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66487af0e027ead1c151dd44",
+      "uid": "2646119b-1318-455a-8fd4-50544d9c8bcc",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-11-08T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66487bfae027ead1c151f59a",
+      "uid": "e0c97469-a3d6-4716-b8af-2de59fa0bb77",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-11-13T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66487d52e027ead1c15214c2",
+      "uid": "3b07fb9a-1448-4c04-b869-c67c9ed187e3",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-11-18T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66487e2ae027ead1c1522784",
+      "uid": "5d8912ac-7a49-4277-bda1-9a33f7cf811e",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-11-21T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664883d1e027ead1c1529d33",
+      "uid": "cdafd330-8f95-41b4-ba52-afd266fa1d31",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-11-21T11:07:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66487edce027ead1c1523660",
+      "uid": "95ac50f9-fe2e-454d-b14c-790198f41f4f",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-11-26T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66487fcbe027ead1c1524af5",
+      "uid": "5898f73d-737c-4f28-9b38-ba47b8863d8f",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-11-29T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-11-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664885e2e027ead1c152cc7b",
+      "uid": "7cf1f6b9-d5cc-4129-a958-d3758780bcb8",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-12-06T11:07:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-12-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664885c2e027ead1c152ca28",
+      "uid": "fe38a66c-a5aa-45a0-a863-c99323ed8a0e",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-12-06T11:07:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-12-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6648879ee027ead1c152f4b4",
+      "uid": "eb3836de-c6c9-4aca-a402-715655b30628",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-12-11T11:07:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-12-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664888aae027ead1c1530d5d",
+      "uid": "567efc46-2b98-45b5-bff7-c733e1c2edbf",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-12-16T11:07:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-12-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6648896de027ead1c15320bd",
+      "uid": "ef831ab4-b718-4294-b20d-74f6f9aa4574",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-12-21T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-12-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664889b6e027ead1c153280a",
+      "uid": "492635c8-3c2e-4715-a664-24b398b5428b",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1861-12-28T11:07:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1861/1861-12-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6648a97ee027ead1c15612b6",
+      "uid": "ceae6569-c019-4590-9c06-a62fa03696c1",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1862-03-14T11:07:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1862/1862-03-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664894c3e027ead1c1542dae",
+      "uid": "dedbe053-b6f7-4f57-a8f3-981ef5590575",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1862-05-02T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1862/1862-05-02.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66489f86e027ead1c15528e3",
+      "uid": "edaf8182-90fc-4a1b-b089-010d27466a80",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1862-05-23T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1862/1862-05-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6648a770e027ead1c155e1c7",
+      "uid": "7449757d-7e8c-47c6-9eb0-4e7f5f8ef350",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1862-06-14T10:55:00.000Z",
+      "season": "1861/1862",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1862/1862-06-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6648dfdce027ead1c15a58bb",
+      "uid": "ecb0eb89-20cc-4d93-aae8-c0825c30894e",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1862-09-01T10:55:00.000Z",
+      "season": "1862/1863",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "65bbf1df4cfe378558818ef7",
+          "firstName": "",
+          "lastName": "_____",
+          "additional": "",
+          "role": "Celestin",
+          "fullName": " _____"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ba",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Werner",
+          "role": "Diener",
+          "fullName": "Eduard Werner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1862/1862-09-01.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6649a93fe027ead1c16a2cdd",
+      "uid": "44e4fceb-2ab0-4fd6-8cad-0697b824d657",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1862-12-11T10:55:00.000Z",
+      "season": "1862/1863",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Barko",
+          "role": "Diener",
+          "fullName": "Herr Barko"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1862/1862-12-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6649bf4ae027ead1c16c106a",
+      "uid": "a4fdcf3c-3f51-4260-a5ec-b4148829de3e",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1863-05-15T10:55:00.000Z",
+      "season": "1862/1863",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Barko",
+          "role": "Diener",
+          "fullName": "Herr Barko"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1863/1863-05-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6649f184e027ead1c170463b",
+      "uid": "95660b55-0d98-4529-88d2-fac21e31a7b2",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1863-08-22T10:55:00.000Z",
+      "season": "1862/1863",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a7eb",
+          "additional": "1805-1873",
+          "firstName": "Carl Albrecht",
+          "lastName": "Fichtner",
+          "role": "Marquis von la Fresnaie",
+          "fullName": "Carl Albrecht Fichtner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Celestin",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56a",
+          "additional": "",
+          "firstName": "Herr",
+          "lastName": "Barko",
+          "role": "Diener",
+          "fullName": "Herr Barko"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1863/1863-08-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664c8b86e027ead1c1a5d46b",
+      "uid": "0e70c13b-e381-445a-ac60-70ca35558307",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-10-12T11:07:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Marquis von la Fresnaie",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine, seine Tochter",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud, Bankier",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George, sein Sohn",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron, Juwelier",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas, ein Bauernknecht",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau, ein alter Diener",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Célestin, Diener der Frau Godard",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c6",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Berger",
+          "role": "Ein Diener",
+          "fullName": "Alois Berger"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-10-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664c921ee027ead1c1a66e4e",
+      "uid": "b609429b-9436-4629-9236-d4e965b5323f",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-10-25T11:07:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Marquis von La Fresnaie",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine, seine Tochter",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud, Bankier",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George, sein Sohn",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron, Juwelier",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas, ein Bauernknecht",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau, ein alter Diener",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Célestin, Diener der Frau Godard",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c6",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Berger",
+          "role": "Ein Diener",
+          "fullName": "Alois Berger"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-10-25.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-10-25_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664c9b1ee027ead1c1a73901",
+      "uid": "90f34208-082b-43ee-91dd-6266bb17bba3",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1865-11-13T11:07:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Marquis von la Fresnaie",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine, seine Tochter",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud, Bankier",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George, sein Sohn",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron, Juwelier",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas, ein Bauernknecht",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau, ein alter Diener",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Célestin, Diener der Frau Godard",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c6",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Berger",
+          "role": "Ein Diener",
+          "fullName": "Alois Berger"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1865/1865-11-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664d3b7de027ead1c1b4a272",
+      "uid": "1ef1e475-87c4-48f1-9695-dd34bd09da23",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-06-19T11:07:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Marquis von la Fresnaie",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine, seine Tochter",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud, Bankier",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George, sein Sohn",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Frau Godard",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron, Juwelier",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas, ein Bauernknecht",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fargeau, ein alter Diener",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Célestin, Diener der Frau Godard",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c6",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Berger",
+          "role": "Ein Diener",
+          "fullName": "Alois Berger"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-06-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664dbf87e027ead1c1bff6df",
+      "uid": "70c7af3a-602f-424c-abdd-4c9e6e1d61d5",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-05-14T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Marquis von la Fresnaie",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Madelaine, seine Tochter",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud, Bankier",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "George, sein Sohn",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a995",
+          "additional": "geb. Enghaus (1815-1910)",
+          "firstName": "Christine",
+          "lastName": "Hebbel",
+          "role": "Frau Godard",
+          "fullName": "Christine Hebbel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Duperron, Juwelier",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas, ein Bauernknecht",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau, ein alter Diener",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13a",
+          "additional": "1807-1876",
+          "firstName": "Johann Baptist",
+          "lastName": "Verstl",
+          "role": "Célestin, Diener der Frau Godard",
+          "fullName": "Johann Baptist Verstl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5c6",
+          "additional": "",
+          "firstName": "Alois",
+          "lastName": "Berger",
+          "role": "Ein Diener",
+          "fullName": "Alois Berger"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-05-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665755a74e119021475795c5",
+      "uid": "809774c3-758a-4a87-82e3-4de218175ef1",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-03-09T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Marquis von la Fresnaie",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Madelaine, seine Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud, Bankier",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "George, sein Sohn",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Frau Godard",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Duperron, Juwelier",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Nikolas, ein Bauernknecht",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fargeau, ein alter Diener",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "Célestin, Diener der Frau Godard",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Ein Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-03-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66576d714e11902147596b4f",
+      "uid": "3876da19-2ba4-4981-8462-77b3b34d1c8b",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-04-04T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Marquis von la Fresnaie",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Madelaine, seine Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud, Bankier",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "George, sein Sohn",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Frau Godard",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Duperron, Juwelier",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Nikolas, ein Bauernknecht",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Fargeau, ein alter Diener",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "Célestin, Diener der Frau Godard",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Ein Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-04-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665790c04e119021475c44e8",
+      "uid": "e2ae3332-79ac-4231-8c9d-122fdeb97b5a",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-05-26T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Marquis von la Fresnaie",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Madelaine, seine Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud, Bankier",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "George, sein Sohn",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Frau Godard",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Duperron, Juwelier",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Nikolas, ein Bauernknecht",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fargeau, ein alter Diener",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "Célestin, Diener der Frau Godard",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Ein Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-05-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66588d9d4e11902147701f5e",
+      "uid": "48067704-c1b8-451f-8836-a696e294c356",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-05-17T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Der Marquis von la Fresnaie",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Madelaine, seine Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud, Bankier",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "George, sein Sohn",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Frau Godard",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Duperron, Juwelier",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Nikolas, ein Bauernknecht",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fargeau, ein alter Diener",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "Célestin, Diener der Frau Godard",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Ein Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-05-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658b2324e1190214773675e",
+      "uid": "ba04b349-0801-4412-a904-ad72f3072b89",
+      "productionId": "8a8354ac-6787-45da-b297-caf8e8425d0c",
+      "title": "Der arme Marquis",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-01-02T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Marquis von La Fresnaie",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Madelaine, seine Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Rigaud, Banquier",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "George, sein Sohn",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Frau Godard",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Duperron, Juwelier",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Nikolas, Bauernknecht",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Fargeau, alter Diener",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Célestin, Diener der Frau Godard",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Diener",
+          "fullName": "Friedrich Wilhelm Bayer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2ba",
+          "additional": "Pseud. f. Marie Gordon",
+          "firstName": "Alexander",
+          "lastName": "Bergen",
+          "fullName": "Alexander Bergen",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b354",
+          "additional": "",
+          "firstName": "Philippe François Pinel",
+          "lastName": "Dumanoir",
+          "fullName": "Philippe François Pinel Dumanoir"
+        },
+        {
+          "_id": "6504166ba47588ad6024b45e",
+          "additional": "",
+          "firstName": "Paul Constantin",
+          "lastName": "Lafargue",
+          "fullName": "Paul Constantin Lafargue"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-02.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-02_00000002.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

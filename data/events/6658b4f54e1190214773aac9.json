@@ -1,0 +1,5941 @@
+{
+  "_id": "6658b4f54e1190214773aac9",
+  "uid": "e5e5dc13-4df3-4465-bff8-087299cfdc38",
+  "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+  "title": "Nathan der Weise",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-01-23T11:07:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024acd3",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Mitterwurzer",
+      "role": "Sultan Saladin",
+      "fullName": "Friedrich Mitterwurzer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6f7",
+      "additional": "geb. Würzburg, 1835-1892",
+      "firstName": "Zerline",
+      "lastName": "Gabillon",
+      "role": "Sittah, dessen Schwester",
+      "fullName": "Zerline Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Nathan, ein reicher Jude in Jerusalem",
+      "fullName": "Josef Lewinsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024b163",
+      "additional": "1850-1919",
+      "firstName": "Fanny",
+      "lastName": "Walbeck",
+      "role": "Recha, dessen Tochter",
+      "fullName": "Fanny Walbeck"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab6a",
+      "additional": "1818-1886",
+      "firstName": "Cesarine",
+      "lastName": "Kupfer-Gomansky",
+      "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+      "fullName": "Cesarine Kupfer-Gomansky"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab3d",
+      "additional": "1839-1908",
+      "firstName": "Friedrich",
+      "lastName": "Krastel",
+      "role": "Ein junger Tempelherr",
+      "fullName": "Friedrich Krastel"
+    },
+    {
+      "_id": "6504166ba47588ad6024a86e",
+      "additional": "1825-1896",
+      "firstName": "Ludwig",
+      "lastName": "Gabillon",
+      "role": "Ein Derwisch",
+      "fullName": "Ludwig Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Ein Patriarch von Jerusalem",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae68",
+      "additional": "1826-1881",
+      "firstName": "Theodor",
+      "lastName": "Reusche",
+      "role": "Ein Klosterbruder",
+      "fullName": "Theodor Reusche"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa43",
+      "additional": "1822-1892",
+      "firstName": "Matthias",
+      "lastName": "Jehly",
+      "role": "Ein Sklave",
+      "fullName": "Matthias Jehly"
+    },
+    {
+      "_id": "65bbf1df4cfe378558818ef7",
+      "firstName": "",
+      "lastName": "_____",
+      "additional": "",
+      "role": "Gefolge des Patriarchen, Eine Sklavin, Sklaven",
+      "fullName": " _____"
+    }
+  ],
+  "crew": [],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b47d",
+      "additional": "",
+      "firstName": "Gotthold Ephraim",
+      "lastName": "Lessing",
+      "fullName": "Gotthold Ephraim Lessing"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-23.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a3ed3ced60fbe1b9b14",
+      "uid": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Neueinstudierung",
+      "count": "52",
+      "date": "1866-01-22T12:00:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Sultan Saladin",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0289.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1866/1866-01-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664cb78be027ead1c1a9b247",
+      "uid": "bf37459a-1c00-4536-97e6-f022264fe243",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1866-02-21T11:07:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Sultan Saladin",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1866/1866-02-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664c6512e027ead1c1a28aa7",
+      "uid": "12c7fcb5-e56c-4792-b622-3504280f4331",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1866-04-22T10:55:00.000Z",
+      "season": "1865/1866",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Saladin",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Sittah",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Nathan",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Patriarch",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1866/1866-04-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664cc653e027ead1c1aaf958",
+      "uid": "f48ea548-483e-4683-8a0a-54286a68b1fb",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1866-09-17T10:55:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Saladin",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Sittah",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Patriarch",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1866/1866-09-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664d0733e027ead1c1b053a5",
+      "uid": "3e3e1dc1-8338-48e7-9e31-223cd25152c8",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-01-22T10:55:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Saladin",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Sittah",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Nathan",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Patriarch",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-01-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664dd047e027ead1c1c16e0d",
+      "uid": "92afafd4-9a66-40b7-8de5-c7254ae85b12",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-01-22T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Saladin",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Sittah",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Patriarch",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-01-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664e43c5e027ead1c1cac284",
+      "uid": "c4ed9282-63fd-4762-b256-f7854dcc842e",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-03-23T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b147",
+          "additional": "1818-1870",
+          "firstName": "Josef",
+          "lastName": "Wagner",
+          "role": "Sultan Saladin",
+          "fullName": "Josef Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a90f",
+          "additional": "als Gast",
+          "firstName": "Dr. Carl",
+          "lastName": "Grunert",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Dr. Carl Grunert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-03-23.jpeg"
+      ],
+      "comment": "Die Scene ist in Jerusalem.\n\"Nathan\"... Hr. Dr. Grunert, Regisseur des kön. Hoftheaters in Stuttgart, als Gast."
+    },
+    {
+      "_id": "664f6092e027ead1c1e1e569",
+      "uid": "611570db-9d57-4550-88ab-5adc007725f0",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-01-22T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Sultan Saladin",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-01-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f2f89e027ead1c1ddb30d",
+      "uid": "f8844d6d-0bdc-4ae8-8ff7-2a480ac3f936",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-05-26T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Sultan Saladin",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad60",
+          "additional": "Gast aus Braunschweig",
+          "firstName": "Franz",
+          "lastName": "Otter",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Franz Otter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-05-26.jpeg"
+      ],
+      "comment": "Hr. Otter, vom herzoglichen Hoftheater in Braunschweig, \"Nathan\", als Gast."
+    },
+    {
+      "_id": "66504e1ae027ead1c1f51a24",
+      "uid": "4069b49d-702e-472e-bdd0-1d4948be0973",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-01-21T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Sultan Saladin",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-01-21.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66509031e027ead1c1fa6ee6",
+      "uid": "89509615-155d-4604-a652-6921545afa50",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-04-24T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Sultan Saladin",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-04-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651d68a4e11902147e6de14",
+      "uid": "a9e826e2-328f-4533-80e5-2d195f34f145",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-01-25T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Sultan Saladin",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-01-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651f5db4e11902147e9977d",
+      "uid": "4a8a599d-6cb7-4603-a72c-1e053b5132c1",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-04-15T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Sultan Saladin",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-04-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665243174e11902147efeec1",
+      "uid": "464e4a8c-36ce-4e6c-8e1a-1a4100df7ad1",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-11-22T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Sultan Saladin",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Friederike Bognár"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae59",
+          "additional": "1805-1878",
+          "firstName": "Karl",
+          "lastName": "Rettich",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Karl Rettich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-11-22.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-11-22_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651f1ae4e11902147e93454",
+      "uid": "eac71bab-df42-4c1a-94f4-786278d75ae7",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-01-22T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Sultan Saladin",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ein Derwisch",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-01-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654654d4e119021471ad665",
+      "uid": "9086089d-ecc6-4a47-83a6-a92b68292b80",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-07-12T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-07-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665432464e1190214716183d",
+      "uid": "aea61fab-f349-4c60-8fcc-07cbfde4c1af",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-01-01T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-01-01.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665431a84e11902147160a13",
+      "uid": "c66e0df3-4f41-4801-9121-0d6dbc0c2d24",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-04-06T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Sultan Saladin",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Ein Derwisch",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-04-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654f6eb4e1190214727232d",
+      "uid": "ca908728-bd2e-4156-82c2-29de8aba64a1",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-11-07T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-11-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665580d44e1190214731c1b1",
+      "uid": "7b741376-cac0-4b6f-98ae-73622a5d663f",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-02-15T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Sultan Saladin",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a931",
+          "additional": "1800-1884",
+          "firstName": "Amalie",
+          "lastName": "Haizinger-Neumann",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Amalie Haizinger-Neumann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ein Derwisch",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-02-15.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-02-15_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665606244e119021473d058f",
+      "uid": "018bbaee-6747-4172-a2e8-efa277bec472",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-09-18T11:07:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-09-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66562ab84e11902147402739",
+      "uid": "8fedc4b6-06e9-47c0-8f1a-4684f9b65d22",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-01-01T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-01-01.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-01-01_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655e2c94e1190214739fd24",
+      "uid": "5e48141c-02bb-4c23-bb88-1b3a77a54608",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-02-07T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-02-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6657333f4e1190214754b00b",
+      "uid": "1d0b2b3f-8fc6-4de3-9158-bf152e2c0d17",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-01-01T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9f",
+          "additional": "1794-1884",
+          "firstName": "Carl",
+          "lastName": "La Roche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl La Roche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-01-01.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665842c54e1190214769d079",
+      "uid": "684ceaa9-363c-457c-b822-707540994523",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-09-01T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "65bbf1df4cfe378558818ef7",
+          "firstName": "",
+          "lastName": "_____",
+          "additional": "",
+          "role": "Gefolge des Patriarchen, Eine Sklavin, Sklaven",
+          "fullName": " _____"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-09-01.jpeg"
+      ],
+      "comment": "Die Szene ist in Jerusalem."
+    },
+    {
+      "_id": "66589d814e11902147716f0a",
+      "uid": "266947c7-3eeb-42d5-84e8-b5e33d169796",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-09-01T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "65bbf1df4cfe378558818ef7",
+          "firstName": "",
+          "lastName": "_____",
+          "additional": "",
+          "role": "Gefolge des Patriarchen, Eine Sklavin, Sklaven",
+          "fullName": " _____"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-09-01.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658b4f54e1190214773aac9",
+      "uid": "e5e5dc13-4df3-4465-bff8-087299cfdc38",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-01-23T11:07:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Ein Klosterbruder",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "65bbf1df4cfe378558818ef7",
+          "firstName": "",
+          "lastName": "_____",
+          "additional": "",
+          "role": "Gefolge des Patriarchen, Eine Sklavin, Sklaven",
+          "fullName": " _____"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-01-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658e87a4e119021477812c5",
+      "uid": "96477667-e7fd-4b1b-a9e1-42135600bb9a",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-09-05T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-09-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6659dea54e119021478b1725",
+      "uid": "54329e68-5a9f-4566-85b4-11af344d2e17",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-01-22T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-01-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6659cffd4e1190214789f755",
+      "uid": "282757f9-4442-4afd-b757-7bb6caea7e74",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-02-16T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Sultan Saladin",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab6a",
+          "additional": "1818-1886",
+          "firstName": "Cesarine",
+          "lastName": "Kupfer-Gomansky",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Cesarine Kupfer-Gomansky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-02-16.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-02-16_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a3f704e1190214792ebdc",
+      "uid": "b7ba4d37-40e0-4f30-88ca-a11ad5ea32e0",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-11-20T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aacd",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Klein",
+          "role": "Sultan Saladin",
+          "fullName": "Adolf Klein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-11-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665ac6c84e119021479d3d5b",
+      "uid": "ef188f36-761c-48fc-a1ee-e6732f7f350d",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-02-15T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024aacd",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Klein",
+          "role": "Sultan Saladin",
+          "fullName": "Adolf Klein"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Fanny Walbeck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Ein Klosterbruder",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Ein Sklave",
+          "fullName": "Matthias Jehly"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-02-15.jpeg"
+      ],
+      "comment": "Zu Lessings Gedächtnisfeier (gest. 15.2.1781) Theaterrede von Sigmund Schlesinger, gesprochen von Herrn Hartmann"
+    },
+    {
+      "_id": "665db7b54e11902147d85544",
+      "uid": "d88145dd-c0b6-456f-831c-95200772b748",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1884-04-04T10:55:00.000Z",
+      "season": "1883/1884",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Ein Sklave",
+          "fullName": "Eduard Dürer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-04-04.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665ebd7c4e11902147ecc5bb",
+      "uid": "a6911b1d-4cc8-45af-9c38-c3a525745d31",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1884-12-06T10:55:00.000Z",
+      "season": "1884/1885",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Ein Sklave",
+          "fullName": "Eduard Dürer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1884/1884-12-06.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665ef87d4e11902147f1c310",
+      "uid": "5d721961-b809-4dda-bf23-efeb1a8c013f",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1885-10-03T10:55:00.000Z",
+      "season": "1885/1886",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6565e4350080658502ec7b6c",
+          "firstName": "Marie",
+          "lastName": "Rübsam",
+          "additional": "",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Marie Rübsam"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Ein Sklave",
+          "fullName": "Eduard Dürer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1885/1885-10-03.jpg"
+      ],
+      "comment": "\"Recha\" - - - - - Frl. Rübsam als Antrittsrolle."
+    },
+    {
+      "_id": "665f1ba14e11902147f4a500",
+      "uid": "6059727f-0c23-4471-a5e3-44eb9d27637f",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1885-11-22T10:55:00.000Z",
+      "season": "1885/1886",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Ein Sklave",
+          "fullName": "Eduard Dürer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1885/1885-11-22.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66618c4a4e1190214725833f",
+      "uid": "1bfb63e5-a015-4e24-9baa-c516e1473411",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-02-11T11:07:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Ein Sklave",
+          "fullName": "Eduard Dürer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-02-11.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66619c054e1190214726e306",
+      "uid": "7553cbc9-8c69-4a95-82c3-83bff3e70aa9",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-03-14T10:55:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Louisabeth Röckel"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Ein Sklave",
+          "fullName": "Eduard Dürer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-03-14.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666038484e119021470b1ef4",
+      "uid": "cae9e56e-ca79-4350-aae7-c95287b314bc",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-04-29T10:55:00.000Z",
+      "season": "1886/1887",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Ein Sklave",
+          "fullName": "Eduard Dürer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-04-29.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6662d4e5cd334071f749362c",
+      "uid": "3c608678-812d-49ec-84dd-e6fb65cf72d9",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1888-01-21T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Ein Sklave",
+          "fullName": "Eduard Dürer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1888/1888-01-21.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "666196094e11902147265c29",
+      "uid": "b15fb057-b205-450e-bf25-987468f409d7",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1888-03-08T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Ein Sklave",
+          "fullName": "Eduard Dürer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1888/1888-03-08.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6662e080cd334071f74a3906",
+      "uid": "84e3ffaa-9405-4276-ad60-a1b129f187bc",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1888-10-10T10:55:00.000Z",
+      "season": "1888/1889",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Ein Sklave",
+          "fullName": "Eduard Dürer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1888/1888-10-10.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6662e45ecd334071f74a8e69",
+      "uid": "f20aac15-575e-41bd-b193-f71b0a300f26",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1889-01-22T10:55:00.000Z",
+      "season": "1888/1889",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Ein Sklave",
+          "fullName": "Eduard Dürer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1889/1889-01-22.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6663fe75cd334071f760325f",
+      "uid": "39537c75-9d94-4b7d-af71-e2c3d3d3993d",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1889-02-11T10:55:00.000Z",
+      "season": "1888/1889",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6f7",
+          "additional": "geb. Würzburg, 1835-1892",
+          "firstName": "Zerline",
+          "lastName": "Gabillon",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Zerline Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9acd",
+          "additional": "",
+          "firstName": "Eduard",
+          "lastName": "Dürer",
+          "role": "Ein Sklave",
+          "fullName": "Eduard Dürer"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1889/1889-02-11.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6664ba5fcd334071f76ead78",
+      "uid": "7b0cb121-4637-485e-bf04-f3dd9b2f0d86",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1889-09-06T10:55:00.000Z",
+      "season": "1889/1890",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b26",
+          "additional": "1856-1912",
+          "firstName": "Konrad",
+          "lastName": "Löwe",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Löwe"
+        },
+        {
+          "_id": "6504166ba47588ad6024abca",
+          "additional": "geb. Precheisen, 1853-1935",
+          "firstName": "Olga",
+          "lastName": "Lewinsky",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Olga Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a520",
+          "additional": "1861-1941",
+          "firstName": "Ernst",
+          "lastName": "Arndt",
+          "role": "Ein Derwisch",
+          "fullName": "Ernst Arndt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Ein Sklave",
+          "fullName": "Josef Wiesner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a657",
+          "additional": "",
+          "firstName": "Antonio",
+          "lastName": "Brioschi",
+          "fullName": "Antonio Brioschi",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1889/1889-09-06.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6665df46cd334071f7850656",
+      "uid": "623c784d-ce67-47de-a40e-d9b7077276c3",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1890-01-01T11:07:00.000Z",
+      "season": "1889/1890",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b26",
+          "additional": "1856-1912",
+          "firstName": "Konrad",
+          "lastName": "Löwe",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Löwe"
+        },
+        {
+          "_id": "6504166ba47588ad6024abca",
+          "additional": "geb. Precheisen, 1853-1935",
+          "firstName": "Olga",
+          "lastName": "Lewinsky",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Olga Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Ein Sklave",
+          "fullName": "Josef Wiesner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a657",
+          "additional": "",
+          "firstName": "Antonio",
+          "lastName": "Brioschi",
+          "fullName": "Antonio Brioschi",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1890/1890-01-01.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66662038cd334071f78a56ae",
+      "uid": "ecd76565-f7f8-4bb0-9190-ecdadf4b9f65",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1890-07-11T10:55:00.000Z",
+      "season": "1889/1890",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b26",
+          "additional": "1856-1912",
+          "firstName": "Konrad",
+          "lastName": "Löwe",
+          "role": "Sultan Saladin",
+          "fullName": "Konrad Löwe"
+        },
+        {
+          "_id": "6504166ba47588ad6024abca",
+          "additional": "geb. Precheisen, 1853-1935",
+          "firstName": "Olga",
+          "lastName": "Lewinsky",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Olga Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b17d",
+          "additional": "",
+          "firstName": "Wilhelm",
+          "lastName": "Wassermann",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Wilhelm Wassermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a570",
+          "additional": "1858-1939",
+          "firstName": "Agathe",
+          "lastName": "Barsescu",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Agathe Barsescu"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ab5",
+          "additional": "1860-1899",
+          "firstName": "Hermann",
+          "lastName": "Müller",
+          "role": "Ein Derwisch",
+          "fullName": "Hermann Müller"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Ein Sklave",
+          "fullName": "Josef Wiesner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a657",
+          "additional": "",
+          "firstName": "Antonio",
+          "lastName": "Brioschi",
+          "fullName": "Antonio Brioschi",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1890/1890-07-11.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6666ef30cd334071f79aab39",
+      "uid": "eab6f3cd-305f-44fe-9173-990dd7bba5cc",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1892-01-19T11:07:00.000Z",
+      "season": "1891/1892",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Sultan Saladin",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abca",
+          "additional": "geb. Precheisen, 1853-1935",
+          "firstName": "Olga",
+          "lastName": "Lewinsky",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Olga Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a963",
+          "additional": "",
+          "firstName": "Sophie",
+          "lastName": "Hassan",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Sophie Hassan"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ab5",
+          "additional": "1860-1899",
+          "firstName": "Hermann",
+          "lastName": "Müller",
+          "role": "Ein Derwisch",
+          "fullName": "Hermann Müller"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Ein Sklave",
+          "fullName": "Josef Wiesner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a657",
+          "additional": "",
+          "firstName": "Antonio",
+          "lastName": "Brioschi",
+          "fullName": "Antonio Brioschi",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1892/1892-01-19.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66670f75cd334071f79d5723",
+      "uid": "d224cb9b-ee97-45c2-a3ce-183b2ca9816a",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1892-04-24T11:07:00.000Z",
+      "season": "1891/1892",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Sultan Saladin",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abca",
+          "additional": "geb. Precheisen, 1853-1935",
+          "firstName": "Olga",
+          "lastName": "Lewinsky",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Olga Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a963",
+          "additional": "",
+          "firstName": "Sophie",
+          "lastName": "Hassan",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Sophie Hassan"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ab5",
+          "additional": "1860-1899",
+          "firstName": "Hermann",
+          "lastName": "Müller",
+          "role": "Ein Derwisch",
+          "fullName": "Hermann Müller"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Ein Sklave",
+          "fullName": "Josef Wiesner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a657",
+          "additional": "",
+          "firstName": "Antonio",
+          "lastName": "Brioschi",
+          "fullName": "Antonio Brioschi",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1892/1892-04-24.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6668314ecd334071f7b44dc6",
+      "uid": "3c89844b-2693-4e97-a49f-a42d07c2ddd8",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1892-11-11T11:07:00.000Z",
+      "season": "1892/1893",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Sultan Saladin",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abca",
+          "additional": "geb. Precheisen, 1853-1935",
+          "firstName": "Olga",
+          "lastName": "Lewinsky",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Olga Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a963",
+          "additional": "",
+          "firstName": "Sophie",
+          "lastName": "Hassan",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Sophie Hassan"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Ein Sklave",
+          "fullName": "Josef Wiesner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a657",
+          "additional": "",
+          "firstName": "Antonio",
+          "lastName": "Brioschi",
+          "fullName": "Antonio Brioschi",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1892/1892-11-11.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66689953cd334071f7bc91f2",
+      "uid": "4aa56934-eaab-47ad-8f2d-63f456aad9bf",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1893-02-15T10:55:00.000Z",
+      "season": "1892/1893",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b20d",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Winds",
+          "role": "Sultan Saladin",
+          "fullName": "Adolf Winds"
+        },
+        {
+          "_id": "6504166ba47588ad6024abca",
+          "additional": "geb. Precheisen, 1853-1935",
+          "firstName": "Olga",
+          "lastName": "Lewinsky",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Olga Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a963",
+          "additional": "",
+          "firstName": "Sophie",
+          "lastName": "Hassan",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Sophie Hassan"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Ein Sklave",
+          "fullName": "Josef Wiesner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a657",
+          "additional": "",
+          "firstName": "Antonio",
+          "lastName": "Brioschi",
+          "fullName": "Antonio Brioschi",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1893/1893-02-15.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6669728bcd334071f7cd7536",
+      "uid": "5927d30d-0a1e-4aea-bef8-9d01d1bd0089",
+      "productionId": "1f590eca-70a8-4fc7-94ad-7a7d82bfd4d4",
+      "title": "Nathan der Weise",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1893-12-14T11:00:00.000Z",
+      "season": "1893/1894",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ae87",
+          "additional": "1847-1899",
+          "firstName": "Emmerich",
+          "lastName": "Robert",
+          "role": "Sultan Saladin",
+          "fullName": "Emmerich Robert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abca",
+          "additional": "geb. Precheisen, 1853-1935",
+          "firstName": "Olga",
+          "lastName": "Lewinsky",
+          "role": "Sittah, dessen Schwester",
+          "fullName": "Olga Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Nathan, ein reicher Jude in Jerusalem",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a963",
+          "additional": "",
+          "firstName": "Sophie",
+          "lastName": "Hassan",
+          "role": "Recha, dessen angenommene Tochter",
+          "fullName": "Sophie Hassan"
+        },
+        {
+          "_id": "6504166ba47588ad6024af64",
+          "additional": "1826-1903, Hofschauspielerin, geb. Neumann",
+          "firstName": "Louise",
+          "lastName": "Schönfeld",
+          "role": "Daja, eine Christin, aber in dem Hause Nathans als Gesellschafterin der Recha",
+          "fullName": "Louise Schönfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Ein junger Tempelherr",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ein Derwisch",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Ein Patriarch von Jerusalem",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Ein Klosterbruder",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1ee",
+          "additional": "1878-1932",
+          "firstName": "Josef",
+          "lastName": "Wiesner",
+          "role": "Ein Sklave",
+          "fullName": "Josef Wiesner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a657",
+          "additional": "",
+          "firstName": "Antonio",
+          "lastName": "Brioschi",
+          "fullName": "Antonio Brioschi",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b47d",
+          "additional": "",
+          "firstName": "Gotthold Ephraim",
+          "lastName": "Lessing",
+          "fullName": "Gotthold Ephraim Lessing"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1893/1893-12-14.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

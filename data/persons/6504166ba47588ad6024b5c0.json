@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "_id": "6504166ba47588ad6024b5c0",
+    "name": "Wartenegg Wilhelm von",
+    "pages": [],
+    "book": "64e49435e04f9d5938480a71",
+    "uid": "df06c9ce-bf43-478b-a1b4-08e0f9bc0018",
+    "additional": "",
+    "firstName": "Wilhelm von",
+    "lastName": "Wartenegg"
+  },
+  "data": [
+    {
+      "id": 113180937057,
+      "oid": "65c61a5ad3ced60fbe1c0b61",
+      "category": "Schauspiel",
+      "date": "1871-10-18T12:00:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "premiere": "Premiere",
+      "productionId": "d0dc83d5-59cd-4162-8913-eae585ebc75a",
+      "season": "1871/1872",
+      "subtitle": "",
+      "title": "Maria Stuart in Schottland",
+      "_id": "65c61a5ad3ced60fbe1c0b61",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 241590797392,
+      "oid": "6652383f4e11902147ef0450",
+      "category": "Schauspiel",
+      "date": "1871-10-19T10:55:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "premiere": "",
+      "productionId": "d0dc83d5-59cd-4162-8913-eae585ebc75a",
+      "season": "1871/1872",
+      "subtitle": "",
+      "title": "Maria Stuart in Schottland",
+      "_id": "6652383f4e11902147ef0450",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 246791741244,
+      "oid": "665239754e11902147ef1f3c",
+      "category": "Schauspiel",
+      "date": "1871-10-22T10:55:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "premiere": "",
+      "productionId": "d0dc83d5-59cd-4162-8913-eae585ebc75a",
+      "season": "1871/1872",
+      "subtitle": "",
+      "title": "Maria Stuart in Schottland",
+      "_id": "665239754e11902147ef1f3c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 249459322140,
+      "oid": "66523a144e11902147ef2d1c",
+      "category": "Schauspiel",
+      "date": "1871-10-25T10:55:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "premiere": "",
+      "productionId": "d0dc83d5-59cd-4162-8913-eae585ebc75a",
+      "season": "1871/1872",
+      "subtitle": "",
+      "title": "Maria Stuart in Schottland",
+      "_id": "66523a144e11902147ef2d1c",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 113784945343,
+      "oid": "65c61a7ed3ced60fbe1c7abf",
+      "category": "Schauspiel",
+      "date": "1878-04-29T12:00:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "premiere": "Premiere",
+      "productionId": "1ad62fee-5368-49cf-bbb1-567f0823886f",
+      "season": "1877/1878",
+      "subtitle": "",
+      "title": "Andreas Paumkircher",
+      "_id": "65c61a7ed3ced60fbe1c7abf",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 574291408678,
+      "oid": "665885b64e119021476f7726",
+      "category": "Schauspiel",
+      "date": "1878-04-30T10:55:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "premiere": "",
+      "productionId": "1ad62fee-5368-49cf-bbb1-567f0823886f",
+      "season": "1877/1878",
+      "subtitle": "",
+      "title": "Andreas Paumkircher",
+      "_id": "665885b64e119021476f7726",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "id": 851031958494,
+      "oid": "6658c6254e119021477523de",
+      "category": "Schauspiel",
+      "date": "1879-03-27T10:55:00.000Z",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "premiere": "",
+      "productionId": "1ad62fee-5368-49cf-bbb1-567f0823886f",
+      "season": "1878/1879",
+      "subtitle": "",
+      "title": "Andreas Paumkircher",
+      "_id": "6658c6254e119021477523de",
+      "types": [
+        "author"
+      ],
+      "author": [
+        {
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "seasons": [
+      "1871/1872",
+      "1877/1878",
+      "1878/1879"
+    ]
+  }
+}

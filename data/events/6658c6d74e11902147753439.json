@@ -1,0 +1,5062 @@
+{
+  "_id": "6658c6d74e11902147753439",
+  "uid": "8108e00b-1afb-48fc-a6a0-a59a1503c706",
+  "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+  "title": "Gringoire",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-03-20T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a86e",
+      "additional": "1825-1896",
+      "firstName": "Ludwig",
+      "lastName": "Gabillon",
+      "role": "Ludwig XI.",
+      "fullName": "Ludwig Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Pierre Gringoire",
+      "fullName": "Josef Lewinsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024a51b",
+      "additional": "1844-1910",
+      "firstName": "Josef",
+      "lastName": "Altmann",
+      "role": "Simon",
+      "fullName": "Josef Altmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9ee",
+      "additional": "1857-1920",
+      "firstName": "Stella",
+      "lastName": "Hohenfels",
+      "role": "Loyse",
+      "fullName": "Stella Hohenfels"
+    },
+    {
+      "_id": "6504166ba47588ad6024a849",
+      "additional": "1842-1908",
+      "firstName": "Leo",
+      "lastName": "Friedrich",
+      "role": "Olivier",
+      "fullName": "Leo Friedrich"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab46",
+      "additional": "1837-1918",
+      "firstName": "Anna",
+      "lastName": "Kratz",
+      "role": "Nicole",
+      "fullName": "Anna Kratz"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b82c",
+      "additional": "Pseud. f. Elisabeth Branitz",
+      "firstName": "Betty",
+      "lastName": "Paoli",
+      "fullName": "Betty Paoli",
+      "role": "Deutsch"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b2a6",
+      "additional": "",
+      "firstName": "Theodore Faullain de",
+      "lastName": "Banville",
+      "fullName": "Theodore Faullain de Banville"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-20.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a43d3ced60fbe1baf3e",
+      "uid": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "57",
+      "date": "1867-01-13T12:00:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0292.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-01-13.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664d0507e027ead1c1b022c8",
+      "uid": "a06fd2eb-4874-4965-a881-17d9edbf6196",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-01-14T11:07:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-01-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664d05f7e027ead1c1b0381f",
+      "uid": "4213556e-1681-45f6-8d21-9b7cf83322f7",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-01-17T10:55:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-01-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664d07ade027ead1c1b05ed5",
+      "uid": "246ea6da-4391-4710-9fcc-ccc428c34770",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-01-24T11:07:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-01-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664d0942e027ead1c1b08053",
+      "uid": "31b6a911-5d66-4e28-82a5-49916bbad4a5",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-01-29T10:55:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-01-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664d0c37e027ead1c1b0be16",
+      "uid": "b7df64ac-9d82-4eac-b986-a2dc2ea9f936",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-02-02T10:55:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-02-02.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664d0e14e027ead1c1b0e58e",
+      "uid": "b77d5edd-78f8-4ce2-8b54-e5575caf8c0b",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-02-07T10:55:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-02-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664d19fbe027ead1c1b1e411",
+      "uid": "98eb9a76-3b48-4aa5-ac3f-22ff4384b8ee",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-03-14T11:07:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-03-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664d2a49e027ead1c1b334ce",
+      "uid": "a4b9c6c7-78eb-4a1b-83ef-10ae5abb2bde",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-05-03T11:07:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-05-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664de0ede027ead1c1c2bf09",
+      "uid": "28b95145-660e-4d8b-a7cc-c544d6b3af45",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-06-14T10:55:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-06-14.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-06-14_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664d4279e027ead1c1b53577",
+      "uid": "58b53eb8-1b6b-480e-98eb-d0de3454925b",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-08-23T10:55:00.000Z",
+      "season": "1866/1867",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Loyse",
+          "fullName": "Marie Norneck (Nornek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-08-23.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664d5780e027ead1c1b6e7a6",
+      "uid": "d30ebd73-6299-4d6f-9a80-be5fdfc7217c",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1867-10-08T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1867/1867-10-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664e29cbe027ead1c1c89acb",
+      "uid": "6bbb0761-b156-42c4-bbd2-7121ea442b61",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-02-03T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-02-03.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664e48d5e027ead1c1cb2b82",
+      "uid": "046ac35f-0b5f-4631-8c72-66b7b2394a8d",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-03-28T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-03-28.jpeg"
+      ],
+      "comment": "Schauplatz: Tours. -Zeit der Handlung: 1469."
+    },
+    {
+      "_id": "664db004e027ead1c1bdd382",
+      "uid": "effde075-3e17-491f-b972-b5f16e9b13f7",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-04-17T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-04-17.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-04-17_00000002.jpg"
+      ],
+      "comment": "Wegen plötzlicher Unpässlichkeit des Herrn Baumeister kann die für heute angekündigte Vorstellung \"Die kranken Doktoren\" nicht gegeben werden; dafür:"
+    },
+    {
+      "_id": "664dcdd1e027ead1c1c13600",
+      "uid": "6795f05a-c9b1-4663-92c8-81765d120e8a",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-06-22T10:55:00.000Z",
+      "season": "1867/1868",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-06-22.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f3f67e027ead1c1df116f",
+      "uid": "76897b3c-5424-4891-aa6c-0eeef67da130",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-11-05T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Nicole",
+          "fullName": "Marie Norneck (Nornek)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-11-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f0f83e027ead1c1dafeaf",
+      "uid": "323df883-ad54-4931-988d-c944697f29c5",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-04-14T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Nicole",
+          "fullName": "Marie Norneck (Nornek)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-04-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f424ee027ead1c1df5377",
+      "uid": "325284cc-6dd0-4d2d-b17c-fb50723f2a40",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-08-09T10:55:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Nicole",
+          "fullName": "Marie Norneck (Nornek)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-08-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f9119e027ead1c1e5ee0f",
+      "uid": "992db92f-f21b-40f9-b388-c51f8f03b3be",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-09-15T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Nicole",
+          "fullName": "Marie Norneck (Nornek)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-09-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664fa549e027ead1c1e79b08",
+      "uid": "74db02f8-662d-4aae-8431-17e03f45b5f5",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-10-12T11:07:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon Fourniez, Kaufmann",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Marie Norneck (Nornek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier-le-Daim, Barbier des Königs",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole Andry, Simon Fourniez Schwester",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-10-12.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-10-12_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6650a51ae027ead1c1fc24f2",
+      "uid": "2585bbb7-f8dc-480c-8ce5-dc6d99ee1825",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-02-24T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon Fourniez, Kaufmann",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Marie Norneck (Nornek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ada9",
+          "additional": "1837-1907",
+          "firstName": "Günther",
+          "lastName": "Pettera",
+          "role": "Olivier-le-Daim, Barbier des Königs",
+          "fullName": "Günther Pettera"
+        },
+        {
+          "_id": "6504166ba47588ad6024a626",
+          "additional": "",
+          "firstName": "Friederike",
+          "lastName": "Bognár",
+          "role": "Nicole Andry, Simon Fourniez Schwester",
+          "fullName": "Friederike Bognár"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-02-24.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-02-24_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6650c63f4e11902147d1d496",
+      "uid": "efedb6bc-70c8-4faf-a806-bcaa6b2ca128",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-05-31T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon Fourniez, Kaufmann",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier-le-Daim, Barbier des Königs",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Nicole Andry, Simon Fourniez Schwester",
+          "fullName": "Marie Norneck (Nornek)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-05-31.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6650e97a4e11902147d4a576",
+      "uid": "8b8721b4-b8ee-41bb-9fbc-0b00a6cd35ea",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-08-29T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon Fourniez, Kaufmann",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Marie Norneck (Nornek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier-le-Daim, Barbier des Königs",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole Andry, Simon Fourniez Schwester",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-08-29.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651cdd44e11902147e62449",
+      "uid": "075c3eea-4c70-42b3-9be8-92dcba2d5c7b",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1870-12-21T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon Fourniez, Kaufmann",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Marie Norneck (Nornek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier-le-Daim, Barbier des Königs",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole Andry, Simon Fourniez Schwester",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-12-21.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1870/1870-12-21_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6651ebf24e11902147e8ab75",
+      "uid": "b7dab8ab-6a43-4b7b-b913-55e003c28b0d",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-03-16T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon Fourniez",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Marie Norneck (Nornek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier-le-Daim",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole Andry",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-03-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6652176b4e11902147ec5902",
+      "uid": "d68bfe67-889d-4363-ab46-006696386a21",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-06-15T10:55:00.000Z",
+      "season": "1870/1871",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon Fourniez",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Marie Norneck (Nornek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier-le-Daim",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole Andry",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-06-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665233094e11902147ee8a87",
+      "uid": "b23c7519-7e42-42cd-9456-60ef4e0798c6",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-09-18T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58e",
+          "additional": "1843-1937",
+          "firstName": "Auguste",
+          "lastName": "Baudius",
+          "role": "Loyse",
+          "fullName": "Auguste Baudius"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-09-18.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-09-18_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66524b324e11902147f091f2",
+      "uid": "e0f3729f-3618-4cec-a50b-45e806c58af4",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1871-12-07T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Loyse",
+          "fullName": "Marie Norneck (Nornek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1871/1871-12-07.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665343994e1190214703967c",
+      "uid": "760612fb-7dae-497e-a008-a64be4682ab1",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1872-03-02T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Loyse",
+          "fullName": "Marie Norneck (Nornek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-03-02.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-03-02_00000002.jpg"
+      ],
+      "comment": "\"Wegen Unpäßlichkeit der Frau Hartmann statt Madeleine Morel\""
+    },
+    {
+      "_id": "66538e654e11902147099a3a",
+      "uid": "85f4915f-7101-4c37-b322-f0b522cbe0f1",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1872-08-19T10:55:00.000Z",
+      "season": "1871/1872",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Loyse",
+          "fullName": "Marie Norneck (Nornek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1872/1872-08-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665466c04e119021471af52a",
+      "uid": "1b9c2681-1be5-4312-a5ae-3226eb2bc533",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-07-16T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b15",
+          "additional": "1848-1920",
+          "firstName": "Antonie",
+          "lastName": "Janisch",
+          "role": "Loyse",
+          "fullName": "Antonie Janisch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-07-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665476ea4e119021471c614e",
+      "uid": "7641c476-de9e-49f0-8128-d7eac73a2bd2",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-08-30T10:55:00.000Z",
+      "season": "1872/1873",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8ae",
+          "additional": "",
+          "firstName": "Katharina",
+          "lastName": "Gilbert",
+          "role": "Loyse",
+          "fullName": "Katharina Gilbert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-08-30.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654add74e11902147210715",
+      "uid": "d19a8b0a-8a06-4104-a98a-249462555ff8",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1873-12-17T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1873/1873-12-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665461404e119021471a7ce1",
+      "uid": "126be154-6bc8-4070-95d3-a0af0dc380f0",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-04-16T10:55:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-04-16.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654cf4b4e1190214723bc34",
+      "uid": "cf54a19f-db0e-47c0-80a3-cd16bf75050a",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-06-08T11:07:00.000Z",
+      "season": "1873/1874",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab2",
+          "additional": "1838-1931",
+          "firstName": "Franz",
+          "lastName": "Kierschner",
+          "role": "Olivier",
+          "fullName": "Franz Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-06-08.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-06-08_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6654e3624e11902147257894",
+      "uid": "0878964b-a06e-4373-86f3-472018b8ce7a",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1874-09-10T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon Fourniez",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier-le-Daim",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole Andry",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1874/1874-09-10.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66557c9f4e11902147316911",
+      "uid": "01a34e37-a755-4cf5-8bc3-c9d6b0b9f33f",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-02-04T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon Fourniez",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier-le-Daim",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Nicole Andry",
+          "fullName": "Marie Norneck (Nornek)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-02-04.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-02-04_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665585dd4e119021473229f0",
+      "uid": "2ff604e5-34c2-483c-9524-c4b9f62b6b47",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-02-24T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Simon Fourniez",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier-le-Daim",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad31",
+          "additional": "1840-1903",
+          "firstName": "Marie",
+          "lastName": "Norneck (Nornek)",
+          "role": "Nicole Andry",
+          "fullName": "Marie Norneck (Nornek)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-02-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655b2184e1190214735d86f",
+      "uid": "394f9f78-3c97-4395-b5bb-1cf5e1e4e72a",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-05-15T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6655ad072ab4d9095f0db019",
+          "firstName": "Herr",
+          "lastName": "Dahn",
+          "additional": "vom kaiserlichen Hoftheater in St.Petersburg",
+          "role": "Pierre Gringoire",
+          "fullName": "Herr Dahn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon Fourniez",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier-le-Daim",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole Andry",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-05-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655ccc54e1190214738212e",
+      "uid": "2dfa1fc5-e6d0-4b22-80e5-78178845283c",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-08-24T10:55:00.000Z",
+      "season": "1874/1875",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon Fourniez",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier-le-Daim",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole Andry",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-08-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665624ef4e119021473fa2f8",
+      "uid": "1cffd958-0ebe-49ab-a5b2-709d2c0c8a6d",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1875-12-06T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon Fourniez",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier-le-Daim",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole Andry",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1875/1875-12-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6655f9ee4e119021473beb3d",
+      "uid": "bdc7fd92-42e1-4eee-9d51-36eee4b6b88c",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1876-04-04T10:55:00.000Z",
+      "season": "1875/1876",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI., König von Frankreich",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon Fourniez",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier-le-Daim",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole Andry",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1876/1876-04-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66573d814e11902147558d1f",
+      "uid": "d86f8f3e-215b-4786-9650-5ebf2011cb78",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-01-24T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-01-24.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-01-24_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665774614e1190214759f987",
+      "uid": "60e220e9-19ce-4727-bfd5-59253cfc5b62",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-04-12T11:07:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-04-12.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665868bf4e119021476cfb41",
+      "uid": "04b6497c-901f-46fe-83db-f391923a1913",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-11-14T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-11-14.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66584fb24e119021476aed06",
+      "uid": "5105ca52-e687-4e47-a614-fd038c0beee5",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-03-14T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-03-14.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-03-14_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658adad4e1190214772ec7f",
+      "uid": "3db5f699-93f4-4d35-b3d9-fc7495378984",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-11-09T11:07:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-11-09.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-11-09_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658c6d74e11902147753439",
+      "uid": "8108e00b-1afb-48fc-a6a0-a59a1503c706",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-03-20T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-03-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66598a824e119021478479d5",
+      "uid": "25724480-ca4a-42f7-afba-799a77769a0c",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-09-26T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-09-26.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-09-26_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a2d5e4e11902147917cf6",
+      "uid": "b48228b0-0ce7-4931-b8b6-2c615f547c12",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-10-28T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon Fourniez",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024a849",
+          "additional": "1842-1908",
+          "firstName": "Leo",
+          "lastName": "Friedrich",
+          "role": "Olivier-le-Daim",
+          "fullName": "Leo Friedrich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Nicole Andry",
+          "fullName": "Anna Kratz"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-10-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665ecdac4e11902147ee248f",
+      "uid": "e241b7de-6af3-47c2-9ae9-7e781c65ea13",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1885-04-18T10:55:00.000Z",
+      "season": "1884/1885",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon Fourniez",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Olivier-le-Daim",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Nicole Andry",
+          "fullName": "Fanny Walbeck"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1885/1885-04-18.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665ed5994e11902147eed085",
+      "uid": "ffebbb2a-15a5-46d0-ad7e-9d82b018955b",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1885-05-01T10:55:00.000Z",
+      "season": "1884/1885",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon Fourniez",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Olivier-le-Daim",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Nicole Andry",
+          "fullName": "Fanny Walbeck"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1885/1885-05-01.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665ee37b4e11902147efeffe",
+      "uid": "9292c8fe-9fd4-4629-a2a1-25f4139ce6eb",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1885-06-01T10:55:00.000Z",
+      "season": "1884/1885",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon Fourniez",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9ee",
+          "additional": "1857-1920",
+          "firstName": "Stella",
+          "lastName": "Hohenfels",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Stella Hohenfels"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Olivier-le-Daim",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Nicole Andry",
+          "fullName": "Fanny Walbeck"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1885/1885-06-01.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66618dfa4e1190214725a98c",
+      "uid": "63f0a188-acf5-4aeb-8469-2cc1a2c9bbbc",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-09-10T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon Fourniez",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a821",
+          "additional": "1869-1942",
+          "firstName": "Margarethe",
+          "lastName": "Formes-Königswarter",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Margarethe Formes-Königswarter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Olivier-le-Daim",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f9",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Tondeur",
+          "role": "Nicole Andry",
+          "fullName": "Margarethe Tondeur"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-09-10.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6663173fcd334071f74e8ac9",
+      "uid": "09eafff4-138c-4178-b21f-998bcc8ec31e",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1887-10-17T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon Fourniez",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a821",
+          "additional": "1869-1942",
+          "firstName": "Margarethe",
+          "lastName": "Formes-Königswarter",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Margarethe Formes-Königswarter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Olivier-le-Daim",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f9",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Tondeur",
+          "role": "Nicole Andry",
+          "fullName": "Margarethe Tondeur"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1887/1887-10-17.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6662d8a4cd334071f749898b",
+      "uid": "8a4c69c4-fef9-42af-a288-893a52bfaa91",
+      "productionId": "1d9534e7-27a4-455f-aaef-bd94f0eb4c16",
+      "title": "Gringoire",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1888-03-10T10:55:00.000Z",
+      "season": "1887/1888",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Ludwig XI.",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Pierre Gringoire",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Simon Fourniez",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a821",
+          "additional": "1869-1942",
+          "firstName": "Margarethe",
+          "lastName": "Formes-Königswarter",
+          "role": "Loyse, seine Tochter",
+          "fullName": "Margarethe Formes-Königswarter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b111",
+          "additional": "1848-1929, Hofschauspieler",
+          "firstName": "Dr. Rudolf",
+          "lastName": "Tyrolt",
+          "role": "Olivier-le-Daim",
+          "fullName": "Dr. Rudolf Tyrolt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b163",
+          "additional": "1850-1919",
+          "firstName": "Fanny",
+          "lastName": "Walbeck",
+          "role": "Nicole Andry",
+          "fullName": "Fanny Walbeck"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b82c",
+          "additional": "Pseud. f. Elisabeth Branitz",
+          "firstName": "Betty",
+          "lastName": "Paoli",
+          "fullName": "Betty Paoli",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2a6",
+          "additional": "",
+          "firstName": "Theodore Faullain de",
+          "lastName": "Banville",
+          "fullName": "Theodore Faullain de Banville"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1888/1888-03-10.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

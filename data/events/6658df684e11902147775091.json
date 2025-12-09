@@ -1,0 +1,2041 @@
+{
+  "_id": "6658df684e11902147775091",
+  "uid": "de88bf36-4842-4aa5-8a9b-6dcc775dbfc0",
+  "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+  "title": "König Renés Tochter",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-06-20T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a941",
+      "additional": "1833-1892",
+      "firstName": "Konrad",
+      "lastName": "Hallenstein",
+      "role": "René",
+      "fullName": "Konrad Hallenstein"
+    },
+    {
+      "_id": "6504166ba47588ad6024a983",
+      "additional": "",
+      "firstName": "Klara",
+      "lastName": "Heese",
+      "role": "Jolanthe",
+      "fullName": "Klara Heese"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab3d",
+      "additional": "1839-1908",
+      "firstName": "Friedrich",
+      "lastName": "Krastel",
+      "role": "Tristan",
+      "fullName": "Friedrich Krastel"
+    },
+    {
+      "_id": "6504166ba47588ad6024af69",
+      "additional": "1854-1942, Hofschauspieler",
+      "firstName": "Jakob",
+      "lastName": "Schreiner",
+      "role": "Truffaud",
+      "fullName": "Jakob Schreiner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a51b",
+      "additional": "1844-1910",
+      "firstName": "Josef",
+      "lastName": "Altmann",
+      "role": "Almerich",
+      "fullName": "Josef Altmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Jahia",
+      "fullName": "Josef Lewinsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Bertrand",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "655c21f60080658502c8967e",
+      "firstName": "Louisabeth",
+      "lastName": "Röckel",
+      "additional": "verehel. Mathes; 1841-1913",
+      "role": "Marthe",
+      "fullName": "Louisabeth Röckel"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b2f7",
+      "additional": "",
+      "firstName": "Fr.",
+      "lastName": "Bresemann",
+      "fullName": "Fr. Bresemann",
+      "role": "Deutsch"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b745",
+      "additional": "",
+      "firstName": "Henrik Samuel",
+      "lastName": "Hertz",
+      "fullName": "Henrik Samuel Hertz"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-20.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c619c4d3ced60fbe19c31b",
+      "uid": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "18",
+      "date": "1847-08-25T12:00:00.000Z",
+      "season": "1846/1847",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "René",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Jolanthe",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Tristan",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Truffaud",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Almerich",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Zuhia",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0220.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1847/1847-08-25.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "662aae928325f4754797925b",
+      "uid": "3107506a-ab88-4e18-be82-467f9ad4aa6c",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1847-08-26T10:55:00.000Z",
+      "season": "1846/1847",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "René",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Jolanthe",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Tristan",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Truffaud",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Almerich",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Zuhia",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1847/1847-08-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "662aaf6c8325f4754798f28b",
+      "uid": "709e32d6-d64b-4a21-8442-7d126af0bbe5",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1847-08-28T10:55:00.000Z",
+      "season": "1846/1847",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "René",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Jolanthe",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Tristan",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Truffaud",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Almerich",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Zuhia",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b58e",
+          "additional": "",
+          "firstName": "Eugen von",
+          "lastName": "Stubenrauch",
+          "fullName": "Eugen von Stubenrauch",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024a703",
+          "additional": "siehe Pian",
+          "firstName": "Antonio",
+          "lastName": "de Pian",
+          "fullName": "Antonio de Pian",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1847/1847-08-28.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "662ab0a58325f475479af52f",
+      "uid": "a9df02e4-30ec-4fab-b390-43598bc65c3d",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1847-08-31T10:55:00.000Z",
+      "season": "1846/1847",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "René",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Jolanthe",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Tristan",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Truffaud",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Almerich",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Zuhia",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b58e",
+          "additional": "",
+          "firstName": "Eugen von",
+          "lastName": "Stubenrauch",
+          "fullName": "Eugen von Stubenrauch",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024a703",
+          "additional": "siehe Pian",
+          "firstName": "Antonio",
+          "lastName": "de Pian",
+          "fullName": "Antonio de Pian",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1847/1847-08-31.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "662ab12d8325f475479bc9e2",
+      "uid": "8ff3dba3-42b5-4a92-a014-ad3caed45006",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1847-09-04T10:55:00.000Z",
+      "season": "1847/1848",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "René",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Jolanthe",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Tristan",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Truffaud",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Almerich",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Zuhia",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b58e",
+          "additional": "",
+          "firstName": "Eugen von",
+          "lastName": "Stubenrauch",
+          "fullName": "Eugen von Stubenrauch",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024a703",
+          "additional": "siehe Pian",
+          "firstName": "Antonio",
+          "lastName": "de Pian",
+          "fullName": "Antonio de Pian",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1847/1847-09-04.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "662ad53a8325f47547d4cf71",
+      "uid": "9e1c2d64-9f2a-48ea-b289-d5a3afb4ff95",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1847-09-30T10:55:00.000Z",
+      "season": "1847/1848",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "René",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Jolanthe",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Tristan",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Truffaud",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13d",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Vollkomm",
+          "role": "Almerich",
+          "fullName": "Adolf Vollkomm"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Zuhia",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b58e",
+          "additional": "",
+          "firstName": "Eugen von",
+          "lastName": "Stubenrauch",
+          "fullName": "Eugen von Stubenrauch",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024a703",
+          "additional": "siehe Pian",
+          "firstName": "Antonio",
+          "lastName": "de Pian",
+          "fullName": "Antonio de Pian",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1847/1847-09-30.jpeg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1847/1847-09-30_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "662b5bcb8325f47547c39a8d",
+      "uid": "a83487b9-c2b7-47ec-b507-50db57fbadc9",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1847-11-05T10:55:00.000Z",
+      "season": "1847/1848",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "René",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Jolanthe",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Tristan",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Truffaud",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Almerich",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Zuhia",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b58e",
+          "additional": "",
+          "firstName": "Eugen von",
+          "lastName": "Stubenrauch",
+          "fullName": "Eugen von Stubenrauch",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024a703",
+          "additional": "siehe Pian",
+          "firstName": "Antonio",
+          "lastName": "de Pian",
+          "fullName": "Antonio de Pian",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1847/1847-11-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6626b5298325f47547ce2e8a",
+      "uid": "8efc1225-5eb7-44d1-bab4-19f48102f264",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hofburgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1848-01-11T11:07:00.000Z",
+      "season": "1847/1848",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "König René, Graf von der Provence",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Jolanthe, seine Tochter",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac14",
+          "additional": "1803-1857",
+          "firstName": "Karl",
+          "lastName": "Lucas (auch Lukas)",
+          "role": "Graf Tristan von Baudemont",
+          "fullName": "Karl Lucas (auch Lukas)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Ritter Jauffred von Orange",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Ritter Almerich",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Ebn Jahia, eine maurischer Arzt",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe, seine Frau",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1848/1848-01-11.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "662e91318325f47547e1f6e4",
+      "uid": "94e040f5-f4c7-46b5-b9bf-0ce58c8d3f95",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1849-09-06T10:55:00.000Z",
+      "season": "1849/1850",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "König René, Graf von der Provence",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aae6",
+          "additional": "geb. Anschütz, 1819-1895",
+          "firstName": "Auguste",
+          "lastName": "Koberwein",
+          "role": "Jolanthe, seine Tochter",
+          "fullName": "Auguste Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a72a",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Devrient",
+          "role": "Graf Tristan von Baudemont",
+          "fullName": "Friedrich Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Ritter Jauffred von Orange",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Ritter Almerich",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Ebn Jahia, eine maurischer Arzt",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe, seine Frau",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1849/1849-09-06.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "662fab9ffa3118b09424fff5",
+      "uid": "40b5f793-466e-4994-a4d6-4303d5a46e59",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1850-01-15T11:07:00.000Z",
+      "season": "1849/1850",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "König René, Graf von der Provence",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "662fa8f8c98953bbf0df9ab3",
+          "firstName": "Fr.",
+          "lastName": "Wagner-Unzelmann",
+          "additional": "Gast aus Berlin",
+          "role": "Jolanthe, seine Tochter",
+          "fullName": "Fr. Wagner-Unzelmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a72a",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Devrient",
+          "role": "Graf Tristan von Baudemont",
+          "fullName": "Friedrich Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Ritter Jauffred von Orange",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Ritter Almerich",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Ebn Jahia, eine maurischer Arzt",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe, seine Frau",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1850/1850-01-15.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6630b3cdfa3118b09439bd9b",
+      "uid": "2c88f828-9e09-4d1c-a2c5-2f0ed307edf7",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1850-12-09T10:55:00.000Z",
+      "season": "1850/1851",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "König René, Graf von der Provence",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aaf0",
+          "additional": "1774-1857",
+          "firstName": "Josef",
+          "lastName": "Koberwein",
+          "role": "Jolanthe, seine Tochter",
+          "fullName": "Josef Koberwein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a72a",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Devrient",
+          "role": "Graf Tristan von Baudemont",
+          "fullName": "Friedrich Devrient"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Ritter Jauffred von Orange",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Ritter Almerich",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "654258c70080658502aaefde",
+          "firstName": "Berthold",
+          "lastName": "Hörtel",
+          "additional": "1805-1852",
+          "role": "Ebn Jahia, eine maurischer Arzt",
+          "fullName": "Berthold Hörtel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe, seine Frau",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1850/1850-12-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663286d7f0392a8e79dba882",
+      "uid": "144a634f-a4d8-41cb-92a6-571ef3a611eb",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof- und Nationaltheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1852-06-02T11:07:00.000Z",
+      "season": "1851/1852",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "René",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b15a",
+          "additional": "",
+          "firstName": "Franziska",
+          "lastName": "Wagner",
+          "role": "Jolanthe",
+          "fullName": "Franziska Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Tristan",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b2",
+          "additional": "1800-1874",
+          "firstName": "Adolf",
+          "lastName": "Herzfeld",
+          "role": "Truffaud",
+          "fullName": "Adolf Herzfeld"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Almerich",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6f0",
+          "additional": "Hamburg",
+          "firstName": "Bogumil",
+          "lastName": "Dawison",
+          "role": "Zuhia",
+          "fullName": "Bogumil Dawison"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1852/1852-06-02.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "663a4194f0392a8e79786049",
+      "uid": "2a9f9e3a-2ceb-4817-ab5f-6e8e851aed97",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1854-09-05T10:55:00.000Z",
+      "season": "1854/1855",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a521",
+          "additional": "1785-1865",
+          "firstName": "Heinrich",
+          "lastName": "Anschütz",
+          "role": "René",
+          "fullName": "Heinrich Anschütz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a62f",
+          "additional": "1833-1919",
+          "firstName": "Marie",
+          "lastName": "Bossler (Boßler)",
+          "role": "Jolanthe",
+          "fullName": "Marie Bossler (Boßler)"
+        },
+        {
+          "_id": "65528a230080658502b7cfd7",
+          "firstName": "Heinrich",
+          "lastName": "Jürgan",
+          "additional": "1829-1887",
+          "role": "Tristan",
+          "fullName": "Heinrich Jürgan"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Truffaud",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024b03d",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Stein",
+          "role": "Almerich",
+          "fullName": "Carl Stein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Zuhia",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab17",
+          "additional": "1796-1866",
+          "firstName": "Josef",
+          "lastName": "Korner",
+          "role": "Bertrand",
+          "fullName": "Josef Korner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b244",
+          "additional": "1807-1861",
+          "firstName": "Anna",
+          "lastName": "Zeiner",
+          "role": "Marthe",
+          "fullName": "Anna Zeiner"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1854/1854-09-05.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f2550e027ead1c1dcd88a",
+      "uid": "c39b106e-23ae-4b98-8566-98a1926293b5",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1868-11-17T11:07:00.000Z",
+      "season": "1868/1869",
+      "cast": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "René",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "664f42522ab4d9095fcc5bdb",
+          "firstName": "Franziska",
+          "lastName": "Elmenreich",
+          "additional": "",
+          "role": "Jolanthe",
+          "fullName": "Franziska Elmenreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Tristan",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Truffaud",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Almerich",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Zuhia",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Bertrand",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab4a",
+          "additional": "geb. Fournier",
+          "firstName": "Antonie",
+          "lastName": "Kronser",
+          "role": "Marthe",
+          "fullName": "Antonie Kronser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1868/1868-11-17.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "664f8636e027ead1c1e503e8",
+      "uid": "40be2ec6-1dc6-4787-ac35-be1166dac604",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1869-09-02T10:55:00.000Z",
+      "season": "1869/1870",
+      "cast": [
+        {
+          "_id": "6556711b0080658502bfb4cf",
+          "firstName": "Dr. August",
+          "lastName": "Förster",
+          "additional": "1828-1889",
+          "role": "König René",
+          "fullName": "Dr. August Förster"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9b8",
+          "additional": "",
+          "firstName": "Julie",
+          "lastName": "Herlinger",
+          "role": "Jolanthe, seine Tochter",
+          "fullName": "Julie Herlinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Graf Tristan",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Ritter Jauffred",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "Ritter Almerech",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a834",
+          "additional": "1808-1875",
+          "firstName": "Emil",
+          "lastName": "Franz",
+          "role": "Ebn Jahia",
+          "fullName": "Emil Franz"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab1",
+          "additional": "1825-1879",
+          "firstName": "Eduard",
+          "lastName": "Kierschner",
+          "role": "Bertrand",
+          "fullName": "Eduard Kierschner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab4a",
+          "additional": "geb. Fournier",
+          "firstName": "Antonie",
+          "lastName": "Kronser",
+          "role": "Marthe, seine Frau",
+          "fullName": "Antonie Kronser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1869/1869-09-02.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66598fee4e1190214784e69b",
+      "uid": "60ba7bab-3a5b-4447-bcb1-d5a4e95ca809",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-06-09T11:07:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "König René",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Jolanthe, seine Tochter",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Graf Tristan",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Ritter Jauffred",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Ritter Almerech",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Ebn Jahia",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Bertrand",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Marthe, seine Frau",
+          "fullName": "Louisabeth Röckel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-09.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658df684e11902147775091",
+      "uid": "de88bf36-4842-4aa5-8a9b-6dcc775dbfc0",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-06-20T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "René",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Jolanthe",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Tristan",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Truffaud",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Almerich",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Jahia",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Bertrand",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Marthe",
+          "fullName": "Louisabeth Röckel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-06-20.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66598c994e1190214784a485",
+      "uid": "da7d9e83-971e-4a3a-bfa3-e6b2fba08990",
+      "productionId": "9e1b4491-3c3f-43b0-bdac-4868da57de52",
+      "title": "König Renés Tochter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-10-24T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "René",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Jolanthe",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Tristan",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Truffaud",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Almerich",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Jahia",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Bertrand",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "655c21f60080658502c8967e",
+          "firstName": "Louisabeth",
+          "lastName": "Röckel",
+          "additional": "verehel. Mathes; 1841-1913",
+          "role": "Marthe",
+          "fullName": "Louisabeth Röckel"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2f7",
+          "additional": "",
+          "firstName": "Fr.",
+          "lastName": "Bresemann",
+          "fullName": "Fr. Bresemann",
+          "role": "Deutsch"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b745",
+          "additional": "",
+          "firstName": "Henrik Samuel",
+          "lastName": "Hertz",
+          "fullName": "Henrik Samuel Hertz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-10-24.jpeg"
+      ],
+      "comment": ""
+    }
+  ]
+}

@@ -5,6 +5,7 @@ Repo to store code and data to crawl [https://kulturerbe.burgtheater.at/](https:
 ## howto
 
 ### list of years
+(adapt `year_range = range(1850, 1880)`)
 ```bash
 uv run years.py
 ```

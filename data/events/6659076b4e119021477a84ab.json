@@ -1,0 +1,2843 @@
+{
+  "_id": "6659076b4e119021477a84ab",
+  "uid": "f68dca2c-af50-4b7c-8410-dfa6044133ca",
+  "productionId": "a206cc13-03cc-4c10-95aa-c52dfdd12d34",
+  "title": "Faust",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": "k.k. Hof-Burgtheater",
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1879-05-18T10:55:00.000Z",
+  "season": "1878/1879",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b8b0",
+      "additional": "1834-1909",
+      "firstName": "Adolf",
+      "lastName": "Sonnenthal",
+      "role": "Faust",
+      "fullName": "Adolf Sonnenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024a52c",
+      "additional": "1816-1891",
+      "firstName": "Friedrich Louis",
+      "lastName": "Arnsburg",
+      "role": "Wagner",
+      "fullName": "Friedrich Louis Arnsburg"
+    },
+    {
+      "_id": "6504166ba47588ad6024abc9",
+      "additional": "1835-1907",
+      "firstName": "Josef",
+      "lastName": "Lewinsky",
+      "role": "Mephistopheles",
+      "fullName": "Josef Lewinsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024a86e",
+      "additional": "1825-1896",
+      "firstName": "Ludwig",
+      "lastName": "Gabillon",
+      "role": "Der Erdgeist",
+      "fullName": "Ludwig Gabillon"
+    },
+    {
+      "_id": "6504166ba47588ad6024b07e",
+      "additional": "1825-1892",
+      "firstName": "Marie",
+      "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+      "role": "Böser Couch",
+      "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+    },
+    {
+      "_id": "6504166ba47588ad6024a6b4",
+      "additional": "",
+      "firstName": "Sidonie",
+      "lastName": "Conti",
+      "role": "Cherub",
+      "fullName": "Sidonie Conti"
+    },
+    {
+      "_id": "6504166ba47588ad6024b041",
+      "additional": "1843-1913",
+      "firstName": "Philipp",
+      "lastName": "Stätter",
+      "role": "Schüler",
+      "fullName": "Philipp Stätter"
+    },
+    {
+      "_id": "6504166ba47588ad6024b6d8",
+      "additional": "1843-1902, Pseud. Wallis, Alfred",
+      "firstName": "Emil",
+      "lastName": "Ferrari",
+      "role": "Frosch",
+      "fullName": "Emil Ferrari"
+    },
+    {
+      "_id": "6504166ba47588ad6024af60",
+      "additional": "1836-1902",
+      "firstName": "Hermann",
+      "lastName": "Schöne",
+      "role": "Brander",
+      "fullName": "Hermann Schöne"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac98",
+      "additional": "1815-1888, Hofschauspieler",
+      "firstName": "Carl Wilhelm",
+      "lastName": "Meixner",
+      "role": "Siebel",
+      "fullName": "Carl Wilhelm Meixner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a51b",
+      "additional": "1844-1910",
+      "firstName": "Josef",
+      "lastName": "Altmann",
+      "role": "Altmeyer",
+      "fullName": "Josef Altmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1cf",
+      "additional": "1860-1887",
+      "firstName": "Josefine",
+      "lastName": "Wessely",
+      "role": "Margarethe",
+      "fullName": "Josefine Wessely"
+    },
+    {
+      "_id": "6504166ba47588ad6024a58d",
+      "additional": "1828-1917",
+      "firstName": "Bernhard",
+      "lastName": "Baumeister",
+      "role": "Valentin",
+      "fullName": "Bernhard Baumeister"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab46",
+      "additional": "1837-1918",
+      "firstName": "Anna",
+      "lastName": "Kratz",
+      "role": "Marthe",
+      "fullName": "Anna Kratz"
+    },
+    {
+      "_id": "6561f3320080658502cf302a",
+      "firstName": "Rudolf",
+      "lastName": "Leyrer",
+      "additional": "",
+      "role": "1. Handwerksbursche",
+      "fullName": "Rudolf Leyrer"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab42",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Kreith",
+      "role": "2. Handwerksbursche",
+      "fullName": "Hans Kreith"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa43",
+      "additional": "1822-1892",
+      "firstName": "Matthias",
+      "lastName": "Jehly",
+      "role": "3. Handwerksbursche",
+      "fullName": "Matthias Jehly"
+    },
+    {
+      "_id": "6561eeb70080658502cf2eea",
+      "firstName": "Friedrich",
+      "lastName": "Rüden",
+      "additional": "1836-1900",
+      "role": "Ein Schüler",
+      "fullName": "Friedrich Rüden"
+    },
+    {
+      "_id": "6504166ba47588ad6024abf2",
+      "additional": "1868-1881",
+      "firstName": "Therese",
+      "lastName": "Link",
+      "role": "1. Dienstmädchen",
+      "fullName": "Therese Link"
+    },
+    {
+      "_id": "6504166ba47588ad6024b153",
+      "additional": "Hofschauspielerin, verehel. Goschalla",
+      "firstName": "Rosa",
+      "lastName": "Wagner",
+      "role": "2. Dienstmädchen",
+      "fullName": "Rosa Wagner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7dd",
+      "additional": "1853-1907",
+      "firstName": "Franz",
+      "lastName": "Fiala",
+      "role": "1. Bürger",
+      "fullName": "Franz Fiala"
+    },
+    {
+      "_id": "655672180080658502bfb4f4",
+      "firstName": "Friedrich Wilhelm",
+      "lastName": "Bayer",
+      "additional": "1833-1898",
+      "role": "2. Bürger",
+      "fullName": "Friedrich Wilhelm Bayer"
+    },
+    {
+      "_id": "6504166ba47588ad6024abea",
+      "additional": "1834-1913",
+      "firstName": "Josef",
+      "lastName": "Lippert",
+      "role": "3. Bürger",
+      "fullName": "Josef Lippert"
+    },
+    {
+      "_id": "6504166ba47588ad6024a96d",
+      "additional": "",
+      "firstName": "Louise von",
+      "lastName": "Hauenthal",
+      "role": "Bürgermädchen",
+      "fullName": "Louise von Hauenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae68",
+      "additional": "1826-1881",
+      "firstName": "Theodor",
+      "lastName": "Reusche",
+      "role": "Ein alter Bauer",
+      "fullName": "Theodor Reusche"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad02",
+      "additional": "1838-1916",
+      "firstName": "Ernestine",
+      "lastName": "Negro",
+      "role": "Hexe",
+      "fullName": "Ernestine Negro"
+    },
+    {
+      "_id": "6504166ba47588ad6024abf1",
+      "additional": "1866-1882",
+      "firstName": "Sofie",
+      "lastName": "Link",
+      "role": "Meerkatze",
+      "fullName": "Sofie Link"
+    },
+    {
+      "_id": "6504166ba47588ad6024b032",
+      "additional": "",
+      "firstName": "Henriette",
+      "lastName": "Spiller",
+      "role": "Meerkatze",
+      "fullName": "Henriette Spiller"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b7ab",
+      "additional": "",
+      "firstName": "Heinrich",
+      "lastName": "Laube",
+      "fullName": "Heinrich Laube",
+      "role": "Einrichtung"
+    },
+    {
+      "_id": "654cf5fc0080658502b0b6db",
+      "firstName": "Karl",
+      "lastName": "Eberwein",
+      "additional": "",
+      "fullName": "Karl Eberwein",
+      "role": "Musik"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b70d",
+      "additional": "",
+      "firstName": "Johann Wolfgang von",
+      "lastName": "Goethe",
+      "fullName": "Johann Wolfgang von Goethe"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-18.jpeg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61a77d3ced60fbe1c67c2",
+      "uid": "a206cc13-03cc-4c10-95aa-c52dfdd12d34",
+      "productionId": "a206cc13-03cc-4c10-95aa-c52dfdd12d34",
+      "title": "Faust I. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": "Neueinstudierung",
+      "count": "10",
+      "date": "1877-04-19T12:00:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Faust",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Wagner",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Mephistopheles",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Erdgeist",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Böser Geist",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b4",
+          "additional": "",
+          "firstName": "Sidonie",
+          "lastName": "Conti",
+          "role": "Cherub",
+          "fullName": "Sidonie Conti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Schüler",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Frosch",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Brander",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Siebel",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Altmeyer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aeb4",
+          "additional": "als Gast",
+          "firstName": "Fräulein",
+          "lastName": "Rovella",
+          "role": "Margarethe",
+          "fullName": "Fräulein Rovella"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Valentin",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Frau Marthe",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "1. Handwerksbursche",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "2. Handwerksbursche",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "3. Handwerksbursche",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Ein Schüler",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "1. Dienstmädchen",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "2. Dienstmädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "1. Bürger",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "2. Bürger",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "3. Bürger",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Bürgermädchen",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Alter Bauer",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Hexe",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Meerkatzen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Meerkatzen",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b70d",
+          "additional": "",
+          "firstName": "Johann Wolfgang von",
+          "lastName": "Goethe",
+          "fullName": "Johann Wolfgang von Goethe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0319.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-04-19.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66581a894e1190214766b143",
+      "uid": "8f17f292-985a-4a4e-929d-a31ab996c26d",
+      "productionId": "a206cc13-03cc-4c10-95aa-c52dfdd12d34",
+      "title": "Faust I. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1877-06-06T10:55:00.000Z",
+      "season": "1876/1877",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Faust",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Wagner",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Mephistopheles",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Erdgeist",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Böser Geist",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b4",
+          "additional": "",
+          "firstName": "Sidonie",
+          "lastName": "Conti",
+          "role": "Cherub",
+          "fullName": "Sidonie Conti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Schüler",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Frosch",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Brander",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Siebel",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Altmeyer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Margarethe",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Valentin",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Frau Marthe",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1d9",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Wiene",
+          "role": "1. Handwerksbursche",
+          "fullName": "Carl Wiene"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "2. Handwerksbursche",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "3. Handwerksbursche",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Ein Schüler",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "1. Dienstmädchen",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "2. Dienstmädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "1. Bürger",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "2. Bürger",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "3. Bürger",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Bürgermädchen",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Alter Bauer",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Hexe",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Meerkatzen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Meerkatzen",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Dekoration"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b70d",
+          "additional": "",
+          "firstName": "Johann Wolfgang von",
+          "lastName": "Goethe",
+          "fullName": "Johann Wolfgang von Goethe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1877/1877-06-06.jpeg"
+      ],
+      "comment": "\"Margarethe\" - Frl. Heese vom Thalia-Theater in Hamburg, erste Gastrolle.\nNeue Costume nach Zeichnungen der Herrn Franz Gaul.\nDie Decorationen der \"Walpurgisnacht\" neu von Herrn Hermann Burghart, k.k.Hofburgtheater- Maler."
+    },
+    {
+      "_id": "665833764e11902147689b3a",
+      "uid": "97c63265-c739-48c4-bc12-e69b30373928",
+      "productionId": "a206cc13-03cc-4c10-95aa-c52dfdd12d34",
+      "title": "Faust I. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-02-24T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Faust",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Wagner",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Mephistopheles",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Erdgeist",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Böser Geist",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b4",
+          "additional": "",
+          "firstName": "Sidonie",
+          "lastName": "Conti",
+          "role": "Cherub",
+          "fullName": "Sidonie Conti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Schüler",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Frosch",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Brander",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Siebel",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Altmeyer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Margarethe",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Valentin",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Frau Marthe",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "1. Handwerksbursche",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a582",
+          "additional": "1853-1895",
+          "firstName": "Carl",
+          "lastName": "Bassen",
+          "role": "2. Handwerksbursche",
+          "fullName": "Carl Bassen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "3. Handwerksbursche",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Ein Schüler",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "1. Dienstmädchen",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "2. Dienstmädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "1. Bürger",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "2. Bürger",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "3. Bürger",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Bürgermädchen",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Alter Bauer",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Hexe",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Meerkatzen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Meerkatzen",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Dekoration"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b70d",
+          "additional": "",
+          "firstName": "Johann Wolfgang von",
+          "lastName": "Goethe",
+          "fullName": "Johann Wolfgang von Goethe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-02-24.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66583f4f4e11902147698870",
+      "uid": "439251fd-b149-4415-b583-cc1bb5e8eb35",
+      "productionId": "a206cc13-03cc-4c10-95aa-c52dfdd12d34",
+      "title": "Faust I. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-02-27T10:55:00.000Z",
+      "season": "1877/1878",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Faust",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Wagner",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Mephistopheles",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Erdgeist",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Böser Geist",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b4",
+          "additional": "",
+          "firstName": "Sidonie",
+          "lastName": "Conti",
+          "role": "Cherub",
+          "fullName": "Sidonie Conti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Schüler",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Frosch",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Brander",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Siebel",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Altmeyer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Margarethe",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Valentin",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Frau Marthe",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "1. Handwerksbursche",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a582",
+          "additional": "1853-1895",
+          "firstName": "Carl",
+          "lastName": "Bassen",
+          "role": "2. Handwerksbursche",
+          "fullName": "Carl Bassen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "3. Handwerksbursche",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Ein Schüler",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "1. Dienstmädchen",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "2. Dienstmädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a59a",
+          "additional": "1844-1925",
+          "firstName": "Karl",
+          "lastName": "Baumgartner",
+          "role": "1. Bürger",
+          "fullName": "Karl Baumgartner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "2. Bürger",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "3. Bürger",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Bürgermädchen",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Alter Bauer",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Hexe",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Meerkatzen",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Meerkatzen",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a87a",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Gaul",
+          "fullName": "Franz Gaul",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024a67b",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Burghart (Burghardt)",
+          "fullName": "Hermann Burghart (Burghardt)",
+          "role": "Dekoration"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b70d",
+          "additional": "",
+          "firstName": "Johann Wolfgang von",
+          "lastName": "Goethe",
+          "fullName": "Johann Wolfgang von Goethe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-02-27.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6658a03d4e1190214771a9d2",
+      "uid": "ec506aa8-665a-4a42-a382-8975e5db93ef",
+      "productionId": "a206cc13-03cc-4c10-95aa-c52dfdd12d34",
+      "title": "Faust",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1878-09-08T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Faust",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Wagner",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024acd3",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Mitterwurzer",
+          "role": "Mephistopheles",
+          "fullName": "Friedrich Mitterwurzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Der Erdgeist",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Böser Couch",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b4",
+          "additional": "",
+          "firstName": "Sidonie",
+          "lastName": "Conti",
+          "role": "Cherub",
+          "fullName": "Sidonie Conti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Schüler",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Frosch",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Brander",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Siebel",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Altmeyer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aeed",
+          "additional": "",
+          "firstName": "Albertine",
+          "lastName": "Satran",
+          "role": "Margarethe",
+          "fullName": "Albertine Satran"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Valentin",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Marthe",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "1. Handwerksbursche",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2. Handwerksbursche",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "3. Handwerksbursche",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Ein Schüler",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "1. Dienstmädchen",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "2. Dienstmädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "1. Bürger",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc4",
+          "additional": "1822-1883",
+          "firstName": "Eduard",
+          "lastName": "Leuchert",
+          "role": "2. Bürger",
+          "fullName": "Eduard Leuchert"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "3. Bürger",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Bürgermädchen",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Ein alter Bauer",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Hexe",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Meerkatze",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Meerkatze",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Einrichtung"
+        },
+        {
+          "_id": "654cf5fc0080658502b0b6db",
+          "firstName": "Karl",
+          "lastName": "Eberwein",
+          "additional": "",
+          "fullName": "Karl Eberwein",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b70d",
+          "additional": "",
+          "firstName": "Johann Wolfgang von",
+          "lastName": "Goethe",
+          "fullName": "Johann Wolfgang von Goethe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1878/1878-09-08.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6659076b4e119021477a84ab",
+      "uid": "f68dca2c-af50-4b7c-8410-dfa6044133ca",
+      "productionId": "a206cc13-03cc-4c10-95aa-c52dfdd12d34",
+      "title": "Faust",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1879-05-18T10:55:00.000Z",
+      "season": "1878/1879",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Faust",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Wagner",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Mephistopheles",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Der Erdgeist",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Böser Couch",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b4",
+          "additional": "",
+          "firstName": "Sidonie",
+          "lastName": "Conti",
+          "role": "Cherub",
+          "fullName": "Sidonie Conti"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Schüler",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Frosch",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Brander",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Siebel",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51b",
+          "additional": "1844-1910",
+          "firstName": "Josef",
+          "lastName": "Altmann",
+          "role": "Altmeyer",
+          "fullName": "Josef Altmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Margarethe",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024a58d",
+          "additional": "1828-1917",
+          "firstName": "Bernhard",
+          "lastName": "Baumeister",
+          "role": "Valentin",
+          "fullName": "Bernhard Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Marthe",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6561f3320080658502cf302a",
+          "firstName": "Rudolf",
+          "lastName": "Leyrer",
+          "additional": "",
+          "role": "1. Handwerksbursche",
+          "fullName": "Rudolf Leyrer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2. Handwerksbursche",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "3. Handwerksbursche",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Ein Schüler",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "1. Dienstmädchen",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "2. Dienstmädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "1. Bürger",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "2. Bürger",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024abea",
+          "additional": "1834-1913",
+          "firstName": "Josef",
+          "lastName": "Lippert",
+          "role": "3. Bürger",
+          "fullName": "Josef Lippert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Bürgermädchen",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Ein alter Bauer",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Hexe",
+          "fullName": "Ernestine Negro"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf1",
+          "additional": "1866-1882",
+          "firstName": "Sofie",
+          "lastName": "Link",
+          "role": "Meerkatze",
+          "fullName": "Sofie Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b032",
+          "additional": "",
+          "firstName": "Henriette",
+          "lastName": "Spiller",
+          "role": "Meerkatze",
+          "fullName": "Henriette Spiller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b7ab",
+          "additional": "",
+          "firstName": "Heinrich",
+          "lastName": "Laube",
+          "fullName": "Heinrich Laube",
+          "role": "Einrichtung"
+        },
+        {
+          "_id": "654cf5fc0080658502b0b6db",
+          "firstName": "Karl",
+          "lastName": "Eberwein",
+          "additional": "",
+          "fullName": "Karl Eberwein",
+          "role": "Musik"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b70d",
+          "additional": "",
+          "firstName": "Johann Wolfgang von",
+          "lastName": "Goethe",
+          "fullName": "Johann Wolfgang von Goethe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1879/1879-05-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665a147c4e119021478f73c2",
+      "uid": "3384a7cf-e12b-4296-8d1c-b5232c1a3e36",
+      "productionId": "a206cc13-03cc-4c10-95aa-c52dfdd12d34",
+      "title": "Faust I. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-06-18T10:55:00.000Z",
+      "season": "1879/1880",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Faust",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Wagner",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024aacd",
+          "additional": "",
+          "firstName": "Adolf",
+          "lastName": "Klein",
+          "role": "Mephistopheles",
+          "fullName": "Adolf Klein"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Erdgeist",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Böser Geist",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8c4",
+          "additional": "",
+          "firstName": "Anna",
+          "lastName": "Gollinger",
+          "role": "Cherub",
+          "fullName": "Anna Gollinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Schüler",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Frosch",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Brander",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Siebel",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Altmeyer",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Margarethe",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Valentin",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Frau Marthe",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "Handwerksbursche",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "Handwerksbursche",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "Handwerksbursche",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Ein Schüler",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024abf2",
+          "additional": "1868-1881",
+          "firstName": "Therese",
+          "lastName": "Link",
+          "role": "Dienstmädchen",
+          "fullName": "Therese Link"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "Dienstmädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "Bürger",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "Bürger",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "Bürger",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Bürgermädchen",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Alter Bauer",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Hexe",
+          "fullName": "Ernestine Negro"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b70d",
+          "additional": "",
+          "firstName": "Johann Wolfgang von",
+          "lastName": "Goethe",
+          "fullName": "Johann Wolfgang von Goethe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-06-18.jpeg"
+      ],
+      "comment": "\"Mephistopheles\" - Hr. Klein, vom kgl. Hoftheater in Berlin, als Gast."
+    },
+    {
+      "_id": "665b31f64e11902147a59961",
+      "uid": "b5b8d2d9-92af-4251-8720-eab193069b8b",
+      "productionId": "a206cc13-03cc-4c10-95aa-c52dfdd12d34",
+      "title": "Faust I. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1880-12-26T10:55:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Faust",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Wagner",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Mephistopheles",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Erdgeist",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Böser Geist",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8c4",
+          "additional": "",
+          "firstName": "Anna",
+          "lastName": "Gollinger",
+          "role": "Cherub",
+          "fullName": "Anna Gollinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Schüler",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Frosch",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Brander",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Siebel",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Altmeyer",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Margarethe",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Valentin",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Frau Marthe",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "1. Handwerksbursche",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2. Handwerksbursche",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "3. Handwerksbursche",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Ein Schüler",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "665b3333f11595c1238abc98",
+          "firstName": "Frl.",
+          "lastName": "Schlefinger",
+          "additional": "",
+          "role": "1. Dienstmädchen",
+          "fullName": "Frl. Schlefinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "2. Dienstmädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1. Bürger",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "2. Bürger",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "3. Bürger",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Bürgermädchen",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "665b2f31f11595c12389efcd",
+          "firstName": "Herr",
+          "lastName": "Rötel",
+          "additional": "",
+          "role": "Alter Bauer",
+          "fullName": "Herr Rötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Hexe",
+          "fullName": "Ernestine Negro"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b70d",
+          "additional": "",
+          "firstName": "Johann Wolfgang von",
+          "lastName": "Goethe",
+          "fullName": "Johann Wolfgang von Goethe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1880/1880-12-26.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665b3cff4e11902147a67c13",
+      "uid": "5d2fbc42-5851-474d-8d59-cce5bb5f0d44",
+      "productionId": "a206cc13-03cc-4c10-95aa-c52dfdd12d34",
+      "title": "Faust I. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1881-04-18T11:07:00.000Z",
+      "season": "1880/1881",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Faust",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Wagner, sein Famulus",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Mephistopheles",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a86e",
+          "additional": "1825-1896",
+          "firstName": "Ludwig",
+          "lastName": "Gabillon",
+          "role": "Der Erdgeist",
+          "fullName": "Ludwig Gabillon"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Böser Geist",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8c4",
+          "additional": "",
+          "firstName": "Anna",
+          "lastName": "Gollinger",
+          "role": "Cherub",
+          "fullName": "Anna Gollinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Ein Schüler",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "65e99f9a4578d73148e24db5",
+          "firstName": "",
+          "lastName": "____",
+          "additional": "",
+          "role": "Student:",
+          "fullName": " ____"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Frosch",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Brander",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Siebel",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Altmeyer",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a983",
+          "additional": "",
+          "firstName": "Klara",
+          "lastName": "Heese",
+          "role": "Margarethe, ein Bürgermädchen",
+          "fullName": "Klara Heese"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Valentin, ihr Bruder, Soldat",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Frau Marthe",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "1. Handwerksbursche",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2. Handwerksbursche",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "3. Handwerksbursche",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Ein Schüler",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "6504166ba47588ad6024af1e",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Schlesinger",
+          "role": "1. Dienstmädchen",
+          "fullName": "Marie Schlesinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "2. Dienstmädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1. Bürger",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae68",
+          "additional": "1826-1881",
+          "firstName": "Theodor",
+          "lastName": "Reusche",
+          "role": "2. Bürger",
+          "fullName": "Theodor Reusche"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "3. Bürger",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Ein Bürgermädchen",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4e4",
+          "additional": "1837-1889",
+          "firstName": "Louis",
+          "lastName": "Nötel",
+          "role": "Ein alter Bauer",
+          "fullName": "Louis Nötel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Eine Hexe",
+          "fullName": "Ernestine Negro"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b70d",
+          "additional": "",
+          "firstName": "Johann Wolfgang von",
+          "lastName": "Goethe",
+          "fullName": "Johann Wolfgang von Goethe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1881/1881-04-18.jpeg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "665c759e4e11902147beacca",
+      "uid": "72dfe8a5-483b-4c1f-b105-2a28ddd352b8",
+      "productionId": "a206cc13-03cc-4c10-95aa-c52dfdd12d34",
+      "title": "Faust I. Teil",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": "k.k. Hof-Burgtheater",
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1882-03-09T10:55:00.000Z",
+      "season": "1881/1882",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b8b0",
+          "additional": "1834-1909",
+          "firstName": "Adolf",
+          "lastName": "Sonnenthal",
+          "role": "Faust",
+          "fullName": "Adolf Sonnenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52c",
+          "additional": "1816-1891",
+          "firstName": "Friedrich Louis",
+          "lastName": "Arnsburg",
+          "role": "Wagner",
+          "fullName": "Friedrich Louis Arnsburg"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc9",
+          "additional": "1835-1907",
+          "firstName": "Josef",
+          "lastName": "Lewinsky",
+          "role": "Mephistopheles",
+          "fullName": "Josef Lewinsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a941",
+          "additional": "1833-1892",
+          "firstName": "Konrad",
+          "lastName": "Hallenstein",
+          "role": "Erdgeist",
+          "fullName": "Konrad Hallenstein"
+        },
+        {
+          "_id": "6504166ba47588ad6024b07e",
+          "additional": "1825-1892",
+          "firstName": "Marie",
+          "lastName": "Strassmann (Straßmann, auch Straßmann-Damböck))",
+          "role": "Böser Geist",
+          "fullName": "Marie Strassmann (Straßmann, auch Straßmann-Damböck))"
+        },
+        {
+          "_id": "665c7635f11595c123123226",
+          "firstName": "Frln.",
+          "lastName": "Pauli",
+          "additional": "",
+          "role": "Cherub",
+          "fullName": "Frln. Pauli"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0e0",
+          "additional": "1854-1944",
+          "firstName": "Hugo",
+          "lastName": "Thimig",
+          "role": "Schüler",
+          "fullName": "Hugo Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af69",
+          "additional": "1854-1942, Hofschauspieler",
+          "firstName": "Jakob",
+          "lastName": "Schreiner",
+          "role": "Frosch",
+          "fullName": "Jakob Schreiner"
+        },
+        {
+          "_id": "6504166ba47588ad6024af60",
+          "additional": "1836-1902",
+          "firstName": "Hermann",
+          "lastName": "Schöne",
+          "role": "Brander",
+          "fullName": "Hermann Schöne"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac98",
+          "additional": "1815-1888, Hofschauspieler",
+          "firstName": "Carl Wilhelm",
+          "lastName": "Meixner",
+          "role": "Siebel",
+          "fullName": "Carl Wilhelm Meixner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b041",
+          "additional": "1843-1913",
+          "firstName": "Philipp",
+          "lastName": "Stätter",
+          "role": "Altmeyer",
+          "fullName": "Philipp Stätter"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1cf",
+          "additional": "1860-1887",
+          "firstName": "Josefine",
+          "lastName": "Wessely",
+          "role": "Margarethe",
+          "fullName": "Josefine Wessely"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab3d",
+          "additional": "1839-1908",
+          "firstName": "Friedrich",
+          "lastName": "Krastel",
+          "role": "Valentin",
+          "fullName": "Friedrich Krastel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab46",
+          "additional": "1837-1918",
+          "firstName": "Anna",
+          "lastName": "Kratz",
+          "role": "Frau Marthe",
+          "fullName": "Anna Kratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7dd",
+          "additional": "1853-1907",
+          "firstName": "Franz",
+          "lastName": "Fiala",
+          "role": "1. Handwerksbursche",
+          "fullName": "Franz Fiala"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab42",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Kreith",
+          "role": "2. Handwerksbursche",
+          "fullName": "Hans Kreith"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa43",
+          "additional": "1822-1892",
+          "firstName": "Matthias",
+          "lastName": "Jehly",
+          "role": "3. Handwerksbursche",
+          "fullName": "Matthias Jehly"
+        },
+        {
+          "_id": "6561eeb70080658502cf2eea",
+          "firstName": "Friedrich",
+          "lastName": "Rüden",
+          "additional": "1836-1900",
+          "role": "Ein Schüler",
+          "fullName": "Friedrich Rüden"
+        },
+        {
+          "_id": "665b3333f11595c1238abc98",
+          "firstName": "Frl.",
+          "lastName": "Schlefinger",
+          "additional": "",
+          "role": "1. Dienstmädchen",
+          "fullName": "Frl. Schlefinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b153",
+          "additional": "Hofschauspielerin, verehel. Goschalla",
+          "firstName": "Rosa",
+          "lastName": "Wagner",
+          "role": "2. Dienstmädchen",
+          "fullName": "Rosa Wagner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b6d8",
+          "additional": "1843-1902, Pseud. Wallis, Alfred",
+          "firstName": "Emil",
+          "lastName": "Ferrari",
+          "role": "1. Bürger",
+          "fullName": "Emil Ferrari"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab16",
+          "additional": "1846-1916",
+          "firstName": "Ferdinand",
+          "lastName": "Kracher",
+          "role": "2. Bürger",
+          "fullName": "Ferdinand Kracher"
+        },
+        {
+          "_id": "655672180080658502bfb4f4",
+          "firstName": "Friedrich Wilhelm",
+          "lastName": "Bayer",
+          "additional": "1833-1898",
+          "role": "3. Bürger",
+          "fullName": "Friedrich Wilhelm Bayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a96d",
+          "additional": "",
+          "firstName": "Louise von",
+          "lastName": "Hauenthal",
+          "role": "Bürgermädchen",
+          "fullName": "Louise von Hauenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a51c",
+          "additional": "1842-1910",
+          "firstName": "Carl",
+          "lastName": "Arnau",
+          "role": "Alter Bauer",
+          "fullName": "Carl Arnau"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad02",
+          "additional": "1838-1916",
+          "firstName": "Ernestine",
+          "lastName": "Negro",
+          "role": "Hexe",
+          "fullName": "Ernestine Negro"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b70d",
+          "additional": "",
+          "firstName": "Johann Wolfgang von",
+          "lastName": "Goethe",
+          "fullName": "Johann Wolfgang von Goethe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/wtz_1882/1882-03-09.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

@@ -1,0 +1,5700 @@
+{
+  "_id": "66a505cc6af2b0e29fbcaba7",
+  "uid": "4d9e74f7-e590-464f-8bf3-4fa1046ce125",
+  "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+  "title": "Die Verschwörung des Fiesko zu Genua",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-02-14T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b0f5",
+      "additional": "1871-1965",
+      "firstName": "Otto",
+      "lastName": "Tressler",
+      "role": "Andreas Doria",
+      "fullName": "Otto Tressler"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9a8",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Hennings",
+      "role": "Gianettino Doria",
+      "fullName": "Fred Hennings"
+    },
+    {
+      "_id": "6504166ba47588ad6024a543",
+      "additional": "1886-1958",
+      "firstName": "Raoul",
+      "lastName": "Aslan",
+      "role": "Fiesko",
+      "fullName": "Raoul Aslan"
+    },
+    {
+      "_id": "6504166ba47588ad6024afe7",
+      "additional": "1872-1953",
+      "firstName": "Hans",
+      "lastName": "Siebert",
+      "role": "Verrina",
+      "fullName": "Hans Siebert"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "Bourgognino",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6504166ba47588ad6024aff3",
+      "additional": "1899-1965",
+      "firstName": "Reinhold",
+      "lastName": "Siegert",
+      "role": "Calcagno",
+      "fullName": "Reinhold Siegert"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae22",
+      "additional": "1886-1970",
+      "firstName": "Emmerich",
+      "lastName": "Reimers",
+      "role": "Sacco",
+      "fullName": "Emmerich Reimers"
+    },
+    {
+      "_id": "6504166ba47588ad6024a990",
+      "additional": "1888-1954",
+      "firstName": "Wilhelm",
+      "lastName": "Heim",
+      "role": "Lomellino",
+      "fullName": "Wilhelm Heim"
+    },
+    {
+      "_id": "6504166ba47588ad6024b13e",
+      "additional": "1904-1972",
+      "firstName": "Eduard",
+      "lastName": "Volters",
+      "role": "Zenturione",
+      "fullName": "Eduard Volters"
+    },
+    {
+      "_id": "6570bef400806585023dc09a",
+      "firstName": "Karl",
+      "lastName": "Friedl",
+      "additional": "1895-1970",
+      "role": "Zibo",
+      "fullName": "Karl Friedl"
+    },
+    {
+      "_id": "6504166ba47588ad6024a63c",
+      "additional": "1899-1971",
+      "firstName": "Viktor",
+      "lastName": "Braun",
+      "role": "Asserato",
+      "fullName": "Viktor Braun"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab35",
+      "additional": "1905-1963",
+      "firstName": "Helmuth",
+      "lastName": "Krauss",
+      "role": "Romano",
+      "fullName": "Helmuth Krauss"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0df",
+      "additional": "",
+      "firstName": "Hermann",
+      "lastName": "Thimig",
+      "role": "Muley Hassan",
+      "fullName": "Hermann Thimig"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa8a",
+      "additional": "1881-1959",
+      "firstName": "Julius",
+      "lastName": "Karsten",
+      "role": "Deutscher der Herzoglichen Leibwache",
+      "fullName": "Julius Karsten"
+    },
+    {
+      "_id": "6504166ba47588ad6024aada",
+      "additional": "",
+      "firstName": "Rudolf",
+      "lastName": "Kleiser",
+      "role": "Erste Wache",
+      "fullName": "Rudolf Kleiser"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b20",
+      "additional": "",
+      "firstName": "Edmund",
+      "lastName": "Lindner",
+      "role": "Zweite Wache",
+      "fullName": "Edmund Lindner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a98a",
+      "additional": "1884-1947",
+      "firstName": "Reinhold",
+      "lastName": "Haeussermann",
+      "role": "Erster Bürger",
+      "fullName": "Reinhold Haeussermann"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad67",
+      "additional": "",
+      "firstName": "Armand",
+      "lastName": "Ozory",
+      "role": "Zweiter Bürger",
+      "fullName": "Armand Ozory"
+    },
+    {
+      "_id": "658f087c51cd38b410089d5b",
+      "firstName": "Fred",
+      "lastName": "Steinbacher",
+      "additional": "",
+      "role": "Dritter Bürger",
+      "fullName": "Fred Steinbacher"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad8f",
+      "additional": "1880-1954",
+      "firstName": "Albert",
+      "lastName": "Paulmann",
+      "role": "Vierter Bürger",
+      "fullName": "Albert Paulmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f9",
+      "additional": "",
+      "firstName": "Tassilo",
+      "lastName": "Holik",
+      "role": "Bedienter",
+      "fullName": "Tassilo Holik"
+    },
+    {
+      "_id": "6504166ba47588ad6024b069",
+      "additional": "",
+      "firstName": "Lilly",
+      "lastName": "Stepanek",
+      "role": "Leonore",
+      "fullName": "Lilly Stepanek"
+    },
+    {
+      "_id": "6504166ba47588ad6024a56d",
+      "additional": "1897-1982",
+      "firstName": "Vera",
+      "lastName": "Balser-Eberle",
+      "role": "Julia",
+      "fullName": "Vera Balser-Eberle"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa81",
+      "additional": "",
+      "firstName": "Elisabeth",
+      "lastName": "Kallina (verehel. Ortner)",
+      "role": "Berta",
+      "fullName": "Elisabeth Kallina (verehel. Ortner)"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f6",
+      "additional": "",
+      "firstName": "Blanka",
+      "lastName": "Hohenthal",
+      "role": "Rosa",
+      "fullName": "Blanka Hohenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024a8a8",
+      "additional": "1893-1952",
+      "firstName": "Blanka",
+      "lastName": "Glossy",
+      "role": "Arabella",
+      "fullName": "Blanka Glossy"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024aed1",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Salmhofer",
+      "fullName": "Franz Salmhofer",
+      "role": "Musik"
+    },
+    {
+      "_id": "6504166ba47588ad6024b4b1",
+      "additional": "",
+      "firstName": "Ernst",
+      "lastName": "Martin",
+      "fullName": "Ernst Martin",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024add3",
+      "additional": "",
+      "firstName": "Emil",
+      "lastName": "Pirchan",
+      "fullName": "Emil Pirchan",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024aac8",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Klingenbeck",
+      "fullName": "Fritz Klingenbeck",
+      "role": "Tanzeinstudierung"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b544",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Schiller",
+      "fullName": "Friedrich Schiller"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-14.jpg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-14_00000002.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c2fd3ced60fbe22df52",
+      "uid": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neuinszenierung",
+      "count": "20",
+      "date": "1937-02-12T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Asserato",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Muley Hassan",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0584.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-12.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a505cc6af2b0e29fbcaba7",
+      "uid": "4d9e74f7-e590-464f-8bf3-4fa1046ce125",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-14T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Asserato",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Muley Hassan",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-14.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-14_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5062c6af2b0e29fbcb3dc",
+      "uid": "e94626cf-b96e-434e-816b-c9b7ef0840ed",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-17T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Asserato",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Muley Hassan",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-17.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a506f76af2b0e29fbcc4a4",
+      "uid": "bbb59578-01fb-4ce1-a760-6382e794981e",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Asserato",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Muley Hassan",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-20.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-20_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a507d06af2b0e29fbcd657",
+      "uid": "439fb70f-ad50-47a0-b460-89a4c678c4ad",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-22T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Asserato",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Muley Hassan",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-22.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a509a16af2b0e29fbcfb9d",
+      "uid": "d6d5fbc3-c26c-484f-91db-07784fee1cf6",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-25T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Asserato",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Muley Hassan",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-25.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a50a186af2b0e29fbd0599",
+      "uid": "69e01ccd-8efd-44b9-92e4-d0dbcc6ae809",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-27T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Asserato",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Muley Hassan",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-27.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a50ac26af2b0e29fbd1372",
+      "uid": "7121b40e-b6f9-44a7-a639-b0b30f997c4f",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Asserato",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Muley Hassan",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-02.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a50c4d6af2b0e29fbd33ac",
+      "uid": "d25eeb2d-a1c3-47f0-b1dd-351228c87a29",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-07T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Asserato",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Muley Hassan",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-07.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-07_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a50c6b6af2b0e29fbd3671",
+      "uid": "9bdc6e3b-7ecd-415a-9221-40f87d7762d7",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-08T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Asserato",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Muley Hassan",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-08.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a52cd46af2b0e29fbfb276",
+      "uid": "65921025-070d-4db2-b27a-3c4bcb44b933",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-23T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria, Doge von Genua",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria, sein Neffe",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko, Graf von Lavagna, Haupt der Verschwörung",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina, verschworener Republikaner",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino, Verschworener",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno, Verschworener",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco, Verschworener",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino, Gianettinos Vertrauter",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione, Missvergnügter",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo, Missvergnügter",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Asserato, Missvergnügter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano, Maler",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Muley Hassan, Mohr von Tunis",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore, Fieskos Gemahlin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia, Gräfin-Witwe Imperiali, Dorias Schwester",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta, Verrinas Tochter",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa, Leonores Kammermädchen",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella, Leonores Kammermädchen",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-23.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5383e6af2b0e29fc0a3ed",
+      "uid": "90551f5f-fa7a-4916-b9b3-0a71141002f9",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-29T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria, Doge von Genua",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria, sein Neffe",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko, Graf von Lavagna, Haupt der Verschwörung",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina, verschworener Republikaner",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino, Verschworener",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno, Verschworener",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco, Verschworener",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino, Gianettinos Vertrauter",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione, Missvergnügter",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo, Missvergnügter",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Asserato, Missvergnügter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano, Maler",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Muley Hassan, Mohr von Tunis",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore, Fieskos Gemahlin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia, Gräfin-Witwe Imperiali, Dorias Schwester",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta, Verrinas Tochter",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa, Leonores Kammermädchen",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella, Leonores Kammermädchen",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-29.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-29_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5339a6af2b0e29fc03d17",
+      "uid": "aa54ee59-4b47-45b6-a08d-307360daa44c",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-07T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria, Doge von Genua",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria, sein Neffe",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko, Graf von Lavagna, Haupt der Verschwörung",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina, verschworener Republikaner",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino, Verschworener",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno, Verschworener",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco, Verschworener",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino, Gianettinos Vertrauter",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione, Missvergnügter",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo, Missvergnügter",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Asserato, Missvergnügter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano, Maler",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Muley Hassan, Mohr von Tunis",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore, Fieskos Gemahlin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia, Gräfin-Witwe Imperiali, Dorias Schwester",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta, Verrinas Tochter",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa, Leonores Kammermädchen",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella, Leonores Kammermädchen",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-07.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a53cd76af2b0e29fc10640",
+      "uid": "5dc17858-da94-4169-a35d-dafa1c2e0ae7",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-11T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria, Doge von Genua",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria, sein Neffe",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko, Graf von Lavagna, Haupt der Verschwörung",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina, verschworener Republikaner",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino, Verschworener",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno, Verschworener",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco, Verschworener",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino, Gianettinos Vertrauter",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione, Missvergnügter",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo, Missvergnügter",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Asserato, Missvergnügter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano, Maler",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Muley Hassan, Mohr von Tunis",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore, Fieskos Gemahlin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia, Gräfin-Witwe Imperiali, Dorias Schwester",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta, Verrinas Tochter",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa, Leonores Kammermädchen",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella, Leonores Kammermädchen",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-11.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-11_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5347c6af2b0e29fc05060",
+      "uid": "b5c853f4-0019-4b97-a873-1f213c4cfca7",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria, Doge von Genua",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria, sein Neffe",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko, Graf von Lavagna, Haupt der Verschwörung",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina, verschworener Republikaner",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino, Verschworener",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno, Verschworener",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco, Verschworener",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino, Gianettinos Vertrauter",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione, Missvergnügter",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo, Missvergnügter",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Asserato, Missvergnügter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano, Maler",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Muley Hassan, Mohr von Tunis",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore, Fieskos Gemahlin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia, Gräfin-Witwe Imperiali, Dorias Schwester",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta, Verrinas Tochter",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa, Leonores Kammermädchen",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella, Leonores Kammermädchen",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-16.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a55cc96af2b0e29fc3b105",
+      "uid": "6c2882e4-2f21-4136-aef0-e9b42b2b0667",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-10T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria, Doge von Genua",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria, sein Neffe",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko, Graf von Lavagna, Haupt der Verschwörung",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina, verschworener Republikaner",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino, Verschworener",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno, Verschworener",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco, Verschworener",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino, Gianettinos Vertrauter",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione, Missvergnügter",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo, Missvergnügter",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Asserato, Missvergnügter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano, Maler",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Muley Hassan, Mohr von Tunis",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore, Fieskos Gemahlin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia, Gräfin-Witwe Imperiali, Dorias Schwester",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta, Verrinas Tochter",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa, Leonores Kammermädchen",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella, Leonores Kammermädchen",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-10.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6125f6af2b0e29fd1549b",
+      "uid": "9b320b03-c41a-4649-812e-02216d41d8e5",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-05T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria, Doge von Genua",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria, sein Neffe",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko, Graf von Lavagna, Haupt der Verschwörung",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina, verschworener Republikaner",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino, Verschworener",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno, Verschworener",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Sacco, Verschworener",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino, Gianettinos Vertrauter",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione, Missvergnügter",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo, Missvergnügter",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Asserato, Missvergnügter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Romano, Maler",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Muley Hassan, Mohr von Tunis",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Deutscher der herzoglichen Leibwache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Dritter Bürger",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024af75",
+          "additional": "",
+          "firstName": "Karl",
+          "lastName": "Schraml (Schramml)",
+          "role": "Bedienter",
+          "fullName": "Karl Schraml (Schramml)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore, Fieskos Gemahlin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia, Gräfin-Witwe Imperiali, Dorias Schwester",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta, Verrinas Tochter",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa, Leonores Kammermädchen",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella, Leonores Kammermädchen",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-05.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6683d4864801253dbd733a59",
+      "uid": "ba6f9d26-5c69-46d4-bbe8-f6d98a39d5cc",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-04-06T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fiesko",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Asserato",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Muley Hassan",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024aaad",
+          "additional": "",
+          "firstName": "Herbert",
+          "lastName": "Kick",
+          "role": "Dritter Bürger",
+          "fullName": "Herbert Kick"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000120.jpg"
+      ],
+      "comment": "Nachmittags 3 Uhr"
+    },
+    {
+      "_id": "6683dc6d4801253dbd73f1d0",
+      "uid": "5267cdb1-615a-4db1-a749-bbdb4ce2ac9a",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-04-23T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria, Doge von Genua",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria, sein Neffe",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Graf Fiesko, Haupt der Verschwörung",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina, verschworene Republikaner",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino, Gianettinos Vertrauter",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Asserato",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Muley Hassan",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024aaad",
+          "additional": "",
+          "firstName": "Herbert",
+          "lastName": "Kick",
+          "role": "Dritter Bürger",
+          "fullName": "Herbert Kick"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000138.jpg"
+      ],
+      "comment": "Nachmittags 3 Uhr"
+    },
+    {
+      "_id": "6683ef1e4801253dbd758e64",
+      "uid": "0a95ef0d-d97f-4124-a916-a28c64ffd407",
+      "productionId": "164e5e2a-fcc1-44c8-b082-dd97754534ce",
+      "title": "Die Verschwörung des Fiesko zu Genua",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-05-07T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Andreas Doria, Doge von Genua",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Gianettino Doria, sein Neffe",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Graf Fiesko, Haupt der Verschwörung",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Verrina, verschworene Republikaner",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Bourgognino",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Calcagno",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Sacco",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Lomellino, Gianettinos Vertrauter",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zenturione",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Zibo",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Asserato",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Romano, Maler",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Muley Hassan",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Deutscher der Herzoglichen Leibwache",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Erste Wache",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Zweite Wache",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Bürger",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Zweiter Bürger",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024aaad",
+          "additional": "",
+          "firstName": "Herbert",
+          "lastName": "Kick",
+          "role": "Dritter Bürger",
+          "fullName": "Herbert Kick"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vierter Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Bedienter",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Leonore, Fiescos Gemahlin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Julia, Dorias Schwester",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Berta, Verrinas Tochter",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Rosa, Leonores Kammermädchen",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Arabella, Leonores Kammermädchen",
+          "fullName": "Blanka Glossy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000155.jpg"
+      ],
+      "comment": "Nachmittags 3 Uhr"
+    }
+  ]
+}

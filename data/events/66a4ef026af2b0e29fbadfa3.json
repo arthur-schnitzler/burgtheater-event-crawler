@@ -1,0 +1,6039 @@
+{
+  "_id": "66a4ef026af2b0e29fbadfa3",
+  "uid": "6b452b31-67f9-4d95-bcdb-1bd03e46cb57",
+  "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+  "title": "Romeo und Julia",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-01-16T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b251",
+      "additional": "1896-1977",
+      "firstName": "Philipp",
+      "lastName": "Zeska",
+      "role": "Prinz Escalus",
+      "fullName": "Philipp Zeska"
+    },
+    {
+      "_id": "6504166ba47588ad6024b050",
+      "additional": "1897-1974",
+      "firstName": "Felix",
+      "lastName": "Steinböck",
+      "role": "Graf Paris",
+      "fullName": "Felix Steinböck"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa8a",
+      "additional": "1881-1959",
+      "firstName": "Julius",
+      "lastName": "Karsten",
+      "role": "Montague",
+      "fullName": "Julius Karsten"
+    },
+    {
+      "_id": "6568ee8c0080658502207fed",
+      "firstName": "Franz",
+      "lastName": "Höbling",
+      "additional": "1886-1965",
+      "role": "Capulet",
+      "fullName": "Franz Höbling"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "Romeo",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0df",
+      "additional": "",
+      "firstName": "Hermann",
+      "lastName": "Thimig",
+      "role": "Mercutio",
+      "fullName": "Hermann Thimig"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab35",
+      "additional": "1905-1963",
+      "firstName": "Helmuth",
+      "lastName": "Krauss",
+      "role": "Benvolio",
+      "fullName": "Helmuth Krauss"
+    },
+    {
+      "_id": "6504166ba47588ad6024b237",
+      "additional": "1901-1970",
+      "firstName": "Heinz",
+      "lastName": "Woester",
+      "role": "Tybalt",
+      "fullName": "Heinz Woester"
+    },
+    {
+      "_id": "6504166ba47588ad6024a621",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Blum",
+      "role": "Capulets Oheim",
+      "fullName": "Fritz Blum"
+    },
+    {
+      "_id": "6504166ba47588ad6024a543",
+      "additional": "1886-1958",
+      "firstName": "Raoul",
+      "lastName": "Aslan",
+      "role": "Bruder Lorenzo",
+      "fullName": "Raoul Aslan"
+    },
+    {
+      "_id": "6570bef400806585023dc09a",
+      "firstName": "Karl",
+      "lastName": "Friedl",
+      "additional": "1895-1970",
+      "role": "Balthasar",
+      "fullName": "Karl Friedl"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f6",
+      "additional": "",
+      "firstName": "Blanka",
+      "lastName": "Hohenthal",
+      "role": "Page des Paris",
+      "fullName": "Blanka Hohenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024a63c",
+      "additional": "1899-1971",
+      "firstName": "Viktor",
+      "lastName": "Braun",
+      "role": "Simson",
+      "fullName": "Viktor Braun"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Gregorio",
+      "fullName": "Otto Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7b1",
+      "additional": "1931-1972, danach als Gast ",
+      "firstName": "Richard",
+      "lastName": "Eybner",
+      "role": "Peter",
+      "fullName": "Richard Eybner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f9",
+      "additional": "",
+      "firstName": "Tassilo",
+      "lastName": "Holik",
+      "role": "Schmorpfanne",
+      "fullName": "Tassilo Holik"
+    },
+    {
+      "_id": "6504166ba47588ad6024aff3",
+      "additional": "1899-1965",
+      "firstName": "Reinhold",
+      "lastName": "Siegert",
+      "role": "Abraham",
+      "fullName": "Reinhold Siegert"
+    },
+    {
+      "_id": "6504166ba47588ad6024b085",
+      "additional": "1868-1938",
+      "firstName": "Fritz",
+      "lastName": "Strassni",
+      "role": "Apotheker",
+      "fullName": "Fritz Strassni"
+    },
+    {
+      "_id": "6504166ba47588ad6024aada",
+      "additional": "",
+      "firstName": "Rudolf",
+      "lastName": "Kleiser",
+      "role": "Musikant",
+      "fullName": "Rudolf Kleiser"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad8f",
+      "additional": "1880-1954",
+      "firstName": "Albert",
+      "lastName": "Paulmann",
+      "role": "Wache",
+      "fullName": "Albert Paulmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad67",
+      "additional": "",
+      "firstName": "Armand",
+      "lastName": "Ozory",
+      "role": "Friedhofwächter",
+      "fullName": "Armand Ozory"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1eb",
+      "additional": "1882-1958",
+      "firstName": "Gisela",
+      "lastName": "Wilke",
+      "role": "Gräfin Montague",
+      "fullName": "Gisela Wilke"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac90",
+      "additional": "1877-1958",
+      "firstName": "Maria",
+      "lastName": "Mayer",
+      "role": "Gräfin Capulet",
+      "fullName": "Maria Mayer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a8e1",
+      "additional": "1901-1949",
+      "firstName": "Nora",
+      "lastName": "Gregor",
+      "role": "Julia",
+      "fullName": "Nora Gregor"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac81",
+      "additional": "1880-1960",
+      "firstName": "Lotte",
+      "lastName": "Medelsky",
+      "role": "Julias Amme",
+      "fullName": "Lotte Medelsky"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b548",
+      "additional": "",
+      "firstName": "August Wilhelm",
+      "lastName": "Schlegel",
+      "fullName": "August Wilhelm Schlegel",
+      "role": "Deutsch"
+    },
+    {
+      "_id": "6504166ba47588ad6024aed1",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Salmhofer",
+      "fullName": "Franz Salmhofer",
+      "role": "Musik"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae8d",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Rosenthal",
+      "fullName": "Friedrich Rosenthal",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024add3",
+      "additional": "",
+      "firstName": "Emil",
+      "lastName": "Pirchan",
+      "fullName": "Emil Pirchan",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024add3",
+      "additional": "",
+      "firstName": "Emil",
+      "lastName": "Pirchan",
+      "fullName": "Emil Pirchan",
+      "role": "Kostüme"
+    },
+    {
+      "_id": "6504166ba47588ad6024aac8",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Klingenbeck",
+      "fullName": "Fritz Klingenbeck",
+      "role": "Tanzeinstudierung"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b572",
+      "additional": "",
+      "firstName": "William",
+      "lastName": "Shakespeare",
+      "fullName": "William Shakespeare"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-16.jpg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-16_00000002.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c2ed3ced60fbe22dcbe",
+      "uid": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neuinszenierung",
+      "count": "20",
+      "date": "1936-12-05T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0583.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-05.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-05_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3cdb66af2b0e29fa465f3",
+      "uid": "6a35f790-49ab-4f29-b144-36796778d4b4",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-08T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-08.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-08_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3ced56af2b0e29fa47ccc",
+      "uid": "fc9c4ca1-9dac-4e97-af6c-46e07f060b99",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-13T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-13.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-13_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3cf406af2b0e29fa48598",
+      "uid": "6b90ea03-1d73-4888-9253-d4aa0bdd5043",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-15T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-15.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3d0776af2b0e29fa49d8e",
+      "uid": "2e847434-bb77-4dbd-8edd-3371db238181",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-18T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-18.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3d0da6af2b0e29fa4a5e0",
+      "uid": "0a6def6d-dad9-4997-9a81-eee094ad1947",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-21T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-21.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3d38e6af2b0e29fa4dd27",
+      "uid": "03fec6c2-ded7-48f8-a7af-051b182db2a2",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-28.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3db2a6af2b0e29fa572db",
+      "uid": "9b0ca41e-1cff-4a0b-ba17-c4f4035debdf",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-29T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-29.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4e6df6af2b0e29fba30dd",
+      "uid": "12f7bda6-8808-497c-b608-1917afa500b3",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-06T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-06.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-06_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4eb316af2b0e29fba8de9",
+      "uid": "0ee38f78-5076-4743-bac6-8f1ec9f88b31",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-12T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-12.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4ec916af2b0e29fbaab30",
+      "uid": "9925b43c-451f-444d-ac7f-3124b7900e55",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-13T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-13.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-13_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4ef026af2b0e29fbadfa3",
+      "uid": "6b452b31-67f9-4d95-bcdb-1bd03e46cb57",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-16.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-16_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a502c56af2b0e29fbc6de6",
+      "uid": "72c7df43-4a4c-4129-b798-e69bdb96b8af",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-05T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-05.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a506686af2b0e29fbcb8d9",
+      "uid": "109ecb16-c3a0-4f4b-be6b-d10dcfa07f4c",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-18T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Gräfin Montague",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-18.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a50d336af2b0e29fbd4708",
+      "uid": "9ba94563-dd39-4f64-bcbf-9ff82c8abff6",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-11T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Mercutio",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-11.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a536a36af2b0e29fc082bc",
+      "uid": "16d1b9ff-fc44-4f75-8090-e9f427201f32",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Mercutio",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Julia",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-28.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-28_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a53b916af2b0e29fc0ea32",
+      "uid": "0d0ebfb9-1b80-427a-b5e8-acc1659f3e0b",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Prinz Escalus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Mercutio",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Julia",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-04.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-04_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a689a56af2b0e29fda9cb7",
+      "uid": "ac79722d-acc9-4211-99fe-9bd43758602b",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-12T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Prinz Escalus",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Peter",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Apotheker",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Gräfin Montague",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-12.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-12_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682cfa94801253dbd5eeed2",
+      "uid": "d161c964-0a06-4559-858d-eed4958a48e8",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-02-05T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Escalus, Prinz von Verona",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris, Verwandter des Prinzen",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague Haupt",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet Haupt",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo, Montagues Sohn",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio, Verwandter des Prinzen u. Romeos Freund",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio, Montagues Neffe und Romeos Freund",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Tybalt, Neffe der Gräfin Capulet",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo, ein Franziskaner",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar, Romeos Diener",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Abraham, Bedienter Montagues",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Julia, Capulets Tochter",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000048.jpg"
+      ],
+      "comment": "Nachmittags 3 Uhr"
+    },
+    {
+      "_id": "6682d3884801253dbd5f420d",
+      "uid": "8b511c04-8d6b-49b9-88f6-a0450e62edcc",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-02-09T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Escalus, Prinz von Verona",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris, Verwandter des Prinzen",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague Haupt",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet Haupt",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo, Montagues Sohn",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Mercutio, Verwandter des Prinzen u. Romeos Freund",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio, Montagues Neffe und Romeos Freund",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Tybalt, Neffe der Gräfin Capulet",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo, ein Franziskaner",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Balthasar, Romeos Diener",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Page des Paris",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Abraham, Bedienter Montagues",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Julia, Capulets Tochter",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000054.jpg"
+      ],
+      "comment": "Nachmittags 3 Uhr"
+    },
+    {
+      "_id": "6683bf2c4801253dbd71632c",
+      "uid": "356fec63-337a-4817-9463-92f3488acc66",
+      "productionId": "d0189418-4810-456f-b1cc-06f349ed34c0",
+      "title": "Romeo und Julia",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-03-05T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Escalus, Prinz von Verona",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Paris, Verwandter des Prinzen",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Montague Haupt",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Capulet Haupt",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Romeo, Montagues Sohn",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Mercutio, Verwandter des Prinzen u. Romeos Freund",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Benvolio, Montagues Neffe und Romeos Freund",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Tybalt, Neffe der Gräfin Capulet",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Capulets Oheim",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bruder Lorenzo, ein Franziskaner",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Balthasar, Romeos Diener",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Page des Paris",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Simson",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gregorio",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Peter",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Schmorpfanne",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Abraham, Bedienter Montagues",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Apotheker",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Musikant",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Wache",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Friedhofwächter",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Gräfin Montague",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Gräfin Capulet",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Julia, Capulets Tochter",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Julias Amme",
+          "fullName": "Lotte Medelsky"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b548",
+          "additional": "",
+          "firstName": "August Wilhelm",
+          "lastName": "Schlegel",
+          "fullName": "August Wilhelm Schlegel",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000083.jpg"
+      ],
+      "comment": "Nachmittags 3 Uhr"
+    }
+  ]
+}

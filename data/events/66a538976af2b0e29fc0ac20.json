@@ -1,0 +1,3592 @@
+{
+  "_id": "66a538976af2b0e29fc0ac20",
+  "uid": "724c950a-203d-40d8-b724-f0f9a4eca595",
+  "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+  "title": "Dritter November 1918",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-03-29T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b0f5",
+      "additional": "1871-1965",
+      "firstName": "Otto",
+      "lastName": "Tressler",
+      "role": "Oberst von Radosin",
+      "fullName": "Otto Tressler"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b36",
+      "additional": "1888-1961",
+      "firstName": "Paul",
+      "lastName": "Pranger",
+      "role": "Rittmeister Orványi",
+      "fullName": "Paul Pranger"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9a8",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Hennings",
+      "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+      "fullName": "Fred Hennings"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae22",
+      "additional": "1886-1970",
+      "firstName": "Emmerich",
+      "lastName": "Reimers",
+      "role": "Oberleutnant von Kaminski",
+      "fullName": "Emmerich Reimers"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7b1",
+      "additional": "1931-1972, danach als Gast ",
+      "firstName": "Richard",
+      "lastName": "Eybner",
+      "role": "Josip, sein Bursche, zugleich Koch",
+      "fullName": "Richard Eybner"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab35",
+      "additional": "1905-1963",
+      "firstName": "Helmuth",
+      "lastName": "Krauss",
+      "role": "Leutnant Vanini",
+      "fullName": "Helmuth Krauss"
+    },
+    {
+      "_id": "6504166ba47588ad6024b13e",
+      "additional": "1904-1972",
+      "firstName": "Eduard",
+      "lastName": "Volters",
+      "role": "Leutnant Sokal, im Zivil Lehrer",
+      "fullName": "Eduard Volters"
+    },
+    {
+      "_id": "6504166ba47588ad6024a990",
+      "additional": "1888-1954",
+      "firstName": "Wilhelm",
+      "lastName": "Heim",
+      "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+      "fullName": "Wilhelm Heim"
+    },
+    {
+      "_id": "6504166ba47588ad6024a63c",
+      "additional": "1899-1971",
+      "firstName": "Viktor",
+      "lastName": "Braun",
+      "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+      "fullName": "Viktor Braun"
+    },
+    {
+      "_id": "6568ee8c0080658502207fed",
+      "firstName": "Franz",
+      "lastName": "Höbling",
+      "additional": "1886-1965",
+      "role": "Maschinenmaat Pjotr Kacziuk",
+      "fullName": "Franz Höbling"
+    },
+    {
+      "_id": "6504166ba47588ad6024b069",
+      "additional": "",
+      "firstName": "Lilly",
+      "lastName": "Stepanek",
+      "role": "Schwester Christina",
+      "fullName": "Lilly Stepanek"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b16a",
+      "additional": "Regie, Bühne",
+      "firstName": "Herbert",
+      "lastName": "Waniek",
+      "fullName": "Herbert Waniek",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9d4",
+      "additional": "",
+      "firstName": "Stefan",
+      "lastName": "Hlawa",
+      "fullName": "Stefan Hlawa",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b32e",
+      "additional": "",
+      "firstName": "Franz Theodor",
+      "lastName": "Csokor",
+      "fullName": "Franz Theodor Csokor"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-29.jpg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-29_00000002.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c33d3ced60fbe22ecd9",
+      "uid": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "24",
+      "date": "1937-03-10T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Geitinger",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0585.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-10.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-10_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a50d676af2b0e29fbd4b36",
+      "uid": "b97ab7a9-a2cd-4fa3-8087-0ad4ca5ec206",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-12T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Geitinger",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-12.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5219c6af2b0e29fbecfb3",
+      "uid": "aa6123a4-96df-4f2c-97b8-ce9cebd2b735",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-13T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-13.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a523576af2b0e29fbef328",
+      "uid": "8db3d770-a7a3-40a4-a8b7-2d6bceb35823",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-14T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-14.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-14_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5244d6af2b0e29fbf06c4",
+      "uid": "21180ffd-ab65-49e8-860c-49cc9cde012f",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-16.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a524b56af2b0e29fbf0f08",
+      "uid": "e3be4c13-dfdf-4054-9ca8-9c08ce7a2d11",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-17T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-17.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-17_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a528f86af2b0e29fbf66c8",
+      "uid": "5ca3872e-64f3-4ba0-a473-1ccdfbf51176",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-20.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-20_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a532926af2b0e29fc0256c",
+      "uid": "5be9da6d-d3bc-44ce-b87b-5eba37f7d6d9",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-25T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-25.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a538976af2b0e29fc0ac20",
+      "uid": "724c950a-203d-40d8-b724-f0f9a4eca595",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-29T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-29.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-29_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a532c76af2b0e29fc02a67",
+      "uid": "15c481c1-59cc-4ca9-83c4-8dbdde1dce57",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-01T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-01.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a53bce6af2b0e29fc0ef8d",
+      "uid": "08f604c8-2b28-4cf1-a102-0190708e0851",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Schwester Christina",
+          "fullName": "Auguste Pünkösdy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-04.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-04_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5335c6af2b0e29fc0373e",
+      "uid": "32d9b89c-0783-41e6-afae-a31f2d36ee42",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-06T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-06.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a53d3d6af2b0e29fc10ddf",
+      "uid": "7b05f384-2428-4c4f-b371-e1b66d88d133",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-11T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Schwester Christina",
+          "fullName": "Auguste Pünkösdy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-11.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-11_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a533f06af2b0e29fc04543",
+      "uid": "3491858a-743b-4c68-959f-75ae0905270f",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-13T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Schwester Christina",
+          "fullName": "Auguste Pünkösdy"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-13.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a623786af2b0e29fd29ed7",
+      "uid": "8494296f-674e-46c8-b0f9-5650f17a9915",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-17T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-17.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-17_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a534b66af2b0e29fc0556c",
+      "uid": "74afc375-8747-4d99-8bf0-e3be16e590fb",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-19T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-19.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a534f46af2b0e29fc05ba9",
+      "uid": "d436c497-c516-4dd6-af04-f0d0fc3129a3",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-27T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-27.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a552596af2b0e29fc2c3aa",
+      "uid": "482d94d3-47c2-46ee-b5fa-78e4c3319689",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-13T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-13.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a555196af2b0e29fc30302",
+      "uid": "6f5e0c91-7a5b-44a2-8a3c-94acbc651fe7",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-23T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-23.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-23_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6102b6af2b0e29fd12980",
+      "uid": "dc21f1ae-fc09-4d6f-a64e-f18ebd740ac3",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-03T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz, im Zivil Landwirt",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip, sein Bursche, zugleich Koch",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz, im Zivil Rechtsanwalt",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Leutnant Vanini",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal, im Zivil Lehrer",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün, im Zivil Sekundararzt im Krankenhaus",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Carl Geitinger, im Zivil Markthelfer",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Pjotr Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-03.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a636716af2b0e29fd41844",
+      "uid": "07c6be07-b4a5-4dc8-8de2-824f4a30ee85",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-26T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Leutnant Vanini",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Geitinger",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-26.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-26_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a694b46af2b0e29fdb7dc2",
+      "uid": "7260390d-d1d2-4af2-9aa2-5ccdbff97b41",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-20T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Geitinger",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-20.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-20_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a72e506af2b0e29fe759f8",
+      "uid": "dabca0ec-3f0c-4500-8662-71f59267dab1",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-24T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Geitinger",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-24.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-24_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a78e146af2b0e29fef8ef8",
+      "uid": "ab962e12-3b9f-4876-9c56-c66c36a6c930",
+      "productionId": "88409113-bf0e-4240-84d3-21707c4e960f",
+      "title": "Dritter November 1918",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-11T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Oberst von Radosin",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Rittmeister Orványi",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberleutnant Ludoltz",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Oberleutnant von Kaminski",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Josip",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Oberleutnant Zierowitz",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Leutnant Vanini",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Leutnant Sokal",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Regimentsarzt Doktor Grün",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Zugsführer Geitinger",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Maschinenmaat Kacziuk",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Schwester Christina",
+          "fullName": "Lilly Stepanek"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b32e",
+          "additional": "",
+          "firstName": "Franz Theodor",
+          "lastName": "Csokor",
+          "fullName": "Franz Theodor Csokor"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-11.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-11_00000002.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

@@ -1,0 +1,2634 @@
+{
+  "_id": "66a503b96af2b0e29fbc81a1",
+  "uid": "fc0c983a-1dd0-44fd-8ab9-56cec3f940f3",
+  "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+  "title": "Der stumme Ritter",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-02-07T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6568ee8c0080658502207fed",
+      "firstName": "Franz",
+      "lastName": "Höbling",
+      "additional": "1886-1965",
+      "role": "Mathias Corvinus",
+      "fullName": "Franz Höbling"
+    },
+    {
+      "_id": "6504166ba47588ad6024b069",
+      "additional": "",
+      "firstName": "Lilly",
+      "lastName": "Stepanek",
+      "role": "Beatrice",
+      "fullName": "Lilly Stepanek"
+    },
+    {
+      "_id": "6504166ba47588ad6024a967",
+      "additional": "1936-1937",
+      "firstName": "Valerie",
+      "lastName": "Hatvany",
+      "role": "Zilia Duca",
+      "fullName": "Valerie Hatvany"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9a8",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Hennings",
+      "role": "Peter Agardi",
+      "fullName": "Fred Hennings"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7b1",
+      "additional": "1931-1972, danach als Gast ",
+      "firstName": "Richard",
+      "lastName": "Eybner",
+      "role": "Beppo",
+      "fullName": "Richard Eybner"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa3d",
+      "additional": "",
+      "firstName": "Julia",
+      "lastName": "Janssen",
+      "role": "Gianetta",
+      "fullName": "Julia Janssen"
+    },
+    {
+      "_id": "658f03ce51cd38b410089bda",
+      "firstName": "Barbara",
+      "lastName": "Uth",
+      "additional": "",
+      "role": "Mona Mea",
+      "fullName": "Barbara Uth"
+    },
+    {
+      "_id": "6504166ba47588ad6024a71e",
+      "additional": "1938-1952",
+      "firstName": "Sylvia",
+      "lastName": "Devez (verehel. Waniek)",
+      "role": "Carlotta",
+      "fullName": "Sylvia Devez (verehel. Waniek)"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac81",
+      "additional": "1880-1960",
+      "firstName": "Lotte",
+      "lastName": "Medelsky",
+      "role": "Nardella",
+      "fullName": "Lotte Medelsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024b180",
+      "additional": "1884-1963",
+      "firstName": "Hermann",
+      "lastName": "Wawra",
+      "role": "Marzio",
+      "fullName": "Hermann Wawra"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Hofnarro",
+      "fullName": "Otto Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b085",
+      "additional": "1868-1938",
+      "firstName": "Fritz",
+      "lastName": "Strassni",
+      "role": "Alter Kaplan",
+      "fullName": "Fritz Strassni"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab57",
+      "additional": "1926-1953",
+      "firstName": "Alois",
+      "lastName": "Krischke",
+      "role": "Türsteher",
+      "fullName": "Alois Krischke"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad8f",
+      "additional": "1880-1954",
+      "firstName": "Albert",
+      "lastName": "Paulmann",
+      "role": "Pietro",
+      "fullName": "Albert Paulmann"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b60b",
+      "additional": "",
+      "firstName": "Raoul",
+      "lastName": "Auernheimer",
+      "fullName": "Raoul Auernheimer",
+      "role": "Deutsch"
+    },
+    {
+      "_id": "6504166ba47588ad6024b251",
+      "additional": "1896-1977",
+      "firstName": "Philipp",
+      "lastName": "Zeska",
+      "fullName": "Philipp Zeska",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9d4",
+      "additional": "",
+      "firstName": "Stefan",
+      "lastName": "Hlawa",
+      "fullName": "Stefan Hlawa",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024a6d1",
+      "additional": "",
+      "firstName": "Ladislaus",
+      "lastName": "Czettel",
+      "fullName": "Ladislaus Czettel",
+      "role": "Kostüme"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b734",
+      "additional": "",
+      "firstName": "Eugen",
+      "lastName": "Heltai",
+      "fullName": "Eugen Heltai"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-07.jpg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-07_00000002.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c31d3ced60fbe22e639",
+      "uid": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "13",
+      "date": "1937-02-03T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Mathias Corvinus",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Marzio",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hofnarro",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0584.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-03.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a503506af2b0e29fbc78ec",
+      "uid": "f879e9c1-4794-487e-8485-42c06cd31c74",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-06T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Mathias Corvinus",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Marzio",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hofnarro",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-06.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-06_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a503b96af2b0e29fbc81a1",
+      "uid": "fc0c983a-1dd0-44fd-8ab9-56cec3f940f3",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-07T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Mathias Corvinus",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Marzio",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hofnarro",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-07.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-07_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a503e76af2b0e29fbc8566",
+      "uid": "9f16a68c-34ce-45da-826e-5dcad95b86ec",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-09T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Mathias Corvinus",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Marzio",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Hofnarro",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-09.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a504426af2b0e29fbc8cc7",
+      "uid": "20124212-68ad-462f-9799-1bd0797238d9",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-10T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Mathias Corvinus",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Marzio",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Hofnarro",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-10.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-10_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3f0626af2b0e29fa72183",
+      "uid": "0c2d611c-ac2d-48fc-9d7f-7df88d064fbd",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-11T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Mathias Corvinus",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Marzio",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Hofnarro",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-11.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a505536af2b0e29fbca1c9",
+      "uid": "905190fa-c53e-4662-b2a5-7c0b97905ec1",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-13T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Mathias Corvinus",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Marzio",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hofnarr",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-13.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-13_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3f0b46af2b0e29fa72845",
+      "uid": "abb293a4-ec6a-4aec-b5bd-97d2f8d3d113",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-15T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Mathias Corvinus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Marzio",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Hofnarro",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-15.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a505f76af2b0e29fbcaf56",
+      "uid": "28d4f298-9bc1-4bf8-ab4c-083c660e3019",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Mathias Corvinus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Marzio",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Hofnarro",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-16.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a506876af2b0e29fbcbb5b",
+      "uid": "de42fdc5-152b-430d-8666-db62a314bbfa",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-19T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Mathias Corvinus",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Marzio",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hofnarro",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-19.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a507916af2b0e29fbcd0e5",
+      "uid": "0fe6dd62-62bb-41c5-954c-056192271409",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-21T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Mathias Corvinus",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Marzio",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Hofnarro",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-21.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-21_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a50a8f6af2b0e29fbd0f24",
+      "uid": "8a71fdb6-d256-4bcb-8898-94b581d6b31e",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-01T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Mathias Corvinus",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Marzio",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Hofnarro",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-01.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a50b436af2b0e29fbd1e15",
+      "uid": "302f93db-9faa-46d8-b2af-31cec6494249",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Mathias Corvinus",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Marzio",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Hofnarro",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-04.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5322e6af2b0e29fc01cfe",
+      "uid": "ec6498a3-aefc-48c3-ab0b-0e0bf09cede5",
+      "productionId": "f3a9eb64-14ba-41a2-8839-3e4278325b0e",
+      "title": "Der stumme Ritter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-24T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Mathias Corvinus",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Beatrice",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a967",
+          "additional": "1936-1937",
+          "firstName": "Valerie",
+          "lastName": "Hatvany",
+          "role": "Zilia Duca",
+          "fullName": "Valerie Hatvany"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Peter Agardi",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Beppo",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gianetta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Mona Mea",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Carlotta",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Nardella",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Marzio",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hofnarro",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Alter Kaplan",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Türsteher",
+          "fullName": "Alois Krischke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Pietro",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b60b",
+          "additional": "",
+          "firstName": "Raoul",
+          "lastName": "Auernheimer",
+          "fullName": "Raoul Auernheimer",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6d1",
+          "additional": "",
+          "firstName": "Ladislaus",
+          "lastName": "Czettel",
+          "fullName": "Ladislaus Czettel",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b734",
+          "additional": "",
+          "firstName": "Eugen",
+          "lastName": "Heltai",
+          "fullName": "Eugen Heltai"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-24.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

@@ -1,0 +1,1436 @@
+{
+  "_id": "66a4ef2c6af2b0e29fbae37b",
+  "uid": "286e4d3d-cc33-4cdd-b133-ab257002e205",
+  "productionId": "6c223501-9515-4c41-a9ee-a03b5bf24eb0",
+  "title": "Der Biberpelz",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-01-17T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ac5d",
+      "additional": "1876-1949",
+      "firstName": "Hans",
+      "lastName": "Marr",
+      "role": "Von Wehrhahn",
+      "fullName": "Hans Marr"
+    },
+    {
+      "_id": "6504166ba47588ad6024af31",
+      "additional": "Autor, 1891-1963",
+      "firstName": "Wilhelm",
+      "lastName": "Schmidt",
+      "role": "Krüger",
+      "fullName": "Wilhelm Schmidt"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac81",
+      "additional": "1880-1960",
+      "firstName": "Lotte",
+      "lastName": "Medelsky",
+      "role": "Frau Wolff",
+      "fullName": "Lotte Medelsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024afe7",
+      "additional": "1872-1953",
+      "firstName": "Hans",
+      "lastName": "Siebert",
+      "role": "Julius Wolff",
+      "fullName": "Hans Siebert"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac80",
+      "additional": "1936-1963",
+      "firstName": "Liselotte",
+      "lastName": "Medelsky",
+      "role": "Leontine",
+      "fullName": "Liselotte Medelsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Adelheid",
+      "fullName": "Maria Kramer"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab35",
+      "additional": "1905-1963",
+      "firstName": "Helmuth",
+      "lastName": "Krauss",
+      "role": "Doktor Fleischer",
+      "fullName": "Helmuth Krauss"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7fe",
+      "additional": "",
+      "firstName": "Evelyn",
+      "lastName": "Flassig",
+      "role": "Philipp",
+      "fullName": "Evelyn Flassig"
+    },
+    {
+      "_id": "6504166ba47588ad6024a990",
+      "additional": "1888-1954",
+      "firstName": "Wilhelm",
+      "lastName": "Heim",
+      "role": "Motes",
+      "fullName": "Wilhelm Heim"
+    },
+    {
+      "_id": "6504166ba47588ad6024a56d",
+      "additional": "1897-1982",
+      "firstName": "Vera",
+      "lastName": "Balser-Eberle",
+      "role": "Frau Motes",
+      "fullName": "Vera Balser-Eberle"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac37",
+      "additional": "1881-1960",
+      "firstName": "Ferdinand",
+      "lastName": "Maierhofer",
+      "role": "Wulkow",
+      "fullName": "Ferdinand Maierhofer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b180",
+      "additional": "1884-1963",
+      "firstName": "Hermann",
+      "lastName": "Wawra",
+      "role": "Glasenapp",
+      "fullName": "Hermann Wawra"
+    },
+    {
+      "_id": "6504166ba47588ad6024a98a",
+      "additional": "1884-1947",
+      "firstName": "Reinhold",
+      "lastName": "Haeussermann",
+      "role": "Mitteldorf",
+      "fullName": "Reinhold Haeussermann"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024ae8d",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Rosenthal",
+      "fullName": "Friedrich Rosenthal",
+      "role": "Regie"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b3e2",
+      "additional": "",
+      "firstName": "Gerhart",
+      "lastName": "Hauptmann",
+      "fullName": "Gerhart Hauptmann"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-17.jpg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-17_00000002.jpg"
+  ],
+  "comment": "Nachmittagsvorstellung",
+  "productions": [
+    {
+      "_id": "65c61c2dd3ced60fbe22d714",
+      "uid": "6c223501-9515-4c41-a9ee-a03b5bf24eb0",
+      "productionId": "6c223501-9515-4c41-a9ee-a03b5bf24eb0",
+      "title": "Der Biberpelz",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neueinstudierung",
+      "count": "11",
+      "date": "1937-01-09T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "von Wehrhahn, Amtsvorsteher",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Krüger, Rentier",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Frau Wolff, Waschfrau",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Julius Wolff, ihr Mann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Leontine, ihre Tochter",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Adelheid, ihre Tochter",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Doktor Fleischer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Philipp, sein Söhnchen",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Motes",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Frau Motes",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Wulkow, Schiffer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Glasenapp, Amtsschreiber",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Mitteldorf, Amtsdiener",
+          "fullName": "Reinhold Haeussermann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0583.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-09.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-09_00000002.jpg"
+      ],
+      "comment": "2 von 11 Auff. im Akademietheater"
+    },
+    {
+      "_id": "66a4ef2c6af2b0e29fbae37b",
+      "uid": "286e4d3d-cc33-4cdd-b133-ab257002e205",
+      "productionId": "6c223501-9515-4c41-a9ee-a03b5bf24eb0",
+      "title": "Der Biberpelz",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-17T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Von Wehrhahn",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Krüger",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Frau Wolff",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Julius Wolff",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Leontine",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Adelheid",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Doktor Fleischer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Philipp",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Motes",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Frau Motes",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Wulkow",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Glasenapp",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Mitteldorf",
+          "fullName": "Reinhold Haeussermann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-17.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-17_00000002.jpg"
+      ],
+      "comment": "Nachmittagsvorstellung"
+    },
+    {
+      "_id": "66a3efa26af2b0e29fa71051",
+      "uid": "6cf2175b-ff94-4d26-bdc0-7e4e69e08558",
+      "productionId": "6c223501-9515-4c41-a9ee-a03b5bf24eb0",
+      "title": "Der Biberpelz",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-29T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Von Wehrhahn",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Krüger",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Frau Wolff",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Julius Wolff",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Leontine",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Adelheid",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Doktor Fleischer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Philipp",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Motes",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Frau Motes",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Wulkow",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Glasenapp",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Mitteldorf",
+          "fullName": "Reinhold Haeussermann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-29.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a394216af2b0e29f9fd472",
+      "uid": "d6d300e9-3d1e-4d71-a322-5799ea292e9f",
+      "productionId": "6c223501-9515-4c41-a9ee-a03b5bf24eb0",
+      "title": "Der Biberpelz",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Von Wehrhahn",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Krüger",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Frau Wolff",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Julius Wolff",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Leontine",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Adelheid",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Doktor Fleischer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Philipp",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Motes",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Frau Motes",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Wulkow",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Glasenapp",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Mitteldorf",
+          "fullName": "Reinhold Haeussermann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000064.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3dc036af2b0e29fa58559",
+      "uid": "11cb1ff2-9074-4e07-8e8b-c10d2c68675d",
+      "productionId": "6c223501-9515-4c41-a9ee-a03b5bf24eb0",
+      "title": "Der Biberpelz",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-10T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Von Wehrhahn",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Krüger",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Frau Wolff",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Julius Wolff",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Leontine",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Adelheid",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Doktor Fleischer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Philipp",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Motes",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Frau Motes",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Wulkow",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Glasenapp",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Mitteldorf",
+          "fullName": "Reinhold Haeussermann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000074.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668560094801253dbd92cf66",
+      "uid": "72b23baf-357c-4f05-83fc-aa6bf682654a",
+      "productionId": "6c223501-9515-4c41-a9ee-a03b5bf24eb0",
+      "title": "Der Biberpelz",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-12-15T11:00:00.000Z",
+      "season": "1938/1939",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Von Wehrhahn",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Krüger",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Frau Wolff",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Julius Wolff",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Leontine",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Adelheid",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Doktor Fleischer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Philipp",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Motes",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Frau Motes",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Wulkow",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Glasenapp",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Mitteldorf",
+          "fullName": "Reinhold Haeussermann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000340.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668564ac4801253dbd93301c",
+      "uid": "6b187179-75d8-43e6-a579-6344509edfe0",
+      "productionId": "6c223501-9515-4c41-a9ee-a03b5bf24eb0",
+      "title": "Der Biberpelz",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-12-21T11:00:00.000Z",
+      "season": "1938/1939",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Von Wehrhahn",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Krüger",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Frau Wolff",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Julius Wolff",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Leontine",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Adelheid",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Doktor Fleischer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Philipp",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Motes",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Frau Motes",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Wulkow",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Glasenapp",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Mitteldorf",
+          "fullName": "Reinhold Haeussermann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000347.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668696cc4801253dbdaba776",
+      "uid": "ba28ee58-e419-4ad3-a7e4-b6a5d1d36874",
+      "productionId": "6c223501-9515-4c41-a9ee-a03b5bf24eb0",
+      "title": "Der Biberpelz",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1939-01-17T11:00:00.000Z",
+      "season": "1938/1939",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Von Wehrhahn, Amtsvorsteher",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Krüger, Rentier",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Frau Wolff, Waschfrau",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Julius Wolff, ihr Mann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Leontine, ihre Tochter",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Adelheid, ihre Tochter",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Doktor Fleischer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Philipp, sein Söhnchen",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Motes",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Frau Motes",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Wulkow, Schiffer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Glasenapp, Amtsschreiber",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Mitteldorf, Amtsdiener",
+          "fullName": "Reinhold Haeussermann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1939/00000025.jpg"
+      ],
+      "comment": "Geschlossene Vorstellung für die NS-Gemeinschaft \"Kraft durch Freude\"\nKartenverkauf nur für KdF-Mitglieder gegen Vorweisung der Mitgliedskarte bei der KdF-Kartenzentrale, Wien 1., Opernring 19 (Tel. B 27 5 60) und an der Abendkasse."
+    },
+    {
+      "_id": "6686ae154801253dbdad8ef7",
+      "uid": "9b0c1946-25f0-4f55-91cd-41f3340d6b56",
+      "productionId": "6c223501-9515-4c41-a9ee-a03b5bf24eb0",
+      "title": "Der Biberpelz",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1939-02-12T11:00:00.000Z",
+      "season": "1938/1939",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Von Wehrhahn, Amtsvorsteher",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Krüger, Rentier",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Frau Wolff, Waschfrau",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Julius Wolff, ihr Mann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Leontine, ihre Tochter",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Adelheid, ihre Tochter",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Doktor Fleischer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Philipp, sein Söhnchen",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Motes",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a56d",
+          "additional": "1897-1982",
+          "firstName": "Vera",
+          "lastName": "Balser-Eberle",
+          "role": "Frau Motes",
+          "fullName": "Vera Balser-Eberle"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Wulkow, Schiffer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Glasenapp, Amtsschreiber",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Mitteldorf, Amtsdiener",
+          "fullName": "Reinhold Haeussermann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1939/00000058.jpg"
+      ],
+      "comment": "Nachmittags 15 Uhr\nGeschlossene Vorstellung für die NS-Gemeinschaft \"Kraft durch Freude\"\nKartenverkauf nur für KdF-Mitglieder gegen Vorweisung der Mitgliedskarte bei der KdF-Kartenzentrale, Wien 1., Opernring 19 (Tel. B 27 5 60) und an der Abendkasse"
+    }
+  ]
+}

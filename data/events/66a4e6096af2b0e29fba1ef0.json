@@ -1,0 +1,4823 @@
+{
+  "_id": "66a4e6096af2b0e29fba1ef0",
+  "uid": "dea36c88-907a-4033-af46-bf975914b81f",
+  "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+  "title": "Peterchens Mondfahrt",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-01-06T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b1eb",
+      "additional": "1882-1958",
+      "firstName": "Gisela",
+      "lastName": "Wilke",
+      "role": "Die Mutter",
+      "fullName": "Gisela Wilke"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Peterchen, ihr Kind",
+      "fullName": "Maria Kramer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a52b",
+      "additional": "",
+      "firstName": "Edeltraude",
+      "lastName": "Arnoscht",
+      "role": "Anneliese, ihr Kind",
+      "fullName": "Edeltraude Arnoscht"
+    },
+    {
+      "_id": "6504166ba47588ad6024acad",
+      "additional": "1885-1954",
+      "firstName": "Maria",
+      "lastName": "Mell",
+      "role": "Minna, das Dienstmädchen",
+      "fullName": "Maria Mell"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac37",
+      "additional": "1881-1960",
+      "firstName": "Ferdinand",
+      "lastName": "Maierhofer",
+      "role": "Der Maikäfer",
+      "fullName": "Ferdinand Maierhofer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a98a",
+      "additional": "1884-1947",
+      "firstName": "Reinhold",
+      "lastName": "Haeussermann",
+      "role": "Das Sandmännchen",
+      "fullName": "Reinhold Haeussermann"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac6b",
+      "additional": "",
+      "firstName": "Gerda",
+      "lastName": "Mattig",
+      "role": "Peterchens Sternchen",
+      "fullName": "Gerda Mattig"
+    },
+    {
+      "_id": "6504166ba47588ad6024af66",
+      "additional": "",
+      "firstName": "Inge",
+      "lastName": "Schrecker",
+      "role": "Annelieses Sternchen",
+      "fullName": "Inge Schrecker"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa58",
+      "additional": "1946-1976",
+      "firstName": "Albert (Berti)",
+      "lastName": "Jezel (Jetzel)",
+      "role": "Drittes Sternchen",
+      "fullName": "Albert (Berti) Jezel (Jetzel)"
+    },
+    {
+      "_id": "6504166ba47588ad6024a596",
+      "additional": "1928-1932",
+      "firstName": "Maria",
+      "lastName": "Baumeister",
+      "role": "Viertes Sternchen",
+      "fullName": "Maria Baumeister"
+    },
+    {
+      "_id": "658ff45851cd38b4100c5ac1",
+      "firstName": "Ruth",
+      "lastName": "Ratz",
+      "additional": "1936-1938",
+      "role": "Fünftes Sternchen",
+      "fullName": "Ruth Ratz"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac81",
+      "additional": "1880-1960",
+      "firstName": "Lotte",
+      "lastName": "Medelsky",
+      "role": "Die Nachtfee",
+      "fullName": "Lotte Medelsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024afe7",
+      "additional": "1872-1953",
+      "firstName": "Hans",
+      "lastName": "Siebert",
+      "role": "Der Donnermann",
+      "fullName": "Hans Siebert"
+    },
+    {
+      "_id": "6504166ba47588ad6024a678",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Burg",
+      "role": "Die Blitzhexe",
+      "fullName": "Maria Burg"
+    },
+    {
+      "_id": "6504166ba47588ad6024a8a8",
+      "additional": "1893-1952",
+      "firstName": "Blanka",
+      "lastName": "Glossy",
+      "role": "Die Wolkenfrau",
+      "fullName": "Blanka Glossy"
+    },
+    {
+      "_id": "6504166ba47588ad6024af31",
+      "additional": "Autor, 1891-1963",
+      "firstName": "Wilhelm",
+      "lastName": "Schmidt",
+      "role": "Der Regenfritz",
+      "fullName": "Wilhelm Schmidt"
+    },
+    {
+      "_id": "6504166ba47588ad6024a63c",
+      "additional": "1899-1971",
+      "firstName": "Viktor",
+      "lastName": "Braun",
+      "role": "Der Wassermann",
+      "fullName": "Viktor Braun"
+    },
+    {
+      "_id": "6570bef400806585023dc09a",
+      "firstName": "Karl",
+      "lastName": "Friedl",
+      "additional": "1895-1970",
+      "role": "Eiszapfen",
+      "fullName": "Karl Friedl"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7b1",
+      "additional": "1931-1972, danach als Gast ",
+      "firstName": "Richard",
+      "lastName": "Eybner",
+      "role": "Der Milchstraßenmann",
+      "fullName": "Richard Eybner"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa81",
+      "additional": "",
+      "firstName": "Elisabeth",
+      "lastName": "Kallina (verehel. Ortner)",
+      "role": "Die Sonne",
+      "fullName": "Elisabeth Kallina (verehel. Ortner)"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa3d",
+      "additional": "",
+      "firstName": "Julia",
+      "lastName": "Janssen",
+      "role": "Die Morgenröte",
+      "fullName": "Julia Janssen"
+    },
+    {
+      "_id": "6504166ba47588ad6024aff3",
+      "additional": "1899-1965",
+      "firstName": "Reinhold",
+      "lastName": "Siegert",
+      "role": "Der Weihnachtsmann",
+      "fullName": "Reinhold Siegert"
+    },
+    {
+      "_id": "6504166ba47588ad6024b180",
+      "additional": "1884-1963",
+      "firstName": "Hermann",
+      "lastName": "Wawra",
+      "role": "Der Lebkuchenmann",
+      "fullName": "Hermann Wawra"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa8a",
+      "additional": "1881-1959",
+      "firstName": "Julius",
+      "lastName": "Karsten",
+      "role": "Der Mann im Monde",
+      "fullName": "Julius Karsten"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6584b34c51cd38b410ec1c1d",
+      "firstName": "Clemens",
+      "lastName": "Schmalstich",
+      "additional": "",
+      "fullName": "Clemens Schmalstich",
+      "role": "Musik"
+    },
+    {
+      "_id": "6504166ba47588ad6024a63e",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Brahm",
+      "fullName": "Hans Brahm",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024aed1",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Salmhofer",
+      "fullName": "Franz Salmhofer",
+      "role": "Musikalische Leitung"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b2ae",
+      "additional": "",
+      "firstName": "Gerdt von",
+      "lastName": "Basewitz",
+      "fullName": "Gerdt von Basewitz"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-06.jpg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-06_00000002.jpg"
+  ],
+  "comment": "Nachmittagsvorstellung",
+  "productions": [
+    {
+      "_id": "65c61babd3ced60fbe20db94",
+      "uid": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Staatsoper",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "53",
+      "date": "1926-12-18T12:00:00.000Z",
+      "season": "1926/1927",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b20c",
+          "additional": "1870-1938",
+          "firstName": "Lotte",
+          "lastName": "Witt",
+          "role": "Die Mutter",
+          "fullName": "Lotte Witt"
+        },
+        {
+          "_id": "6584482e51cd38b410e8c968",
+          "firstName": "Hanna",
+          "lastName": "Hoessrich (Hössrich)",
+          "additional": "1925-1931",
+          "role": "Peterchen",
+          "fullName": "Hanna Hoessrich (Hössrich)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Anneliese",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmannchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab45",
+          "additional": "1922-1933",
+          "firstName": "Anni",
+          "lastName": "Krenek (Kreneck)",
+          "role": "Peterchens Sternchen",
+          "fullName": "Anni Krenek (Kreneck)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa90",
+          "additional": "1926-1929",
+          "firstName": "Isolde",
+          "lastName": "Kasper",
+          "role": "Annelieses Sternchen",
+          "fullName": "Isolde Kasper"
+        },
+        {
+          "_id": "6504166ba47588ad6024b081",
+          "additional": "1921-1928",
+          "firstName": "Senta",
+          "lastName": "Stillmark",
+          "role": "Drittes Sternchen",
+          "fullName": "Senta Stillmark"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc6",
+          "additional": "",
+          "firstName": "Magda",
+          "lastName": "Lena",
+          "role": "Viertes Sternchen",
+          "fullName": "Magda Lena"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5d",
+          "additional": "",
+          "firstName": "Minna",
+          "lastName": "Jezel",
+          "role": "Fünftes Sternchen",
+          "fullName": "Minna Jezel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Die Nachtfee",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aab9",
+          "additional": "1926-1929",
+          "firstName": "Rudolfine",
+          "lastName": "Kirsch",
+          "role": "Die Blitzhexe",
+          "fullName": "Rudolfine Kirsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Der Regenfritz",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024b250",
+          "additional": "1862-1938",
+          "firstName": "Karl",
+          "lastName": "Zeska",
+          "role": "Der Wassermann",
+          "fullName": "Karl Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a510",
+          "additional": "1888-1968",
+          "firstName": "Ludwig",
+          "lastName": "Andersen",
+          "role": "Der Eismax",
+          "fullName": "Ludwig Andersen"
+        },
+        {
+          "_id": "6504166ba47588ad6024acef",
+          "additional": "1864-1936",
+          "firstName": "Josef",
+          "lastName": "Moser",
+          "role": "Der Milchstrassenmann",
+          "fullName": "Josef Moser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a741",
+          "additional": "1924-1932",
+          "firstName": "Gerda",
+          "lastName": "Dreger",
+          "role": "Die Sonne",
+          "fullName": "Gerda Dreger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a73e",
+          "additional": "",
+          "firstName": "Gertrude",
+          "lastName": "Donath",
+          "role": "Die Morgenröte",
+          "fullName": "Gertrude Donath"
+        },
+        {
+          "_id": "6504166ba47588ad6024afdc",
+          "additional": "1872-1946",
+          "firstName": "Armin",
+          "lastName": "Seydelmann",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Armin Seydelmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Mond",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0510.jpg"
+      ],
+      "comment": "Das Stück wurde 20 mal im Burgtheater aufgeführt. "
+    },
+    {
+      "_id": "6696440e6af2b0e29f8e805f",
+      "uid": "48999254-58c0-4ffb-9379-e17de0a73d4e",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1930-12-07T11:00:00.000Z",
+      "season": "1930/1931",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6584482e51cd38b410e8c968",
+          "firstName": "Hanna",
+          "lastName": "Hoessrich (Hössrich)",
+          "additional": "1925-1931",
+          "role": "Peterchen",
+          "fullName": "Hanna Hoessrich (Hössrich)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Anneliese",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmannchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab45",
+          "additional": "1922-1933",
+          "firstName": "Anni",
+          "lastName": "Krenek (Kreneck)",
+          "role": "Peterchens Sternchen",
+          "fullName": "Anni Krenek (Kreneck)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa90",
+          "additional": "1926-1929",
+          "firstName": "Isolde",
+          "lastName": "Kasper",
+          "role": "Annelieses Sternchen",
+          "fullName": "Isolde Kasper"
+        },
+        {
+          "_id": "6504166ba47588ad6024b081",
+          "additional": "1921-1928",
+          "firstName": "Senta",
+          "lastName": "Stillmark",
+          "role": "Drittes Sternchen",
+          "fullName": "Senta Stillmark"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc6",
+          "additional": "",
+          "firstName": "Magda",
+          "lastName": "Lena",
+          "role": "Viertes Sternchen",
+          "fullName": "Magda Lena"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5d",
+          "additional": "",
+          "firstName": "Minna",
+          "lastName": "Jezel",
+          "role": "Fünftes Sternchen",
+          "fullName": "Minna Jezel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Die Nachtfee",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Der Regenfritz",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Der Eismax",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024acef",
+          "additional": "1864-1936",
+          "firstName": "Josef",
+          "lastName": "Moser",
+          "role": "Der Milchstrassenmann",
+          "fullName": "Josef Moser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a741",
+          "additional": "1924-1932",
+          "firstName": "Gerda",
+          "lastName": "Dreger",
+          "role": "Die Sonne",
+          "fullName": "Gerda Dreger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Die Morgenröte",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024afdc",
+          "additional": "1872-1946",
+          "firstName": "Armin",
+          "lastName": "Seydelmann",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Armin Seydelmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Mond",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1930/1930-12-07.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1930/1930-12-07_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "669644196af2b0e29f8e8140",
+      "uid": "3616f1ee-7e21-4fcd-ad4e-2b2706039d45",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1930-12-08T11:00:00.000Z",
+      "season": "1930/1931",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6584482e51cd38b410e8c968",
+          "firstName": "Hanna",
+          "lastName": "Hoessrich (Hössrich)",
+          "additional": "1925-1931",
+          "role": "Peterchen",
+          "fullName": "Hanna Hoessrich (Hössrich)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Anneliese",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmännchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab45",
+          "additional": "1922-1933",
+          "firstName": "Anni",
+          "lastName": "Krenek (Kreneck)",
+          "role": "Peterchens Sternchen",
+          "fullName": "Anni Krenek (Kreneck)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa90",
+          "additional": "1926-1929",
+          "firstName": "Isolde",
+          "lastName": "Kasper",
+          "role": "Annelieses Sternchen",
+          "fullName": "Isolde Kasper"
+        },
+        {
+          "_id": "6504166ba47588ad6024b081",
+          "additional": "1921-1928",
+          "firstName": "Senta",
+          "lastName": "Stillmark",
+          "role": "Drittes Sternchen",
+          "fullName": "Senta Stillmark"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc6",
+          "additional": "",
+          "firstName": "Magda",
+          "lastName": "Lena",
+          "role": "Viertes Sternchen",
+          "fullName": "Magda Lena"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5d",
+          "additional": "",
+          "firstName": "Minna",
+          "lastName": "Jezel",
+          "role": "Fünftes Sternchen",
+          "fullName": "Minna Jezel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Die Nachtfee",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Der Regenfritz",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Eiszapfen",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024acef",
+          "additional": "1864-1936",
+          "firstName": "Josef",
+          "lastName": "Moser",
+          "role": "Der Milchstrassenmann",
+          "fullName": "Josef Moser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a741",
+          "additional": "1924-1932",
+          "firstName": "Gerda",
+          "lastName": "Dreger",
+          "role": "Die Sonne",
+          "fullName": "Gerda Dreger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Die Morgenröte",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024afdc",
+          "additional": "1872-1946",
+          "firstName": "Armin",
+          "lastName": "Seydelmann",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Armin Seydelmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Mond",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1930/1930-12-08.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1930/1930-12-08_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6696492c6af2b0e29f8ef8c5",
+      "uid": "574c39fc-1956-4ff9-a0f4-226bc10b044e",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1930-12-28T11:00:00.000Z",
+      "season": "1930/1931",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6584482e51cd38b410e8c968",
+          "firstName": "Hanna",
+          "lastName": "Hoessrich (Hössrich)",
+          "additional": "1925-1931",
+          "role": "Peterchen",
+          "fullName": "Hanna Hoessrich (Hössrich)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Anneliese",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmannchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab45",
+          "additional": "1922-1933",
+          "firstName": "Anni",
+          "lastName": "Krenek (Kreneck)",
+          "role": "Peterchens Sternchen",
+          "fullName": "Anni Krenek (Kreneck)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa90",
+          "additional": "1926-1929",
+          "firstName": "Isolde",
+          "lastName": "Kasper",
+          "role": "Annelieses Sternchen",
+          "fullName": "Isolde Kasper"
+        },
+        {
+          "_id": "6504166ba47588ad6024b081",
+          "additional": "1921-1928",
+          "firstName": "Senta",
+          "lastName": "Stillmark",
+          "role": "Drittes Sternchen",
+          "fullName": "Senta Stillmark"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc6",
+          "additional": "",
+          "firstName": "Magda",
+          "lastName": "Lena",
+          "role": "Viertes Sternchen",
+          "fullName": "Magda Lena"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5d",
+          "additional": "",
+          "firstName": "Minna",
+          "lastName": "Jezel",
+          "role": "Fünftes Sternchen",
+          "fullName": "Minna Jezel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Die Nachtfee",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Der Regenfritz",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa16",
+          "additional": "1887-1945",
+          "firstName": "Walter",
+          "lastName": "Huber",
+          "role": "Eiszapfen",
+          "fullName": "Walter Huber"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ed",
+          "additional": "1906-1967",
+          "firstName": "Wolfgang",
+          "lastName": "Albach-Retty",
+          "role": "Der Milchstrassenmann",
+          "fullName": "Wolfgang Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Die Sonne",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Die Morgenröte",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024afdc",
+          "additional": "1872-1946",
+          "firstName": "Armin",
+          "lastName": "Seydelmann",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Armin Seydelmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Mond",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1930/1930-12-28.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1930/1930-12-28_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6696d5be6af2b0e29f9ad076",
+      "uid": "4d1a461d-5ec4-4bda-ad5d-c510d7693caf",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1931-01-06T11:00:00.000Z",
+      "season": "1930/1931",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6584482e51cd38b410e8c968",
+          "firstName": "Hanna",
+          "lastName": "Hoessrich (Hössrich)",
+          "additional": "1925-1931",
+          "role": "Peterchen, Kind",
+          "fullName": "Hanna Hoessrich (Hössrich)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Anneliese, Kind",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna, das Dienstmädchen",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmannchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab45",
+          "additional": "1922-1933",
+          "firstName": "Anni",
+          "lastName": "Krenek (Kreneck)",
+          "role": "Peterchens Sternchen",
+          "fullName": "Anni Krenek (Kreneck)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa90",
+          "additional": "1926-1929",
+          "firstName": "Isolde",
+          "lastName": "Kasper",
+          "role": "Annelieses Sternchen",
+          "fullName": "Isolde Kasper"
+        },
+        {
+          "_id": "6504166ba47588ad6024b081",
+          "additional": "1921-1928",
+          "firstName": "Senta",
+          "lastName": "Stillmark",
+          "role": "Drittes Sternchen",
+          "fullName": "Senta Stillmark"
+        },
+        {
+          "_id": "6504166ba47588ad6024abc6",
+          "additional": "",
+          "firstName": "Magda",
+          "lastName": "Lena",
+          "role": "Viertes Sternchen",
+          "fullName": "Magda Lena"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5d",
+          "additional": "",
+          "firstName": "Minna",
+          "lastName": "Jezel",
+          "role": "Fünftes Sternchen",
+          "fullName": "Minna Jezel"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa80",
+          "additional": "1876-1948",
+          "firstName": "Anna",
+          "lastName": "Kallina",
+          "role": "Die Nachtfee",
+          "fullName": "Anna Kallina"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Der Regenfritz",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa16",
+          "additional": "1887-1945",
+          "firstName": "Walter",
+          "lastName": "Huber",
+          "role": "Eiszapfen",
+          "fullName": "Walter Huber"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ed",
+          "additional": "1906-1967",
+          "firstName": "Wolfgang",
+          "lastName": "Albach-Retty",
+          "role": "Der Milchstrassenmann",
+          "fullName": "Wolfgang Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024acb4",
+          "additional": "",
+          "firstName": "Erna",
+          "lastName": "Michall",
+          "role": "Die Sonne",
+          "fullName": "Erna Michall"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Die Morgenröte",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024afdc",
+          "additional": "1872-1946",
+          "firstName": "Armin",
+          "lastName": "Seydelmann",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Armin Seydelmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Mond",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1931/1931-01-06.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1931/1931-01-06_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a007fd6af2b0e29f56f02e",
+      "uid": "d3ac5f7c-34cf-4ebe-9b57-ea2e427a94cf",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1934-12-23T11:00:00.000Z",
+      "season": "1934/1935",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Peterchen, Kind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Anneliese, Kind",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna, das Dienstmädchen",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmannchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac6b",
+          "additional": "",
+          "firstName": "Gerda",
+          "lastName": "Mattig",
+          "role": "Peterchens Sternchen",
+          "fullName": "Gerda Mattig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5f4",
+          "additional": "",
+          "firstName": "Herta",
+          "lastName": "Berndt",
+          "role": "Annelieses Sternchen",
+          "fullName": "Herta Berndt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Drittes Sternchen",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a596",
+          "additional": "1928-1932",
+          "firstName": "Maria",
+          "lastName": "Baumeister",
+          "role": "Viertes Sternchen",
+          "fullName": "Maria Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5d",
+          "additional": "",
+          "firstName": "Minna",
+          "lastName": "Jezel",
+          "role": "Fünftes Sternchen",
+          "fullName": "Minna Jezel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Nachtfee",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Der Regenfritz",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa16",
+          "additional": "1887-1945",
+          "firstName": "Walter",
+          "lastName": "Huber",
+          "role": "Eiszapfen",
+          "fullName": "Walter Huber"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Milchstrassenmann",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95d",
+          "additional": "",
+          "firstName": "Anny",
+          "lastName": "Hartmann",
+          "role": "Die Sonne",
+          "fullName": "Anny Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Die Morgenröte",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Mond",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1934/1934-12-23.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1934/1934-12-23_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a009f46af2b0e29f57190c",
+      "uid": "7f551a6d-97dd-4c84-8d85-7fb2570b0e8c",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1934-12-30T11:00:00.000Z",
+      "season": "1934/1935",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Peterchen",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Anneliese",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmannchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac6b",
+          "additional": "",
+          "firstName": "Gerda",
+          "lastName": "Mattig",
+          "role": "Peterchens Sternchen",
+          "fullName": "Gerda Mattig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5f4",
+          "additional": "",
+          "firstName": "Herta",
+          "lastName": "Berndt",
+          "role": "Annelieses Sternchen",
+          "fullName": "Herta Berndt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Drittes Sternchen",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a596",
+          "additional": "1928-1932",
+          "firstName": "Maria",
+          "lastName": "Baumeister",
+          "role": "Viertes Sternchen",
+          "fullName": "Maria Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5d",
+          "additional": "",
+          "firstName": "Minna",
+          "lastName": "Jezel",
+          "role": "Fünftes Sternchen",
+          "fullName": "Minna Jezel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Nachtfee",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Der Regenfritz",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa16",
+          "additional": "1887-1945",
+          "firstName": "Walter",
+          "lastName": "Huber",
+          "role": "Der Eiszapfen",
+          "fullName": "Walter Huber"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Milchstraßenmann",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95d",
+          "additional": "",
+          "firstName": "Anny",
+          "lastName": "Hartmann",
+          "role": "Die Sonne",
+          "fullName": "Anny Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Die Morgenröte",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Mond",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1934/1934-12-30.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1934/1934-12-30_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a0d2036af2b0e29f66a09c",
+      "uid": "40528ff4-af29-4f8b-a2b0-a4fc574738ee",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1935-01-05T11:00:00.000Z",
+      "season": "1934/1935",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Peterchen",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Anneliese",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmannchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac6b",
+          "additional": "",
+          "firstName": "Gerda",
+          "lastName": "Mattig",
+          "role": "Peterchens Sternchen",
+          "fullName": "Gerda Mattig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5f4",
+          "additional": "",
+          "firstName": "Herta",
+          "lastName": "Berndt",
+          "role": "Annelieses Sternchen",
+          "fullName": "Herta Berndt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Drittes Sternchen",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a596",
+          "additional": "1928-1932",
+          "firstName": "Maria",
+          "lastName": "Baumeister",
+          "role": "Viertes Sternchen",
+          "fullName": "Maria Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5d",
+          "additional": "",
+          "firstName": "Minna",
+          "lastName": "Jezel",
+          "role": "Fünftes Sternchen",
+          "fullName": "Minna Jezel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Nachtfee",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Der Regenfritz",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa16",
+          "additional": "1887-1945",
+          "firstName": "Walter",
+          "lastName": "Huber",
+          "role": "Der Eiszapfen",
+          "fullName": "Walter Huber"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Milchstraßenmann",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95d",
+          "additional": "",
+          "firstName": "Anny",
+          "lastName": "Hartmann",
+          "role": "Die Sonne",
+          "fullName": "Anny Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Die Morgenröte",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Mond",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1935/1935-01-05.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1935/1935-01-05_00000002.jpg"
+      ],
+      "comment": "Nachmittagsvorstellung"
+    },
+    {
+      "_id": "66a2014e6af2b0e29f7f37ea",
+      "uid": "a1697be4-5938-4898-9d37-960657ba33ea",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1935-12-20T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Peterchen",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Anneliese",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmannchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac6b",
+          "additional": "",
+          "firstName": "Gerda",
+          "lastName": "Mattig",
+          "role": "Peterchens Sternchen",
+          "fullName": "Gerda Mattig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5f4",
+          "additional": "",
+          "firstName": "Herta",
+          "lastName": "Berndt",
+          "role": "Annelieses Sternchen",
+          "fullName": "Herta Berndt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Drittes Sternchen",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a596",
+          "additional": "1928-1932",
+          "firstName": "Maria",
+          "lastName": "Baumeister",
+          "role": "Viertes Sternchen",
+          "fullName": "Maria Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5d",
+          "additional": "",
+          "firstName": "Minna",
+          "lastName": "Jezel",
+          "role": "Fünftes Sternchen",
+          "fullName": "Minna Jezel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Nachtfee",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Der Regenfritz",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa16",
+          "additional": "1887-1945",
+          "firstName": "Walter",
+          "lastName": "Huber",
+          "role": "Der Eiszapfen",
+          "fullName": "Walter Huber"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Milchstraßenmann",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Die Sonne",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Die Morgenröte",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Mond",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1935/1935-12-20.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1935/1935-12-20_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a202166af2b0e29f7f4af4",
+      "uid": "a2bd16f1-3480-42ba-a931-fea6434641d4",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1935-12-21T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Peterchen",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Anneliese",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmannchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac6b",
+          "additional": "",
+          "firstName": "Gerda",
+          "lastName": "Mattig",
+          "role": "Peterchens Sternchen",
+          "fullName": "Gerda Mattig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5f4",
+          "additional": "",
+          "firstName": "Herta",
+          "lastName": "Berndt",
+          "role": "Annelieses Sternchen",
+          "fullName": "Herta Berndt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Drittes Sternchen",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a596",
+          "additional": "1928-1932",
+          "firstName": "Maria",
+          "lastName": "Baumeister",
+          "role": "Viertes Sternchen",
+          "fullName": "Maria Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5d",
+          "additional": "",
+          "firstName": "Minna",
+          "lastName": "Jezel",
+          "role": "Fünftes Sternchen",
+          "fullName": "Minna Jezel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Nachtfee",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Der Regenfritz",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa16",
+          "additional": "1887-1945",
+          "firstName": "Walter",
+          "lastName": "Huber",
+          "role": "Der Eiszapfen",
+          "fullName": "Walter Huber"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Milchstraßenmann",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Die Sonne",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Die Morgenröte",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Mond",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1935/1935-12-21.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1935/1935-12-21_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a203236af2b0e29f7f6361",
+      "uid": "f8349059-077f-45e6-939d-4017172aef01",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1935-12-22T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Peterchen",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Anneliese",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmannchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac6b",
+          "additional": "",
+          "firstName": "Gerda",
+          "lastName": "Mattig",
+          "role": "Peterchens Sternchen",
+          "fullName": "Gerda Mattig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5f4",
+          "additional": "",
+          "firstName": "Herta",
+          "lastName": "Berndt",
+          "role": "Annelieses Sternchen",
+          "fullName": "Herta Berndt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Drittes Sternchen",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a596",
+          "additional": "1928-1932",
+          "firstName": "Maria",
+          "lastName": "Baumeister",
+          "role": "Viertes Sternchen",
+          "fullName": "Maria Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5d",
+          "additional": "",
+          "firstName": "Minna",
+          "lastName": "Jezel",
+          "role": "Fünftes Sternchen",
+          "fullName": "Minna Jezel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Nachtfee",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Der Regenfritz",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa16",
+          "additional": "1887-1945",
+          "firstName": "Walter",
+          "lastName": "Huber",
+          "role": "Der Eiszapfen",
+          "fullName": "Walter Huber"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Milchstraßenmann",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Die Sonne",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Die Morgenröte",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Mond",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1935/1935-12-22.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1935/1935-12-22_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a29d5d6af2b0e29f8c8cea",
+      "uid": "2a1a5a78-ee78-4cc2-8b52-665dff183d36",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-01-01T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Peterchen, ihr Kind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Anneliese, ihr Kind",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna, das Dienstmädchen",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmännchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac6b",
+          "additional": "",
+          "firstName": "Gerda",
+          "lastName": "Mattig",
+          "role": "Peterchens Sternchen",
+          "fullName": "Gerda Mattig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5f4",
+          "additional": "",
+          "firstName": "Herta",
+          "lastName": "Berndt",
+          "role": "Annelieses Sternchen",
+          "fullName": "Herta Berndt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Drittes Sternchen",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a596",
+          "additional": "1928-1932",
+          "firstName": "Maria",
+          "lastName": "Baumeister",
+          "role": "Viertes Sternchen",
+          "fullName": "Maria Baumeister"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5d",
+          "additional": "",
+          "firstName": "Minna",
+          "lastName": "Jezel",
+          "role": "Fünftes Sternchen",
+          "fullName": "Minna Jezel"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Nachtfee",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Der Regenfritz",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa16",
+          "additional": "1887-1945",
+          "firstName": "Walter",
+          "lastName": "Huber",
+          "role": "Eiszapfen",
+          "fullName": "Walter Huber"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Milchstraßenmann",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Die Sonne",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Die Morgenröte",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Monde",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-01-01.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-01-01_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3cc996af2b0e29fa44fc9",
+      "uid": "b627e15d-1ace-48a1-85ba-d1a57385260a",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-08T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Peterchen, ihr Kind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Anneliese, ihr Kind",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna, das Dienstmädchen",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmännchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac6b",
+          "additional": "",
+          "firstName": "Gerda",
+          "lastName": "Mattig",
+          "role": "Peterchens Sternchen",
+          "fullName": "Gerda Mattig"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5f4",
+          "additional": "",
+          "firstName": "Herta",
+          "lastName": "Berndt",
+          "role": "Annelieses Sternchen",
+          "fullName": "Herta Berndt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Drittes Sternchen",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a596",
+          "additional": "1928-1932",
+          "firstName": "Maria",
+          "lastName": "Baumeister",
+          "role": "Viertes Sternchen",
+          "fullName": "Maria Baumeister"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Fünftes Sternchen",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Nachtfee",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Der Donnermann",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Der Regenfritz",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Eiszapfen",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Milchstraßenmann",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Die Sonne",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Die Morgenröte",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Monde",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-08.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-08_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4e6096af2b0e29fba1ef0",
+      "uid": "dea36c88-907a-4033-af46-bf975914b81f",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-06T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Die Mutter",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Peterchen, ihr Kind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Anneliese, ihr Kind",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Minna, das Dienstmädchen",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Der Maikäfer",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmännchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac6b",
+          "additional": "",
+          "firstName": "Gerda",
+          "lastName": "Mattig",
+          "role": "Peterchens Sternchen",
+          "fullName": "Gerda Mattig"
+        },
+        {
+          "_id": "6504166ba47588ad6024af66",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Schrecker",
+          "role": "Annelieses Sternchen",
+          "fullName": "Inge Schrecker"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Drittes Sternchen",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a596",
+          "additional": "1928-1932",
+          "firstName": "Maria",
+          "lastName": "Baumeister",
+          "role": "Viertes Sternchen",
+          "fullName": "Maria Baumeister"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Fünftes Sternchen",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Nachtfee",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Der Donnermann",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Die Blitzhexe",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Die Wolkenfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Der Regenfritz",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Der Wassermann",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Eiszapfen",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Milchstraßenmann",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Die Sonne",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Die Morgenröte",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Der Mann im Monde",
+          "fullName": "Julius Karsten"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63e",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Brahm",
+          "fullName": "Hans Brahm",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-06.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-06_00000002.jpg"
+      ],
+      "comment": "Nachmittagsvorstellung"
+    },
+    {
+      "_id": "66a6b8836af2b0e29fde9124",
+      "uid": "bdd0f191-7d4b-48aa-9c54-2798639c05f2",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-19T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Die Mutter",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Peterchen",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Anneliese",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Minna",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Maikäfer",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Das Sandmännchen",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Peterchens Sternchen",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Annelieses Sternchen",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae53",
+          "additional": "",
+          "firstName": "Mary",
+          "lastName": "Reyhan",
+          "role": "Drittes Sternchen",
+          "fullName": "Mary Reyhan"
+        },
+        {
+          "_id": "6504166ba47588ad6024adce",
+          "additional": "",
+          "firstName": "Julius",
+          "lastName": "Piloti",
+          "role": "Viertes Sternchen",
+          "fullName": "Julius Piloti"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Fünftes Sternchen",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Die Nachtfee",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Der Donnermann",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Die Blitzhexe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Die Wolkenfrau",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Der Regenfritz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Der Eiszapfen",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Der Milchstrassenmann",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2f",
+          "additional": "1937-1947",
+          "firstName": "Irmgard",
+          "lastName": "Mader",
+          "role": "Die Sonne",
+          "fullName": "Irmgard Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Die Morgenröte",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Mann im Mond",
+          "fullName": "Reinhold Siegert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-19.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-19_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a7374b6af2b0e29fe81249",
+      "uid": "2be65539-2378-4a61-a3b3-4d9da76ded9b",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-27T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Die Mutter",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Peterchen",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Anneliese",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Minna",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Maikäfer",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Das Sandmännchen",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Peterchens Sternchen",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Annelieses Sternchen",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae53",
+          "additional": "",
+          "firstName": "Mary",
+          "lastName": "Reyhan",
+          "role": "Drittes Sternchen",
+          "fullName": "Mary Reyhan"
+        },
+        {
+          "_id": "6504166ba47588ad6024adce",
+          "additional": "",
+          "firstName": "Julius",
+          "lastName": "Piloti",
+          "role": "Viertes Sternchen",
+          "fullName": "Julius Piloti"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Fünftes Sternchen",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Die Nachtfee",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Der Donnermann",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Die Blitzhexe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Die Wolkenfrau",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Der Regenfritz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Der Eiszapfen",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Der Milchstrassenmann",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2f",
+          "additional": "1937-1947",
+          "firstName": "Irmgard",
+          "lastName": "Mader",
+          "role": "Die Sonne",
+          "fullName": "Irmgard Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Die Morgenröte",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Mann im Mond",
+          "fullName": "Reinhold Siegert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-27.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-27_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682a0c04801253dbd5b13c7",
+      "uid": "bae8136d-ddd1-43d2-b4df-8e7ae466f9e8",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-01T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Die Mutter",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Peterchen, das Kind",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Anneliese, das Kind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Minna",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Maikäfer",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmannchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Peterchens Sternchen",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Annelieses Sternchen",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae53",
+          "additional": "",
+          "firstName": "Mary",
+          "lastName": "Reyhan",
+          "role": "Drittes Sternchen",
+          "fullName": "Mary Reyhan"
+        },
+        {
+          "_id": "6504166ba47588ad6024adce",
+          "additional": "",
+          "firstName": "Julius",
+          "lastName": "Piloti",
+          "role": "Viertes Sternchen",
+          "fullName": "Julius Piloti"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Fünftes Sternchen",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Die Nachtfee",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Der Donnermann",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Die Blitzhexe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Die Wolkenfrau",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Der Regenfritz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Eiszapfen",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Der Milchstrassenmann",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2f",
+          "additional": "1937-1947",
+          "firstName": "Irmgard",
+          "lastName": "Mader",
+          "role": "Die Sonne",
+          "fullName": "Irmgard Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Die Morgenröte",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Mann im Mond",
+          "fullName": "Reinhold Siegert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        },
+        {
+          "_id": "651691d696c724dc0090cc1b",
+          "firstName": "Philipp von",
+          "lastName": "Zeska",
+          "additional": "1920-",
+          "fullName": "Philipp von Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000001.jpg"
+      ],
+      "comment": "Nachmittags 2 1/2 Uhr"
+    },
+    {
+      "_id": "6682bd984801253dbd5d60b2",
+      "uid": "cd695c7a-9b85-4399-9f8a-19c7263d5bfd",
+      "productionId": "f3670116-9160-453a-b5b1-6223b80cb402",
+      "title": "Peterchens Mondfahrt",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-16T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Die Mutter",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Peterchen, das Kind",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Anneliese, das Kind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Minna",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Der Maikäfer",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Das Sandmannchen",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Peterchens Sternchen",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Annelieses Sternchen",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae53",
+          "additional": "",
+          "firstName": "Mary",
+          "lastName": "Reyhan",
+          "role": "Drittes Sternchen",
+          "fullName": "Mary Reyhan"
+        },
+        {
+          "_id": "6504166ba47588ad6024a97c",
+          "additional": "",
+          "firstName": "Erni",
+          "lastName": "Haupt",
+          "role": "Viertes Sternchen",
+          "fullName": "Erni Haupt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac75",
+          "additional": "",
+          "firstName": "Elly",
+          "lastName": "Masovszky",
+          "role": "Fünftes Sternchen",
+          "fullName": "Elly Masovszky"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Die Nachtfee",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Der Donnermann",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Die Blitzhexe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Die Wolkenfrau",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Der Regenfritz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Wassermann",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Eiszapfen",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Der Milchstrassenmann",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2f",
+          "additional": "1937-1947",
+          "firstName": "Irmgard",
+          "lastName": "Mader",
+          "role": "Die Sonne",
+          "fullName": "Irmgard Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Die Morgenröte",
+          "fullName": "Lisa Thenen"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Der Weihnachtsmann",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Der Lebkuchenmann",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Der Mann im Mond",
+          "fullName": "Reinhold Siegert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6584b34c51cd38b410ec1c1d",
+          "firstName": "Clemens",
+          "lastName": "Schmalstich",
+          "additional": "",
+          "fullName": "Clemens Schmalstich",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Leitung"
+        },
+        {
+          "_id": "651691d696c724dc0090cc1b",
+          "firstName": "Philipp von",
+          "lastName": "Zeska",
+          "additional": "1920-",
+          "fullName": "Philipp von Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b2ae",
+          "additional": "",
+          "firstName": "Gerdt von",
+          "lastName": "Basewitz",
+          "fullName": "Gerdt von Basewitz"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000022.jpg"
+      ],
+      "comment": "Nachmittags 3 Uhr"
+    }
+  ]
+}

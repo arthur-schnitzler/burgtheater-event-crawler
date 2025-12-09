@@ -1,0 +1,2393 @@
+{
+  "_id": "66a50bf26af2b0e29fbd2c42",
+  "uid": "aadd263c-da88-4154-b761-42a4ea2bcc8e",
+  "productionId": "50af5982-49c8-4cd6-b0d0-7c80757299bc",
+  "title": "Zwei Mütter",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-03-06T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a8e1",
+      "additional": "1901-1949",
+      "firstName": "Nora",
+      "lastName": "Gregor",
+      "role": "Delia Lovell",
+      "fullName": "Nora Gregor"
+    },
+    {
+      "_id": "6504166ba47588ad6024afcc",
+      "additional": "",
+      "firstName": "Alma",
+      "lastName": "Seidler",
+      "role": "Charlotta Lovell",
+      "fullName": "Alma Seidler"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac5d",
+      "additional": "1876-1949",
+      "firstName": "Hans",
+      "lastName": "Marr",
+      "role": "Doktor Lanskell",
+      "fullName": "Hans Marr"
+    },
+    {
+      "_id": "6504166ba47588ad6024a4ec",
+      "additional": "1874-1980",
+      "firstName": "Rosa",
+      "lastName": "Albach-Retty",
+      "role": "Mistress Mingott",
+      "fullName": "Rosa Albach-Retty"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Clementina",
+      "fullName": "Maria Kramer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a5e4",
+      "additional": "1897-1959",
+      "firstName": "Ulrich",
+      "lastName": "Bettac",
+      "role": "James Ralston",
+      "fullName": "Ulrich Bettac"
+    },
+    {
+      "_id": "6504166ba47588ad6024b251",
+      "additional": "1896-1977",
+      "firstName": "Philipp",
+      "lastName": "Zeska",
+      "role": "Josef Ralston",
+      "fullName": "Philipp Zeska"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab35",
+      "additional": "1905-1963",
+      "firstName": "Helmuth",
+      "lastName": "Krauss",
+      "role": "Lanning Halsey",
+      "fullName": "Helmuth Krauss"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "John Halsey",
+      "fullName": "Otto Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a71e",
+      "additional": "1938-1952",
+      "firstName": "Sylvia",
+      "lastName": "Devez (verehel. Waniek)",
+      "role": "Dee Halsey",
+      "fullName": "Sylvia Devez (verehel. Waniek)"
+    },
+    {
+      "_id": "6504166ba47588ad6024a678",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Burg",
+      "role": "Judith",
+      "fullName": "Maria Burg"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab9e",
+      "additional": "",
+      "firstName": "Inge",
+      "lastName": "Leddihn",
+      "role": "Lucie",
+      "fullName": "Inge Leddihn"
+    },
+    {
+      "_id": "6504166ba47588ad6024a52b",
+      "additional": "",
+      "firstName": "Edeltraude",
+      "lastName": "Arnoscht",
+      "role": "Brautjungfern",
+      "fullName": "Edeltraude Arnoscht"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f6",
+      "additional": "",
+      "firstName": "Blanka",
+      "lastName": "Hohenthal",
+      "role": "Brautjungfern",
+      "fullName": "Blanka Hohenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024a6c9",
+      "additional": "",
+      "firstName": "Helga",
+      "lastName": "Czech-Rechtensee",
+      "role": "Brautjungfern",
+      "fullName": "Helga Czech-Rechtensee"
+    },
+    {
+      "_id": "6504166ba47588ad6024b00e",
+      "additional": "Lore",
+      "firstName": "Eleonore",
+      "lastName": "Solvis",
+      "role": "Jennie Meade",
+      "fullName": "Eleonore Solvis"
+    },
+    {
+      "_id": "6504166ba47588ad6024acad",
+      "additional": "1885-1954",
+      "firstName": "Maria",
+      "lastName": "Mell",
+      "role": "Bridget",
+      "fullName": "Maria Mell"
+    },
+    {
+      "_id": "658f014251cd38b410089abe",
+      "firstName": "Inge",
+      "lastName": "Thorsch",
+      "additional": "1936-1938",
+      "role": "Kinder",
+      "fullName": "Inge Thorsch"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7fe",
+      "additional": "",
+      "firstName": "Evelyn",
+      "lastName": "Flassig",
+      "role": "Kinder",
+      "fullName": "Evelyn Flassig"
+    },
+    {
+      "_id": "6504166ba47588ad6024aad9",
+      "additional": "1937-1940",
+      "firstName": "Josef (Josy)",
+      "lastName": "Kleinpeter",
+      "role": "Kinder",
+      "fullName": "Josef (Josy) Kleinpeter"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac2d",
+      "additional": "1933-1935",
+      "firstName": "Elfi",
+      "lastName": "Mader",
+      "role": "Kinder",
+      "fullName": "Elfi Mader"
+    },
+    {
+      "_id": "6504166ba47588ad6024afd3",
+      "additional": "1937",
+      "firstName": "Teddy",
+      "lastName": "Schwinner",
+      "role": "Kinder",
+      "fullName": "Teddy Schwinner"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac96",
+      "additional": "",
+      "firstName": "Käthe",
+      "lastName": "Meissl",
+      "role": "Magd",
+      "fullName": "Käthe Meissl"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024a778",
+      "additional": "1919-1938, 1945-1981",
+      "firstName": "Karl",
+      "lastName": "Eidlitz",
+      "fullName": "Karl Eidlitz",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Kostüme"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b281",
+      "additional": "",
+      "firstName": "Zoe",
+      "lastName": "Akins",
+      "fullName": "Zoe Akins"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-06.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c32d3ced60fbe22ea53",
+      "uid": "50af5982-49c8-4cd6-b0d0-7c80757299bc",
+      "productionId": "50af5982-49c8-4cd6-b0d0-7c80757299bc",
+      "title": "Zwei Mütter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "10",
+      "date": "1937-02-23T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Delia Lovell",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Charlotta Lovell",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Doktor Lanskell",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Mistress Mingott",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Clementina",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "James Ralston",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Josef Ralston",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Lanning Halsey",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "John Halsey",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Dee Halsey",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Judith",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Lucie",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Brautjungfern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Brautjungfern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Brautjungfern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Jennie Meade",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Bridget",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Kinder",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Kinder",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2d",
+          "additional": "1933-1935",
+          "firstName": "Elfi",
+          "lastName": "Mader",
+          "role": "Kinder",
+          "fullName": "Elfi Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Kinder",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac96",
+          "additional": "",
+          "firstName": "Käthe",
+          "lastName": "Meissl",
+          "role": "Magd",
+          "fullName": "Käthe Meissl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b281",
+          "additional": "",
+          "firstName": "Zoe",
+          "lastName": "Akins",
+          "fullName": "Zoe Akins"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0585.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-23.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a509d36af2b0e29fbcffa2",
+      "uid": "dfba310f-d744-4db3-85ac-46c0ad0bcc99",
+      "productionId": "50af5982-49c8-4cd6-b0d0-7c80757299bc",
+      "title": "Zwei Mütter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-26T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Delia Lovell",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Charlotta Lovell",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Doktor Lanskell",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Mistress Mingott",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Clementina",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "James Ralston",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Josef Ralston",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Lanning Halsey",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "John Halsey",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Dee Halsey",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Judith",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Lucie",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Brautjungfern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Brautjungfern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Brautjungfern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Jennie Meade",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Bridget",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Kinder",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Kinder",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2d",
+          "additional": "1933-1935",
+          "firstName": "Elfi",
+          "lastName": "Mader",
+          "role": "Kinder",
+          "fullName": "Elfi Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Kinder",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac96",
+          "additional": "",
+          "firstName": "Käthe",
+          "lastName": "Meissl",
+          "role": "Magd",
+          "fullName": "Käthe Meissl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b281",
+          "additional": "",
+          "firstName": "Zoe",
+          "lastName": "Akins",
+          "fullName": "Zoe Akins"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-26.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a50b156af2b0e29fbd1a15",
+      "uid": "43027970-6aed-4960-99c4-9782f427616b",
+      "productionId": "50af5982-49c8-4cd6-b0d0-7c80757299bc",
+      "title": "Zwei Mütter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-03T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Delia Lovell",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Charlotta Lovell",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Doktor Lanskell",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Mistress Mingott",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Clementina",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "James Ralston",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Josef Ralston",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Lanning Halsey",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "John Halsey",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Dee Halsey",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Judith",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Lucie",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Brautjungfern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Brautjungfern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Brautjungfern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Jennie Meade",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Bridget",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Kinder",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Kinder",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2d",
+          "additional": "1933-1935",
+          "firstName": "Elfi",
+          "lastName": "Mader",
+          "role": "Kinder",
+          "fullName": "Elfi Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Kinder",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac96",
+          "additional": "",
+          "firstName": "Käthe",
+          "lastName": "Meissl",
+          "role": "Magd",
+          "fullName": "Käthe Meissl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b281",
+          "additional": "",
+          "firstName": "Zoe",
+          "lastName": "Akins",
+          "fullName": "Zoe Akins"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-03.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a50bf26af2b0e29fbd2c42",
+      "uid": "aadd263c-da88-4154-b761-42a4ea2bcc8e",
+      "productionId": "50af5982-49c8-4cd6-b0d0-7c80757299bc",
+      "title": "Zwei Mütter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-06T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Delia Lovell",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Charlotta Lovell",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Doktor Lanskell",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Mistress Mingott",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Clementina",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "James Ralston",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Josef Ralston",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Lanning Halsey",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "John Halsey",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Dee Halsey",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Judith",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Lucie",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Brautjungfern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Brautjungfern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Brautjungfern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Jennie Meade",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Bridget",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Kinder",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Kinder",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2d",
+          "additional": "1933-1935",
+          "firstName": "Elfi",
+          "lastName": "Mader",
+          "role": "Kinder",
+          "fullName": "Elfi Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Kinder",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac96",
+          "additional": "",
+          "firstName": "Käthe",
+          "lastName": "Meissl",
+          "role": "Magd",
+          "fullName": "Käthe Meissl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b281",
+          "additional": "",
+          "firstName": "Zoe",
+          "lastName": "Akins",
+          "fullName": "Zoe Akins"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-06.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a50cdd6af2b0e29fbd3f97",
+      "uid": "e433a64d-644a-47df-8e58-d4892d733f51",
+      "productionId": "50af5982-49c8-4cd6-b0d0-7c80757299bc",
+      "title": "Zwei Mütter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-09T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Delia Lovell",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Charlotta Lovell",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Doktor Lanskell",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Mistress Mingott",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Clementina",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "James Ralston",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Josef Ralston",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Lanning Halsey",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "John Halsey",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Dee Halsey",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Judith",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Lucie",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Brautjungfern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Brautjungfern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Brautjungfern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Jennie Meade",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Bridget",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Kinder",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Kinder",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2d",
+          "additional": "1933-1935",
+          "firstName": "Elfi",
+          "lastName": "Mader",
+          "role": "Kinder",
+          "fullName": "Elfi Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Kinder",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac96",
+          "additional": "",
+          "firstName": "Käthe",
+          "lastName": "Meissl",
+          "role": "Magd",
+          "fullName": "Käthe Meissl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b281",
+          "additional": "",
+          "firstName": "Zoe",
+          "lastName": "Akins",
+          "fullName": "Zoe Akins"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-09.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5237d6af2b0e29fbef62d",
+      "uid": "3e4f4189-0e9c-42ad-8c08-0e71dba443b7",
+      "productionId": "50af5982-49c8-4cd6-b0d0-7c80757299bc",
+      "title": "Zwei Mütter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-15T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Delia Lovell (später Frau James Ralston)",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Charlotta Lovell (Chatty)",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Doktor Lanskell",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Mistress Mingott",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Clementina (Tina)",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "James Ralston",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Josef Ralston",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Lanning Halsey",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "John Halsey",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Dee Halsey",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Judith, Delias Mädchen",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Lucie",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "1. Brautjungfer",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "2. Brautjungfer",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "3. Brautjungfer",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Jennie Meade",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Bridget",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Kinder",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Kinder",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2d",
+          "additional": "1933-1935",
+          "firstName": "Elfi",
+          "lastName": "Mader",
+          "role": "Kinder",
+          "fullName": "Elfi Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Kinder",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac96",
+          "additional": "",
+          "firstName": "Käthe",
+          "lastName": "Meissl",
+          "role": "Eine Magd",
+          "fullName": "Käthe Meissl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b281",
+          "additional": "",
+          "firstName": "Zoe",
+          "lastName": "Akins",
+          "fullName": "Zoe Akins"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-15.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a524ed6af2b0e29fbf13c3",
+      "uid": "2107087b-366d-4d36-b799-8d789bf2711f",
+      "productionId": "50af5982-49c8-4cd6-b0d0-7c80757299bc",
+      "title": "Zwei Mütter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-18T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Delia Lovell (später Frau James Ralston)",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Charlotta Lovell (Chatty)",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Doktor Lanskell",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Mistress Mingott",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Clementina (Tina)",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "James Ralston",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Josef Ralston",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Lanning Halsey",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "John Halsey",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Dee Halsey",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Judith, Delias Mädchen",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Lucie",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "1. Brautjungfer",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "2. Brautjungfer",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "3. Brautjungfer",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Jennie Meade",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Bridget",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Kinder",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Kinder",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2d",
+          "additional": "1933-1935",
+          "firstName": "Elfi",
+          "lastName": "Mader",
+          "role": "Kinder",
+          "fullName": "Elfi Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Kinder",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac96",
+          "additional": "",
+          "firstName": "Käthe",
+          "lastName": "Meissl",
+          "role": "Eine Magd",
+          "fullName": "Käthe Meissl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b281",
+          "additional": "",
+          "firstName": "Zoe",
+          "lastName": "Akins",
+          "fullName": "Zoe Akins"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-18.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5252e6af2b0e29fbf190b",
+      "uid": "64cdef9a-48c2-4a2b-b3a4-a6e5f361e9dd",
+      "productionId": "50af5982-49c8-4cd6-b0d0-7c80757299bc",
+      "title": "Zwei Mütter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-19T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Delia Lovell (später Frau James Ralston)",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Charlotta Lovell (Chatty)",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Doktor Lanskell",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Mistress Mingott",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Clementina (Tina)",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "James Ralston",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Josef Ralston",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Lanning Halsey",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "John Halsey",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Dee Halsey",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Judith, Delias Mädchen",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Lucie",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "1. Brautjungfer",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "2. Brautjungfer",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "3. Brautjungfer",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Jennie Meade",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Bridget",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Kinder",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Kinder",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2d",
+          "additional": "1933-1935",
+          "firstName": "Elfi",
+          "lastName": "Mader",
+          "role": "Kinder",
+          "fullName": "Elfi Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Kinder",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac96",
+          "additional": "",
+          "firstName": "Käthe",
+          "lastName": "Meissl",
+          "role": "Eine Magd",
+          "fullName": "Käthe Meissl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b281",
+          "additional": "",
+          "firstName": "Zoe",
+          "lastName": "Akins",
+          "fullName": "Zoe Akins"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-19.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a52c656af2b0e29fbfa9da",
+      "uid": "65bf6776-4b29-4db9-89cc-a097711fd8a7",
+      "productionId": "50af5982-49c8-4cd6-b0d0-7c80757299bc",
+      "title": "Zwei Mütter",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-22T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Delia Lovell (später Frau James Ralston)",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Charlotta Lovell (Chatty)",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Doktor Lanskell",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Mistress Mingott",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Clementina (Tina)",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "James Ralston",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Josef Ralston",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Lanning Halsey",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "John Halsey",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Dee Halsey",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Judith, Delias Mädchen",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Lucie",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "1. Brautjungfer",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "2. Brautjungfer",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "3. Brautjungfer",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Jennie Meade",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Bridget",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Kinder",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7fe",
+          "additional": "",
+          "firstName": "Evelyn",
+          "lastName": "Flassig",
+          "role": "Kinder",
+          "fullName": "Evelyn Flassig"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac2d",
+          "additional": "1933-1935",
+          "firstName": "Elfi",
+          "lastName": "Mader",
+          "role": "Kinder",
+          "fullName": "Elfi Mader"
+        },
+        {
+          "_id": "6504166ba47588ad6024afd3",
+          "additional": "1937",
+          "firstName": "Teddy",
+          "lastName": "Schwinner",
+          "role": "Kinder",
+          "fullName": "Teddy Schwinner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac96",
+          "additional": "",
+          "firstName": "Käthe",
+          "lastName": "Meissl",
+          "role": "Eine Magd",
+          "fullName": "Käthe Meissl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b281",
+          "additional": "",
+          "firstName": "Zoe",
+          "lastName": "Akins",
+          "fullName": "Zoe Akins"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-03-22.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

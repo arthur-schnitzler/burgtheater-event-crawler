@@ -1,0 +1,4490 @@
+{
+  "_id": "66a4f43c6af2b0e29fbb4b8e",
+  "uid": "24e08301-9639-4526-abc9-7c78d158cd20",
+  "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+  "title": "Macbeth",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-01-26T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "650c0541258213a8dc5f9b33",
+      "additional": "1881-1970",
+      "firstName": "Ferdinand",
+      "lastName": "Onno",
+      "role": "Duncan",
+      "fullName": "Ferdinand Onno"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "Malcolm",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Donalbain",
+      "fullName": "Otto Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a568",
+      "additional": "1898-1978",
+      "firstName": "Ewald",
+      "lastName": "Balser",
+      "role": "Macbeth",
+      "fullName": "Ewald Balser"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac5d",
+      "additional": "1876-1949",
+      "firstName": "Hans",
+      "lastName": "Marr",
+      "role": "Banquo",
+      "fullName": "Hans Marr"
+    },
+    {
+      "_id": "6504166ba47588ad6024b237",
+      "additional": "1901-1970",
+      "firstName": "Heinz",
+      "lastName": "Woester",
+      "role": "Macduff",
+      "fullName": "Heinz Woester"
+    },
+    {
+      "_id": "6504166ba47588ad6024b13e",
+      "additional": "1904-1972",
+      "firstName": "Eduard",
+      "lastName": "Volters",
+      "role": "Lennox",
+      "fullName": "Eduard Volters"
+    },
+    {
+      "_id": "6504166ba47588ad6024afe7",
+      "additional": "1872-1953",
+      "firstName": "Hans",
+      "lastName": "Siebert",
+      "role": "Ross",
+      "fullName": "Hans Siebert"
+    },
+    {
+      "_id": "6504166ba47588ad6024aff3",
+      "additional": "1899-1965",
+      "firstName": "Reinhold",
+      "lastName": "Siegert",
+      "role": "Angus",
+      "fullName": "Reinhold Siegert"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa58",
+      "additional": "1946-1976",
+      "firstName": "Albert (Berti)",
+      "lastName": "Jezel (Jetzel)",
+      "role": "Fleance",
+      "fullName": "Albert (Berti) Jezel (Jetzel)"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa8a",
+      "additional": "1881-1959",
+      "firstName": "Julius",
+      "lastName": "Karsten",
+      "role": "Siward",
+      "fullName": "Julius Karsten"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab35",
+      "additional": "1905-1963",
+      "firstName": "Helmuth",
+      "lastName": "Krauss",
+      "role": "Sein Sohn",
+      "fullName": "Helmuth Krauss"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad8f",
+      "additional": "1880-1954",
+      "firstName": "Albert",
+      "lastName": "Paulmann",
+      "role": "Seyton",
+      "fullName": "Albert Paulmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1eb",
+      "additional": "1882-1958",
+      "firstName": "Gisela",
+      "lastName": "Wilke",
+      "role": "Erste Hexe",
+      "fullName": "Gisela Wilke"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa88",
+      "additional": "1885-1971",
+      "firstName": "Lilly",
+      "lastName": "Karoly",
+      "role": "Zweite Hexe",
+      "fullName": "Lilly Karoly"
+    },
+    {
+      "_id": "6504166ba47588ad6024b00e",
+      "additional": "Lore",
+      "firstName": "Eleonore",
+      "lastName": "Solvis",
+      "role": "Dritte Hexe",
+      "fullName": "Eleonore Solvis"
+    },
+    {
+      "_id": "6504166ba47588ad6024aada",
+      "additional": "",
+      "firstName": "Rudolf",
+      "lastName": "Kleiser",
+      "role": "Gerüstetes Haupt",
+      "fullName": "Rudolf Kleiser"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f6",
+      "additional": "",
+      "firstName": "Blanka",
+      "lastName": "Hohenthal",
+      "role": "Blutiges Kind",
+      "fullName": "Blanka Hohenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab9e",
+      "additional": "",
+      "firstName": "Inge",
+      "lastName": "Leddihn",
+      "role": "Gekröntes Kind",
+      "fullName": "Inge Leddihn"
+    },
+    {
+      "_id": "6504166ba47588ad6024b085",
+      "additional": "1868-1938",
+      "firstName": "Fritz",
+      "lastName": "Strassni",
+      "role": "Arzt",
+      "fullName": "Fritz Strassni"
+    },
+    {
+      "_id": "6504166ba47588ad6024b050",
+      "additional": "1897-1974",
+      "firstName": "Felix",
+      "lastName": "Steinböck",
+      "role": "Hauptmann",
+      "fullName": "Felix Steinböck"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac37",
+      "additional": "1881-1960",
+      "firstName": "Ferdinand",
+      "lastName": "Maierhofer",
+      "role": "Pförtner",
+      "fullName": "Ferdinand Maierhofer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a63c",
+      "additional": "1899-1971",
+      "firstName": "Viktor",
+      "lastName": "Braun",
+      "role": "Unbekannter",
+      "fullName": "Viktor Braun"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad67",
+      "additional": "",
+      "firstName": "Armand",
+      "lastName": "Ozory",
+      "role": "Bote",
+      "fullName": "Armand Ozory"
+    },
+    {
+      "_id": "6504166ba47588ad6024a98a",
+      "additional": "1884-1947",
+      "firstName": "Reinhold",
+      "lastName": "Haeussermann",
+      "role": "Erster Mörder",
+      "fullName": "Reinhold Haeussermann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b180",
+      "additional": "1884-1963",
+      "firstName": "Hermann",
+      "lastName": "Wawra",
+      "role": "Zweiter Mörder",
+      "fullName": "Hermann Wawra"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7b1",
+      "additional": "1931-1972, danach als Gast ",
+      "firstName": "Richard",
+      "lastName": "Eybner",
+      "role": "Dritter Mörder",
+      "fullName": "Richard Eybner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f9",
+      "additional": "",
+      "firstName": "Tassilo",
+      "lastName": "Holik",
+      "role": "Diener",
+      "fullName": "Tassilo Holik"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae80",
+      "additional": "1886-1951",
+      "firstName": "Ida",
+      "lastName": "Roland",
+      "role": "Lady Macbeth",
+      "fullName": "Ida Roland"
+    },
+    {
+      "_id": "6504166ba47588ad6024acad",
+      "additional": "1885-1954",
+      "firstName": "Maria",
+      "lastName": "Mell",
+      "role": "Kammerfrau",
+      "fullName": "Maria Mell"
+    },
+    {
+      "_id": "656cd92a00806585023581ab",
+      "firstName": "Auguste",
+      "lastName": "Pünkösdy",
+      "additional": "1890-1967",
+      "role": "Lady Macduff",
+      "fullName": "Auguste Pünkösdy"
+    },
+    {
+      "_id": "658f014251cd38b410089abe",
+      "firstName": "Inge",
+      "lastName": "Thorsch",
+      "additional": "1936-1938",
+      "role": "Sohn Macduffs",
+      "fullName": "Inge Thorsch"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b401",
+      "additional": "",
+      "firstName": "Stephan",
+      "lastName": "Hock",
+      "fullName": "Stephan Hock",
+      "role": "Deutsch"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9c9",
+      "additional": "1877-1966",
+      "firstName": "Hofrat Franz",
+      "lastName": "Herterich",
+      "fullName": "Hofrat Franz Herterich",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9d4",
+      "additional": "",
+      "firstName": "Stefan",
+      "lastName": "Hlawa",
+      "fullName": "Stefan Hlawa",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9d4",
+      "additional": "",
+      "firstName": "Stefan",
+      "lastName": "Hlawa",
+      "fullName": "Stefan Hlawa",
+      "role": "Kostüme"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b572",
+      "additional": "",
+      "firstName": "William",
+      "lastName": "Shakespeare",
+      "fullName": "William Shakespeare"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-26.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c2fd3ced60fbe22e07e",
+      "uid": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neuinszenierung",
+      "count": "13",
+      "date": "1937-01-15T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Donalbain",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ross",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Hekate",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Dritte Hexe",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Blutiges Kind",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Kammerfrau",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0584.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-15.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4efd26af2b0e29fbaf0ed",
+      "uid": "d1bd11de-c784-4d8b-9e08-7b1000e29850",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-17T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Donalbain",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ross",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Hekate",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Dritte Hexe",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Blutiges Kind",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Kammerfrau",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-17.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-17_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4f0d06af2b0e29fbb05b1",
+      "uid": "0bd5e231-8ebd-4eae-974c-555bbcd89fc6",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Donalbain",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ross",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Dritte Hexe",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Blutiges Kind",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Kammerfrau",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-20.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4f1606af2b0e29fbb11b5",
+      "uid": "80eaa214-5264-4897-93a2-e2f2a1979fb8",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-21T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Donalbain",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ross",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Dritte Hexe",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Blutiges Kind",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Kammerfrau",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-21.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a502a26af2b0e29fbc6a90",
+      "uid": "10b36e40-14ae-40fb-a507-d1906d4ce2da",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-24T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Donalbain",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ross",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Dritte Hexe",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Blutiges Kind",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Kammerfrau",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-24.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-24_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4f43c6af2b0e29fbb4b8e",
+      "uid": "24e08301-9639-4526-abc9-7c78d158cd20",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-26T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Donalbain",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ross",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Dritte Hexe",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Blutiges Kind",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Kammerfrau",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-26.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4f75b6af2b0e29fbb8866",
+      "uid": "34488939-5778-413b-b710-035e31c11062",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-27T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Donalbain",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ross",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Dritte Hexe",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Blutiges Kind",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Kammerfrau",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-27.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-27_00000002.jpg"
+      ],
+      "comment": "Nachmittagsvorstellung"
+    },
+    {
+      "_id": "66a4f8146af2b0e29fbb969d",
+      "uid": "0c2778b0-3765-48fe-9f79-93649742bbc4",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Donalbain",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ross",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Dritte Hexe",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Blutiges Kind",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Kammerfrau",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-28.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4fbd56af2b0e29fbbdffa",
+      "uid": "ac7d35c2-0e64-4f3b-8272-dbea46661562",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-01T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Donalbain",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ross",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Dritte Hexe",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Blutiges Kind",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Kammerfrau",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-01.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4fc206af2b0e29fbbe63b",
+      "uid": "fe444060-d79d-461e-a643-73e3e8118ec2",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Donalbain",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ross",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Dritte Hexe",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Blutiges Kind",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Kammerfrau",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-02.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4fd206af2b0e29fbbf975",
+      "uid": "091e9620-9a86-4950-b244-4d6c9f2a193e",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Donalbain",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ross",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Dritte Hexe",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Blutiges Kind",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Kammerfrau",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-04.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5039d6af2b0e29fbc7f55",
+      "uid": "40cda732-8848-4b1b-927c-c16a571589b0",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-07T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Donalbain",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ross",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Dritte Hexe",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Blutiges Kind",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Kammerfrau",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-07.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-02-07_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a54c9a6af2b0e29fc24f67",
+      "uid": "c1d406e4-e868-44da-8eec-be1c8da4caf9",
+      "productionId": "65941d96-5586-46dc-95e6-96b0da9a2f55",
+      "title": "Macbeth",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Duncan",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Malcolm",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Donalbain",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Macbeth",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Banquo",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Macduff",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lennox",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Ross",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Angus",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Fleance",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Siward",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Sein Sohn",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Seyton",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Erste Hexe",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Zweite Hexe",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Dritte Hexe",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Gerüstetes Haupt",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Blutiges Kind",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Gekröntes Kind",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Arzt",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Hauptmann",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Pförtner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Unbekannter",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Bote",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Erster Mörder",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Zweiter Mörder",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Dritter Mörder",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Diener",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae80",
+          "additional": "1886-1951",
+          "firstName": "Ida",
+          "lastName": "Roland",
+          "role": "Lady Macbeth",
+          "fullName": "Ida Roland"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Kammerfrau",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Lady Macduff",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Sohn Macduffs",
+          "fullName": "Inge Thorsch"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b401",
+          "additional": "",
+          "firstName": "Stephan",
+          "lastName": "Hock",
+          "fullName": "Stephan Hock",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b572",
+          "additional": "",
+          "firstName": "William",
+          "lastName": "Shakespeare",
+          "fullName": "William Shakespeare"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-02.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-02_00000002.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

@@ -1,0 +1,3378 @@
+{
+  "_id": "66a34b2a6af2b0e29f99d5c2",
+  "uid": "ddee0e93-f950-4fec-b4ca-9b73fbcd3b88",
+  "productionId": "295e6213-8901-48c7-be0a-781428973655",
+  "title": "Hochzeitsmahl",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-01-06T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a543",
+      "additional": "1886-1958",
+      "firstName": "Raoul",
+      "lastName": "Aslan",
+      "role": "Fürst Rasumofsky",
+      "fullName": "Raoul Aslan"
+    },
+    {
+      "_id": "6504166ba47588ad6024b14c",
+      "additional": "1904-1992",
+      "firstName": "Hilde",
+      "lastName": "Wagener",
+      "role": "Gräfin Thürheim",
+      "fullName": "Hilde Wagener"
+    },
+    {
+      "_id": "6504166ba47588ad6024b237",
+      "additional": "1901-1970",
+      "firstName": "Heinz",
+      "lastName": "Woester",
+      "role": "Graf Gornowski",
+      "fullName": "Heinz Woester"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b36",
+      "additional": "1888-1961",
+      "firstName": "Paul",
+      "lastName": "Pranger",
+      "role": "Maler Isabey",
+      "fullName": "Paul Pranger"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Chevalier de La Garde",
+      "fullName": "Otto Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b050",
+      "additional": "1897-1974",
+      "firstName": "Felix",
+      "lastName": "Steinböck",
+      "role": "Peter",
+      "fullName": "Felix Steinböck"
+    },
+    {
+      "_id": "658f03ce51cd38b410089bda",
+      "firstName": "Barbara",
+      "lastName": "Uth",
+      "additional": "",
+      "role": "Katarina",
+      "fullName": "Barbara Uth"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa8a",
+      "additional": "1881-1959",
+      "firstName": "Julius",
+      "lastName": "Karsten",
+      "role": "Gregor",
+      "fullName": "Julius Karsten"
+    },
+    {
+      "_id": "6504166ba47588ad6024a990",
+      "additional": "1888-1954",
+      "firstName": "Wilhelm",
+      "lastName": "Heim",
+      "role": "Haushofmeister",
+      "fullName": "Wilhelm Heim"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac80",
+      "additional": "1936-1963",
+      "firstName": "Liselotte",
+      "lastName": "Medelsky",
+      "role": "Kammerzofe",
+      "fullName": "Liselotte Medelsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024b180",
+      "additional": "1884-1963",
+      "firstName": "Hermann",
+      "lastName": "Wawra",
+      "role": "Türhüter",
+      "fullName": "Hermann Wawra"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024ae8d",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Rosenthal",
+      "fullName": "Friedrich Rosenthal",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b410",
+      "additional": "",
+      "firstName": "Eugen K.",
+      "lastName": "Iljin",
+      "fullName": "Eugen K. Iljin"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000008.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c2ad3ced60fbe22ca63",
+      "uid": "295e6213-8901-48c7-be0a-781428973655",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "25",
+      "date": "1936-09-19T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0581.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000213.jpg"
+      ],
+      "comment": "2 von 25 Auff. im Burgtheater"
+    },
+    {
+      "_id": "66a240fa6af2b0e29f850d20",
+      "uid": "08895628-0147-455a-8f5b-53ff095fe9f7",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000215.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a242196af2b0e29f85264e",
+      "uid": "c461e558-e32b-46e1-9071-87034f000d86",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-23T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Graf Gornowski",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000218.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2426a6af2b0e29f852d2c",
+      "uid": "71f1195a-0a45-4e1d-bde0-074d5b3ce0ae",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-24T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Graf Gornowski",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Katarina",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000219.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a399a06af2b0e29fa04aa1",
+      "uid": "73929f54-2f8b-4e8f-9b09-0cbf13339095",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-25T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Katarina",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-09-25.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a245326af2b0e29f856b19",
+      "uid": "c107323c-52cd-4fc3-a96e-76c955eb1f13",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Katarina",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000224.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a245ea6af2b0e29f8579eb",
+      "uid": "ddc60ee9-4fbe-4664-9f1d-d0f07247e008",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-29T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Katarina",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000225.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a24a8b6af2b0e29f85dbad",
+      "uid": "60ba88bc-b317-44fd-8da9-c8a2f0df1180",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Katarina",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000230.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a24ace6af2b0e29f85e283",
+      "uid": "c540c5a1-c13b-4883-ac52-2009bd6aed09",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-05T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000232.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a24b146af2b0e29f85e90e",
+      "uid": "39bd3444-05a9-45fe-b004-323fcc067d98",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-06T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000233.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a24b416af2b0e29f85ed1f",
+      "uid": "71dd3ba2-920e-48ab-8812-303c5863c26f",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-07T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000234.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a24b786af2b0e29f85f32e",
+      "uid": "7e2db2ce-75b4-4ac1-8245-c9b7fcc17232",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-08T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000235.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a24b8f6af2b0e29f85f557",
+      "uid": "d871e52f-d07d-455b-b5ba-3066c8e192f5",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-09T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000236.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a24c096af2b0e29f8600d3",
+      "uid": "edf37dc6-f908-4a6a-ac80-46d4d01ca5ca",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-11T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000239.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a24d526af2b0e29f861f40",
+      "uid": "c668fe60-8a37-4b4d-bdf5-0a6ae358bc93",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Graf Gornowski",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000244.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a250836af2b0e29f866763",
+      "uid": "fd7177e7-2e12-4a0c-9eda-5234fef7f9f1",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-21T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000251.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a252606af2b0e29f86910c",
+      "uid": "565ba1d4-2bd7-4800-966b-760347bbb9b0",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-25T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000255.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a255576af2b0e29f86d0e0",
+      "uid": "0dc4ba06-4bdc-43c4-9f02-25b0ac29da1b",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-26T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000257.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a25b346af2b0e29f87479f",
+      "uid": "c499d349-e7f8-4035-8ee3-f88dbb2adf01",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-29T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Gregor",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000260.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a275ef6af2b0e29f89754e",
+      "uid": "833ffc1f-2672-4075-9f14-e9e2e00135fe",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-08T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000271.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a27b226af2b0e29f89e8bf",
+      "uid": "68b91279-1729-44f3-b2c8-56e9cca94f7f",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-25T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Graf Gornowski",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Gregor",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000290.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a286736af2b0e29f8ad312",
+      "uid": "c96a350c-a41e-4227-a033-0151666f60a0",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-26T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000321.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a34b2a6af2b0e29f99d5c2",
+      "uid": "ddee0e93-f950-4fec-b4ca-9b73fbcd3b88",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-06T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Maler Isabey",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Kammerzofe",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000008.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a406046af2b0e29fa8d1c0",
+      "uid": "51de889e-792b-4180-99ef-9d503a0be38d",
+      "productionId": "295e6213-8901-48c7-be0a-781428973655",
+      "title": "Hochzeitsmahl",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-27T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Fürst Rasumofsky",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gräfin Thürheim",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Graf Gornowski",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Maler Isabey",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Chevalier de La Garde",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Peter",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Katarina",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Gregor",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Haushofmeister",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Kammerzofe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Türhüter",
+          "fullName": "Hermann Wawra"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b410",
+          "additional": "",
+          "firstName": "Eugen K.",
+          "lastName": "Iljin",
+          "fullName": "Eugen K. Iljin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000124.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

@@ -1,0 +1,3731 @@
+{
+  "_id": "66a38fbf6af2b0e29f9f6ef5",
+  "uid": "e991a328-7b55-483e-9152-926d0381d223",
+  "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+  "title": "Das Derby der kleinen Leute",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-02-16T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ac37",
+      "additional": "1881-1960",
+      "firstName": "Ferdinand",
+      "lastName": "Maierhofer",
+      "role": "Alois Stanzl",
+      "fullName": "Ferdinand Maierhofer"
+    },
+    {
+      "_id": "656cd92a00806585023581ab",
+      "firstName": "Auguste",
+      "lastName": "Pünkösdy",
+      "additional": "1890-1967",
+      "role": "Betty Pröselmayer",
+      "fullName": "Auguste Pünkösdy"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Mizzi Huber",
+      "fullName": "Maria Kramer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1a7",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Wengraf",
+      "role": "Ferdinand Radlböck",
+      "fullName": "Hans Wengraf"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Hans Schmitz",
+      "fullName": "Otto Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1eb",
+      "additional": "1882-1958",
+      "firstName": "Gisela",
+      "lastName": "Wilke",
+      "role": "Olly Hammerschlag",
+      "fullName": "Gisela Wilke"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa8a",
+      "additional": "1881-1959",
+      "firstName": "Julius",
+      "lastName": "Karsten",
+      "role": "Doktor Staudigl",
+      "fullName": "Julius Karsten"
+    },
+    {
+      "_id": "6504166ba47588ad6024a52b",
+      "additional": "",
+      "firstName": "Edeltraude",
+      "lastName": "Arnoscht",
+      "role": "Gusti Fröhlich",
+      "fullName": "Edeltraude Arnoscht"
+    },
+    {
+      "_id": "658f02b451cd38b410089b43",
+      "firstName": "Otto",
+      "lastName": "Storm",
+      "additional": "1874-1950",
+      "role": "Von Günsberg",
+      "fullName": "Otto Storm"
+    },
+    {
+      "_id": "6504166ba47588ad6024b180",
+      "additional": "1884-1963",
+      "firstName": "Hermann",
+      "lastName": "Wawra",
+      "role": "Kirsch",
+      "fullName": "Hermann Wawra"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac80",
+      "additional": "1936-1963",
+      "firstName": "Liselotte",
+      "lastName": "Medelsky",
+      "role": "Lilly",
+      "fullName": "Liselotte Medelsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad8f",
+      "additional": "1880-1954",
+      "firstName": "Albert",
+      "lastName": "Paulmann",
+      "role": "Taxichauffeur",
+      "fullName": "Albert Paulmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac90",
+      "additional": "1877-1958",
+      "firstName": "Maria",
+      "lastName": "Mayer",
+      "role": "Frau Wimmerl",
+      "fullName": "Maria Mayer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a99d",
+      "additional": "1934-1937",
+      "firstName": "Trude",
+      "lastName": "Helmreich",
+      "role": "Kathi",
+      "fullName": "Trude Helmreich"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9cf",
+      "additional": "1893-1945",
+      "firstName": "Hans",
+      "lastName": "Hitzinger",
+      "role": "Strassensänger",
+      "fullName": "Hans Hitzinger"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0cd",
+      "additional": "",
+      "firstName": "Wolfgang",
+      "lastName": "Thaller",
+      "role": "Sicherheitswachmann",
+      "fullName": "Wolfgang Thaller"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa58",
+      "additional": "1946-1976",
+      "firstName": "Albert (Berti)",
+      "lastName": "Jezel (Jetzel)",
+      "role": "Kolporteur",
+      "fullName": "Albert (Berti) Jezel (Jetzel)"
+    },
+    {
+      "_id": "6504166ba47588ad6024a621",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Blum",
+      "role": "Publikum am Rennplatz",
+      "fullName": "Fritz Blum"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f9",
+      "additional": "",
+      "firstName": "Tassilo",
+      "lastName": "Holik",
+      "role": "Publikum am Rennplatz",
+      "fullName": "Tassilo Holik"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad67",
+      "additional": "",
+      "firstName": "Armand",
+      "lastName": "Ozory",
+      "role": "Publikum am Rennplatz",
+      "fullName": "Armand Ozory"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab9e",
+      "additional": "",
+      "firstName": "Inge",
+      "lastName": "Leddihn",
+      "role": "Publikum am Rennplatz",
+      "fullName": "Inge Leddihn"
+    },
+    {
+      "_id": "6504166ba47588ad6024a6c9",
+      "additional": "",
+      "firstName": "Helga",
+      "lastName": "Czech-Rechtensee",
+      "role": "Publikum am Rennplatz",
+      "fullName": "Helga Czech-Rechtensee"
+    },
+    {
+      "_id": "6504166ba47588ad6024b107",
+      "additional": "",
+      "firstName": "Marie",
+      "lastName": "Trentin",
+      "role": "Publikum am Rennplatz",
+      "fullName": "Marie Trentin"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b1a7",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Wengraf",
+      "fullName": "Hans Wengraf",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b711",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Gottwald",
+      "fullName": "Fritz Gottwald"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000052.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c30d3ced60fbe22e2b6",
+      "uid": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Uraufführung",
+      "count": "15",
+      "date": "1937-02-09T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Frau Wimmerl",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0584.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000045.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38db66af2b0e29f9f40f9",
+      "uid": "09ecc01b-595c-4315-a061-4c635d500f78",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-10T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Frau Wimmerl",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000046.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38de86af2b0e29f9f454e",
+      "uid": "41b6a24f-d70b-41e7-901f-c4d39d8532c2",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-11T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Frau Wimmerl",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000047.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38f5d6af2b0e29f9f665a",
+      "uid": "a19958d6-7d5f-403b-9e72-f53cb9c4e425",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-14T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Frau Wimmerl",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000050.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38f8d6af2b0e29f9f6a74",
+      "uid": "f046ee98-06d2-49ee-8b09-f50e7fbda58a",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-15T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Frau Wimmerl",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000051.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38fbf6af2b0e29f9f6ef5",
+      "uid": "e991a328-7b55-483e-9152-926d0381d223",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Frau Wimmerl",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000052.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38ff16af2b0e29f9f7348",
+      "uid": "8d0cd7d0-55be-4bfd-ae4a-9c8e97f6faf9",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-17T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Frau Wimmerl",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Auktionator",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000053.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3905a6af2b0e29f9f7c19",
+      "uid": "13253f6c-382c-4186-9e45-32f27358ad01",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-18T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Wimmerl",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000054.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a391b06af2b0e29f9f9a7a",
+      "uid": "e2fc60a0-af1a-4a46-bb43-9e57597678b6",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-21T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Frau Wimmerl",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000058.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a394a16af2b0e29f9fdf93",
+      "uid": "ca27dae4-7103-4c9a-ad0d-6e89cfdae0cb",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-01T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Wimmerl",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000066.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3d7256af2b0e29fa5241f",
+      "uid": "3b7ae3e4-4b68-421b-b589-64a715e8978b",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Frau Wimmerl",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000069.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3da826af2b0e29fa56614",
+      "uid": "432ece8a-6e53-4829-9707-42fec3630f2f",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-07T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Staudigl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Wimmerl",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Ein Auktionator",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000072.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3eaf86af2b0e29fa6ae16",
+      "uid": "b6d1b366-c00e-49ec-8b3f-2c7d77b2d02b",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-29T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Lilly",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Frau Wimmerl",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Ein Auktionator",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000094.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3fe916af2b0e29fa83af6",
+      "uid": "899910e1-cbf4-455f-b706-806433bb4bbb",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-18T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Radlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Staudigl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Lilly",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Taxichauffeur",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Frau Wimmerl",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000114.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a404cc6af2b0e29fa8b956",
+      "uid": "0f3803de-f1cd-41a3-9a74-fa43c507246d",
+      "productionId": "7d1b8692-fd94-479d-baf5-aee0c0372be9",
+      "title": "Das Derby der kleinen Leute",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-26T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Alois Stanzl",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Betty Pröselmayer",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Mizzi Huber",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ferdinand Rodlböck",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Hans Schmitz",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Olly Hammerschlag",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Doktor Staudigl",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Gusti Fröhlich",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Von Günsberg",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kirsch",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Lilly",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Taxichauffeur",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Frau Wimmerl",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Kathi",
+          "fullName": "Trude Helmreich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Strassensänger",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Sicherheitswachmann",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa58",
+          "additional": "1946-1976",
+          "firstName": "Albert (Berti)",
+          "lastName": "Jezel (Jetzel)",
+          "role": "Kolporteur",
+          "fullName": "Albert (Berti) Jezel (Jetzel)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Publikum am Rennplatz",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Auktionator",
+          "fullName": "Albert Paulmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b711",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Gottwald",
+          "fullName": "Fritz Gottwald"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000123.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

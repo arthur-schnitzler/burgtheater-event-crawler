@@ -1,0 +1,4253 @@
+{
+  "_id": "66a3532c6af2b0e29f9a7d81",
+  "uid": "aef9b11a-f11b-4c56-a3f6-b9848e38d11b",
+  "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+  "title": "Das Mädel im Schatten",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-01-24T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ac3c",
+      "additional": "1876-1962",
+      "firstName": "Lili",
+      "lastName": "Marberg",
+      "role": "Lady Blundell",
+      "fullName": "Lili Marberg"
+    },
+    {
+      "_id": "658f03ce51cd38b410089bda",
+      "firstName": "Barbara",
+      "lastName": "Uth",
+      "additional": "",
+      "role": "Isabell",
+      "fullName": "Barbara Uth"
+    },
+    {
+      "_id": "6504166ba47588ad6024afcc",
+      "additional": "",
+      "firstName": "Alma",
+      "lastName": "Seidler",
+      "role": "Judy Keenan",
+      "fullName": "Alma Seidler"
+    },
+    {
+      "_id": "6504166ba47588ad6024a678",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Burg",
+      "role": "Rosa",
+      "fullName": "Maria Burg"
+    },
+    {
+      "_id": "6504166ba47588ad6024a5e4",
+      "additional": "1897-1959",
+      "firstName": "Ulrich",
+      "lastName": "Bettac",
+      "role": "Sir Shale",
+      "fullName": "Ulrich Bettac"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0cc",
+      "additional": "1854-1951",
+      "firstName": "Willy",
+      "lastName": "Thaller",
+      "role": "Tobias Marks",
+      "fullName": "Willy Thaller"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1a7",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Wengraf",
+      "role": "Prinz Strophani",
+      "fullName": "Hans Wengraf"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7b1",
+      "additional": "1931-1972, danach als Gast ",
+      "firstName": "Richard",
+      "lastName": "Eybner",
+      "role": "Vranya",
+      "fullName": "Richard Eybner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Mr. Gibson",
+      "fullName": "Otto Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b13e",
+      "additional": "1904-1972",
+      "firstName": "Eduard",
+      "lastName": "Volters",
+      "role": "Dickson",
+      "fullName": "Eduard Volters"
+    },
+    {
+      "_id": "6504166ba47588ad6024a52b",
+      "additional": "",
+      "firstName": "Edeltraude",
+      "lastName": "Arnoscht",
+      "role": "Laufmädel",
+      "fullName": "Edeltraude Arnoscht"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b405",
+      "additional": "",
+      "firstName": "Richard",
+      "lastName": "Hoffmann",
+      "fullName": "Richard Hoffmann",
+      "role": "Deutsch"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1a7",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Wengraf",
+      "fullName": "Hans Wengraf",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9d4",
+      "additional": "",
+      "firstName": "Stefan",
+      "lastName": "Hlawa",
+      "fullName": "Stefan Hlawa",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b35f",
+      "additional": "",
+      "firstName": "Walter",
+      "lastName": "Ellis",
+      "fullName": "Walter Ellis"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000027.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c2dd3ced60fbe22d867",
+      "uid": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "29",
+      "date": "1936-12-19T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0583.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000314.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2846a6af2b0e29f8aa9a5",
+      "uid": "896c72b9-29aa-4bc1-b1a5-885703b84e59",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000316.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2848e6af2b0e29f8aac8d",
+      "uid": "4df09bb2-d8ad-413d-9809-8870a39f6551",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-22T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000317.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a285d26af2b0e29f8ac57e",
+      "uid": "37134d9e-c200-4bd4-9140-80d3b02ae0d1",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-23T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Mr. Gibson",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000318.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a286356af2b0e29f8ace3d",
+      "uid": "86ee7602-707d-443d-9f08-46bd841bb057",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-25T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Mr. Gibson",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000320.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a29b796af2b0e29f8c659e",
+      "uid": "30588434-0947-4729-9d8e-66996c9546cb",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-27T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabel, ihre Tochter",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan, ihre Nichte",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa, Stubenmädchen",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir John Shale, Baronet",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks, Lady Blundells Bruder",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Victor Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Mister Gibson, ein Privatdetektiv",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson, Kammerdiener bei Sir John",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel vom Salon \"Ninette\"",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000324.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a29c356af2b0e29f8c74ae",
+      "uid": "fc63e915-dab7-405c-a91f-0fd6d903b06a",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabel, ihre Tochter",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan, ihre Nichte",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa, Stubenmädchen",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir John Shale, Baronet",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks, Lady Blundells Bruder",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Victor Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Mister Gibson, ein Privatdetektiv",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson, Kammerdiener bei Sir John",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel vom Salon \"Ninette\"",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000325.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a29c6d6af2b0e29f8c7936",
+      "uid": "85f8de75-afcd-40d7-b3a1-01b1859fd07b",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-29T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabel, ihre Tochter",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan, ihre Nichte",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa, Stubenmädchen",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir John Shale, Baronet",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks, Lady Blundells Bruder",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Victor Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mister Gibson, ein Privatdetektiv",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson, Kammerdiener bei Sir John",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel vom Salon \"Ninette\"",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000326.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a29cac6af2b0e29f8c7ec4",
+      "uid": "d4cd505f-6041-48ec-8ea7-26725d68b391",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-30T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabel, ihre Tochter",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan, ihre Nichte",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa, Stubenmädchen",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir John Shale, Baronet",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks, Lady Blundells Bruder",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Victor Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mister Gibson, ein Privatdetektiv",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson, Kammerdiener bei Sir John",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel vom Salon \"Ninette\"",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000327.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a349846af2b0e29f99b306",
+      "uid": "4437f270-4faa-435e-b6be-93667f70c08d",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-01T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a34a786af2b0e29f99c6b1",
+      "uid": "15daa4fd-8d37-4979-a42a-0cd0c1a8e8ea",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-03T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000005.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a34ab36af2b0e29f99cb6b",
+      "uid": "8d152e09-20e9-463e-a28d-67b007e5c381",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000006.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a34b636af2b0e29f99dab2",
+      "uid": "9bb33080-4d78-494e-bf30-d1ffc0edd724",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-06T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000009.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a34bb66af2b0e29f99e19d",
+      "uid": "eb52d32d-efa5-40a2-adcd-581dcd7a6bb1",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-07T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000010.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a34ca36af2b0e29f99f408",
+      "uid": "41cf47af-6d6d-44e0-a16f-081774646dfb",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-08T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Mr. Gibson",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000011.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a34cdf6af2b0e29f99f984",
+      "uid": "bc658329-2ad3-4d19-a8fc-2a902d18a9a9",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-09T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000012.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a34e306af2b0e29f9a15cf",
+      "uid": "e9dcf2b0-0be8-4a35-a23c-242f67d51136",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-12T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000016.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a34f7d6af2b0e29f9a3058",
+      "uid": "ce7638fc-7ff3-45d3-8221-a4ea5f1158d5",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-14T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000018.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a350ab6af2b0e29f9a48c5",
+      "uid": "e7c78939-96df-4eb1-8b4c-d490ff3dbc4a",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000020.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a350e56af2b0e29f9a4d7f",
+      "uid": "c1ce9146-d69d-45e3-80cb-df49ba934061",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-17T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000021.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a351cb6af2b0e29f9a606b",
+      "uid": "85c06486-1b1f-499a-8351-8859b1213604",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-19T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000023.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3532c6af2b0e29f9a7d81",
+      "uid": "aef9b11a-f11b-4c56-a3f6-b9848e38d11b",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-24T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000027.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a354206af2b0e29f9a9173",
+      "uid": "45a86686-af12-4c0f-8650-4e086db630a7",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-25T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Mr. Gibson",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000029.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a388ad6af2b0e29f9ecd0a",
+      "uid": "115860b2-47d3-4df2-82e6-90f229292796",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-31T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Mr. Gibson",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000036.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38b676af2b0e29f9f0b93",
+      "uid": "8311073b-2326-4c3a-bf72-00cd29841e58",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-07T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Mr. Gibson",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000042.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38c5f6af2b0e29f9f2249",
+      "uid": "69eaba11-8b7e-49ab-8be9-a5c799aa8e3d",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-08T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Mr. Gibson",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000044.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3d85f6af2b0e29fa53c31",
+      "uid": "1c9502bd-bb6f-406a-9c2f-2ca0c40935ef",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-05T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Mr. Gibson",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000070.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3f2ff6af2b0e29fa75602",
+      "uid": "9b1603df-6c3b-421b-9787-50e1db520ce7",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabell",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Mr. Gibson",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000101.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4001f6af2b0e29fa85a35",
+      "uid": "8e8c921d-6ca5-4fb0-a8f0-58ce1cbe8ba6",
+      "productionId": "bd8c9d2d-aad1-4451-9949-1b8bbb1fc577",
+      "title": "Das Mädel im Schatten",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-18T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Blundell",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Isabel",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Judy Keenan",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Rosa",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Shale",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Tobias Marks",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Prinz Strophani",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vranya",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Mr. Gibson",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Dickson",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Laufmädel",
+          "fullName": "Edeltraude Arnoscht"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b405",
+          "additional": "",
+          "firstName": "Richard",
+          "lastName": "Hoffmann",
+          "fullName": "Richard Hoffmann",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b35f",
+          "additional": "",
+          "firstName": "Walter",
+          "lastName": "Ellis",
+          "fullName": "Walter Ellis"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000115.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

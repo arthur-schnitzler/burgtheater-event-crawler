@@ -1,0 +1,4948 @@
+{
+  "_id": "66a3dd6e6af2b0e29fa5a2ce",
+  "uid": "82aa475e-d38b-4328-b514-3cf574bc312d",
+  "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+  "title": "Der Star",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-03-14T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a786",
+      "additional": "1896-1954",
+      "firstName": "Maria",
+      "lastName": "Eis",
+      "role": "Lona Ladinser",
+      "fullName": "Maria Eis"
+    },
+    {
+      "_id": "6504166ba47588ad6024b050",
+      "additional": "1897-1974",
+      "firstName": "Felix",
+      "lastName": "Steinböck",
+      "role": "Leopold Wisinger",
+      "fullName": "Felix Steinböck"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab9e",
+      "additional": "",
+      "firstName": "Inge",
+      "lastName": "Leddihn",
+      "role": "Martha",
+      "fullName": "Inge Leddihn"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa3d",
+      "additional": "",
+      "firstName": "Julia",
+      "lastName": "Janssen",
+      "role": "Gerty Danzer",
+      "fullName": "Julia Janssen"
+    },
+    {
+      "_id": "6568ee8c0080658502207fed",
+      "firstName": "Franz",
+      "lastName": "Höbling",
+      "additional": "1886-1965",
+      "role": "Doktor Engelbert Rohr",
+      "fullName": "Franz Höbling"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b36",
+      "additional": "1888-1961",
+      "firstName": "Paul",
+      "lastName": "Pranger",
+      "role": "Graf Blowitz",
+      "fullName": "Paul Pranger"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac37",
+      "additional": "1881-1960",
+      "firstName": "Ferdinand",
+      "lastName": "Maierhofer",
+      "role": "Indra",
+      "fullName": "Ferdinand Maierhofer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a63c",
+      "additional": "1899-1971",
+      "firstName": "Viktor",
+      "lastName": "Braun",
+      "role": "Wikidak",
+      "fullName": "Viktor Braun"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac3c",
+      "additional": "1876-1962",
+      "firstName": "Lili",
+      "lastName": "Marberg",
+      "role": "Fräulein Zipfer",
+      "fullName": "Lili Marberg"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac80",
+      "additional": "1936-1963",
+      "firstName": "Liselotte",
+      "lastName": "Medelsky",
+      "role": "Flora Denk",
+      "fullName": "Liselotte Medelsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024b085",
+      "additional": "1868-1938",
+      "firstName": "Fritz",
+      "lastName": "Strassni",
+      "role": "Peter Gallus",
+      "fullName": "Fritz Strassni"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Herr von Span",
+      "fullName": "Otto Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024b180",
+      "additional": "1884-1963",
+      "firstName": "Hermann",
+      "lastName": "Wawra",
+      "role": "Kapellmeister Mosel",
+      "fullName": "Hermann Wawra"
+    },
+    {
+      "_id": "6504166ba47588ad6024a98a",
+      "additional": "1884-1947",
+      "firstName": "Reinhold",
+      "lastName": "Haeussermann",
+      "role": "Blum",
+      "fullName": "Reinhold Haeussermann"
+    },
+    {
+      "_id": "658f02b451cd38b410089b43",
+      "firstName": "Otto",
+      "lastName": "Storm",
+      "additional": "1874-1950",
+      "role": "Coch",
+      "fullName": "Otto Storm"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab35",
+      "additional": "1905-1963",
+      "firstName": "Helmuth",
+      "lastName": "Krauss",
+      "role": "Wenig",
+      "fullName": "Helmuth Krauss"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7b1",
+      "additional": "1931-1972, danach als Gast ",
+      "firstName": "Richard",
+      "lastName": "Eybner",
+      "role": "Franz",
+      "fullName": "Richard Eybner"
+    },
+    {
+      "_id": "6504166ba47588ad6024b107",
+      "additional": "",
+      "firstName": "Marie",
+      "lastName": "Trentin",
+      "role": "Lini",
+      "fullName": "Marie Trentin"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa88",
+      "additional": "1885-1971",
+      "firstName": "Lilly",
+      "lastName": "Karoly",
+      "role": "Die alte Marie",
+      "fullName": "Lilly Karoly"
+    },
+    {
+      "_id": "6504166ba47588ad6024a5ec",
+      "additional": "",
+      "firstName": "Marga",
+      "lastName": "Bernard (Schwarzacher)",
+      "role": "Dame",
+      "fullName": "Marga Bernard (Schwarzacher)"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024ae8d",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Rosenthal",
+      "fullName": "Friedrich Rosenthal",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9d4",
+      "additional": "",
+      "firstName": "Stefan",
+      "lastName": "Hlawa",
+      "fullName": "Stefan Hlawa",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9d4",
+      "additional": "",
+      "firstName": "Stefan",
+      "lastName": "Hlawa",
+      "fullName": "Stefan Hlawa",
+      "role": "Kostüme"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b29f",
+      "additional": "",
+      "firstName": "Hermann",
+      "lastName": "Bahr",
+      "fullName": "Hermann Bahr"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000078.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c32d3ced60fbe22e91a",
+      "uid": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "22",
+      "date": "1937-02-20T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Herr von Span",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Wenig",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0585.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000056.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a391dc6af2b0e29f9f9e98",
+      "uid": "3a84a98b-331e-4558-9a8a-d8ba580eb252",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-22T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Herr von Span",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Wenig",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000059.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a392526af2b0e29f9fa906",
+      "uid": "3eb44910-9f2c-46c7-b252-0f0c1aac61e7",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-23T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Herr von Span",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Wenig",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000060.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3932a6af2b0e29f9fbe58",
+      "uid": "c78d7914-4ff9-485b-9ee8-a3319fd1a0cf",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-25T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Herr von Span",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Wenig",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000062.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a393df6af2b0e29f9fcdf5",
+      "uid": "3851cd2f-3417-47ba-ade4-3e536da0ee4a",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-27T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Herr von Span",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Wenig",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000063.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a394506af2b0e29f9fd8d5",
+      "uid": "e399284b-aa21-4cef-8d9f-b8c54acfd188",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Herr von Span",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Wenig",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000065.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a395ce6af2b0e29f9ff875",
+      "uid": "a0791425-775d-45a7-b74b-f64e125279bb",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Herr von Span",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Wenig",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000067.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3d5e66af2b0e29fa50bbb",
+      "uid": "b7c08914-3bcb-4479-9a60-6444bb4afb42",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-03T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Herr von Span",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Wenig",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000068.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3d9636af2b0e29fa54fbb",
+      "uid": "16faf804-e077-4ab7-bddd-25fa064c6665",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-06T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Herr von Span",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Wenig",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000071.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3db9f6af2b0e29fa57cf2",
+      "uid": "ea17cc11-e7e8-44e8-94df-44b99e592019",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-07T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Herr von Span",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Wenig",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000073.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3dd6e6af2b0e29fa5a2ce",
+      "uid": "82aa475e-d38b-4328-b514-3cf574bc312d",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-14T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Herr von Span",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Wenig",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000078.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3dde66af2b0e29fa5acbc",
+      "uid": "73d88005-608a-4779-bac1-bed107a2a001",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-15T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Herr von Span",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Wenig",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000080.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3de7a6af2b0e29fa5b8c7",
+      "uid": "795ef606-0475-4757-9d7e-37bc226ceee7",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-18T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Herr von Span",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Wenig",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000082.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3decd6af2b0e29fa5bf88",
+      "uid": "bac1adf5-8bc0-441f-a5f4-2e94880e7c1b",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-19T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Herr von Span",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Wenig",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000083.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3df4d6af2b0e29fa5ca2b",
+      "uid": "dd0f80b4-9733-4ed5-82be-10fa473ddc74",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-21T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Herr von Span",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Wenig",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000085.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3e1a26af2b0e29fa5f7ca",
+      "uid": "4fd0fa06-1772-4168-8b96-1c721aa8f473",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-22T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Herr von Span",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Wenig",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000087.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3e2a26af2b0e29fa60b73",
+      "uid": "1ddad806-5e4e-4afe-9481-880703ccae28",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-23T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Herr von Span",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Wenig",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000088.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3e46a6af2b0e29fa62e30",
+      "uid": "78a80b54-d502-4d24-988d-5ba4fed5b153",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-24T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Herr von Span",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Wenig",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Franz",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000089.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3e9cf6af2b0e29fa69728",
+      "uid": "f4221191-6cc6-481d-b61b-8ea844f829a2",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Herr von Span",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Wenig",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000093.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3eddb6af2b0e29fa6e8a9",
+      "uid": "82bf3e19-ead4-4c13-9da4-202101ce0117",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-03-30T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Herr von Span",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Wenig",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000096.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3f98a6af2b0e29fa7d6cf",
+      "uid": "e0e2e0b1-9c87-4077-b0f5-99a52a24d8a8",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-11T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Flora Denk",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Herr von Span",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Wenig",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000108.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4c1dc6af2b0e29fb704d0",
+      "uid": "81422afb-e36c-4f09-b037-373c41552374",
+      "productionId": "3711ecf0-b2cc-4a65-810c-df52a222e726",
+      "title": "Der Star",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-10T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lona Ladinser",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Leopold Wisinger",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Martha",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Gerty Danzer",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Doktor Engelbert Rohr",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Graf Blowitz",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Indra",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Wikidak",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Fräulein Zipfer",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Flora Denk",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Peter Gallus",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Herr von Span",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Kapellmeister Mosel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Blum",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Coch",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Wenig",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Franz",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Lini",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Die alte Marie",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Dame",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000167.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

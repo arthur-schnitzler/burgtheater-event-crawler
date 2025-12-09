@@ -1,0 +1,1890 @@
+{
+  "_id": "66a3494c6af2b0e29f99adfe",
+  "uid": "6ca9b291-75ae-44e6-825e-2f7c673803b0",
+  "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+  "title": "Abrakadabra",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-01-01T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a990",
+      "additional": "1888-1954",
+      "firstName": "Wilhelm",
+      "lastName": "Heim",
+      "role": "Robert Halden",
+      "fullName": "Wilhelm Heim"
+    },
+    {
+      "_id": "6504166ba47588ad6024b14c",
+      "additional": "1904-1992",
+      "firstName": "Hilde",
+      "lastName": "Wagener",
+      "role": "Gerda Halden",
+      "fullName": "Hilde Wagener"
+    },
+    {
+      "_id": "6568ee8c0080658502207fed",
+      "firstName": "Franz",
+      "lastName": "Höbling",
+      "additional": "1886-1965",
+      "role": "Margyn",
+      "fullName": "Franz Höbling"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1a7",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Wengraf",
+      "role": "Ein Gast",
+      "fullName": "Hans Wengraf"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Effi Brix",
+      "fullName": "Maria Kramer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b069",
+      "additional": "",
+      "firstName": "Lilly",
+      "lastName": "Stepanek",
+      "role": "Mascha Marina",
+      "fullName": "Lilly Stepanek"
+    },
+    {
+      "_id": "6504166ba47588ad6024a678",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Burg",
+      "role": "Fanny",
+      "fullName": "Maria Burg"
+    },
+    {
+      "_id": "658f087c51cd38b410089d5b",
+      "firstName": "Fred",
+      "lastName": "Steinbacher",
+      "additional": "",
+      "role": "Polizist",
+      "fullName": "Fred Steinbacher"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b1a7",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Wengraf",
+      "fullName": "Hans Wengraf",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b794",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Koselka",
+      "fullName": "Fritz Koselka"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000001.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c2dd3ced60fbe22d5b9",
+      "uid": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "16",
+      "date": "1936-11-05T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Mascha Marina",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0582.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000268.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a275206af2b0e29f896178",
+      "uid": "378faa9d-b894-4465-8f21-ce5f999d2953",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-06T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Mascha Marina",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000269.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2771e6af2b0e29f899175",
+      "uid": "6698b111-8e0b-455d-a123-47d7c00df456",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-10T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Mascha Marina",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000274.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a278066af2b0e29f89a56f",
+      "uid": "6c0cee36-fcb9-44be-837d-6a1d4f57d8fa",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-12T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Mascha Marina",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000276.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a278416af2b0e29f89ab19",
+      "uid": "21a3e73e-1a94-4bc5-b9cd-8d0ca79dcb47",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-14T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Mascha Marina",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000278.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a278fe6af2b0e29f89bb1f",
+      "uid": "f72acd03-848e-470e-8630-538aa3854c21",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Mascha Marina",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000281.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a279096af2b0e29f89bc0e",
+      "uid": "3070505a-349a-47d1-9c72-a4f28398f933",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-17T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Mascha Marina",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000282.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a279856af2b0e29f89c627",
+      "uid": "af9a0487-12ea-45ca-a0f8-fa6e79faa60e",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-18T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Mascha Marina",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000283.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a279e56af2b0e29f89ce6c",
+      "uid": "41e98275-c1b4-457d-939e-f38f51dc0a30",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Mascha Marina",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000285.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a27b016af2b0e29f89e591",
+      "uid": "b2c77507-28f5-44a0-b8bd-67279af937d6",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-22T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Mascha Marina",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000288.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a27b826af2b0e29f89f0d3",
+      "uid": "0e51e3f5-ddd0-47ea-8874-de914a5d3702",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-27T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Mascha Marina",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000292.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a27c756af2b0e29f8a053a",
+      "uid": "3fd95195-eaa4-4ca3-b8c2-99ee7eae8b7a",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-11-29T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Mascha Marina",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000295.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a282886af2b0e29f8a8181",
+      "uid": "4b0249f4-6127-413c-8242-f582dc61265e",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-13T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Mascha Marina",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000309.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a282f06af2b0e29f8a8aa0",
+      "uid": "6ac2472a-dc4e-4de4-8750-c01a2c8a670e",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Mascha Marina",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000312.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3494c6af2b0e29f99adfe",
+      "uid": "6ca9b291-75ae-44e6-825e-2f7c673803b0",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-01T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Mascha Marina",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000001.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a351ed6af2b0e29f9a635f",
+      "uid": "9dd0e05c-625b-4a7b-966a-684f83b80590",
+      "productionId": "d4d30119-0448-41e1-ac23-40e9001cdc0b",
+      "title": "Abrakadabra",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Robert Halden",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Gerda Halden",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Margyn",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Ein Gast",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Effi Brix",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Mascha Marina",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fanny",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Polizist",
+          "fullName": "Fred Steinbacher"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b794",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Koselka",
+          "fullName": "Fritz Koselka"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000024.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

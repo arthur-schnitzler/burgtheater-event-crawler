@@ -1,0 +1,1218 @@
+{
+  "_id": "66a3f3ff6af2b0e29fa769db",
+  "uid": "7e732f76-fe4b-4e9c-8d63-a257f240d5fd",
+  "productionId": "a7fd4e3a-9554-44da-bffd-45702123f948",
+  "title": "Die vier Gesellen",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-04-04T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024afcc",
+      "additional": "",
+      "firstName": "Alma",
+      "lastName": "Seidler",
+      "role": "Marianne Krug",
+      "fullName": "Alma Seidler"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Franziska Hofer",
+      "fullName": "Maria Kramer"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa3d",
+      "additional": "",
+      "firstName": "Julia",
+      "lastName": "Janssen",
+      "role": "Käte Winter",
+      "fullName": "Julia Janssen"
+    },
+    {
+      "_id": "6504166ba47588ad6024b069",
+      "additional": "",
+      "firstName": "Lilly",
+      "lastName": "Stepanek",
+      "role": "Lotte Waag",
+      "fullName": "Lilly Stepanek"
+    },
+    {
+      "_id": "6504166ba47588ad6024a5e4",
+      "additional": "1897-1959",
+      "firstName": "Ulrich",
+      "lastName": "Bettac",
+      "role": "Stefan Kohler",
+      "fullName": "Ulrich Bettac"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac37",
+      "additional": "1881-1960",
+      "firstName": "Ferdinand",
+      "lastName": "Maierhofer",
+      "role": "Professor Lang",
+      "fullName": "Ferdinand Maierhofer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b251",
+      "additional": "1896-1977",
+      "firstName": "Philipp",
+      "lastName": "Zeska",
+      "role": "Maierl",
+      "fullName": "Philipp Zeska"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Bachmann",
+      "fullName": "Otto Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024acad",
+      "additional": "1885-1954",
+      "firstName": "Maria",
+      "lastName": "Mell",
+      "role": "Sekretärin",
+      "fullName": "Maria Mell"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0cd",
+      "additional": "",
+      "firstName": "Wolfgang",
+      "lastName": "Thaller",
+      "role": "Ansager",
+      "fullName": "Wolfgang Thaller"
+    },
+    {
+      "_id": "6504166ba47588ad6024a5ec",
+      "additional": "",
+      "firstName": "Marga",
+      "lastName": "Bernard (Schwarzacher)",
+      "role": "Stimme der Frau Doktor Übermuth",
+      "fullName": "Marga Bernard (Schwarzacher)"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b251",
+      "additional": "1896-1977",
+      "firstName": "Philipp",
+      "lastName": "Zeska",
+      "fullName": "Philipp Zeska",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024add3",
+      "additional": "",
+      "firstName": "Emil",
+      "lastName": "Pirchan",
+      "fullName": "Emil Pirchan",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b76d",
+      "additional": "",
+      "firstName": "Jochen",
+      "lastName": "Huth",
+      "fullName": "Jochen Huth"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000102.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c34d3ced60fbe22f0ef",
+      "uid": "a7fd4e3a-9554-44da-bffd-45702123f948",
+      "productionId": "a7fd4e3a-9554-44da-bffd-45702123f948",
+      "title": "Die vier Gesellen",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "8",
+      "date": "1937-04-03T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne Krug",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Franziska Hofer",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Käte Winter",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Lotte Waag",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Stefan Kohler",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Professor Lang",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Maierl",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Bachmann",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Sekretärin",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Ansager",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Stimme der Frau Doktor Übermuth",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b76d",
+          "additional": "",
+          "firstName": "Jochen",
+          "lastName": "Huth",
+          "fullName": "Jochen Huth"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0586.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000100.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3f3ff6af2b0e29fa769db",
+      "uid": "7e732f76-fe4b-4e9c-8d63-a257f240d5fd",
+      "productionId": "a7fd4e3a-9554-44da-bffd-45702123f948",
+      "title": "Die vier Gesellen",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne Krug",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Franziska Hofer",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Käte Winter",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Lotte Waag",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Stefan Kohler",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Professor Lang",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Maierl",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Bachmann",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Sekretärin",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Ansager",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Stimme der Frau Doktor Übermuth",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b76d",
+          "additional": "",
+          "firstName": "Jochen",
+          "lastName": "Huth",
+          "fullName": "Jochen Huth"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000102.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3f63e6af2b0e29fa79609",
+      "uid": "8b3cc75a-ff4e-4f56-aa69-301c36176e12",
+      "productionId": "a7fd4e3a-9554-44da-bffd-45702123f948",
+      "title": "Die vier Gesellen",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-08T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne Krug",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Franziska Hofer",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Käte Winter",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Lotte Waag",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Stefan Kohler",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Professor Lang",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Maierl",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Bachmann",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Sekretärin",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Ansager",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Stimme der Frau Doktor Übermuth",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b76d",
+          "additional": "",
+          "firstName": "Jochen",
+          "lastName": "Huth",
+          "fullName": "Jochen Huth"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000104.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3f8af6af2b0e29fa7c5f1",
+      "uid": "2b2d9b58-9fe3-4d4f-b9ee-c5d0cb3aa4dc",
+      "productionId": "a7fd4e3a-9554-44da-bffd-45702123f948",
+      "title": "Die vier Gesellen",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-10T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne Krug",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Franziska Hofer",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Käte Winter",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Lotte Waag",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Stefan Kohler",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Professor Lang",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Maierl",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Bachmann",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Sekretärin",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Ansager",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Stimme der Frau Doktor Übermuth",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b76d",
+          "additional": "",
+          "firstName": "Jochen",
+          "lastName": "Huth",
+          "fullName": "Jochen Huth"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000107.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3fa8e6af2b0e29fa7eb22",
+      "uid": "d36d37d0-8d63-40fa-9e4d-addb326ebd1f",
+      "productionId": "a7fd4e3a-9554-44da-bffd-45702123f948",
+      "title": "Die vier Gesellen",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-11T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne Krug",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Franziska Hofer",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Käte Winter",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Lotte Waag",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Stefan Kohler",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Professor Lang",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Maierl",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Bachmann",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Sekretärin",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Ansager",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Stimme der Frau Doktor Übermuth",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b76d",
+          "additional": "",
+          "firstName": "Jochen",
+          "lastName": "Huth",
+          "fullName": "Jochen Huth"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000109.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3fb786af2b0e29fa7fd1c",
+      "uid": "b4ffd0e2-6b7f-4724-94b5-7ac1c77e8541",
+      "productionId": "a7fd4e3a-9554-44da-bffd-45702123f948",
+      "title": "Die vier Gesellen",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-13T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne Krug",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Franziska Hofer",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Käte Winter",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Lotte Waag",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Stefan Kohler",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Professor Lang",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Maierl",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Bachmann",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Sekretärin",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Ansager",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Stimme der Frau Doktor Übermuth",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b76d",
+          "additional": "",
+          "firstName": "Jochen",
+          "lastName": "Huth",
+          "fullName": "Jochen Huth"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000110.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3fc7c6af2b0e29fa810c3",
+      "uid": "a92502e0-7300-4ce2-98d1-0a8c2e159edf",
+      "productionId": "a7fd4e3a-9554-44da-bffd-45702123f948",
+      "title": "Die vier Gesellen",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-14T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne Krug",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Franziska Hofer",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Käte Winter",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Lotte Waag",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Stefan Kohler",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Professor Lang",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Maierl",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Bachmann",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Sekretärin",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Ansager",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Stimme der Frau Doktor Übermuth",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b76d",
+          "additional": "",
+          "firstName": "Jochen",
+          "lastName": "Huth",
+          "fullName": "Jochen Huth"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000111.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a403cb6af2b0e29fa8a4b9",
+      "uid": "03f58354-4a42-4a36-9c11-72378441621a",
+      "productionId": "a7fd4e3a-9554-44da-bffd-45702123f948",
+      "title": "Die vier Gesellen",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-25T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne Krug",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Franziska Hofer",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Käte Winter",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Lotte Waag",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Stefan Kühler",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Professor Lang",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "role": "Maierl",
+          "fullName": "Philipp Zeska"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Bachmann",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Sekretärin",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Ansager",
+          "fullName": "Wolfgang Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5ec",
+          "additional": "",
+          "firstName": "Marga",
+          "lastName": "Bernard (Schwarzacher)",
+          "role": "Stimme der Frau Doktor Übermuth",
+          "fullName": "Marga Bernard (Schwarzacher)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b76d",
+          "additional": "",
+          "firstName": "Jochen",
+          "lastName": "Huth",
+          "fullName": "Jochen Huth"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000121.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

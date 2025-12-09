@@ -1,0 +1,1401 @@
+{
+  "_id": "65c61c30d3ced60fbe22e447",
+  "uid": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+  "productionId": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+  "title": "Der lächerliche Sir Anthony",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": "Premiere",
+  "count": "10",
+  "date": "1937-01-24T12:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a990",
+      "additional": "1888-1954",
+      "firstName": "Wilhelm",
+      "lastName": "Heim",
+      "role": "Sir Philip Rawlings",
+      "fullName": "Wilhelm Heim"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0df",
+      "additional": "",
+      "firstName": "Hermann",
+      "lastName": "Thimig",
+      "role": "Sir Anthony Cullingwood",
+      "fullName": "Hermann Thimig"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Lady Gwendolin Cullingwood",
+      "fullName": "Maria Kramer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a5e4",
+      "additional": "1897-1959",
+      "firstName": "Ulrich",
+      "lastName": "Bettac",
+      "role": "Mac Allan",
+      "fullName": "Ulrich Bettac"
+    },
+    {
+      "_id": "6504166ba47588ad6024a786",
+      "additional": "1896-1954",
+      "firstName": "Maria",
+      "lastName": "Eis",
+      "role": "Mistress Granville",
+      "fullName": "Maria Eis"
+    },
+    {
+      "_id": "6504166ba47588ad6024a98a",
+      "additional": "1884-1947",
+      "firstName": "Reinhold",
+      "lastName": "Haeussermann",
+      "role": "Verney",
+      "fullName": "Reinhold Haeussermann"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b36",
+      "additional": "1888-1961",
+      "firstName": "Paul",
+      "lastName": "Pranger",
+      "role": "Blessington",
+      "fullName": "Paul Pranger"
+    },
+    {
+      "_id": "658f02b451cd38b410089b43",
+      "firstName": "Otto",
+      "lastName": "Storm",
+      "additional": "1874-1950",
+      "role": "Webster",
+      "fullName": "Otto Storm"
+    },
+    {
+      "_id": "6504166ba47588ad6024b107",
+      "additional": "",
+      "firstName": "Marie",
+      "lastName": "Trentin",
+      "role": "Chandra",
+      "fullName": "Marie Trentin"
+    },
+    {
+      "_id": "6570bef400806585023dc09a",
+      "firstName": "Karl",
+      "lastName": "Friedl",
+      "additional": "1895-1970",
+      "role": "Soldat",
+      "fullName": "Karl Friedl"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b16a",
+      "additional": "Regie, Bühne",
+      "firstName": "Herbert",
+      "lastName": "Waniek",
+      "fullName": "Herbert Waniek",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b40d",
+      "additional": "",
+      "firstName": "H. G. Tennyson",
+      "lastName": "Holm",
+      "fullName": "H. G. Tennyson Holm"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0584.jpg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000028.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c30d3ced60fbe22e447",
+      "uid": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+      "productionId": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+      "title": "Der lächerliche Sir Anthony",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "10",
+      "date": "1937-01-24T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Sir Philip Rawlings",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Sir Anthony Cullingwood",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Lady Gwendolin Cullingwood",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Mac Allan",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Mistress Granville",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Verney",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Blessington",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Webster",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Chandra",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Soldat",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40d",
+          "additional": "",
+          "firstName": "H. G. Tennyson",
+          "lastName": "Holm",
+          "fullName": "H. G. Tennyson Holm"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0584.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000028.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a354c16af2b0e29f9a9e62",
+      "uid": "87b87619-133c-4904-b4c4-8acb971f24c4",
+      "productionId": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+      "title": "Der lächerliche Sir Anthony",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-27T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Sir Philip Rawlings",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Sir Anthony Cullingwood",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Lady Gwendolin Cullingwood",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Mac Allan",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Mistress Granville",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Verney",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Blessington",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Webster",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Chandra",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Soldat",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40d",
+          "additional": "",
+          "firstName": "H. G. Tennyson",
+          "lastName": "Holm",
+          "fullName": "H. G. Tennyson Holm"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000031.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a354e06af2b0e29f9aa159",
+      "uid": "22550443-69f2-44ce-9ef5-3ed94469f37c",
+      "productionId": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+      "title": "Der lächerliche Sir Anthony",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Sir Philip Rawlings",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Sir Anthony Cullingwood",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Lady Gwendolin Cullingwood",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Mac Allan",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Mistress Granville",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Verney",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Blessington",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Webster",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Chandra",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Soldat",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40d",
+          "additional": "",
+          "firstName": "H. G. Tennyson",
+          "lastName": "Holm",
+          "fullName": "H. G. Tennyson Holm"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000032.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a355bb6af2b0e29f9ab383",
+      "uid": "a75b91f0-d7a7-4d5d-8d7f-30c9ac950c0e",
+      "productionId": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+      "title": "Der lächerliche Sir Anthony",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-30T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Sir Philip Rawlings",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Sir Anthony Cullingwood",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Lady Gwendolin Cullingwood",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Mac Allan",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Mistress Granville",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Verney",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Blessington",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Webster",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Chandra",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Soldat",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40d",
+          "additional": "",
+          "firstName": "H. G. Tennyson",
+          "lastName": "Holm",
+          "fullName": "H. G. Tennyson Holm"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000034.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a388dd6af2b0e29f9ed1ab",
+      "uid": "6e06b868-11fa-4353-89ea-a5fc1cefa6d1",
+      "productionId": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+      "title": "Der lächerliche Sir Anthony",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-01T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Sir Philip Rawlings",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Sir Anthony Cullingwood",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Lady Gwendolin Cullingwood",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Mac Allan",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Mistress Granville",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Verney",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Blessington",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Webster",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Chandra",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Soldat",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40d",
+          "additional": "",
+          "firstName": "H. G. Tennyson",
+          "lastName": "Holm",
+          "fullName": "H. G. Tennyson Holm"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000037.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3898b6af2b0e29f9ee0fb",
+      "uid": "19e2bebc-bfc2-4e6c-9f6a-0ed069ce8547",
+      "productionId": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+      "title": "Der lächerliche Sir Anthony",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-03T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Sir Philip Rawlings",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Sir Anthony Cullingwood",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Lady Gwendolin Cullingwood",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Mac Allan",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Mistress Granville",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Verney",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Blessington",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Webster",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Chandra",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Soldat",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40d",
+          "additional": "",
+          "firstName": "H. G. Tennyson",
+          "lastName": "Holm",
+          "fullName": "H. G. Tennyson Holm"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000039.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a389a66af2b0e29f9ee365",
+      "uid": "1ce25e43-f66b-4f17-a32e-2fb3ad33409d",
+      "productionId": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+      "title": "Der lächerliche Sir Anthony",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Sir Philip Rawlings",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Sir Anthony Cullingwood",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Lady Gwendolin Cullingwood",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Mac Allan",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Mistress Granville",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Verney",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Blessington",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Webster",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Chandra",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Soldat",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40d",
+          "additional": "",
+          "firstName": "H. G. Tennyson",
+          "lastName": "Holm",
+          "fullName": "H. G. Tennyson Holm"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000040.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38bdc6af2b0e29f9f16ec",
+      "uid": "2a119144-f203-4442-bdb6-300babc8f997",
+      "productionId": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+      "title": "Der lächerliche Sir Anthony",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-07T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Sir Philip Rawlings",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Sir Anthony Cullingwood",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Lady Gwendolin Cullingwood",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Mac Allan",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Mistress Granville",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Verney",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Blessington",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Webster",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Chandra",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Soldat",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40d",
+          "additional": "",
+          "firstName": "H. G. Tennyson",
+          "lastName": "Holm",
+          "fullName": "H. G. Tennyson Holm"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000043.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38e466af2b0e29f9f4dca",
+      "uid": "56c55d66-825d-4447-b0ec-2caf20f59e30",
+      "productionId": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+      "title": "Der lächerliche Sir Anthony",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-13T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Sir Philip Rawlings",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Sir Anthony Cullingwood",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Lady Gwendolin Cullingwood",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Mac Allan",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Mistress Granville",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Verney",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Blessington",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Webster",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Chandra",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Soldat",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40d",
+          "additional": "",
+          "firstName": "H. G. Tennyson",
+          "lastName": "Holm",
+          "fullName": "H. G. Tennyson Holm"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000048.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a390856af2b0e29f9f8003",
+      "uid": "7f049e12-5e8e-46a5-bfeb-b624a3473bde",
+      "productionId": "f2691e6a-2cb7-422c-a156-4aabdc9adc89",
+      "title": "Der lächerliche Sir Anthony",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-02-19T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Sir Philip Rawlings",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Sir Anthony Cullingwood",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Lady Gwendolin Cullingwood",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Mac Allan",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Mistress Granville",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Verney",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Blessington",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Webster",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Chandra",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Soldat",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b40d",
+          "additional": "",
+          "firstName": "H. G. Tennyson",
+          "lastName": "Holm",
+          "fullName": "H. G. Tennyson Holm"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000055.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

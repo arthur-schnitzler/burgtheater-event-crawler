@@ -1,0 +1,5704 @@
+{
+  "_id": "66a5026d6af2b0e29fbc668a",
+  "uid": "4157ff37-0512-4bc1-b073-dd7c751b96bb",
+  "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+  "title": "Ein Glas Wasser",
+  "subtitle": "oder Ursachen und Wirkungen ",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-01-24T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a8e1",
+      "additional": "1901-1949",
+      "firstName": "Nora",
+      "lastName": "Gregor",
+      "role": "Königin Anna von England",
+      "fullName": "Nora Gregor"
+    },
+    {
+      "_id": "6504166ba47588ad6024a4ec",
+      "additional": "1874-1980",
+      "firstName": "Rosa",
+      "lastName": "Albach-Retty",
+      "role": "Herzogin von Marlborough, ihre Vertraute",
+      "fullName": "Rosa Albach-Retty"
+    },
+    {
+      "_id": "6504166ba47588ad6024a543",
+      "additional": "1886-1958",
+      "firstName": "Raoul",
+      "lastName": "Aslan",
+      "role": "Henry Saint-John, Viscount von Bolingbroke",
+      "fullName": "Raoul Aslan"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "Masham, Fähnrich im Garderegimente",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Abigail, eine Cousine der Herzogin",
+      "fullName": "Maria Kramer"
+    },
+    {
+      "_id": "6570bef400806585023dc09a",
+      "firstName": "Karl",
+      "lastName": "Friedl",
+      "additional": "1895-1970",
+      "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+      "fullName": "Karl Friedl"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa8a",
+      "additional": "1881-1959",
+      "firstName": "Julius",
+      "lastName": "Karsten",
+      "role": "Thompson, Türsteher der Königin",
+      "fullName": "Julius Karsten"
+    },
+    {
+      "_id": "6504166ba47588ad6024a621",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Blum",
+      "role": "Ein Mitglied des Parlaments",
+      "fullName": "Fritz Blum"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad67",
+      "additional": "",
+      "firstName": "Armand",
+      "lastName": "Ozory",
+      "role": "Ein Beamter des Palastes",
+      "fullName": "Armand Ozory"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b31a",
+      "additional": "",
+      "firstName": "Alexander",
+      "lastName": "Cosmar",
+      "fullName": "Alexander Cosmar",
+      "role": "Deutsch"
+    },
+    {
+      "_id": "658dbef351cd38b410f55fdb",
+      "firstName": "Hermann",
+      "lastName": "Röbbeling",
+      "additional": "",
+      "fullName": "Hermann Röbbeling",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Kostüme"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b566",
+      "additional": "",
+      "firstName": "Augustin Eugène",
+      "lastName": "Scribe",
+      "fullName": "Augustin Eugène Scribe"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-24.jpg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-24_00000002.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c1ed3ced60fbe229fdc",
+      "uid": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neuinszenierung",
+      "count": "42",
+      "date": "1936-01-10T12:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Laika",
+          "fullName": "Alois Krischke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0576.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-01-10.jpg"
+      ],
+      "comment": "42 Aufführungen, davon 14 im Akademietheater, dazu Gastspiele: 1 in Salzburg 19.5.1936 und 1 in Pressburg 05.9.1938"
+    },
+    {
+      "_id": "66a29f5e6af2b0e29f8cb45f",
+      "uid": "36bcd20a-ee65-45fe-8168-8145840bd880",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-01-12T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna von England",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "Laika",
+          "fullName": "Alois Krischke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-01-12.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-01-12_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2a1566af2b0e29f8cdb33",
+      "uid": "e2822dae-9a0e-46a3-8ea1-699c142673e3",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-01-19T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna von England",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-01-19.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-01-19_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2a3da6af2b0e29f8d0ff9",
+      "uid": "643bfc5b-0575-4d46-8555-cce582325f60",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-01-25T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna von England",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-01-25.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-01-25_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a271296af2b0e29f890771",
+      "uid": "fe727c2e-66da-4db0-8ec3-26ac429ec8c4",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-01-30T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-01-30.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a271ff6af2b0e29f8919db",
+      "uid": "27ea5f32-9853-4176-a184-523330ed6471",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-01-31T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-01-31.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2728d6af2b0e29f8925fd",
+      "uid": "324ea8e2-8b30-446b-ba17-cc7f057a252b",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-02-01T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-01.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a272bf6af2b0e29f892b14",
+      "uid": "9412875b-f636-4a23-97dd-e85e333334d8",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-02-03T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-03.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2735d6af2b0e29f8939fa",
+      "uid": "d4bbe051-235d-463b-9f0c-d51e3d3c7f05",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-02-05T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-05.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2737f6af2b0e29f893d6e",
+      "uid": "1b068ce8-18fd-4910-bc21-5fcb77da0ebc",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-02-06T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-06.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2a7f26af2b0e29f8d6345",
+      "uid": "fb0e6578-7fb6-45e6-955f-f793e2e7def6",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-02-09T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-09.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-09_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a274736af2b0e29f895178",
+      "uid": "df380fe0-2952-447f-b8f1-aaf8177516cf",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-02-10T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-10.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a275666af2b0e29f896900",
+      "uid": "8590cd62-c0b1-4834-8e2b-2fc7c7b407c2",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-02-15T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-15.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a276246af2b0e29f897a5c",
+      "uid": "4593687f-b3b2-45e7-be70-8c40f09194db",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-02-18T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-18.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2a9a26af2b0e29f8d8663",
+      "uid": "3812aa79-e4a0-42be-8b32-2ff41f369eeb",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-02-22T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Königin Anna von England",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-22.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-22_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2ad986af2b0e29f8dd854",
+      "uid": "11547053-1070-4114-9515-e01997fbeaa6",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-03-08T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna von England",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-08.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-08_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2af5f6af2b0e29f8dff30",
+      "uid": "305eb074-e391-462b-b6a8-efb28167edf8",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-03-14T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna von England",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-14.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2afe86af2b0e29f8e0ac0",
+      "uid": "59430f6f-f9e8-45b6-9ca5-b0f9ecf1bedd",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-03-17T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna von England",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-17.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2b85f6af2b0e29f8eb4bf",
+      "uid": "3a61d26b-bdd3-44dd-82d8-8853014f647a",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-03-29T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna von England",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-29.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-29_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2c9796af2b0e29f9008f1",
+      "uid": "f3292c23-b107-4fe2-bd85-96de17c7c46d",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-04-12T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna von England",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-04-12.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-04-12_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2cc366af2b0e29f9044d3",
+      "uid": "2ccae8d1-710c-4388-a242-502e6b7e370c",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-04-19T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna von England",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-04-19.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-04-19_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a36b5c6af2b0e29f9c673d",
+      "uid": "82985985-5210-49c7-8abd-72db09c47f55",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-05-03T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Königin Anna von England",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-05-03.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-05-03_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a36d776af2b0e29f9c935f",
+      "uid": "d4389830-2209-409b-a6a3-3372a04da1d4",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-05-10T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna von England",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-05-10.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-05-10_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a234aa6af2b0e29f840030",
+      "uid": "83234d69-4f66-440c-93d8-57b390679edb",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-05T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Königin Anna",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000198.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2379c6af2b0e29f843ebe",
+      "uid": "9e0fe037-8e71-45df-9607-8e03a19cde81",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-08T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Königin Anna",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000201.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a23a406af2b0e29f8478dc",
+      "uid": "5ccfc171-1b55-427b-98f4-93615ca1ae35",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-11T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Königin Anna",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000204.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a23bd16af2b0e29f849ad4",
+      "uid": "ba64d410-077d-441b-b66a-026e6256aed5",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-13T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Königin Anna",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000207.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a241526af2b0e29f8514b6",
+      "uid": "81ef5646-2483-4a9c-8038-b7c70d79b458",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-21T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Königin Anna",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000216.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3a25a6af2b0e29fa0fb0b",
+      "uid": "9eb2755d-1dc7-408d-93f7-c2b2c97f0cb8",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-10-11T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Königin Anna",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-10-11.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-10-11_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d3c26af2b0e29fb883d3",
+      "uid": "0b5be8f7-7789-4b02-921b-4c402fe4723e",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-12-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna von England",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-20.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-12-20_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5026d6af2b0e29fbc668a",
+      "uid": "4157ff37-0512-4bc1-b073-dd7c751b96bb",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-24T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Königin Anna von England",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV.",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Ein Mitglied des Parlaments",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Ein Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-24.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-01-24_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682900a4801253dbd59afba",
+      "uid": "d84cb361-d3aa-42f2-8dfd-02d8324d1758",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-05-26T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9aef",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Holst",
+          "role": "Königin Anna von England",
+          "fullName": "Maria Holst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000134.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668292424801253dbd59df07",
+      "uid": "c30b5f22-25d6-4309-a99a-b0bc2dd0cc50",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-05-31T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9aef",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Holst",
+          "role": "Königin Anna von England",
+          "fullName": "Maria Holst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000138.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668298544801253dbd5a5b73",
+      "uid": "6733b653-d1a5-4112-8f3f-864b6ff6e859",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-06-08T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9aef",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Holst",
+          "role": "Königin Anna von England",
+          "fullName": "Maria Holst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000145.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66829a1a4801253dbd5a811b",
+      "uid": "18c89b8b-b488-45ee-9318-c3f42f564649",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-06-11T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9aef",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Holst",
+          "role": "Königin Anna von England",
+          "fullName": "Maria Holst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000148.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66829b134801253dbd5a96b7",
+      "uid": "f73a204f-437a-41b3-9780-3ef5e07aef25",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-06-14T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9aef",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Holst",
+          "role": "Königin Anna von England",
+          "fullName": "Maria Holst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000151.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66829e204801253dbd5ad97a",
+      "uid": "1661f9c6-663a-4493-b446-fadc5fc9d863",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-06-18T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9aef",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Holst",
+          "role": "Königin Anna von England",
+          "fullName": "Maria Holst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000155.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66829f124801253dbd5aef8b",
+      "uid": "3efb217e-a6a4-4210-bbc3-e981ad224435",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-06-25T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9aef",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Holst",
+          "role": "Königin Anna von England",
+          "fullName": "Maria Holst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000159.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66829fbc4801253dbd5afd81",
+      "uid": "25b127b9-8107-4a4a-8657-63d6d3667b81",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-06-26T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9aef",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Holst",
+          "role": "Königin Anna von England",
+          "fullName": "Maria Holst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000160.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668428604801253dbd7a2f86",
+      "uid": "a96fd255-16e8-4738-b987-d1361dce9ea3",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-09-05T11:00:00.000Z",
+      "season": "1938/1939",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9aef",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Holst",
+          "role": "Königin Anna von England",
+          "fullName": "Maria Holst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000221.jpg"
+      ],
+      "comment": "Eröffnungsvorstellung\nGastspiel des Burgtheaters"
+    },
+    {
+      "_id": "668576c04801253dbd94bebb",
+      "uid": "a97fb2b6-0193-458f-be53-1978c54d3241",
+      "productionId": "4e792cd5-5f88-4c18-8d96-20827d28eb2b",
+      "title": "Ein Glas Wasser",
+      "subtitle": "oder Ursachen und Wirkungen ",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1939-03-05T11:00:00.000Z",
+      "season": "1938/1939",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9aef",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Holst",
+          "role": "Königin Anna von England",
+          "fullName": "Maria Holst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Herzogin von Marlborough, ihre Vertraute",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Henry Saint-John, Viscount von Bolingbroke",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Masham, Fähnrich im Garderegimente",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Abigail, eine Cousine der Herzogin",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Marquis von Torcy, Gesandter Ludwigs XIV",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Thompson, Türsteher der Königin",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Mitglied des Parlaments",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Beamter des Palastes",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b31a",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Cosmar",
+          "fullName": "Alexander Cosmar",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b566",
+          "additional": "",
+          "firstName": "Augustin Eugène",
+          "lastName": "Scribe",
+          "fullName": "Augustin Eugène Scribe"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1939/00000039.jpg"
+      ],
+      "comment": "Nachmittags 16 Uhr"
+    }
+  ]
+}

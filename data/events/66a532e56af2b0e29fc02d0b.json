@@ -1,0 +1,1550 @@
+{
+  "_id": "66a532e56af2b0e29fc02d0b",
+  "uid": "8f68fd44-6f43-4d5c-a76f-859dddce54b5",
+  "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+  "title": "Gyges und sein Ring",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-04-02T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ab36",
+      "additional": "1884-1959",
+      "firstName": "Werner",
+      "lastName": "Krauss (Krauß)",
+      "role": "Kandaules",
+      "fullName": "Werner Krauss (Krauß)"
+    },
+    {
+      "_id": "6504166ba47588ad6024b069",
+      "additional": "",
+      "firstName": "Lilly",
+      "lastName": "Stepanek",
+      "role": "Rhodope",
+      "fullName": "Lilly Stepanek"
+    },
+    {
+      "_id": "6504166ba47588ad6024b237",
+      "additional": "1901-1970",
+      "firstName": "Heinz",
+      "lastName": "Woester",
+      "role": "Gyges",
+      "fullName": "Heinz Woester"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab9e",
+      "additional": "",
+      "firstName": "Inge",
+      "lastName": "Leddihn",
+      "role": "Hero",
+      "fullName": "Inge Leddihn"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad65",
+      "additional": "1928-1953",
+      "firstName": "Elisabeth",
+      "lastName": "Ortner-Kallina (Kallina)",
+      "role": "Lesbia",
+      "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa8a",
+      "additional": "1881-1959",
+      "firstName": "Julius",
+      "lastName": "Karsten",
+      "role": "Karna",
+      "fullName": "Julius Karsten"
+    },
+    {
+      "_id": "6504166ba47588ad6024afe7",
+      "additional": "1872-1953",
+      "firstName": "Hans",
+      "lastName": "Siebert",
+      "role": "Thoas",
+      "fullName": "Hans Siebert"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024aed1",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Salmhofer",
+      "fullName": "Franz Salmhofer",
+      "role": "Musik"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae8d",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Rosenthal",
+      "fullName": "Friedrich Rosenthal",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Kostüme"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b3e6",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Hebbel",
+      "fullName": "Friedrich Hebbel"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-02.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c28d3ced60fbe22c358",
+      "uid": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "title": "Gyges und sein Ring",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neuinszenierung",
+      "count": "12",
+      "date": "1936-06-17T12:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kandaules",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Rhodope",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Gyges",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Hero",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Lesbia",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Karna",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Thoas",
+          "fullName": "Hans Siebert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e6",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Hebbel",
+          "fullName": "Friedrich Hebbel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0580.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-06-17.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38b676af2b0e29f9f0b6b",
+      "uid": "56eda727-bb27-47bf-b794-53055f405eee",
+      "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "title": "Gyges und sein Ring",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-06-20T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kandaules",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Rhodope",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Gyges",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Hero",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Lesbia",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Karna",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Thoas",
+          "fullName": "Hans Siebert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e6",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Hebbel",
+          "fullName": "Friedrich Hebbel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-06-20.jpg"
+      ],
+      "comment": "Stepanek Lilli als Gast."
+    },
+    {
+      "_id": "66a38bab6af2b0e29f9f124d",
+      "uid": "430cfa68-b051-44a8-bd06-6692e50249f2",
+      "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "title": "Gyges und sein Ring",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-06-22T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kandaules",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Rhodope",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Gyges",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Hero",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Lesbia",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Karna",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Thoas",
+          "fullName": "Hans Siebert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e6",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Hebbel",
+          "fullName": "Friedrich Hebbel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-06-22.jpg"
+      ],
+      "comment": "Stepanek Lilli als Gast."
+    },
+    {
+      "_id": "66a38d236af2b0e29f9f3478",
+      "uid": "5057bff4-8427-4ae0-b1e8-a27ac4d0bea9",
+      "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "title": "Gyges und sein Ring",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-06-25T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kandaules",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Rhodope",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Gyges",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Hero",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Lesbia",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Karna",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Thoas",
+          "fullName": "Hans Siebert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e6",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Hebbel",
+          "fullName": "Friedrich Hebbel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-06-25.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38def6af2b0e29f9f462f",
+      "uid": "e14d91a3-3cbc-425b-8696-3a42a07b7d1c",
+      "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "title": "Gyges und sein Ring",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-06-28T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kandaules",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Rhodope",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Gyges",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Hero",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Lesbia",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Karna",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Thoas",
+          "fullName": "Hans Siebert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e6",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Hebbel",
+          "fullName": "Friedrich Hebbel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-06-28.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a38e8d6af2b0e29f9f53f7",
+      "uid": "ce9139b2-d497-4548-8542-e6729d147a51",
+      "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "title": "Gyges und sein Ring",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-06-30T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kandaules",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Rhodope",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Gyges",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Hero",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Lesbia",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Karna",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Thoas",
+          "fullName": "Hans Siebert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e6",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Hebbel",
+          "fullName": "Friedrich Hebbel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-06-30.jpg"
+      ],
+      "comment": "Stepanek Lilli als Gast."
+    },
+    {
+      "_id": "66a392546af2b0e29f9fa952",
+      "uid": "eadc01aa-3709-4ca6-88ea-f0bfa24f91e3",
+      "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "title": "Gyges und sein Ring",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kandaules",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Rhodope",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Gyges",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Hero",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Lesbia",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Karna",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Thoas",
+          "fullName": "Hans Siebert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e6",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Hebbel",
+          "fullName": "Friedrich Hebbel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-09-04.jpg"
+      ],
+      "comment": "Stepanek Lilli als Gast."
+    },
+    {
+      "_id": "66a393036af2b0e29f9fba83",
+      "uid": "3f0d41dd-19df-4c67-9276-deb738288cea",
+      "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "title": "Gyges und sein Ring",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-09-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kandaules",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Rhodope",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Gyges",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Hero",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Lesbia",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Karna",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Thoas",
+          "fullName": "Hans Siebert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e6",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Hebbel",
+          "fullName": "Friedrich Hebbel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-09-16.jpg"
+      ],
+      "comment": "Stepanek Lilli als Gast."
+    },
+    {
+      "_id": "66a532e56af2b0e29fc02d0b",
+      "uid": "8f68fd44-6f43-4d5c-a76f-859dddce54b5",
+      "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "title": "Gyges und sein Ring",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kandaules",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Rhodope",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Gyges",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Hero",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Lesbia",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Karna",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Thoas",
+          "fullName": "Hans Siebert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e6",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Hebbel",
+          "fullName": "Friedrich Hebbel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-02.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a533086af2b0e29fc03072",
+      "uid": "4ea2ab5f-fb8f-4b75-be00-ec6bf55bd383",
+      "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "title": "Gyges und sein Ring",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-05T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kandaules",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Rhodope",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Gyges",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Hero",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Lesbia",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Karna",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Thoas",
+          "fullName": "Hans Siebert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e6",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Hebbel",
+          "fullName": "Friedrich Hebbel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-05.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a554d86af2b0e29fc2fcd7",
+      "uid": "926becc1-4527-483f-b7a5-1dceed85e6cf",
+      "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "title": "Gyges und sein Ring",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-21T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kandaules",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Rhodope",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Gyges",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Hero",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Lesbia",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Karna",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Thoas",
+          "fullName": "Hans Siebert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e6",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Hebbel",
+          "fullName": "Friedrich Hebbel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-21.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6683c3ab4801253dbd71c884",
+      "uid": "26295386-1d23-491f-894c-19350d3db3da",
+      "productionId": "b9f4beec-3686-4c64-8c22-069c6f69f7e4",
+      "title": "Gyges und sein Ring",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-03-10T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kandaules",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Rhodope",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Gyges",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Hero",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Lesbia",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Karna",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Thoas",
+          "fullName": "Hans Siebert"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e6",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Hebbel",
+          "fullName": "Friedrich Hebbel"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000090.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

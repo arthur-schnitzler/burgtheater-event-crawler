@@ -1,0 +1,447 @@
+{
+  "_id": "66a34af86af2b0e29f99d168",
+  "uid": "f64c931b-c4fe-440b-b19b-35eb21932b64",
+  "productionId": "ed777fdf-6247-4fc3-8f98-0c52af6de133",
+  "title": "Der Fuchs geht um",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-01-05T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ac5d",
+      "additional": "1876-1949",
+      "firstName": "Hans",
+      "lastName": "Marr",
+      "role": "Prof. Brun",
+      "fullName": "Hans Marr"
+    },
+    {
+      "_id": "6504166ba47588ad6024a989",
+      "additional": "",
+      "firstName": "Ernst",
+      "lastName": "Haeusserman",
+      "role": "Thomas Brun",
+      "fullName": "Ernst Haeusserman"
+    },
+    {
+      "_id": "6568ee8c0080658502207fed",
+      "firstName": "Franz",
+      "lastName": "Höbling",
+      "additional": "1886-1965",
+      "role": "Dr. Hafner",
+      "fullName": "Franz Höbling"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae22",
+      "additional": "1886-1970",
+      "firstName": "Emmerich",
+      "lastName": "Reimers",
+      "role": "Dotsch",
+      "fullName": "Emmerich Reimers"
+    },
+    {
+      "_id": "6504166ba47588ad6024a543",
+      "additional": "1886-1958",
+      "firstName": "Raoul",
+      "lastName": "Aslan",
+      "role": "Von Benninghof",
+      "fullName": "Raoul Aslan"
+    },
+    {
+      "_id": "6504166ba47588ad6024a8e1",
+      "additional": "1901-1949",
+      "firstName": "Nora",
+      "lastName": "Gregor",
+      "role": "Portia",
+      "fullName": "Nora Gregor"
+    },
+    {
+      "_id": "6504166ba47588ad6024a8a8",
+      "additional": "1893-1952",
+      "firstName": "Blanka",
+      "lastName": "Glossy",
+      "role": "Frau Niederhuber",
+      "fullName": "Blanka Glossy"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0cd",
+      "additional": "",
+      "firstName": "Wolfgang",
+      "lastName": "Thaller",
+      "role": "Franz Niederhuber",
+      "fullName": "Wolfgang Thaller"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b251",
+      "additional": "1896-1977",
+      "firstName": "Philipp",
+      "lastName": "Zeska",
+      "fullName": "Philipp Zeska",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024add3",
+      "additional": "",
+      "firstName": "Emil",
+      "lastName": "Pirchan",
+      "fullName": "Emil Pirchan",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b564",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Schwiefert",
+      "fullName": "Fritz Schwiefert"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000007.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c2fd3ced60fbe22ddf8",
+      "uid": "ed777fdf-6247-4fc3-8f98-0c52af6de133",
+      "productionId": "ed777fdf-6247-4fc3-8f98-0c52af6de133",
+      "title": "Der Fuchs geht um",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "3",
+      "date": "1936-12-31T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Prof. Brun",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Thomas Brun",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Dr. Hafner",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Dotsch",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Von Benninghof",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Portia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau Niederhuber",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Franz Niederhuber",
+          "fullName": "Wolfgang Thaller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b564",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Schwiefert",
+          "fullName": "Fritz Schwiefert"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0583.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000328.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a34a256af2b0e29f99bf50",
+      "uid": "01239db5-9231-424b-b773-9889d12b8399",
+      "productionId": "ed777fdf-6247-4fc3-8f98-0c52af6de133",
+      "title": "Der Fuchs geht um",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Prof. Brun",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Thomas Brun",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Dr. Hafner",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Dotsch",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Von Benninghof",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Portia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau Niederhuber",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Franz Niederhuber",
+          "fullName": "Wolfgang Thaller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b564",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Schwiefert",
+          "fullName": "Fritz Schwiefert"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000003.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a34af86af2b0e29f99d168",
+      "uid": "f64c931b-c4fe-440b-b19b-35eb21932b64",
+      "productionId": "ed777fdf-6247-4fc3-8f98-0c52af6de133",
+      "title": "Der Fuchs geht um",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-01-05T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Prof. Brun",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Thomas Brun",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Dr. Hafner",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Dotsch",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Von Benninghof",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Portia",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Niederhuber",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cd",
+          "additional": "",
+          "firstName": "Wolfgang",
+          "lastName": "Thaller",
+          "role": "Franz Niederhuber",
+          "fullName": "Wolfgang Thaller"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b564",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Schwiefert",
+          "fullName": "Fritz Schwiefert"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000007.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

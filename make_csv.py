@@ -16,3 +16,15 @@ items = data.values()
 df = pd.DataFrame(items)
 df["occupation"] = "Schauspieler"
 df.to_csv(output_csv, index=False)
+
+
+input_json = os.path.join(data, "events.json")
+output_csv = os.path.join(data, "events.csv")
+
+with open(input_json, "r", encoding="utf-8") as fp:
+    data = json.load(fp)
+
+items = data.values()
+
+df = pd.DataFrame(items)
+df.to_csv(output_csv, index=False)

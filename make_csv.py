@@ -15,6 +15,7 @@ items = data.values()
 
 df = pd.DataFrame(items)
 df["occupation"] = "Schauspieler"
+df = df.sort_values("lastName", ascending=True)
 df.to_csv(output_csv, index=False)
 
 
